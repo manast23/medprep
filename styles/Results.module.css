@@ -1,0 +1,98 @@
+.main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.topRow {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  padding-bottom: 2rem;
+  border-bottom: 0.5px solid var(--border);
+  margin-bottom: 2rem;
+}
+
+.scoreBlock { text-align: center; }
+.scorePct { font-size: 64px; font-weight: 500; color: var(--green); line-height: 1; }
+.scoreLabel { font-size: 13px; color: var(--text-muted); margin-top: 6px; }
+
+.scoreMsg { font-size: 18px; font-weight: 500; color: var(--text); margin-bottom: 16px; }
+
+.statsRow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.stat {
+  background: var(--white);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px;
+}
+
+.statN { font-size: 22px; font-weight: 500; }
+.statL { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-top: 3px; }
+
+.sectionLabel {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.breakdownGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 2rem;
+}
+
+.breakdownCard {
+  background: var(--white);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+}
+
+.bcTopic { font-size: 13px; font-weight: 500; color: var(--text); margin-bottom: 10px; }
+
+.bcBarTrack { height: 5px; background: var(--border); border-radius: 3px; margin-bottom: 6px; }
+.bcBarFill { height: 5px; border-radius: 3px; transition: width 0.4s; }
+
+.bcRow { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-muted); }
+
+.actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  max-width: 500px;
+}
+
+.primaryBtn {
+  background: var(--green);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius);
+  padding: 13px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background 0.15s;
+}
+.primaryBtn:hover { background: var(--green-dark); }
+
+.outlineBtn {
+  background: var(--white);
+  color: var(--text);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 13px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background 0.1s;
+}
+.outlineBtn:hover { background: var(--bg); }
