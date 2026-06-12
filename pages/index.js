@@ -24,8 +24,8 @@ export default function Home() {
       <Navbar />
       <main className={styles.main}>
         <div className={styles.left}>
-          <div className={styles.heroTag}>International medical students</div>
-          <h1 className={styles.heroH1}>MCQ practice for international medical students</h1>
+          <div className={styles.heroTag}>Medical MCQ practice</div>
+          <h1 className={styles.heroH1}>MCQ practice for medical students</h1>
           <p className={styles.heroSub}>
             Clinical scenario-based questions with full textbook explanations.
             No past papers needed — just structured, exam-style practice.
@@ -114,7 +114,7 @@ export default function Home() {
             <div className={styles.sideTitle}>Why trust this?</div>
             <div className={styles.trustRow}>
               <span className={styles.trustIcon}>✓</span>
-              <span>Built by an international graduate who studied in China</span>
+              <span>Built by a medical graduate who understands the struggle</span>
             </div>
             <div className={styles.trustRow}>
               <span className={styles.trustIcon}>✓</span>
