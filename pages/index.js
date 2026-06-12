@@ -25,7 +25,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.left}>
           <div className={styles.heroTag}>International medical students</div>
-          <h1 className={styles.heroH1}>MCQ practice built for students studying in China and Russia</h1>
+          <h1 className={styles.heroH1}>MCQ practice for international medical students</h1>
           <p className={styles.heroSub}>
             Clinical scenario-based questions with full textbook explanations.
             No past papers needed — just structured, exam-style practice.
