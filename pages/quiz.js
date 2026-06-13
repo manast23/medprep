@@ -6,7 +6,7 @@ import styles from '../styles/Quiz.module.css'
 
 export default function Quiz() {
   const router = useRouter()
-  const { subject, mode, count } = router.query
+  const { subject, subtopic, qtype, mode, count } = router.query
 
   const [questions, setQuestions] = useState([])
   const [current, setCurrent] = useState(0)
@@ -18,29 +18,27 @@ export default function Quiz() {
 
   useEffect(() => {
     if (!subject) return
-    let pool = subject === 'All' ? allQuestions : allQuestions.filter(q => q.subject === subject)
+    let pool = allQuestions
+    if (subject !== 'All') pool = pool.filter(q => q.subject === subject)
+    if (subtopic && subtopic !== 'All') pool = pool.filter(q => q.subtopic === subtopic)
+    if (qtype && qtype !== 'All') pool = pool.filter(q => q.type === qtype)
     pool = [...pool].sort(() => Math.random() - 0.5).slice(0, parseInt(count) || 10)
     setQuestions(pool)
-  }, [subject, count])
+  }, [subject, subtopic, qtype, count])
 
   useEffect(() => {
     if (mode !== 'timed' || submitted || !questions.length) return
-    if (timer <= 0) {
-      handleSubmit(true)
-      return
-    }
+    if (timer <= 0) { handleSubmit(true); return }
     const t = setTimeout(() => setTimer(t => t - 1), 1000)
     return () => clearTimeout(t)
   }, [timer, mode, submitted, questions])
 
-  useEffect(() => {
-    setTimer(90)
-  }, [current])
+  useEffect(() => { setTimer(90) }, [current])
 
   if (!questions.length) return <div><Navbar /><div className={styles.loading}>Loading questions...</div></div>
 
   const q = questions[current]
-  const progress = ((current) / questions.length) * 100
+  const progress = (current / questions.length) * 100
 
   function handleSelect(i) {
     if (submitted) return
@@ -52,7 +50,7 @@ export default function Quiz() {
     setSubmitted(true)
     const isCorrect = selected === q.correct
     if (isCorrect) setScore(s => s + 1)
-    setAnswers(a => [...a, { questionId: q.id, topic: q.topic, correct: isCorrect }])
+    setAnswers(a => [...a, { questionId: q.id, topic: q.topic, subtopic: q.subtopic, correct: isCorrect }])
   }
 
   function handleNext() {
@@ -62,9 +60,13 @@ export default function Quiz() {
       setSubmitted(false)
     } else {
       const finalAnswers = [...answers]
+      const finalScore = score + (selected === q.correct ? 1 : 0)
       const params = new URLSearchParams({
         subject,
-        score: score + (selected === q.correct ? 1 : 0),
+        subtopic: subtopic || 'All',
+        qtype: qtype || 'All',
+        mode: mode || 'untimed',
+        score: finalScore,
         total: questions.length,
         answers: JSON.stringify(finalAnswers)
       })
@@ -79,10 +81,16 @@ export default function Quiz() {
     return styles.opt
   }
 
+  const navLabel = [
+    q.subject,
+    q.subtopic && q.subtopic !== q.subject ? q.subtopic : null,
+    q.type === 'clinical' ? 'Clinical' : q.type === 'factual' ? 'Factual' : null
+  ].filter(Boolean).join(' · ')
+
   return (
     <div>
       <Navbar
-        centerText={`${q.subject} · ${q.topic}`}
+        centerText={navLabel}
         rightText={`Q${current + 1} of ${questions.length}`}
       />
       <div className={styles.progressBar}>
