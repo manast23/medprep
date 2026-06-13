@@ -4,7 +4,7 @@ import styles from '../styles/Results.module.css'
 
 export default function Results() {
   const router = useRouter()
-  const { subject, score, total, answers } = router.query
+  const { subject, subtopic, qtype, mode, score, total, answers } = router.query
 
   if (!score) return <div><Navbar /><div style={{padding:'2rem',color:'#6b6b6b'}}>Loading...</div></div>
 
@@ -14,14 +14,31 @@ export default function Results() {
   let parsedAnswers = []
   try { parsedAnswers = JSON.parse(answers || '[]') } catch {}
 
-  // Build topic breakdown
   const topicMap = {}
   parsedAnswers.forEach(a => {
-    if (!topicMap[a.topic]) topicMap[a.topic] = { correct: 0, total: 0 }
-    topicMap[a.topic].total++
-    if (a.correct) topicMap[a.topic].correct++
+    const key = a.subtopic || a.topic
+    if (!topicMap[key]) topicMap[key] = { correct: 0, total: 0 }
+    topicMap[key].total++
+    if (a.correct) topicMap[key].correct++
   })
   const topics = Object.entries(topicMap)
+
+  const filterLabel = [
+    subject,
+    subtopic && subtopic !== 'All' ? subtopic : null,
+    qtype && qtype !== 'All' ? (qtype === 'clinical' ? 'Clinical' : 'Factual') : null
+  ].filter(Boolean).join(' · ')
+
+  function tryAgain() {
+    const params = new URLSearchParams({
+      subject,
+      subtopic: subtopic || 'All',
+      qtype: qtype || 'All',
+      mode: mode || 'untimed',
+      count: total
+    })
+    router.push(`/quiz?${params.toString()}`)
+  }
 
   return (
     <div>
@@ -30,7 +47,7 @@ export default function Results() {
         <div className={styles.topRow}>
           <div className={styles.scoreBlock}>
             <div className={styles.scorePct}>{pct}%</div>
-            <div className={styles.scoreLabel}>{subject} · {total} questions</div>
+            <div className={styles.scoreLabel}>{filterLabel} · {total} questions</div>
           </div>
           <div className={styles.scoreDetails}>
             <div className={styles.scoreMsg}>{msg}</div>
@@ -84,7 +101,7 @@ export default function Results() {
         )}
 
         <div className={styles.actions}>
-          <button className={styles.primaryBtn} onClick={() => router.push(`/quiz?subject=${subject}&mode=untimed&count=${total}`)}>
+          <button className={styles.primaryBtn} onClick={tryAgain}>
             Try again
           </button>
           <button className={styles.outlineBtn} onClick={() => router.push('/')}>
