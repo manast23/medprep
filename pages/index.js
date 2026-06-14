@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useRouter } from 'next/router'
 import Navbar from '../components/Navbar'
 import questions from '../data/questions.json'
@@ -23,10 +23,10 @@ export default function Home() {
   const [qtype, setQtype] = useState('All')
   const [mode, setMode] = useState('untimed')
   const [count, setCount] = useState(20)
+  const subtopicRef = useRef(null)
 
   const total = questions.length
 
-  // Get subtopics for selected subject
   const subtopics = subject && subject !== 'All'
     ? ['All', ...Array.from(new Set(
         questions
@@ -35,10 +35,16 @@ export default function Home() {
       ))]
     : []
 
-  // Reset subtopic when subject changes
-  useEffect(() => { setSubtopic('All') }, [subject])
+  useEffect(() => {
+    setSubtopic('All')
+    // Scroll to subtopic section after subject is selected
+    if (subject && subject !== 'All' && subtopicRef.current) {
+      setTimeout(() => {
+        subtopicRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      }, 50)
+    }
+  }, [subject])
 
-  // Count available questions for current filters
   const availableCount = questions.filter(q => {
     if (subject && subject !== 'All' && q.subject !== subject) return false
     if (subtopic && subtopic !== 'All' && q.subtopic !== subtopic) return false
@@ -113,9 +119,9 @@ export default function Home() {
             ))}
           </div>
 
-          {/* Subtopic — only shown when a specific subject is selected */}
+          {/* Subtopic */}
           {subtopics.length > 1 && (
-            <>
+            <div ref={subtopicRef}>
               <div className={styles.sectionLabel} style={{ marginTop: '20px' }}>Choose a subtopic</div>
               <div className={styles.subjectList}>
                 {subtopics.map(st => {
@@ -136,7 +142,7 @@ export default function Home() {
                   )
                 })}
               </div>
-            </>
+            </div>
           )}
 
           {/* Question type */}
