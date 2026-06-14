@@ -15,6 +15,7 @@ export default function Quiz() {
   const [score, setScore] = useState(0)
   const [timer, setTimer] = useState(90)
   const [answers, setAnswers] = useState([])
+  const [showConfirm, setShowConfirm] = useState(null) // 'cancel' | 'restart'
 
   useEffect(() => {
     if (!subject) return
@@ -59,19 +60,31 @@ export default function Quiz() {
       setSelected(null)
       setSubmitted(false)
     } else {
-      const finalAnswers = [...answers]
       const finalScore = score + (selected === q.correct ? 1 : 0)
       const params = new URLSearchParams({
-        subject,
-        subtopic: subtopic || 'All',
-        qtype: qtype || 'All',
-        mode: mode || 'untimed',
-        score: finalScore,
-        total: questions.length,
-        answers: JSON.stringify(finalAnswers)
+        subject, subtopic: subtopic || 'All', qtype: qtype || 'All',
+        mode: mode || 'untimed', score: finalScore,
+        total: questions.length, answers: JSON.stringify(answers)
       })
       router.push(`/results?${params.toString()}`)
     }
+  }
+
+  function handleRestart() {
+    setCurrent(0)
+    setSelected(null)
+    setSubmitted(false)
+    setScore(0)
+    setTimer(90)
+    setAnswers([])
+    setShowConfirm(null)
+    // Re-shuffle questions
+    let pool = allQuestions
+    if (subject !== 'All') pool = pool.filter(q => q.subject === subject)
+    if (subtopic && subtopic !== 'All') pool = pool.filter(q => q.subtopic === subtopic)
+    if (qtype && qtype !== 'All') pool = pool.filter(q => q.type === qtype)
+    pool = [...pool].sort(() => Math.random() - 0.5).slice(0, parseInt(count) || 10)
+    setQuestions(pool)
   }
 
   const optionClass = (i) => {
@@ -92,10 +105,39 @@ export default function Quiz() {
       <Navbar
         centerText={navLabel}
         rightText={`Q${current + 1} of ${questions.length}`}
+        onCancel={() => setShowConfirm('cancel')}
+        onRestart={() => setShowConfirm('restart')}
       />
       <div className={styles.progressBar}>
         <div className={styles.progressFill} style={{ width: `${progress}%` }} />
       </div>
+
+      {/* Confirm dialog */}
+      {showConfirm && (
+        <div className={styles.overlay}>
+          <div className={styles.confirmBox}>
+            <div className={styles.confirmTitle}>
+              {showConfirm === 'cancel' ? 'Cancel quiz?' : 'Restart quiz?'}
+            </div>
+            <div className={styles.confirmDesc}>
+              {showConfirm === 'cancel'
+                ? 'Your progress will be lost and you\'ll return to the home screen.'
+                : 'This will reset your progress and shuffle new questions.'}
+            </div>
+            <div className={styles.confirmActions}>
+              <button className={styles.confirmSecondary} onClick={() => setShowConfirm(null)}>
+                Keep going
+              </button>
+              <button
+                className={styles.confirmPrimary}
+                onClick={showConfirm === 'cancel' ? () => router.push('/') : handleRestart}
+              >
+                {showConfirm === 'cancel' ? 'Yes, cancel' : 'Yes, restart'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       <main className={styles.main}>
         <div className={styles.left}>
