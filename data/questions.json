@@ -5,11 +5,17 @@
     "topic": "Brachial Plexus",
     "subtopic": "Upper Limb",
     "type": "clinical",
-    "question": "A 28-year-old motorcyclist is brought to the emergency department after a road traffic accident. He has weakness in shoulder abduction and elbow flexion, with the arm hanging limply at his side in adduction and the forearm pronated — the classic 'waiter's tip' posture. Sensation is lost over the lateral forearm. Which nerve roots are most likely injured?",
-    "options": ["C5 and C6", "C7 and C8", "C8 and T1", "C5, C6, and C7", "C6, C7, and C8"],
+    "question": "A 28-year-old motorcyclist is brought to the emergency department after a road traffic accident. He has weakness in shoulder abduction and elbow flexion, with the arm hanging limply at his side in adduction and the forearm pronated \u2014 the classic 'waiter's tip' posture. Sensation is lost over the lateral forearm. Which nerve roots are most likely injured?",
+    "options": [
+      "C5 and C6",
+      "C7 and C8",
+      "C8 and T1",
+      "C5, C6, and C7",
+      "C6, C7, and C8"
+    ],
     "correct": 0,
-    "explanation": "This is Erb's palsy — an upper brachial plexus injury at C5 and C6. The deltoid, biceps, and brachioradialis are paralysed, producing the characteristic posture. Lateral forearm sensation is carried by the musculocutaneous nerve (C5–C6). Lower root injuries (C8, T1) produce Klumpke's palsy with intrinsic hand weakness instead.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "explanation": "This is Erb's palsy \u2014 an upper brachial plexus injury at C5 and C6. The deltoid, biceps, and brachioradialis are paralysed, producing the characteristic posture. Lateral forearm sensation is carried by the musculocutaneous nerve (C5\u2013C6). Lower root injuries (C8, T1) produce Klumpke's palsy with intrinsic hand weakness instead.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 2,
@@ -18,10 +24,16 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A 45-year-old woman presents with nocturnal paraesthesia in the thumb, index, middle, and lateral half of the ring finger. Tinel's sign is positive at the wrist. Which muscle would most definitively demonstrate weakness confirming this diagnosis?",
-    "options": ["Flexor carpi ulnaris", "Abductor pollicis longus", "Abductor pollicis brevis", "First dorsal interosseous", "Flexor digitorum profundus"],
+    "options": [
+      "Flexor carpi ulnaris",
+      "Abductor pollicis longus",
+      "Abductor pollicis brevis",
+      "First dorsal interosseous",
+      "Flexor digitorum profundus"
+    ],
     "correct": 2,
     "explanation": "Abductor pollicis brevis (APB) is innervated exclusively by the recurrent branch of the median nerve, which exits the carpal tunnel distally. Weakness here is specific to median nerve compression at the wrist. The first dorsal interosseous is ulnar-innervated. APB testing is the most clinically reliable confirmation of carpal tunnel syndrome.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 50, Wrist and Hand"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 50, Wrist and Hand"
   },
   {
     "id": 3,
@@ -30,10 +42,16 @@
     "subtopic": "Lower Limb",
     "type": "clinical",
     "question": "During femoral artery catheterisation, a student is asked to describe the arrangement of the femoral sheath contents from lateral to medial. Which of the following is correct?",
-    "options": ["Vein, Artery, Canal", "Nerve, Artery, Vein", "Artery, Vein, Canal", "Canal, Vein, Artery", "Artery, Canal, Vein"],
+    "options": [
+      "Vein, Artery, Canal",
+      "Nerve, Artery, Vein",
+      "Artery, Vein, Canal",
+      "Canal, Vein, Artery",
+      "Artery, Canal, Vein"
+    ],
     "correct": 2,
     "explanation": "The femoral sheath has three compartments: lateral (artery), intermediate (vein), and femoral canal (medial). The femoral nerve lies lateral to the sheath but is NOT enclosed within it. The femoral canal contains lymphatics and is the site of femoral hernias, more common in females due to a wider canal.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 4,
@@ -42,10 +60,16 @@
     "subtopic": "Thorax",
     "type": "clinical",
     "question": "A 35-year-old man sustains a stab wound at the left 5th intercostal space, midclavicular line. He develops hypotension, distended neck veins, muffled heart sounds, and an enlarged cardiac silhouette on X-ray. Which structure was most directly punctured?",
-    "options": ["Left ventricle", "Pericardial sac", "Left lung", "Descending aorta", "Left main bronchus"],
+    "options": [
+      "Left ventricle",
+      "Pericardial sac",
+      "Left lung",
+      "Descending aorta",
+      "Left main bronchus"
+    ],
     "correct": 1,
     "explanation": "Beck's triad (hypotension, raised JVP, muffled heart sounds) with an enlarged cardiac silhouette indicates cardiac tamponade. The pericardium extends anteriorly from the 2nd to 6th costal cartilages, making it directly accessible at this landmark. Blood accumulates in the pericardial sac and compresses the heart.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Mediastinum"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Pericardium and Mediastinum"
   },
   {
     "id": 5,
@@ -54,10 +78,16 @@
     "subtopic": "Lower Limb",
     "type": "clinical",
     "question": "A 60-year-old man undergoes retroperitoneal lymph node dissection for testicular cancer. Postoperatively he cannot extend his knee and has numbness over the anterior and medial thigh. Which nerve was most likely injured?",
-    "options": ["Obturator nerve", "Sciatic nerve", "Lateral femoral cutaneous nerve", "Femoral nerve", "Genitofemoral nerve"],
+    "options": [
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Lateral femoral cutaneous nerve",
+      "Femoral nerve",
+      "Genitofemoral nerve"
+    ],
     "correct": 3,
-    "explanation": "The femoral nerve (L2-L4) travels through the retroperitoneal space and is vulnerable during this dissection. It innervates the quadriceps (knee extension) and supplies the anterior and medial thigh. The obturator nerve mediates adduction but does not extend the knee — the inability to extend is the key distinguishing feature.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 62, Lumbar Plexus"
+    "explanation": "The femoral nerve (L2-L4) travels through the retroperitoneal space and is vulnerable during this dissection. It innervates the quadriceps (knee extension) and supplies the anterior and medial thigh. The obturator nerve mediates adduction but does not extend the knee \u2014 the inability to extend is the key distinguishing feature.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 62, Lumbar Plexus"
   },
   {
     "id": 6,
@@ -66,10 +96,16 @@
     "subtopic": "Cardiovascular",
     "type": "clinical",
     "question": "A 55-year-old man with heart failure has a cardiac output of 3.2 L/min, HR 80 bpm, and elevated wedge pressure. A drug selectively reduces preload without affecting HR or afterload. What changes would be expected?",
-    "options": ["Increased stroke volume and increased CO", "Decreased HR and decreased CO", "Decreased EDV and decreased stroke volume", "Increased contractility and increased EF", "No change due to Frank-Starling compensation"],
+    "options": [
+      "Increased stroke volume and increased CO",
+      "Decreased HR and decreased CO",
+      "Decreased EDV and decreased stroke volume",
+      "Increased contractility and increased EF",
+      "No change due to Frank-Starling compensation"
+    ],
     "correct": 2,
     "explanation": "Preload reduction decreases venous return and end-diastolic volume (EDV). The Frank-Starling mechanism dictates that reduced EDV means shorter initial sarcomere length, producing less contractile force and a lower stroke volume. Nitrates are the classic preload-reducing agents; they reduce congestion symptoms but may worsen low-output states.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, Cardiac Output"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 9, Cardiac Output"
   },
   {
     "id": 7,
@@ -78,10 +114,16 @@
     "subtopic": "Renal",
     "type": "clinical",
     "question": "A 22-year-old woman started trimethoprim 3 days ago. Her creatinine rose from 0.8 to 1.4 mg/dL. Urinalysis is entirely normal with no casts or proteinuria. What is the most likely mechanism?",
-    "options": ["Direct glomerular toxicity reducing true GFR", "Inhibition of tubular creatinine secretion without true GFR change", "Acute interstitial nephritis from drug allergy", "Renal vasoconstriction reducing blood flow", "Tubular obstruction by crystallised drug"],
+    "options": [
+      "Direct glomerular toxicity reducing true GFR",
+      "Inhibition of tubular creatinine secretion without true GFR change",
+      "Acute interstitial nephritis from drug allergy",
+      "Renal vasoconstriction reducing blood flow",
+      "Tubular obstruction by crystallised drug"
+    ],
     "correct": 1,
-    "explanation": "Trimethoprim blocks the organic cation transporter in the proximal tubule, inhibiting tubular secretion of creatinine. This raises serum creatinine without any reduction in GFR — a pseudocreatininaemia. Cystatin C would remain unchanged, confirming preserved glomerular function. This is a well-recognised benign effect not to be confused with nephrotoxicity.",
-    "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 38, Renal Function"
+    "explanation": "Trimethoprim blocks the organic cation transporter in the proximal tubule, inhibiting tubular secretion of creatinine. This raises serum creatinine without any reduction in GFR \u2014 a pseudocreatininaemia. Cystatin C would remain unchanged, confirming preserved glomerular function. This is a well-recognised benign effect not to be confused with nephrotoxicity.",
+    "reference": "Ganong's Review of Medical Physiology, 26th ed. \u2014 Chapter 38, Renal Function"
   },
   {
     "id": 8,
@@ -90,10 +132,16 @@
     "subtopic": "Respiratory",
     "type": "clinical",
     "question": "A 68-year-old smoker with COPD presents with respiratory distress. ABG: pH 7.32, PaCO2 68 mmHg, PaO2 54 mmHg, HCO3 34 mEq/L. You initiate oxygen therapy. What is the primary risk?",
-    "options": ["Oxygen toxicity and direct lung damage", "Abolition of hypoxic drive worsening hypercapnia", "Bicarbonate excess causing metabolic alkalosis", "Haldane effect displacing CO2 from haemoglobin", "Oxygen correcting alkalosis and worsening acidosis"],
+    "options": [
+      "Oxygen toxicity and direct lung damage",
+      "Abolition of hypoxic drive worsening hypercapnia",
+      "Bicarbonate excess causing metabolic alkalosis",
+      "Haldane effect displacing CO2 from haemoglobin",
+      "Oxygen correcting alkalosis and worsening acidosis"
+    ],
     "correct": 1,
     "explanation": "Chronic hypercapnia in COPD blunts central chemoreceptor sensitivity to CO2. Some patients rely on hypoxic drive to maintain ventilation. Administering high-flow oxygen removes this stimulus, reducing respiratory drive and worsening CO2 retention. Controlled low-flow oxygen (24-28%) titrated to SpO2 88-92% is recommended in COPD exacerbations.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 42, Respiratory Insufficiency"
   },
   {
     "id": 9,
@@ -102,10 +150,16 @@
     "subtopic": "Endocrine",
     "type": "clinical",
     "question": "A 32-year-old woman presents with palpitations, weight loss despite increased appetite, heat intolerance, and fine tremor. TSH is suppressed; free T3 and T4 are elevated. Her brother has a similar condition. What best explains the elevated thyroid hormones?",
-    "options": ["Overactivation of Na/I symporter by iodide excess", "TSH receptor stimulation by IgG antibodies mimicking TSH", "Autonomous nodule secreting T3 independently", "Reduced peripheral T4 to T3 conversion", "Isolated failure of pituitary negative feedback"],
+    "options": [
+      "Overactivation of Na/I symporter by iodide excess",
+      "TSH receptor stimulation by IgG antibodies mimicking TSH",
+      "Autonomous nodule secreting T3 independently",
+      "Reduced peripheral T4 to T3 conversion",
+      "Isolated failure of pituitary negative feedback"
+    ],
     "correct": 1,
-    "explanation": "This is Graves' disease, caused by TSH receptor-stimulating antibodies (TRAb) — IgG immunoglobulins that continuously activate thyroid follicular cells. Unlike endogenous TSH, these antibodies are not subject to pituitary feedback, causing unregulated T3/T4 synthesis. The familial pattern reflects polygenic autoimmune inheritance.",
-    "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 20, Thyroid Gland"
+    "explanation": "This is Graves' disease, caused by TSH receptor-stimulating antibodies (TRAb) \u2014 IgG immunoglobulins that continuously activate thyroid follicular cells. Unlike endogenous TSH, these antibodies are not subject to pituitary feedback, causing unregulated T3/T4 synthesis. The familial pattern reflects polygenic autoimmune inheritance.",
+    "reference": "Ganong's Review of Medical Physiology, 26th ed. \u2014 Chapter 20, Thyroid Gland"
   },
   {
     "id": 10,
@@ -114,10 +168,16 @@
     "subtopic": "Neurophysiology",
     "type": "clinical",
     "question": "A 72-year-old man with Parkinson's disease, stable on levodopa/carbidopa for 5 years, now develops involuntary writhing limb movements worse in the afternoon. What is the underlying mechanism?",
-    "options": ["Dopamine receptor hypersensitivity from pulsatile stimulation", "Dopamine accumulation from MAO-B inhibition", "Carbidopa crossing the BBB and directly activating receptors", "Serotonin syndrome from levodopa metabolites", "Rebound cholinergic overactivity in the striatum"],
+    "options": [
+      "Dopamine receptor hypersensitivity from pulsatile stimulation",
+      "Dopamine accumulation from MAO-B inhibition",
+      "Carbidopa crossing the BBB and directly activating receptors",
+      "Serotonin syndrome from levodopa metabolites",
+      "Rebound cholinergic overactivity in the striatum"
+    ],
     "correct": 0,
-    "explanation": "Levodopa-induced dyskinesias result from pulsatile, non-physiological dopamine receptor stimulation in the striatum, leading to receptor hypersensitivity and maladaptive changes in basal ganglia circuitry. Peak-dose dyskinesias correlate with maximum plasma levodopa levels — explaining the afternoon pattern after a morning dose.",
-    "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 14, Basal Ganglia"
+    "explanation": "Levodopa-induced dyskinesias result from pulsatile, non-physiological dopamine receptor stimulation in the striatum, leading to receptor hypersensitivity and maladaptive changes in basal ganglia circuitry. Peak-dose dyskinesias correlate with maximum plasma levodopa levels \u2014 explaining the afternoon pattern after a morning dose.",
+    "reference": "Ganong's Review of Medical Physiology, 26th ed. \u2014 Chapter 14, Basal Ganglia"
   },
   {
     "id": 11,
@@ -126,10 +186,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "The radial nerve is most commonly injured in fractures of which part of the humerus?",
-    "options": ["Surgical neck", "Anatomical neck", "Mid-shaft (spiral groove)", "Lateral epicondyle"],
+    "options": [
+      "Surgical neck",
+      "Anatomical neck",
+      "Mid-shaft (spiral groove)",
+      "Lateral epicondyle"
+    ],
     "correct": 2,
     "explanation": "The radial nerve winds around the spiral groove of the mid-shaft of the humerus. Fractures here commonly injure the radial nerve, resulting in wrist drop.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 12,
@@ -138,10 +203,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A 25-year-old man falls on an outstretched hand and sustains a fractured surgical neck of humerus. Which nerve is most likely injured?",
-    "options": ["Radial nerve", "Axillary nerve", "Musculocutaneous nerve", "Ulnar nerve"],
+    "options": [
+      "Radial nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve",
+      "Ulnar nerve"
+    ],
     "correct": 1,
     "explanation": "The axillary nerve passes through the quadrangular space and lies in close relation to the surgical neck of the humerus. Injury causes paralysis of the deltoid and loss of sensation over the regimental badge area.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 13,
@@ -150,10 +220,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "Which muscle is the main flexor of the elbow when the forearm is in mid-prone position?",
-    "options": ["Biceps brachii", "Brachialis", "Brachioradialis", "Pronator teres"],
+    "options": [
+      "Biceps brachii",
+      "Brachialis",
+      "Brachioradialis",
+      "Pronator teres"
+    ],
     "correct": 2,
     "explanation": "Brachioradialis is the most powerful flexor when the forearm is in the mid-prone position. Brachialis is the true workhorse flexor in all positions, but brachioradialis dominates in mid-prone.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 14,
@@ -162,10 +237,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A 45-year-old woman presents with inability to abduct her thumb and weakness of pinch grip. Examination reveals wasting of the thenar eminence. Which nerve is most likely compressed?",
-    "options": ["Ulnar nerve at Guyon's canal", "Median nerve at carpal tunnel", "Radial nerve at spiral groove", "Anterior interosseous nerve"],
+    "options": [
+      "Ulnar nerve at Guyon's canal",
+      "Median nerve at carpal tunnel",
+      "Radial nerve at spiral groove",
+      "Anterior interosseous nerve"
+    ],
     "correct": 1,
-    "explanation": "Carpal tunnel syndrome compresses the median nerve, causing wasting of the thenar eminence (LOAF muscles — Lumbricals 1&2, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis) and loss of pinch grip.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "explanation": "Carpal tunnel syndrome compresses the median nerve, causing wasting of the thenar eminence (LOAF muscles \u2014 Lumbricals 1&2, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis) and loss of pinch grip.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 15,
@@ -174,10 +254,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "Which of the following movements is lost following injury to the ulnar nerve at the medial epicondyle?",
-    "options": ["Flexion of the wrist", "Adduction of the thumb", "Extension of the fingers", "Opposition of the thumb"],
+    "options": [
+      "Flexion of the wrist",
+      "Adduction of the thumb",
+      "Extension of the fingers",
+      "Opposition of the thumb"
+    ],
     "correct": 1,
     "explanation": "The ulnar nerve innervates adductor pollicis. Loss of thumb adduction is tested by Froment's sign, where the patient uses flexor pollicis longus (median nerve) to compensate.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 16,
@@ -186,10 +271,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "Which cord of the brachial plexus gives rise to the musculocutaneous nerve?",
-    "options": ["Medial cord", "Posterior cord", "Lateral cord", "Upper trunk"],
+    "options": [
+      "Medial cord",
+      "Posterior cord",
+      "Lateral cord",
+      "Upper trunk"
+    ],
     "correct": 2,
     "explanation": "The musculocutaneous nerve arises from the lateral cord (C5, C6, C7) of the brachial plexus. It innervates the muscles of the anterior compartment of the arm and continues as the lateral cutaneous nerve of the forearm.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 17,
@@ -198,10 +288,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A newborn is delivered with difficulty and is found to hold the upper limb in the 'waiter's tip' position. Which roots of the brachial plexus are most likely injured?",
-    "options": ["C8, T1", "C5, C6", "C6, C7", "C7, C8"],
+    "options": [
+      "C8, T1",
+      "C5, C6",
+      "C6, C7",
+      "C7, C8"
+    ],
     "correct": 1,
     "explanation": "Erb's palsy results from injury to C5 and C6 roots, typically from excessive lateral neck flexion during difficult delivery. The classic waiter's tip posture results from loss of shoulder abduction, lateral rotation, and elbow flexion.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 18,
@@ -210,10 +305,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "The cephalic vein drains into which vessel?",
-    "options": ["Axillary vein", "Subclavian vein", "Brachial vein", "Basilic vein"],
+    "options": [
+      "Axillary vein",
+      "Subclavian vein",
+      "Brachial vein",
+      "Basilic vein"
+    ],
     "correct": 0,
     "explanation": "The cephalic vein runs along the lateral aspect of the arm and drains into the axillary vein in the deltopectoral groove. It is commonly used for IV access and venous cutdown.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 19,
@@ -222,10 +322,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A 30-year-old carpenter presents with weakness of wrist extension and finger extension but intact triceps function. Where is the most likely site of radial nerve injury?",
-    "options": ["Axilla", "Spiral groove of humerus", "Lateral epicondyle — posterior interosseous nerve", "Anatomical snuffbox"],
+    "options": [
+      "Axilla",
+      "Spiral groove of humerus",
+      "Lateral epicondyle \u2014 posterior interosseous nerve",
+      "Anatomical snuffbox"
+    ],
     "correct": 2,
     "explanation": "Injury to the posterior interosseous nerve (deep branch of radial nerve) at the lateral epicondyle spares triceps and brachioradialis but causes finger and wrist extension weakness. Wrist drop is incomplete as radial wrist extensors are spared.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 20,
@@ -234,10 +339,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "Which of the following is the content of the anatomical snuffbox?",
-    "options": ["Ulnar artery", "Radial artery", "Anterior interosseous artery", "Brachial artery"],
+    "options": [
+      "Ulnar artery",
+      "Radial artery",
+      "Anterior interosseous artery",
+      "Brachial artery"
+    ],
     "correct": 1,
     "explanation": "The radial artery crosses the floor of the anatomical snuffbox, passing between the tendons of extensor pollicis longus and extensor pollicis brevis. The scaphoid bone forms the floor and is at risk of avascular necrosis following fracture.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 21,
@@ -246,10 +356,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A 22-year-old falls onto an outstretched hand. X-ray shows no fracture but there is tenderness in the anatomical snuffbox. What is the most likely injury?",
-    "options": ["Fracture of the trapezium", "Fracture of the scaphoid", "Dislocation of the lunate", "Fracture of the radius"],
+    "options": [
+      "Fracture of the trapezium",
+      "Fracture of the scaphoid",
+      "Dislocation of the lunate",
+      "Fracture of the radius"
+    ],
     "correct": 1,
     "explanation": "Scaphoid fracture is the most common carpal bone fracture and classically presents with anatomical snuffbox tenderness. It may not be visible on initial X-ray. Risk of avascular necrosis is high due to the retrograde blood supply of the scaphoid.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 22,
@@ -258,10 +373,15 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "The flexor retinaculum at the wrist is attached medially to which bone?",
-    "options": ["Trapezium", "Scaphoid", "Pisiform", "Lunate"],
+    "options": [
+      "Trapezium",
+      "Scaphoid",
+      "Pisiform",
+      "Lunate"
+    ],
     "correct": 2,
     "explanation": "The flexor retinaculum attaches medially to the pisiform and hook of hamate, and laterally to the scaphoid tubercle and trapezium. It forms the roof of the carpal tunnel.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 23,
@@ -270,10 +390,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A patient presents with clawing of the ring and little fingers, loss of sensation over the medial 1.5 fingers, and a positive Froment's sign. Which nerve is injured and where?",
-    "options": ["Median nerve at the wrist", "Ulnar nerve at the wrist", "Ulnar nerve at the elbow", "Median nerve at the elbow"],
+    "options": [
+      "Median nerve at the wrist",
+      "Ulnar nerve at the wrist",
+      "Ulnar nerve at the elbow",
+      "Median nerve at the elbow"
+    ],
     "correct": 2,
     "explanation": "Ulnar nerve injury at the elbow affects the medial two lumbricals, all interossei, hypothenar muscles, and adductor pollicis. Clawing is more pronounced than wrist injury because flexor digitorum profundus to ring and little fingers is also affected.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 24,
@@ -282,10 +407,15 @@
     "subtopic": "Upper Limb",
     "type": "clinical",
     "question": "A patient is unable to flex the distal phalanx of the index finger and cannot make an 'OK' sign. Which nerve is most likely injured?",
-    "options": ["Median nerve at carpal tunnel", "Ulnar nerve at elbow", "Anterior interosseous nerve", "Posterior interosseous nerve"],
+    "options": [
+      "Median nerve at carpal tunnel",
+      "Ulnar nerve at elbow",
+      "Anterior interosseous nerve",
+      "Posterior interosseous nerve"
+    ],
     "correct": 2,
     "explanation": "The anterior interosseous nerve (branch of median nerve) innervates flexor pollicis longus, flexor digitorum profundus to index and middle fingers, and pronator quadratus. Injury causes inability to flex the distal phalanx of index finger and loss of the OK sign.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 25,
@@ -294,9 +424,235 @@
     "subtopic": "Upper Limb",
     "type": "factual",
     "question": "Which muscle forms the inferior boundary of the quadrangular space?",
-    "options": ["Subscapularis", "Teres major", "Teres minor", "Long head of triceps"],
+    "options": [
+      "Subscapularis",
+      "Teres major",
+      "Teres minor",
+      "Long head of triceps"
+    ],
     "correct": 1,
     "explanation": "The quadrangular space is bounded superiorly by teres minor, inferiorly by teres major, medially by the long head of triceps, and laterally by the surgical neck of the humerus. The axillary nerve and posterior circumflex humeral artery pass through it.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
+  },
+  {
+    "id": 26,
+    "subject": "Anatomy",
+    "topic": "Knee Jerk Reflex",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "Which nerve is responsible for the knee jerk reflex, and at what spinal level?",
+    "options": [
+      "Femoral nerve \u2014 L2, L3",
+      "Femoral nerve \u2014 L3, L4",
+      "Obturator nerve \u2014 L3, L4",
+      "Sciatic nerve \u2014 L4, L5"
+    ],
+    "correct": 1,
+    "explanation": "The knee jerk (patellar) reflex is mediated by the femoral nerve at L3 and L4. The reflex arc involves the quadriceps femoris muscle. A diminished or absent knee jerk suggests pathology at L3\u2013L4 root level or femoral nerve.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 27,
+    "subject": "Anatomy",
+    "topic": "Common Peroneal Nerve",
+    "subtopic": "Lower Limb",
+    "type": "clinical",
+    "question": "A 65-year-old man undergoes total hip replacement. Postoperatively he has foot drop and cannot evert the foot, but knee flexion is intact. Which nerve is injured?",
+    "options": [
+      "Femoral nerve",
+      "Tibial nerve",
+      "Common peroneal nerve",
+      "Superior gluteal nerve"
+    ],
+    "correct": 2,
+    "explanation": "The common peroneal nerve winds around the neck of the fibula and is vulnerable during hip surgery and lateral leg compression. It innervates all muscles of the anterior and lateral compartments. Foot drop with loss of eversion but intact knee flexion (hamstrings, tibial nerve) localises the injury here.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 28,
+    "subject": "Anatomy",
+    "topic": "Trendelenburg Sign",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "Which muscle is the primary abductor of the hip and is tested when assessing the Trendelenburg sign?",
+    "options": [
+      "Piriformis",
+      "Gluteus maximus",
+      "Gluteus medius",
+      "Tensor fasciae latae"
+    ],
+    "correct": 2,
+    "explanation": "Gluteus medius is the primary hip abductor, innervated by the superior gluteal nerve (L4, L5, S1). Weakness causes a positive Trendelenburg sign \u2014 the pelvis drops to the contralateral side when standing on the affected limb. This is seen in superior gluteal nerve injury and hip pathology.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 29,
+    "subject": "Anatomy",
+    "topic": "Hip Dislocation",
+    "subtopic": "Lower Limb",
+    "type": "clinical",
+    "question": "A 70-year-old woman falls and develops severe groin pain. She cannot internally rotate or abduct her right hip. X-ray shows the femoral head displaced inferiorly and medially. What is the most likely diagnosis?",
+    "options": [
+      "Posterior hip dislocation",
+      "Anterior hip dislocation",
+      "Intertrochanteric fracture",
+      "Pubic rami fracture"
+    ],
+    "correct": 1,
+    "explanation": "Anterior hip dislocation occurs when the hip is forced into abduction and external rotation. The femoral head displaces anteriorly and inferiorly toward the obturator foramen. Loss of internal rotation and adduction is characteristic. Posterior dislocation is more common and presents with the limb in flexion, adduction, and internal rotation.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 30,
+    "subject": "Anatomy",
+    "topic": "Popliteal Fossa",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "The popliteal fossa is bounded superolaterally by which structure?",
+    "options": [
+      "Semimembranosus",
+      "Biceps femoris",
+      "Semitendinosus",
+      "Gastrocnemius lateral head"
+    ],
+    "correct": 1,
+    "explanation": "The popliteal fossa is bounded superolaterally by biceps femoris, superomedially by semimembranosus and semitendinosus, and inferiorly by the two heads of gastrocnemius. The common peroneal nerve runs along the medial border of biceps femoris through this space.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 31,
+    "subject": "Anatomy",
+    "topic": "ACL Injury",
+    "subtopic": "Lower Limb",
+    "type": "clinical",
+    "question": "A 25-year-old footballer twists his knee with the foot planted. He hears a 'pop' and develops immediate swelling. Lachman's test is positive. Which structure is most likely injured?",
+    "options": [
+      "Medial collateral ligament",
+      "Posterior cruciate ligament",
+      "Anterior cruciate ligament",
+      "Lateral meniscus"
+    ],
+    "correct": 2,
+    "explanation": "The ACL is the most commonly torn knee ligament in sports injuries involving sudden deceleration and rotational forces. The 'pop' and immediate haemarthrosis are classic. Lachman's test \u2014 anterior tibial displacement with the knee at 30\u00b0 flexion \u2014 is the most sensitive clinical test for ACL rupture.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 32,
+    "subject": "Anatomy",
+    "topic": "Femoral Head Blood Supply",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "Which artery is the primary blood supply to the head of the femur in adults?",
+    "options": [
+      "Obturator artery",
+      "Medial circumflex femoral artery",
+      "Lateral circumflex femoral artery",
+      "Inferior gluteal artery"
+    ],
+    "correct": 1,
+    "explanation": "The medial circumflex femoral artery, a branch of the profunda femoris, provides the dominant blood supply to the femoral head in adults via the retinacular arteries. Disruption in femoral neck fractures causes avascular necrosis \u2014 a major complication, especially in displaced fractures.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 33,
+    "subject": "Anatomy",
+    "topic": "Tarsal Tunnel Syndrome",
+    "subtopic": "Lower Limb",
+    "type": "clinical",
+    "question": "A 55-year-old diabetic woman presents with burning pain and numbness over the sole of the foot. Sensation is reduced in the medial three and a half toes. Which nerve is compressed?",
+    "options": [
+      "Common peroneal nerve",
+      "Sural nerve",
+      "Lateral plantar nerve",
+      "Medial plantar nerve"
+    ],
+    "correct": 3,
+    "explanation": "The medial plantar nerve (branch of tibial nerve) supplies sensation to the medial three and a half toes and the sole \u2014 mirroring the median nerve distribution in the hand. Compression causes tarsal tunnel syndrome. The lateral plantar nerve supplies the lateral one and a half toes.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 34,
+    "subject": "Anatomy",
+    "topic": "Posterior Compartment Leg",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "Which muscle plantarflexes the foot and is the only muscle in the posterior compartment of the leg NOT innervated by the tibial nerve?",
+    "options": [
+      "Gastrocnemius",
+      "Soleus",
+      "Plantaris",
+      "Popliteus"
+    ],
+    "correct": 3,
+    "explanation": "This is a trick question \u2014 popliteus is innervated by the tibial nerve. All muscles of the posterior compartment are tibial nerve innervated. The correct clinical teaching point is that gastrocnemius, soleus, and plantaris all plantarflex via the Achilles tendon, while popliteus unlocks the knee.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 35,
+    "subject": "Anatomy",
+    "topic": "Achilles Tendinopathy",
+    "subtopic": "Lower Limb",
+    "type": "clinical",
+    "question": "A 40-year-old runner presents with pain at the posterosuperior heel, worse in the morning. There is tenderness 2\u20136 cm proximal to the calcaneal insertion. What is the most likely diagnosis?",
+    "options": [
+      "Plantar fasciitis",
+      "Achilles tendinopathy",
+      "Retrocalcaneal bursitis",
+      "Sural nerve entrapment"
+    ],
+    "correct": 1,
+    "explanation": "Achilles tendinopathy classically presents with pain in the tendon body 2\u20136 cm proximal to the insertion \u2014 the watershed zone of poor blood supply. Morning stiffness and pain with activity are hallmarks. Plantar fasciitis causes inferior heel pain at the calcaneal insertion, not posterosuperior.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 36,
+    "subject": "Anatomy",
+    "topic": "Saphenous Vein",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "The great saphenous vein drains into which vessel, and at what level?",
+    "options": [
+      "Femoral vein at the saphenofemoral junction \u2014 4 cm below and lateral to the pubic tubercle",
+      "Femoral vein at the saphenofemoral junction \u2014 4 cm below and medial to the pubic tubercle",
+      "External iliac vein at the inguinal ligament",
+      "Popliteal vein behind the knee"
+    ],
+    "correct": 1,
+    "explanation": "The great saphenous vein drains into the femoral vein at the saphenofemoral junction, located 4 cm below and medial to the pubic tubercle. This is a key landmark in varicose vein surgery. The small saphenous vein drains into the popliteal vein behind the knee.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 37,
+    "subject": "Anatomy",
+    "topic": "Posterior Hip Dislocation",
+    "subtopic": "Lower Limb",
+    "type": "clinical",
+    "question": "A 30-year-old man sustains a posterior dislocation of the hip in a road traffic accident. Which nerve is most at risk?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Superior gluteal nerve",
+      "Sciatic nerve"
+    ],
+    "correct": 3,
+    "explanation": "Posterior hip dislocation \u2014 the most common type \u2014 drives the femoral head posteriorly toward the sciatic nerve, which lies in this region. Sciatic nerve injury occurs in up to 10\u201320% of cases, most commonly affecting the peroneal division, causing foot drop.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 38,
+    "subject": "Anatomy",
+    "topic": "Anterior Compartment Syndrome",
+    "subtopic": "Lower Limb",
+    "type": "factual",
+    "question": "Which compartment syndrome of the leg presents with pain on passive toe extension and sensory loss in the first web space?",
+    "options": [
+      "Posterior compartment syndrome",
+      "Lateral compartment syndrome",
+      "Anterior compartment syndrome",
+      "Deep posterior compartment syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Anterior compartment syndrome compresses the deep peroneal nerve and anterior tibial vessels. Pain on passive toe extension stretches the tibialis anterior and extensor muscles. Sensory loss in the first dorsal web space is the classic dermatomal sign of deep peroneal nerve compression.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   }
 ]
