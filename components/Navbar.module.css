@@ -44,3 +44,42 @@
   min-width: 80px;
   text-align: right;
 }
+
+.quizActions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navBtn {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-muted);
+  background: var(--bg);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 5px 12px;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.navBtn:hover {
+  border-color: var(--green-mid);
+  color: var(--text);
+}
+
+.navBtnDanger {
+  font-size: 12px;
+  font-weight: 500;
+  color: #b91c1c;
+  background: #fff5f5;
+  border: 0.5px solid #fca5a5;
+  border-radius: var(--radius-sm);
+  padding: 5px 12px;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.navBtnDanger:hover {
+  background: #fee2e2;
+}
