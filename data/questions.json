@@ -654,5 +654,226 @@
     "correct": 2,
     "explanation": "Anterior compartment syndrome compresses the deep peroneal nerve and anterior tibial vessels. Pain on passive toe extension stretches the tibialis anterior and extensor muscles. Sensory loss in the first dorsal web space is the classic dermatomal sign of deep peroneal nerve compression.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 39,
+    "subject": "Anatomy",
+    "topic": "Tension Pneumothorax",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A 22-year-old man is stabbed in the left 2nd intercostal space, midclavicular line. He develops tracheal deviation to the right, absent breath sounds on the left, and hypotension. What is the most likely diagnosis?",
+    "options": [
+      "Haemothorax",
+      "Open pneumothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade"
+    ],
+    "correct": 2,
+    "explanation": "Tension pneumothorax causes progressive air accumulation in the pleural space with no escape route, collapsing the lung and shifting the mediastinum contralaterally. Tracheal deviation away from the affected side, absent breath sounds, and haemodynamic compromise are the triad. It is a clinical diagnosis \u2014 do not wait for X-ray before decompression.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
+  },
+  {
+    "id": 40,
+    "subject": "Anatomy",
+    "topic": "Heart Borders",
+    "subtopic": "Thorax",
+    "type": "factual",
+    "question": "The right border of the heart on chest X-ray is formed by which structure?",
+    "options": [
+      "Right ventricle",
+      "Superior vena cava and right atrium",
+      "Right atrium and right ventricle",
+      "Ascending aorta and right atrium"
+    ],
+    "correct": 1,
+    "explanation": "The right border of the heart is formed by the superior vena cava (upper part) and right atrium (lower part). The left border is formed by the aortic knuckle, pulmonary trunk, left atrial appendage, and left ventricle. The right ventricle forms the anterior surface, not the right border.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Pericardium and Heart"
+  },
+  {
+    "id": 41,
+    "subject": "Anatomy",
+    "topic": "Pancoast Tumour",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A 58-year-old smoker presents with hoarseness, miosis, partial ptosis, and anhidrosis on the right side of the face. Chest X-ray shows an apical lung mass. What is the most likely diagnosis?",
+    "options": [
+      "Superior vena cava syndrome",
+      "Pancoast tumour with Horner's syndrome",
+      "Recurrent laryngeal nerve palsy",
+      "Phrenic nerve compression"
+    ],
+    "correct": 1,
+    "explanation": "A Pancoast tumour arises at the lung apex and can compress the cervical sympathetic chain, causing ipsilateral Horner's syndrome (miosis, ptosis, anhidrosis). Hoarseness suggests concurrent recurrent laryngeal nerve involvement. The right recurrent laryngeal nerve loops around the subclavian artery and is vulnerable to apical right-sided tumours.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
+  },
+  {
+    "id": 42,
+    "subject": "Anatomy",
+    "topic": "Diaphragm Openings",
+    "subtopic": "Thorax",
+    "type": "factual",
+    "question": "At which vertebral level does the thoracic aorta pass through the diaphragm?",
+    "options": [
+      "T8",
+      "T10",
+      "T12",
+      "L1"
+    ],
+    "correct": 2,
+    "explanation": "The aorta passes through the aortic hiatus at T12, along with the thoracic duct. The oesophagus passes through the oesophageal hiatus at T10, and the inferior vena cava at T8. The mnemonic is 'I 8 (ate) 10 eggs at 12' \u2014 IVC at T8, oesophagus at T10, aorta at T12.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 58, Diaphragm"
+  },
+  {
+    "id": 43,
+    "subject": "Anatomy",
+    "topic": "Achalasia",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A 45-year-old man presents with progressive dysphagia to solids then liquids, weight loss, and regurgitation of undigested food. Barium swallow shows a smooth, tapering narrowing at the gastro-oesophageal junction with a dilated oesophagus above. What is the most likely diagnosis?",
+    "options": [
+      "Oesophageal carcinoma",
+      "Achalasia",
+      "Pharyngeal pouch",
+      "Oesophageal stricture"
+    ],
+    "correct": 1,
+    "explanation": "Achalasia results from failure of the lower oesophageal sphincter to relax due to loss of Auerbach's myenteric plexus neurons. The classic barium swallow shows a 'bird's beak' tapering at the cardia with proximal dilatation. Dysphagia to both solids and liquids from the outset distinguishes it from mechanical obstruction like carcinoma.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 55, Oesophagus"
+  },
+  {
+    "id": 44,
+    "subject": "Anatomy",
+    "topic": "Phrenic Nerve",
+    "subtopic": "Thorax",
+    "type": "factual",
+    "question": "Which nerve supplies the pericardium and is also responsible for referred pain to the shoulder tip in pericarditis?",
+    "options": [
+      "Vagus nerve",
+      "Intercostal nerves",
+      "Phrenic nerve",
+      "Sympathetic chain"
+    ],
+    "correct": 2,
+    "explanation": "The phrenic nerve (C3, C4, C5) supplies the pericardium and central diaphragm. Irritation of the pericardium refers pain to the shoulder tip via the C4 dermatome \u2014 the same principle applies in diaphragmatic irritation from subphrenic abscess or haemoperitoneum.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Pericardium and Heart"
+  },
+  {
+    "id": 45,
+    "subject": "Anatomy",
+    "topic": "Pleural Effusion",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A 70-year-old man presents with progressive dyspnoea, dull percussion note, and reduced breath sounds at the right base. Chest X-ray shows blunting of the right costophrenic angle. How much fluid must accumulate before this X-ray finding appears?",
+    "options": [
+      "50 ml",
+      "150 ml",
+      "300 ml",
+      "500 ml"
+    ],
+    "correct": 2,
+    "explanation": "Approximately 300 ml of pleural fluid is required before blunting of the costophrenic angle becomes visible on an erect PA chest X-ray. Smaller amounts (as little as 50 ml) may be detectable on lateral views or ultrasound. The right costophrenic angle is normally the most acute and is the first to be blunted.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
+  },
+  {
+    "id": 46,
+    "subject": "Anatomy",
+    "topic": "SA Node Blood Supply",
+    "subtopic": "Thorax",
+    "type": "factual",
+    "question": "The sino-atrial node is supplied by which artery in the majority of individuals?",
+    "options": [
+      "Left anterior descending artery",
+      "Right coronary artery",
+      "Left circumflex artery",
+      "Posterior descending artery"
+    ],
+    "correct": 1,
+    "explanation": "The SA node is supplied by the SA nodal artery, which arises from the right coronary artery in approximately 60% of individuals and from the left circumflex in 40%. RCA occlusion can therefore cause sinus bradycardia or sick sinus syndrome in addition to inferior MI.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Coronary Circulation"
+  },
+  {
+    "id": 47,
+    "subject": "Anatomy",
+    "topic": "Inferior MI",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A 55-year-old man presents 2 hours after crushing chest pain radiating to the jaw. ECG shows ST elevation in leads II, III, and aVF. Which coronary artery is most likely occluded?",
+    "options": [
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Right coronary artery",
+      "Diagonal branch"
+    ],
+    "correct": 2,
+    "explanation": "Inferior MI (ST elevation in II, III, aVF) results from right coronary artery occlusion in the majority of cases, as the RCA supplies the inferior wall of the left ventricle via the posterior descending artery. Radiation to the jaw reflects C3\u2013C5 referred pain pathways from the pericardium and myocardium.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Coronary Circulation"
+  },
+  {
+    "id": 48,
+    "subject": "Anatomy",
+    "topic": "Superior Mediastinum",
+    "subtopic": "Thorax",
+    "type": "factual",
+    "question": "Which structure forms the posterior boundary of the superior mediastinum?",
+    "options": [
+      "Manubrium of the sternum",
+      "Bodies of T1\u2013T4 vertebrae",
+      "Arch of the aorta",
+      "Trachea"
+    ],
+    "correct": 1,
+    "explanation": "The superior mediastinum is bounded anteriorly by the manubrium, posteriorly by the bodies of T1\u2013T4 vertebrae, superiorly by the thoracic inlet, and inferiorly by the sternal angle (angle of Louis) \u2014 the landmark for the 2nd costal cartilage and the carina.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 56, Mediastinum"
+  },
+  {
+    "id": 49,
+    "subject": "Anatomy",
+    "topic": "Chest Drain",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A chest drain is inserted in the right 5th intercostal space, midaxillary line. To avoid the neurovascular bundle, where should the drain be inserted?",
+    "options": [
+      "Anywhere in the intercostal space",
+      "Over the upper border of the lower rib",
+      "Over the lower border of the upper rib",
+      "In the centre of the intercostal space"
+    ],
+    "correct": 1,
+    "explanation": "The intercostal neurovascular bundle runs in the costal groove along the inferior border of each rib. Instruments should always be passed over the upper border of the lower rib to avoid injuring the nerve, artery, and vein. This rule applies to intercostal blocks, pleural aspiration, and chest drain insertion.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 53, Thoracic Wall"
+  },
+  {
+    "id": 50,
+    "subject": "Anatomy",
+    "topic": "Breast Lymphatics",
+    "subtopic": "Thorax",
+    "type": "factual",
+    "question": "Which lymph node group is the first to receive lymphatic drainage from the right breast?",
+    "options": [
+      "Supraclavicular nodes",
+      "Internal mammary nodes",
+      "Anterior axillary (pectoral) nodes",
+      "Posterior axillary nodes"
+    ],
+    "correct": 2,
+    "explanation": "Approximately 75% of breast lymph drains to the axillary nodes, primarily the anterior (pectoral) group along the lateral thoracic vessel. This is clinically critical in breast cancer staging \u2014 sentinel node biopsy targets this group. The remaining 25% drains to internal mammary nodes along the sternum.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 53, Thoracic Wall"
+  },
+  {
+    "id": 51,
+    "subject": "Anatomy",
+    "topic": "Spontaneous Pneumothorax",
+    "subtopic": "Thorax",
+    "type": "clinical",
+    "question": "A 35-year-old tall thin man develops sudden onset right-sided chest pain and breathlessness. He is afebrile and SpO2 is 96%. Chest X-ray shows a 2.5 cm rim of air at the right apex with a visible lung edge. What is the most appropriate management?",
+    "options": [
+      "Emergency needle decompression",
+      "High-flow oxygen and observation",
+      "Chest drain insertion",
+      "Immediate thoracotomy"
+    ],
+    "correct": 1,
+    "explanation": "A small primary spontaneous pneumothorax (less than 2 cm rim, no significant dyspnoea, SpO2 >90%) in a haemodynamically stable patient can be managed conservatively with high-flow oxygen to accelerate nitrogen reabsorption and observation. Aspiration or drain is reserved for larger or symptomatic cases. The tall thin male demographic is the classic presentation.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
   }
 ]
