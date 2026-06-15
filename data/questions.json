@@ -1130,5 +1130,260 @@
     "correct": 1,
     "explanation": "The neck of the pancreas lies directly anterior to the superior mesenteric vessels and the aorta. This relationship is critical in pancreatic surgery \u2014 the neck is the usual site of transection in Whipple's procedure. The head lies in the C-loop of the duodenum, and the tail reaches the splenic hilum.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 67,
+    "subject": "Anatomy",
+    "topic": "Facial Nerve Palsy",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 50-year-old man presents with inability to raise his right eyebrow, inability to close his right eye, and drooping of the right angle of the mouth. Taste is intact and there is no hearing loss. Where is the lesion?",
+    "options": [
+      "Right cerebral cortex",
+      "Right facial nerve nucleus in the pons",
+      "Right facial nerve at the stylomastoid foramen",
+      "Right internal capsule"
+    ],
+    "correct": 2,
+    "explanation": "A lower motor neuron facial nerve palsy (Bell's palsy) affects all ipsilateral facial muscles including the forehead, because the upper facial muscles receive bilateral cortical innervation \u2014 spared in UMN lesions. Taste and hearing are intact, localising the lesion distal to the chorda tympani and stapedius branch, i.e. at or below the stylomastoid foramen.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 68,
+    "subject": "Anatomy",
+    "topic": "Muscles of Mastication",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "Which muscle is responsible for opening the jaw and is innervated by the mandibular nerve?",
+    "options": [
+      "Masseter",
+      "Medial pterygoid",
+      "Lateral pterygoid",
+      "Temporalis"
+    ],
+    "correct": 2,
+    "explanation": "The lateral pterygoid is the only muscle of mastication that opens (depresses) the jaw, acting by pulling the condyle and articular disc forward. All muscles of mastication are innervated by the mandibular branch (V3) of the trigeminal nerve. Masseter, medial pterygoid, and temporalis all close the jaw.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 69,
+    "subject": "Anatomy",
+    "topic": "Thyroidectomy Nerve Injury",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 65-year-old woman undergoes a total thyroidectomy. Postoperatively she has a hoarse voice and cannot raise her vocal pitch. Which nerve was injured?",
+    "options": [
+      "External branch of the superior laryngeal nerve",
+      "Internal branch of the superior laryngeal nerve",
+      "Recurrent laryngeal nerve",
+      "Hypoglossal nerve"
+    ],
+    "correct": 2,
+    "explanation": "The recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except cricothyroid. Injury causes hoarseness and loss of vocal power. The external branch of the superior laryngeal nerve innervates only cricothyroid (pitch control) \u2014 its isolated injury causes loss of high pitch without significant hoarseness. Both nerves are at risk during thyroidectomy.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 70,
+    "subject": "Anatomy",
+    "topic": "Carotid Triangle",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "Which triangle of the neck contains the carotid artery, internal jugular vein, and vagus nerve within the carotid sheath?",
+    "options": [
+      "Anterior triangle",
+      "Muscular triangle",
+      "Carotid triangle",
+      "Submental triangle"
+    ],
+    "correct": 2,
+    "explanation": "The carotid triangle is bounded by the superior belly of omohyoid, the sternocleidomastoid, and the posterior belly of digastric. It contains the carotid sheath with the common and internal carotid arteries, internal jugular vein, and vagus nerve. Carotid endarterectomy and central line insertion are performed in this region.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 71,
+    "subject": "Anatomy",
+    "topic": "Cholesteatoma",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 40-year-old man presents with progressive unilateral conductive hearing loss, a retracted eardrum, and a pearly white mass behind the tympanic membrane. What is the most likely diagnosis?",
+    "options": [
+      "Otitis media with effusion",
+      "Acoustic neuroma",
+      "Cholesteatoma",
+      "Otosclerosis"
+    ],
+    "correct": 2,
+    "explanation": "Cholesteatoma is an abnormal collection of keratinising squamous epithelium in the middle ear, appearing as a pearly white mass. It erodes ossicles and surrounding structures causing conductive hearing loss. Untreated, it can erode the tegmen, facial nerve canal, or semicircular canals. Acoustic neuroma causes sensorineural hearing loss.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 72,
+    "subject": "Anatomy",
+    "topic": "Hypoglossal Nerve",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "The hypoglossal nerve (CN XII) exits the skull through which foramen?",
+    "options": [
+      "Jugular foramen",
+      "Foramen ovale",
+      "Hypoglossal canal",
+      "Foramen lacerum"
+    ],
+    "correct": 2,
+    "explanation": "CN XII exits via the hypoglossal canal in the occipital bone. Injury causes ipsilateral tongue deviation toward the side of the lesion (the weak side) on protrusion, due to unopposed action of the contralateral genioglossus. The jugular foramen transmits CN IX, X, and XI.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 73,
+    "subject": "Anatomy",
+    "topic": "Subarachnoid Haemorrhage",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 55-year-old man with poorly controlled hypertension suddenly develops a severe headache, neck stiffness, and photophobia. CT head is normal. What is the next most appropriate investigation?",
+    "options": [
+      "MRI brain with gadolinium",
+      "Lumbar puncture for xanthochromia",
+      "Carotid Doppler ultrasound",
+      "EEG"
+    ],
+    "correct": 1,
+    "explanation": "A normal CT does not exclude subarachnoid haemorrhage \u2014 sensitivity drops to around 93% within 24 hours. Lumbar puncture showing xanthochromia (yellow discolouration from haemoglobin breakdown) is diagnostic. The headache of SAH is classically 'thunderclap' \u2014 maximal at onset.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 74,
+    "subject": "Anatomy",
+    "topic": "Taste Innervation",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "Which cranial nerve supplies taste to the anterior two thirds of the tongue?",
+    "options": [
+      "Glossopharyngeal nerve (CN IX)",
+      "Facial nerve (CN VII) via chorda tympani",
+      "Lingual nerve (branch of V3)",
+      "Vagus nerve (CN X)"
+    ],
+    "correct": 1,
+    "explanation": "Taste from the anterior two thirds of the tongue is carried by the chorda tympani (branch of CN VII), which joins the lingual nerve (V3) in the infratemporal fossa. General sensation from the anterior two thirds is carried by the lingual nerve (V3). The posterior third \u2014 both taste and general sensation \u2014 is supplied by CN IX.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 75,
+    "subject": "Anatomy",
+    "topic": "TMJ Dysfunction",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 30-year-old woman presents with pain and clicking of the right temporomandibular joint, worse on chewing. She has difficulty fully opening her mouth. Which muscle, when hypertonic, most commonly contributes to TMJ dysfunction?",
+    "options": [
+      "Lateral pterygoid",
+      "Masseter",
+      "Temporalis",
+      "Medial pterygoid"
+    ],
+    "correct": 1,
+    "explanation": "Masseter hypertonia from bruxism (teeth grinding) is the most common muscular contributor to TMJ dysfunction. The masseter inserts into the angle and ramus of the mandible and is easily palpated during clenching. Lateral pterygoid dysfunction contributes to clicking by disrupting disc movement, but masseter is the primary culprit in myofascial TMJ pain.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 76,
+    "subject": "Anatomy",
+    "topic": "Lingual Nerve",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "Through which space does the lingual nerve pass to reach the tongue, making it vulnerable during wisdom tooth extraction?",
+    "options": [
+      "Pterygomandibular space",
+      "Parapharyngeal space",
+      "Retropharyngeal space",
+      "Sublingual space"
+    ],
+    "correct": 0,
+    "explanation": "The lingual nerve passes through the pterygomandibular space, running medial to the mandible and just below the mucosa of the third molar region. It is vulnerable during inferior alveolar nerve blocks and lower wisdom tooth extraction, causing ipsilateral tongue numbness and altered taste.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 77,
+    "subject": "Anatomy",
+    "topic": "Thyroglossal Cyst",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 45-year-old man presents with a painless neck swelling that moves upward on swallowing and on tongue protrusion. It has been present since childhood. What is the most likely diagnosis?",
+    "options": [
+      "Branchial cyst",
+      "Thyroglossal cyst",
+      "Cervical lymphadenopathy",
+      "Dermoid cyst"
+    ],
+    "correct": 1,
+    "explanation": "A thyroglossal cyst moves upward both on swallowing and on tongue protrusion \u2014 the pathognomonic feature, because the cyst is attached to the hyoid bone via the thyroglossal tract. It arises from a remnant of the thyroglossal duct along the path of thyroid descent from the foramen caecum. Branchial cysts do not move on tongue protrusion.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 78,
+    "subject": "Anatomy",
+    "topic": "Sternocleidomastoid",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "Which muscle is the main landmark used to divide the neck into anterior and posterior triangles?",
+    "options": [
+      "Trapezius",
+      "Omohyoid",
+      "Sternocleidomastoid",
+      "Scalenus anterior"
+    ],
+    "correct": 2,
+    "explanation": "The sternocleidomastoid divides the neck into anterior and posterior triangles. It is innervated by the spinal accessory nerve (CN XI) and C2\u2013C3. Unilateral SCM contraction causes ipsilateral lateral flexion and contralateral rotation of the head \u2014 torticollis results from its spasm or fibrosis.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 79,
+    "subject": "Anatomy",
+    "topic": "Neck Lymph Nodes",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 60-year-old smoker presents with a painless, firm, fixed lymph node in the posterior triangle of the neck at level V. Fine needle aspiration shows squamous cell carcinoma. What is the most likely primary site?",
+    "options": [
+      "Thyroid gland",
+      "Nasopharynx",
+      "Oropharynx or hypopharynx",
+      "Parotid gland"
+    ],
+    "correct": 2,
+    "explanation": "Posterior triangle level V nodes drain the oropharynx, hypopharynx, and nasopharynx. Squamous cell carcinoma in this location in a smoker most commonly arises from the oropharynx (tonsil, base of tongue) or hypopharynx. Thyroid malignancy typically spreads to central compartment (level VI) nodes.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 80,
+    "subject": "Anatomy",
+    "topic": "Parotid Gland",
+    "subtopic": "Head & Neck",
+    "type": "factual",
+    "question": "The parotid gland is traversed by which nerve, damage to which causes loss of facial expression?",
+    "options": [
+      "Auriculotemporal nerve",
+      "Facial nerve (CN VII)",
+      "Glossopharyngeal nerve",
+      "Trigeminal nerve"
+    ],
+    "correct": 1,
+    "explanation": "The facial nerve exits the stylomastoid foramen and enters the parotid gland, dividing into temporofacial and cervicofacial divisions and then into five terminal branches (temporal, zygomatic, buccal, marginal mandibular, cervical). Parotid tumours, surgery, or penetrating injuries risk facial nerve damage causing ipsilateral facial palsy.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 81,
+    "subject": "Anatomy",
+    "topic": "Submandibular Calculus",
+    "subtopic": "Head & Neck",
+    "type": "clinical",
+    "question": "A 25-year-old woman develops sudden severe pain and swelling below the jaw during a meal. The swelling is tender and reduces between meals. What is the most likely diagnosis?",
+    "options": [
+      "Parotid calculus",
+      "Submandibular calculus",
+      "Ranula",
+      "Ludwig's angina"
+    ],
+    "correct": 1,
+    "explanation": "Submandibular calculus (sialolithiasis) classically causes mealtime pain and swelling because salivary flow is stimulated by eating, obstructing at the stone. The submandibular gland produces thick, mucous-rich saliva with a slow upward flow against gravity \u2014 making it the most common site for calculi. The parotid duct runs horizontally and is less affected.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   }
 ]
