@@ -1385,5 +1385,243 @@
     "correct": 1,
     "explanation": "Submandibular calculus (sialolithiasis) classically causes mealtime pain and swelling because salivary flow is stimulated by eating, obstructing at the stone. The submandibular gland produces thick, mucous-rich saliva with a slow upward flow against gravity \u2014 making it the most common site for calculi. The parotid duct runs horizontally and is less affected.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
+  },
+  {
+    "id": 82,
+    "subject": "Anatomy",
+    "topic": "Internal Capsule Stroke",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 68-year-old man presents with sudden onset left-sided weakness affecting the face, arm, and leg equally, with no sensory loss or visual disturbance. Where is the most likely site of the lesion?",
+    "options": [
+      "Right middle cerebral artery territory",
+      "Right internal capsule",
+      "Right motor cortex",
+      "Right cerebral peduncle"
+    ],
+    "correct": 1,
+    "explanation": "The internal capsule carries all descending motor fibres in a compact bundle. A small lesion here causes a dense contralateral hemiplegia affecting face, arm, and leg equally \u2014 unlike cortical strokes which produce unequal deficits due to the somatotopic spread of the motor homunculus. Lacunar infarcts from small vessel disease are the classic cause.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 83,
+    "subject": "Anatomy",
+    "topic": "Spinothalamic Tract",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "factual",
+    "question": "Which tract carries pain and temperature sensation from the contralateral side of the body, and where does it decussate?",
+    "options": [
+      "Dorsal columns \u2014 decussate in the medulla",
+      "Spinothalamic tract \u2014 decussate within 1\u20132 segments of entry in the spinal cord",
+      "Corticospinal tract \u2014 decussate in the medulla",
+      "Spinocerebellar tract \u2014 does not decussate"
+    ],
+    "correct": 1,
+    "explanation": "The spinothalamic tract carries pain and temperature. First-order neurons enter the spinal cord and synapse in the dorsal horn, then second-order fibres decussate via the anterior white commissure within 1\u20132 segments before ascending. This explains why a central cord lesion (syringomyelia) causes a cape-like bilateral loss of pain and temperature at the level of the lesion.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 84,
+    "subject": "Anatomy",
+    "topic": "Wallenberg Syndrome",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 55-year-old hypertensive man develops sudden dysarthria, dysphagia, ipsilateral facial numbness, contralateral body loss of pain and temperature, Horner's syndrome, and ipsilateral limb ataxia. Which artery is occluded?",
+    "options": [
+      "Anterior inferior cerebellar artery",
+      "Posterior inferior cerebellar artery",
+      "Basilar artery",
+      "Anterior spinal artery"
+    ],
+    "correct": 1,
+    "explanation": "This is the lateral medullary (Wallenberg) syndrome caused by PICA occlusion. The crossed sensory loss (ipsilateral face, contralateral body) is the hallmark \u2014 due to the trigeminal nucleus and spinothalamic tract being at the same level but separate. Horner's syndrome results from disruption of the descending sympathetic fibres in the lateral tegmentum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 85,
+    "subject": "Anatomy",
+    "topic": "Neural Tube Closure",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "factual",
+    "question": "At which embryological week does the neural tube close, and what defect results from failure of closure at the caudal end?",
+    "options": [
+      "Week 3 \u2014 anencephaly",
+      "Week 4 \u2014 spina bifida",
+      "Week 6 \u2014 holoprosencephaly",
+      "Week 8 \u2014 hydrocephalus"
+    ],
+    "correct": 1,
+    "explanation": "Neural tube closure occurs during week 4. The rostral neuropore closes around day 25 \u2014 failure causes anencephaly. The caudal neuropore closes around day 27 \u2014 failure causes spina bifida. Folic acid supplementation before conception reduces the risk by approximately 70% by supporting normal neural tube closure.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 86,
+    "subject": "Anatomy",
+    "topic": "Parkinson's Disease Pathway",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 70-year-old woman presents with a resting tremor of the right hand, cogwheel rigidity, and bradykinesia. MRI is normal. Which pathway is most affected?",
+    "options": [
+      "Corticospinal tract",
+      "Nigrostriatal dopaminergic pathway",
+      "Cerebellar-thalamic pathway",
+      "Dorsal column-medial lemniscal pathway"
+    ],
+    "correct": 1,
+    "explanation": "Parkinson's disease results from degeneration of dopaminergic neurons in the substantia nigra pars compacta, depleting dopamine in the striatum. This disrupts the balance between direct (facilitatory) and indirect (inhibitory) basal ganglia pathways, resulting in reduced thalamic activation and the classic triad of tremor, rigidity, and bradykinesia.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 87,
+    "subject": "Anatomy",
+    "topic": "Brainstem Cranial Nerve Nuclei",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "factual",
+    "question": "Which cranial nerve nuclei are located at the level of the midbrain?",
+    "options": [
+      "CN III and CN IV",
+      "CN V and CN VI",
+      "CN VII and CN VIII",
+      "CN IX and CN X"
+    ],
+    "correct": 0,
+    "explanation": "The oculomotor (CN III) nucleus lies in the midbrain at the level of the superior colliculus, and the trochlear (CN IV) nucleus at the inferior colliculus. CN V, VI, VII, and VIII nuclei are in the pons. CN IX, X, XI, and XII nuclei are in the medulla. CN IV is the only cranial nerve to exit dorsally from the brainstem.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 88,
+    "subject": "Anatomy",
+    "topic": "Optic Chiasm Compression",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 40-year-old woman presents with bitemporal hemianopia on visual field testing. MRI shows a sellar mass compressing the optic chiasm. Which fibres are being compressed?",
+    "options": [
+      "Nasal fibres from both retinae carrying temporal visual fields",
+      "Temporal fibres from both retinae carrying nasal visual fields",
+      "All fibres from the right optic nerve",
+      "Fibres from the left lateral geniculate body"
+    ],
+    "correct": 0,
+    "explanation": "At the optic chiasm, nasal retinal fibres (which carry temporal visual field information) decussate to the contralateral optic tract. A midline compressive lesion selectively damages these crossing fibres, causing bitemporal hemianopia \u2014 loss of the outer (temporal) visual fields bilaterally. Temporal fibres do not cross and are spared.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 89,
+    "subject": "Anatomy",
+    "topic": "Adrenal Medulla Embryology",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "factual",
+    "question": "Which embryological structure gives rise to the adrenal medulla?",
+    "options": [
+      "Intermediate mesoderm",
+      "Lateral plate mesoderm",
+      "Neural crest cells",
+      "Surface ectoderm"
+    ],
+    "correct": 2,
+    "explanation": "The adrenal medulla is derived from neural crest cells that migrate to the developing adrenal gland and differentiate into chromaffin cells. The adrenal cortex, by contrast, arises from intermediate mesoderm. This dual origin explains why phaeochromocytomas (tumours of chromaffin cells) and neuroblastomas share a neural crest lineage.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 90,
+    "subject": "Anatomy",
+    "topic": "Spinal Shock",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 35-year-old man sustains a C5 spinal cord transection. Which of the following would you expect to find below the level of injury?",
+    "options": [
+      "Flaccid paralysis and absent reflexes acutely, then spastic paralysis and hyperreflexia",
+      "Spastic paralysis and hyperreflexia from the outset",
+      "Flaccid paralysis and hyperreflexia",
+      "No motor deficit but loss of sensation only"
+    ],
+    "correct": 0,
+    "explanation": "Acute spinal cord transection causes spinal shock \u2014 flaccid paralysis with absent reflexes below the lesion, due to sudden loss of descending facilitatory inputs. After days to weeks, spinal reflex arcs recover in isolation from supraspinal control, producing UMN signs: spastic paralysis, hyperreflexia, and extensor plantar responses.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 91,
+    "subject": "Anatomy",
+    "topic": "Blood Brain Barrier",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "factual",
+    "question": "The blood-brain barrier is primarily formed by which cellular structure?",
+    "options": [
+      "Choroid plexus epithelium",
+      "Tight junctions between cerebral capillary endothelial cells",
+      "Astrocyte foot processes",
+      "Pericytes surrounding capillaries"
+    ],
+    "correct": 1,
+    "explanation": "The BBB is formed by tight junctions (zonulae occludentes) between adjacent cerebral capillary endothelial cells, making it virtually impermeable to large molecules and hydrophilic substances. Astrocyte foot processes support and maintain the barrier but do not form it. This distinction is clinically important \u2014 BBB disruption is seen in inflammation, tumours, and trauma.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 92,
+    "subject": "Anatomy",
+    "topic": "Posterior Cerebral Artery",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 60-year-old man with atrial fibrillation develops sudden left homonymous hemianopia with macular sparing. Which artery is most likely occluded?",
+    "options": [
+      "Left middle cerebral artery",
+      "Right posterior cerebral artery",
+      "Right middle cerebral artery",
+      "Basilar artery"
+    ],
+    "correct": 1,
+    "explanation": "The posterior cerebral artery supplies the visual cortex (occipital lobe). Right PCA occlusion causes left homonymous hemianopia. Macular sparing occurs because the macula has dual blood supply from both PCA and MCA branches at the occipital pole. AF is a major risk factor for cardioembolic strokes.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 93,
+    "subject": "Anatomy",
+    "topic": "Pituitary Embryology",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "factual",
+    "question": "Which embryological derivative forms the anterior pituitary gland?",
+    "options": [
+      "Neuroectoderm (floor of diencephalon)",
+      "Rathke's pouch (oral ectoderm)",
+      "Neural crest cells",
+      "Mesoderm of the pharyngeal arches"
+    ],
+    "correct": 1,
+    "explanation": "The anterior pituitary (adenohypophysis) arises from Rathke's pouch \u2014 an upward evagination of oral ectoderm (roof of stomodeum). The posterior pituitary (neurohypophysis) arises from a downward evagination of neuroectoderm from the floor of the diencephalon. Craniopharyngiomas arise from remnants of Rathke's pouch.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 94,
+    "subject": "Anatomy",
+    "topic": "Central Cord Syndrome",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A 25-year-old man dives into a shallow pool and sustains a hyperflexion injury. He presents with weakness of both arms but intact leg function, with loss of pain and temperature in a cape distribution. What is the most likely diagnosis?",
+    "options": [
+      "Brown-S\u00e9quard syndrome",
+      "Anterior cord syndrome",
+      "Central cord syndrome",
+      "Posterior cord syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Central cord syndrome is the most common incomplete spinal cord injury, typically from hyperextension in older patients or hyperflexion in younger ones. The central cord contains the cervical motor fibres \u2014 hence arms are weaker than legs (sacral fibres are peripheral). The cape distribution of sensory loss reflects spinothalamic involvement at the cervical level.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 95,
+    "subject": "Anatomy",
+    "topic": "Tethered Cord",
+    "subtopic": "Neuroanatomy & Embryology",
+    "type": "clinical",
+    "question": "A neonate is found to have a tuft of hair overlying the lower lumbar spine. MRI shows the conus medullaris at L4 with a fatty filum terminale. The infant has no neurological deficits. What is this condition?",
+    "options": [
+      "Meningocele",
+      "Myelomeningocele",
+      "Spina bifida occulta with tethered cord",
+      "Lipomyelomeningocele"
+    ],
+    "correct": 2,
+    "explanation": "Spina bifida occulta with tethered cord is a closed neural tube defect where the spinal cord is anchored caudally by a thickened fatty filum terminale, preventing normal ascent. A cutaneous stigmata (hair tuft, dimple, haemangioma) overlying the lumbar spine is the classic clue. Neurological deficits may develop later as the child grows and the cord stretches.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   }
 ]
