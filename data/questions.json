@@ -1623,5 +1623,260 @@
     "correct": 2,
     "explanation": "Spina bifida occulta with tethered cord is a closed neural tube defect where the spinal cord is anchored caudally by a thickened fatty filum terminale, preventing normal ascent. A cutaneous stigmata (hair tuft, dimple, haemangioma) overlying the lumbar spine is the classic clue. Neurological deficits may develop later as the child grows and the cord stretches.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
+  },
+  {
+    "id": 96,
+    "subject": "Anatomy",
+    "topic": "Respiratory Epithelium",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which type of epithelium lines the trachea and is capable of moving mucus toward the pharynx?",
+    "options": [
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Pseudostratified ciliated columnar epithelium",
+      "Simple cuboidal epithelium"
+    ],
+    "correct": 2,
+    "explanation": "The trachea is lined by pseudostratified ciliated columnar epithelium (respiratory epithelium), which also contains goblet cells secreting mucus. The cilia beat in coordinated waves to propel mucus and trapped particles upward toward the pharynx \u2014 the mucociliary escalator. Loss of this function in smokers predisposes to recurrent respiratory infections.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 17, Respiratory System"
+  },
+  {
+    "id": 97,
+    "subject": "Anatomy",
+    "topic": "Barrett's Oesophagus",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A biopsy from the gastro-oesophageal junction shows replacement of the normal stratified squamous epithelium with columnar epithelium containing goblet cells. What is this change called and what is its significance?",
+    "options": [
+      "Dysplasia \u2014 premalignant change to squamous cell carcinoma",
+      "Metaplasia \u2014 Barrett's oesophagus, risk of adenocarcinoma",
+      "Hyperplasia \u2014 benign response to chronic inflammation",
+      "Anaplasia \u2014 highly aggressive malignant transformation"
+    ],
+    "correct": 1,
+    "explanation": "Barrett's oesophagus is intestinal metaplasia of the oesophageal mucosa, driven by chronic gastro-oesophageal reflux. The normal stratified squamous epithelium is replaced by columnar epithelium with goblet cells (intestinal type). This carries a significantly increased risk of oesophageal adenocarcinoma and requires endoscopic surveillance.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 15, Digestive Tract"
+  },
+  {
+    "id": 98,
+    "subject": "Anatomy",
+    "topic": "Gastric Parietal Cells",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which cells in the gastric mucosa secrete hydrochloric acid and intrinsic factor?",
+    "options": [
+      "Chief cells",
+      "G cells",
+      "Parietal cells",
+      "Mucous neck cells"
+    ],
+    "correct": 2,
+    "explanation": "Parietal (oxyntic) cells secrete both hydrochloric acid (via H+/K+ ATPase) and intrinsic factor, essential for vitamin B12 absorption. Chief cells secrete pepsinogen. G cells secrete gastrin. Autoimmune destruction of parietal cells causes achlorhydria and pernicious anaemia due to loss of intrinsic factor.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 15, Digestive Tract"
+  },
+  {
+    "id": 99,
+    "subject": "Anatomy",
+    "topic": "Liver Cirrhosis Histology",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A 45-year-old man undergoes a liver biopsy. The pathologist describes loss of normal lobular architecture, bridging fibrosis between portal tracts, and regenerative nodules. What is the histological diagnosis?",
+    "options": [
+      "Acute hepatitis",
+      "Hepatic steatosis",
+      "Cirrhosis",
+      "Hepatocellular carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "Cirrhosis is defined histologically by diffuse hepatic fibrosis with regenerative nodule formation, disrupting normal lobular architecture. Bridging fibrosis connecting portal tracts and central veins is the hallmark. This pattern is irreversible and results from repeated hepatocyte injury regardless of the aetiology \u2014 alcohol, viral hepatitis, or NAFLD.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 16, Liver and Biliary Tract"
+  },
+  {
+    "id": 100,
+    "subject": "Anatomy",
+    "topic": "CNS Myelination",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which cell type produces myelin in the central nervous system?",
+    "options": [
+      "Schwann cells",
+      "Microglia",
+      "Astrocytes",
+      "Oligodendrocytes"
+    ],
+    "correct": 3,
+    "explanation": "Oligodendrocytes myelinate axons in the CNS, with a single oligodendrocyte myelinating up to 50 axons simultaneously. Schwann cells myelinate axons in the PNS, with each Schwann cell myelinating only one axon segment. Multiple sclerosis involves autoimmune destruction of oligodendrocytes and CNS myelin.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 9, Nervous Tissue"
+  },
+  {
+    "id": 101,
+    "subject": "Anatomy",
+    "topic": "Collagen",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which connective tissue fibre provides tensile strength and is the most abundant protein in the human body?",
+    "options": [
+      "Elastin",
+      "Reticulin",
+      "Collagen",
+      "Fibronectin"
+    ],
+    "correct": 2,
+    "explanation": "Collagen is the most abundant protein in the body, comprising about 30% of total protein mass. It provides tensile strength to tendons, ligaments, skin, and bone. Type I collagen is the most common overall. Elastin provides elastic recoil. Reticulin (type III collagen) forms the scaffolding of lymph nodes, spleen, and liver.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 5, Connective Tissue"
+  },
+  {
+    "id": 102,
+    "subject": "Anatomy",
+    "topic": "Paget's Disease Histology",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A 60-year-old woman presents with bone pain, increased serum alkaline phosphatase, and a bone biopsy showing increased osteoclast and osteoblast activity with a disorganised mosaic pattern of lamellar and woven bone. What is the diagnosis?",
+    "options": [
+      "Osteoporosis",
+      "Osteomalacia",
+      "Paget's disease of bone",
+      "Hyperparathyroidism"
+    ],
+    "correct": 2,
+    "explanation": "Paget's disease is characterised by abnormal bone remodelling \u2014 excessive osteoclastic resorption followed by disorganised osteoblastic activity, producing a chaotic mosaic pattern of woven and lamellar bone. Markedly elevated alkaline phosphatase reflects high bone turnover. Osteoporosis shows normal histology with reduced bone mass.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 7, Bone"
+  },
+  {
+    "id": 103,
+    "subject": "Anatomy",
+    "topic": "Renal Corpuscle",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which structure in the kidney is responsible for filtration and consists of a glomerular capillary tuft surrounded by Bowman's capsule?",
+    "options": [
+      "Loop of Henle",
+      "Renal corpuscle",
+      "Macula densa",
+      "Juxtaglomerular apparatus"
+    ],
+    "correct": 1,
+    "explanation": "The renal corpuscle comprises the glomerular capillary tuft and Bowman's capsule. Filtration occurs across the filtration membrane \u2014 fenestrated endothelium, glomerular basement membrane, and podocyte foot processes. The juxtaglomerular apparatus regulates filtration rate and blood pressure via renin secretion.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 19, Urinary System"
+  },
+  {
+    "id": 104,
+    "subject": "Anatomy",
+    "topic": "Minimal Change Disease",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A renal biopsy from a 25-year-old man with nephrotic syndrome shows fusion of podocyte foot processes on electron microscopy, with no immune deposits. Light microscopy is normal. What is the most likely diagnosis?",
+    "options": [
+      "Membranous nephropathy",
+      "IgA nephropathy",
+      "Minimal change disease",
+      "Focal segmental glomerulosclerosis"
+    ],
+    "correct": 2,
+    "explanation": "Minimal change disease is the most common cause of nephrotic syndrome in children and young adults. Light microscopy appears normal, but electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes with no immune deposits \u2014 distinguishing it from membranous nephropathy and IgA nephropathy. It responds well to steroids.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 19, Urinary System"
+  },
+  {
+    "id": 105,
+    "subject": "Anatomy",
+    "topic": "Adrenal Cortex Zones",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which zone of the adrenal cortex produces aldosterone, and what is its histological appearance?",
+    "options": [
+      "Zona glomerulosa \u2014 cells arranged in rounded clusters",
+      "Zona fasciculata \u2014 cells arranged in parallel cords",
+      "Zona reticularis \u2014 cells arranged in anastomosing networks",
+      "Zona glomerulosa \u2014 cells arranged in parallel cords"
+    ],
+    "correct": 0,
+    "explanation": "The zona glomerulosa is the outermost zone, with cells arranged in rounded clusters (glomeruli). It is the sole source of aldosterone, regulated by the renin-angiotensin system and serum potassium. The zona fasciculata produces cortisol and the zona reticularis produces androgens \u2014 both regulated by ACTH.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 20, Endocrine Glands"
+  },
+  {
+    "id": 106,
+    "subject": "Anatomy",
+    "topic": "Hodgkin Lymphoma Histology",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A lymph node biopsy from a 30-year-old man with painless cervical lymphadenopathy shows effacement of normal architecture by large cells with prominent eosinophilic nucleoli surrounded by a clear halo (lacunar cells), and binucleated giant cells with owl-eye nucleoli. What is the diagnosis?",
+    "options": [
+      "Non-Hodgkin lymphoma",
+      "Reactive lymphadenitis",
+      "Hodgkin lymphoma",
+      "Metastatic carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "Reed-Sternberg cells \u2014 large binucleated cells with prominent owl-eye nucleoli \u2014 are the pathognomonic finding in Hodgkin lymphoma. Lacunar cells are a variant seen in nodular sclerosis, the most common subtype. Effacement of nodal architecture distinguishes lymphoma from reactive hyperplasia.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 14, Lymphoid Organs"
+  },
+  {
+    "id": 107,
+    "subject": "Anatomy",
+    "topic": "Cardiac Muscle Histology",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which type of muscle contains centrally placed nuclei, intercalated discs, and branching fibres?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Myoepithelial cells"
+    ],
+    "correct": 2,
+    "explanation": "Cardiac muscle is striated like skeletal muscle but has centrally placed nuclei, branching fibres, and intercalated discs \u2014 specialised junctions containing gap junctions (for electrical coupling) and desmosomes (for mechanical coupling). This allows the heart to function as a functional syncytium. Skeletal muscle has peripheral nuclei and no intercalated discs.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 10, Muscle Tissue"
+  },
+  {
+    "id": 108,
+    "subject": "Anatomy",
+    "topic": "Bronchial Squamous Metaplasia",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A bronchial biopsy from a 55-year-old smoker shows replacement of the normal pseudostratified ciliated columnar epithelium with stratified squamous epithelium. What is this change and what does it predispose to?",
+    "options": [
+      "Dysplasia \u2014 directly transforms to adenocarcinoma",
+      "Squamous metaplasia \u2014 predisposes to squamous cell carcinoma",
+      "Hyperplasia \u2014 benign and reversible with no malignant risk",
+      "Columnar metaplasia \u2014 predisposes to adenocarcinoma"
+    ],
+    "correct": 1,
+    "explanation": "Squamous metaplasia in the bronchial epithelium is a reversible adaptive response to chronic irritation from smoking. The protective pseudostratified epithelium is replaced by hardier stratified squamous epithelium. However, this predisposes to squamous cell carcinoma of the lung if the stimulus (smoking) persists. Cessation of smoking can allow reversal of metaplasia.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 17, Respiratory System"
+  },
+  {
+    "id": 109,
+    "subject": "Anatomy",
+    "topic": "Hassall's Corpuscles",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Hassall's corpuscles are found in which lymphoid organ and what do they represent?",
+    "options": [
+      "Spleen \u2014 sites of red pulp filtration",
+      "Lymph node \u2014 germinal centre remnants",
+      "Thymus \u2014 concentric whorls of epithelial reticular cells in the medulla",
+      "Tonsil \u2014 crypts lined by stratified squamous epithelium"
+    ],
+    "correct": 2,
+    "explanation": "Hassall's corpuscles are concentric whorls of keratinised epithelial reticular cells found in the thymic medulla. They are a histological hallmark of the thymus and are thought to be involved in regulatory T cell development. Their presence confirms thymic tissue on biopsy \u2014 important in distinguishing thymoma from other mediastinal masses.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 14, Lymphoid Organs"
+  },
+  {
+    "id": 110,
+    "subject": "Anatomy",
+    "topic": "Prolactinoma Histology",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A 35-year-old woman presents with amenorrhoea and galactorrhoea. MRI shows a 12mm sellar mass. Histology of the resected tumour shows sheets of cells with round nuclei and granular cytoplasm on H&E, staining positively for prolactin on immunohistochemistry. What is the diagnosis?",
+    "options": [
+      "Craniopharyngioma",
+      "Prolactinoma",
+      "Non-functioning pituitary adenoma",
+      "Meningioma"
+    ],
+    "correct": 1,
+    "explanation": "Prolactinoma is the most common functioning pituitary adenoma. Histologically, pituitary adenomas show a monotonous sheet-like growth pattern replacing the normal acinar architecture, with granular cytoplasm reflecting hormone storage. Immunohistochemistry for prolactin confirms the diagnosis. Amenorrhoea-galactorrhoea syndrome is the classic clinical presentation.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 20, Endocrine Glands"
   }
 ]
