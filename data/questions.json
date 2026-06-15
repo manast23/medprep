@@ -875,5 +875,260 @@
     "correct": 1,
     "explanation": "A small primary spontaneous pneumothorax (less than 2 cm rim, no significant dyspnoea, SpO2 >90%) in a haemodynamically stable patient can be managed conservatively with high-flow oxygen to accelerate nitrogen reabsorption and observation. Aspiration or drain is reserved for larger or symptomatic cases. The tall thin male demographic is the classic presentation.",
     "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
+  },
+  {
+    "id": 52,
+    "subject": "Anatomy",
+    "topic": "Inguinal Hernia",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 35-year-old man presents with a swelling in the groin that descends into the scrotum. It is reducible and has a cough impulse. The swelling is medial to the inferior epigastric vessels on examination. What is the most likely diagnosis?",
+    "options": [
+      "Femoral hernia",
+      "Direct inguinal hernia",
+      "Indirect inguinal hernia",
+      "Hydrocele"
+    ],
+    "correct": 1,
+    "explanation": "Direct inguinal hernias protrude through Hesselbach's triangle, medial to the inferior epigastric vessels, through a weakness in the posterior wall of the inguinal canal. Indirect hernias pass through the deep inguinal ring lateral to the inferior epigastric vessels and descend into the scrotum. Direct hernias are more common in older men and rarely descend into the scrotum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 53,
+    "subject": "Anatomy",
+    "topic": "Broad Ligament",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "Which peritoneal fold carries the round ligament of the uterus?",
+    "options": [
+      "Broad ligament",
+      "Suspensory ligament of the ovary",
+      "Median umbilical fold",
+      "Mesosalpinx"
+    ],
+    "correct": 0,
+    "explanation": "The broad ligament is a double fold of peritoneum that carries the uterine tubes (mesosalpinx), ovaries (mesovarium), and round ligament of the uterus (mesometrium). The round ligament runs from the uterine horn through the inguinal canal to the labium majus \u2014 the female equivalent of the gubernaculum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Pelvis"
+  },
+  {
+    "id": 54,
+    "subject": "Anatomy",
+    "topic": "Femoral Hernia",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 60-year-old woman presents with a groin swelling below and lateral to the pubic tubercle. It is irreducible and tender. What is the most likely diagnosis and why is it more common in women?",
+    "options": [
+      "Direct inguinal hernia \u2014 wider inguinal canal",
+      "Indirect inguinal hernia \u2014 patent processus vaginalis",
+      "Femoral hernia \u2014 wider femoral canal",
+      "Obturator hernia \u2014 wider obturator foramen"
+    ],
+    "correct": 2,
+    "explanation": "Femoral hernias pass through the femoral canal, medial to the femoral vein, below and lateral to the pubic tubercle. They are more common in women due to a wider pelvis and femoral canal. Despite being less common than inguinal hernias overall, femoral hernias have a high rate of strangulation and should be repaired promptly.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 55,
+    "subject": "Anatomy",
+    "topic": "Aortic Bifurcation",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "At which vertebral level does the abdominal aorta bifurcate into the common iliac arteries?",
+    "options": [
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "correct": 2,
+    "explanation": "The abdominal aorta bifurcates at L4 into the right and left common iliac arteries. This is a key landmark \u2014 the bifurcation lies just below and to the left of the umbilicus. The inferior vena cava is formed at L5 by the union of the common iliac veins.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 56,
+    "subject": "Anatomy",
+    "topic": "Appendix Landmark",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 45-year-old man undergoes an appendicectomy. The surgeon identifies the appendix by tracing which structure to its base?",
+    "options": [
+      "Ileum",
+      "Taenia coli",
+      "Haustra",
+      "Mesoappendix"
+    ],
+    "correct": 1,
+    "explanation": "The three taenia coli converge at the base of the appendix \u2014 the most reliable surgical landmark for identifying it. The appendix position is variable (retrocaecal most common at ~65%), but tracing the taenia coli always leads to its base regardless of position.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 57,
+    "subject": "Anatomy",
+    "topic": "Inguinal Canal Walls",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "Which structure forms the floor of the inguinal canal?",
+    "options": [
+      "External oblique aponeurosis",
+      "Conjoint tendon",
+      "Inguinal ligament",
+      "Transversalis fascia"
+    ],
+    "correct": 2,
+    "explanation": "The floor of the inguinal canal is formed by the inguinal ligament (and lacunar ligament medially). The roof is formed by the arching fibres of internal oblique and transversus abdominis. The anterior wall is the external oblique aponeurosis, and the posterior wall is the transversalis fascia (reinforced medially by the conjoint tendon).",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 58,
+    "subject": "Anatomy",
+    "topic": "Ascites",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 55-year-old man with chronic alcoholism presents with abdominal distension, shifting dullness, and a fluid thrill. Paracentesis reveals straw-coloured fluid with protein less than 25 g/L. What is the most likely cause?",
+    "options": [
+      "Tuberculous peritonitis",
+      "Malignant ascites",
+      "Portal hypertension from liver cirrhosis",
+      "Nephrotic syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Hepatic cirrhosis causes portal hypertension, leading to a transudate (low protein, SAAG >11 g/L). Shifting dullness and fluid thrill are classic signs of ascites requiring at least 500 ml and 1000 ml respectively to elicit. TB and malignancy produce exudates with protein >25 g/L.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 59,
+    "subject": "Anatomy",
+    "topic": "Ureter at Pelvic Brim",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "The ureter crosses which structure at the pelvic brim, making it vulnerable during pelvic surgery?",
+    "options": [
+      "External iliac artery",
+      "Internal iliac artery",
+      "Common iliac artery bifurcation",
+      "Obturator artery"
+    ],
+    "correct": 2,
+    "explanation": "The ureter crosses the common iliac artery bifurcation at the pelvic brim, making it vulnerable during pelvic surgery, hysterectomy, and colorectal resections. The mnemonic 'water under the bridge' refers to the ureter passing under the uterine artery in females \u2014 another site of surgical risk.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Pelvis"
+  },
+  {
+    "id": 60,
+    "subject": "Anatomy",
+    "topic": "McBurney's Point",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 28-year-old woman presents with right iliac fossa pain, nausea, and low-grade fever. On examination, Rovsing's sign is positive and there is guarding at McBurney's point. Where is McBurney's point?",
+    "options": [
+      "Midpoint between the umbilicus and the right anterior superior iliac spine",
+      "One third of the way from the right anterior superior iliac spine to the umbilicus",
+      "One third of the way from the umbilicus to the right anterior superior iliac spine",
+      "Midpoint between the right anterior superior iliac spine and the pubic symphysis"
+    ],
+    "correct": 1,
+    "explanation": "McBurney's point lies one third of the way from the right anterior superior iliac spine to the umbilicus. It marks the base of the appendix on the surface. Maximum tenderness here, combined with Rovsing's sign (palpation of the left iliac fossa causing right iliac fossa pain), is highly suggestive of appendicitis.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 61,
+    "subject": "Anatomy",
+    "topic": "Liver Segments",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "Which segment of the liver, according to Couinaud's classification, contains the gallbladder fossa?",
+    "options": [
+      "Segment IV",
+      "Segment V",
+      "Segment VI",
+      "Segment I"
+    ],
+    "correct": 1,
+    "explanation": "The gallbladder lies in the fossa between segments IV (quadrate lobe) and V of the liver. Couinaud's classification divides the liver into 8 functionally independent segments based on portal and hepatic venous supply \u2014 essential for planning hepatic resections. Segment I is the caudate lobe.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 62,
+    "subject": "Anatomy",
+    "topic": "Inferior Mesenteric Artery",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 70-year-old man undergoes an abdominal aortic aneurysm repair. Postoperatively he develops left-sided colonic ischaemia. Which artery was most likely sacrificed during the procedure?",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Left colic artery",
+      "Middle colic artery"
+    ],
+    "correct": 1,
+    "explanation": "The inferior mesenteric artery supplies the descending colon, sigmoid, and upper rectum. During AAA repair it is often ligated, risking left colonic ischaemia if collateral flow via the marginal artery of Drummond is inadequate. The sigmoid colon and splenic flexure (watershed zones) are most vulnerable.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 63,
+    "subject": "Anatomy",
+    "topic": "Femoral Triangle",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "Which muscle forms the medial boundary of the femoral triangle and also contributes to adduction of the thigh?",
+    "options": [
+      "Iliopsoas",
+      "Pectineus",
+      "Adductor longus",
+      "Gracilis"
+    ],
+    "correct": 2,
+    "explanation": "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by the medial border of sartorius, and medially by the medial border of adductor longus. The floor is formed by iliopsoas, pectineus, and adductor longus. Adductor longus is innervated by the obturator nerve and is the medial boundary.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
+  },
+  {
+    "id": 64,
+    "subject": "Anatomy",
+    "topic": "Ureteric Injury",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 40-year-old woman undergoes a hysterectomy. Three weeks postoperatively she develops painless watery vaginal discharge and hydronephrosis on the right side. What is the most likely intraoperative injury?",
+    "options": [
+      "Bladder perforation",
+      "Right ureteric ligation",
+      "Right ureteric transection",
+      "Damage to the internal iliac artery"
+    ],
+    "correct": 2,
+    "explanation": "Ureteric transection during hysterectomy causes urinary leakage presenting as watery vaginal discharge (ureterovaginal fistula) with upstream hydronephrosis. The ureter is most vulnerable where it passes under the uterine artery \u2014 'water under the bridge.' Ligation would cause hydronephrosis without leakage.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Pelvis"
+  },
+  {
+    "id": 65,
+    "subject": "Anatomy",
+    "topic": "Midgut Derivatives",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "factual",
+    "question": "Which of the following is a derivative of the midgut?",
+    "options": [
+      "Oesophagus",
+      "Descending colon",
+      "Jejunum",
+      "Sigmoid colon"
+    ],
+    "correct": 2,
+    "explanation": "The midgut extends from the duodenojejunal flexure to the junction of the proximal two thirds and distal one third of the transverse colon. It gives rise to the jejunum, ileum, caecum, appendix, ascending colon, and proximal transverse colon. The midgut is supplied by the superior mesenteric artery.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
+  },
+  {
+    "id": 66,
+    "subject": "Anatomy",
+    "topic": "Pancreas Relations",
+    "subtopic": "Abdomen & Pelvis",
+    "type": "clinical",
+    "question": "A 50-year-old man presents with severe epigastric pain radiating to the back, relieved by leaning forward. Serum amylase is markedly elevated. CT shows peripancreatic fat stranding. Which part of the pancreas lies directly anterior to the aorta and superior mesenteric artery?",
+    "options": [
+      "Head",
+      "Neck",
+      "Body",
+      "Tail"
+    ],
+    "correct": 1,
+    "explanation": "The neck of the pancreas lies directly anterior to the superior mesenteric vessels and the aorta. This relationship is critical in pancreatic surgery \u2014 the neck is the usual site of transection in Whipple's procedure. The head lies in the C-loop of the duodenum, and the tail reaches the splenic hilum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   }
 ]
