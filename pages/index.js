@@ -11,6 +11,7 @@ const SUBJECTS = [
     ref: "Gray's Anatomy · Snell's Clinical Anatomy",
     color: '#0f6e56',
     gradient: 'linear-gradient(135deg, #0f6e56 0%, #1d9e75 100%)',
+    image: 'https://images.unsplash.com/photo-1559757175-5700dde675bc?w=400&q=80',
     icon: (
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="20" r="8" stroke="white" strokeWidth="2" opacity="0.9"/>
@@ -25,6 +26,7 @@ const SUBJECTS = [
     ref: "Guyton & Hall · Ganong's Review",
     color: '#1d9e75',
     gradient: 'linear-gradient(135deg, #1d9e75 0%, #2ecc71 100%)',
+    image: 'https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=400&q=80',
     icon: (
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M12 32c4-8 8-12 12-8s8 16 12 16 8-12 12-16 8 0 12 8" stroke="white" strokeWidth="2.5" strokeLinecap="round" opacity="0.9"/>
@@ -40,6 +42,7 @@ const SUBJECTS = [
     color: '#e24b4a',
     gradient: 'linear-gradient(135deg, #e24b4a 0%, #ff6b6b 100%)',
     comingSoon: true,
+    image: 'https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&q=80',
     icon: (
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="24" cy="28" r="10" stroke="white" strokeWidth="2" opacity="0.7"/>
@@ -56,6 +59,7 @@ const SUBJECTS = [
     color: '#9b59b6',
     gradient: 'linear-gradient(135deg, #9b59b6 0%, #be93d4 100%)',
     comingSoon: true,
+    image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&q=80',
     icon: (
       <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
         <rect x="20" y="18" width="24" height="28" rx="4" stroke="white" strokeWidth="2" opacity="0.8"/>
@@ -85,8 +89,6 @@ export default function Home() {
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 })
   const heroRef = useRef(null)
 
-  const total = questions.length
-
   const subtopics = selectedSubject && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
     ? ['All', ...Array.from(new Set(
         questions
@@ -115,15 +117,6 @@ export default function Home() {
     return () => window.removeEventListener('mousemove', handleMouseMove)
   }, [])
 
-  const availableCount = selectedSubject && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
-    ? questions.filter(q => {
-        if (selectedSubject && q.subject !== selectedSubject) return false
-        if (subtopic && subtopic !== 'All' && q.subtopic !== subtopic) return false
-        if (qtype && qtype !== 'All' && q.type !== qtype) return false
-        return true
-      }).length
-    : 0
-
   function startQuiz() {
     if (!selectedSubject) return
     const params = new URLSearchParams({
@@ -136,8 +129,7 @@ export default function Home() {
     router.push(`/quiz?${params.toString()}`)
   }
 
-  const canStart = selectedSubject && availableCount > 0 && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
-  const actualCount = Math.min(count, availableCount)
+  const canStart = selectedSubject && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
 
   return (
     <div>
@@ -185,10 +177,6 @@ export default function Home() {
             
             <div className={styles.statsRow}>
               <div className={styles.stat}>
-                <div className={styles.statN}>{total}</div>
-                <div className={styles.statL}>Questions</div>
-              </div>
-              <div className={styles.stat}>
                 <div className={styles.statN}>4</div>
                 <div className={styles.statL}>Subjects</div>
               </div>
@@ -224,8 +212,8 @@ export default function Home() {
                 onClick={() => !subject.comingSoon && setSelectedSubject(subject.key === selectedSubject ? null : subject.key)}
                 style={!subject.comingSoon ? { '--card-color': subject.color } : {}}
               >
-                <div className={styles.cardImage} style={{ background: subject.gradient }}>
-                  {subject.icon}
+                <div className={styles.cardImage} style={{ backgroundImage: `url(${subject.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+                  {!subject.comingSoon && <div className={styles.cardImageOverlay}></div>}
                   {subject.comingSoon && <div className={styles.comingSoonOverlay}>Coming Soon</div>}
                 </div>
                 <div className={styles.cardContent}>
@@ -315,17 +303,11 @@ export default function Home() {
                       key={n}
                       className={`${styles.countBtn} ${count === n ? styles.countBtnActive : ''}`}
                       onClick={() => setCount(n)}
-                      disabled={n > availableCount && availableCount > 0}
                     >
                       {n}
                     </button>
                   ))}
                 </div>
-                {availableCount > 0 && availableCount < Math.max(...COUNT_OPTIONS) && (
-                  <p className={styles.availableNote}>
-                    {availableCount} questions available for this filter
-                  </p>
-                )}
               </div>
             </div>
 
@@ -336,8 +318,8 @@ export default function Home() {
                 disabled={!canStart}
               >
                 {!canStart 
-                  ? (availableCount === 0 ? 'No questions match filters' : 'Select options above')
-                  : `Start ${actualCount}-Question Quiz`}
+                  ? 'Select options above'
+                  : 'Start Quiz →'}
               </button>
             </div>
           </section>

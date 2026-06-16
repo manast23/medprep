@@ -12,6 +12,9 @@
 .hero {
   position: relative;
   background: linear-gradient(135deg, #0f6e56 0%, #1d9e75 100%);
+  background-image: url('https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=1200&q=80');
+  background-size: cover;
+  background-position: center;
   border-radius: var(--radius);
   overflow: hidden;
   min-height: 420px;
@@ -20,10 +23,20 @@
   box-shadow: 0 8px 32px rgba(15, 110, 86, 0.2);
 }
 
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 80, 60, 0.82);
+  border-radius: 16px;
+  z-index: 1;
+}
+
 .heroBg {
   position: absolute;
   inset: 0;
   overflow: hidden;
+  z-index: 0;
 }
 
 .heroGlow {
@@ -38,12 +51,14 @@
   top: var(--mouse-y, 50%);
   transition: left 0.1s ease-out, top 0.1s ease-out;
   mix-blend-mode: overlay;
+  z-index: 1;
 }
 
 .particles {
   position: absolute;
   inset: 0;
   overflow: hidden;
+  z-index: 1;
 }
 
 .particle {
@@ -80,6 +95,7 @@
   width: 400px;
   height: 400px;
   opacity: 0.15;
+  z-index: 1;
 }
 
 .ring {
@@ -123,7 +139,7 @@
 
 .heroContent {
   position: relative;
-  z-index: 1;
+  z-index: 2;
   padding: 3rem;
   max-width: 600px;
   color: white;
@@ -260,12 +276,23 @@
 }
 
 .cardImage {
-  height: 140px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   overflow: hidden;
+}
+
+.cardImageOverlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  transition: opacity 0.3s ease;
+}
+
+.card:hover .cardImageOverlay {
+  opacity: 0.7;
 }
 
 .cardImage svg {
