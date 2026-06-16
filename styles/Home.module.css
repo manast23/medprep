@@ -343,6 +343,17 @@
   line-height: 1.5;
 }
 
+.questionCount {
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--green);
+  background: var(--green-light);
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  display: inline-block;
+}
+
 /* Settings Panel */
 .settingsPanel {
   background: var(--white);

@@ -4,6 +4,12 @@ import Navbar from '../components/Navbar'
 import questions from '../data/questions.json'
 import styles from '../styles/Home.module.css'
 
+// Calculate question counts per subject
+const SUBJECT_QUESTION_COUNTS = questions.reduce((acc, q) => {
+  acc[q.subject] = (acc[q.subject] || 0) + 1;
+  return acc;
+}, {});
+
 const SUBJECTS = [
   { 
     key: 'Anatomy', 
@@ -177,8 +183,12 @@ export default function Home() {
             
             <div className={styles.statsRow}>
               <div className={styles.stat}>
-                <div className={styles.statN}>4</div>
+                <div className={styles.statN}>{Object.keys(SUBJECT_QUESTION_COUNTS).length}</div>
                 <div className={styles.statL}>Subjects</div>
+              </div>
+              <div className={styles.stat}>
+                <div className={styles.statN}>{questions.length}</div>
+                <div className={styles.statL}>Questions</div>
               </div>
               <div className={styles.stat}>
                 <div className={styles.statN}>100%</div>
@@ -219,6 +229,11 @@ export default function Home() {
                 <div className={styles.cardContent}>
                   <h3 className={styles.cardTitle}>{subject.label}</h3>
                   <p className={styles.cardRef}>{subject.ref}</p>
+                  {!subject.comingSoon && (
+                    <div className={styles.questionCount}>
+                      {SUBJECT_QUESTION_COUNTS[subject.key] || 0} Questions
+                    </div>
+                  )}
                 </div>
               </div>
             ))}
