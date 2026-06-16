@@ -5,9 +5,66 @@ import questions from '../data/questions.json'
 import styles from '../styles/Home.module.css'
 
 const SUBJECTS = [
-  { key: 'Anatomy', label: 'Anatomy', ref: "Gray's Anatomy · Snell's Clinical Anatomy" },
-  { key: 'Physiology', label: 'Physiology', ref: "Guyton & Hall · Ganong's Review" },
-  { key: 'All', label: 'Mixed', ref: 'All subjects combined' },
+  { 
+    key: 'Anatomy', 
+    label: 'Anatomy', 
+    ref: "Gray's Anatomy · Snell's Clinical Anatomy",
+    color: '#0f6e56',
+    gradient: 'linear-gradient(135deg, #0f6e56 0%, #1d9e75 100%)',
+    icon: (
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="20" r="8" stroke="white" strokeWidth="2" opacity="0.9"/>
+        <path d="M32 28v16M24 36h16M20 44h24" stroke="white" strokeWidth="2" strokeLinecap="round" opacity="0.7"/>
+        <ellipse cx="32" cy="52" rx="12" ry="6" stroke="white" strokeWidth="2" opacity="0.5"/>
+      </svg>
+    )
+  },
+  { 
+    key: 'Physiology', 
+    label: 'Physiology', 
+    ref: "Guyton & Hall · Ganong's Review",
+    color: '#1d9e75',
+    gradient: 'linear-gradient(135deg, #1d9e75 0%, #2ecc71 100%)',
+    icon: (
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 32c4-8 8-12 12-8s8 16 12 16 8-12 12-16 8 0 12 8" stroke="white" strokeWidth="2.5" strokeLinecap="round" opacity="0.9"/>
+        <circle cx="20" cy="28" r="3" fill="white" opacity="0.6"/>
+        <circle cx="44" cy="28" r="3" fill="white" opacity="0.6"/>
+      </svg>
+    )
+  },
+  { 
+    key: 'Pathology', 
+    label: 'Pathology', 
+    ref: "Robbins Pathology",
+    color: '#e24b4a',
+    gradient: 'linear-gradient(135deg, #e24b4a 0%, #ff6b6b 100%)',
+    comingSoon: true,
+    icon: (
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="24" cy="28" r="10" stroke="white" strokeWidth="2" opacity="0.7"/>
+        <circle cx="40" cy="28" r="10" stroke="white" strokeWidth="2" opacity="0.7"/>
+        <circle cx="32" cy="44" r="10" stroke="white" strokeWidth="2" opacity="0.7"/>
+        <path d="M28 24l8 8M36 24l-8 8" stroke="white" strokeWidth="1.5" opacity="0.5"/>
+      </svg>
+    )
+  },
+  { 
+    key: 'Pharmacology', 
+    label: 'Pharmacology', 
+    ref: "Katzung · Goodman & Gilman",
+    color: '#9b59b6',
+    gradient: 'linear-gradient(135deg, #9b59b6 0%, #be93d4 100%)',
+    comingSoon: true,
+    icon: (
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="20" y="18" width="24" height="28" rx="4" stroke="white" strokeWidth="2" opacity="0.8"/>
+        <line x1="20" y1="32" x2="44" y2="32" stroke="white" strokeWidth="2" opacity="0.6"/>
+        <circle cx="32" cy="25" r="3" stroke="white" strokeWidth="1.5" opacity="0.7"/>
+        <circle cx="32" cy="39" r="3" stroke="white" strokeWidth="1.5" opacity="0.7"/>
+      </svg>
+    )
+  },
 ]
 
 const QUESTION_TYPES = [
@@ -16,51 +73,61 @@ const QUESTION_TYPES = [
   { key: 'clinical', label: 'Clinical', desc: 'Scenario-based questions' },
 ]
 
+const COUNT_OPTIONS = [10, 25, 50, 100]
+
 export default function Home() {
   const router = useRouter()
-  const [subject, setSubject] = useState(null)
+  const [selectedSubject, setSelectedSubject] = useState(null)
   const [subtopic, setSubtopic] = useState('All')
   const [qtype, setQtype] = useState('All')
   const [mode, setMode] = useState('untimed')
-  const [count, setCount] = useState(20)
-  const subtopicRef = useRef(null)
+  const [count, setCount] = useState(10)
+  const [mousePos, setMousePos] = useState({ x: 0, y: 0 })
+  const heroRef = useRef(null)
 
   const total = questions.length
 
-  const subtopics = subject && subject !== 'All'
+  const subtopics = selectedSubject && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
     ? ['All', ...Array.from(new Set(
         questions
-          .filter(q => q.subject === subject && q.subtopic)
+          .filter(q => q.subject === selectedSubject && q.subtopic)
           .map(q => q.subtopic)
       ))]
     : []
 
   useEffect(() => {
     setSubtopic('All')
-    // Scroll to subtopic section after subject is selected
-    if (subject && subject !== 'All' && subtopicRef.current) {
-      setTimeout(() => {
-        subtopicRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' })
-      }, 50)
+    setQtype('All')
+  }, [selectedSubject])
+
+  // Mouse tracking for hero glow effect
+  useEffect(() => {
+    function handleMouseMove(e) {
+      if (heroRef.current) {
+        const rect = heroRef.current.getBoundingClientRect()
+        setMousePos({
+          x: e.clientX - rect.left,
+          y: e.clientY - rect.top
+        })
+      }
     }
-  }, [subject])
+    window.addEventListener('mousemove', handleMouseMove)
+    return () => window.removeEventListener('mousemove', handleMouseMove)
+  }, [])
 
-  const availableCount = questions.filter(q => {
-    if (subject && subject !== 'All' && q.subject !== subject) return false
-    if (subtopic && subtopic !== 'All' && q.subtopic !== subtopic) return false
-    if (qtype && qtype !== 'All' && q.type !== qtype) return false
-    return true
-  }).length
-
-  function getSubjectCount(key) {
-    if (key === 'All') return total
-    return questions.filter(q => q.subject === key).length
-  }
+  const availableCount = selectedSubject && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
+    ? questions.filter(q => {
+        if (selectedSubject && q.subject !== selectedSubject) return false
+        if (subtopic && subtopic !== 'All' && q.subtopic !== subtopic) return false
+        if (qtype && qtype !== 'All' && q.type !== qtype) return false
+        return true
+      }).length
+    : 0
 
   function startQuiz() {
-    if (!subject) return
+    if (!selectedSubject) return
     const params = new URLSearchParams({
-      subject,
+      subject: selectedSubject,
       subtopic: subtopic || 'All',
       qtype: qtype || 'All',
       mode,
@@ -69,164 +136,235 @@ export default function Home() {
     router.push(`/quiz?${params.toString()}`)
   }
 
-  const canStart = subject && availableCount > 0
+  const canStart = selectedSubject && availableCount > 0 && !SUBJECTS.find(s => s.key === selectedSubject)?.comingSoon
   const actualCount = Math.min(count, availableCount)
 
   return (
     <div>
       <Navbar />
       <main className={styles.main}>
-        <div className={styles.left}>
-          <div className={styles.heroTag}>Medical MCQ practice</div>
-          <h1 className={styles.heroH1}>MCQ practice for medical students</h1>
-          <p className={styles.heroSub}>
-            Clinical scenario-based questions with full textbook explanations.
-            No past papers needed — just structured, exam-style practice.
-          </p>
-
-          <div className={styles.statsRow}>
-            <div className={styles.stat}>
-              <div className={styles.statN}>{total}</div>
-              <div className={styles.statL}>Questions</div>
-            </div>
-            <div className={styles.stat}>
-              <div className={styles.statN}>2</div>
-              <div className={styles.statL}>Subjects</div>
-            </div>
-            <div className={styles.stat}>
-              <div className={styles.statN}>100%</div>
-              <div className={styles.statL}>Explained</div>
-            </div>
-          </div>
-
-          {/* Subject */}
-          <div className={styles.sectionLabel}>Choose a subject</div>
-          <div className={styles.subjectList}>
-            {SUBJECTS.map(s => (
-              <div
-                key={s.key}
-                className={`${styles.subjectRow} ${subject === s.key ? styles.subjectRowActive : ''}`}
-                onClick={() => setSubject(s.key)}
-              >
-                <div>
-                  <div className={styles.subjectName}>{s.label}</div>
-                  <div className={styles.subjectRef}>{s.ref}</div>
-                </div>
-                <span className={`${styles.pill} ${s.key === 'All' ? styles.pillGray : styles.pillTeal}`}>
-                  {getSubjectCount(s.key)} questions
-                </span>
-              </div>
-            ))}
-          </div>
-
-          {/* Subtopic */}
-          {subtopics.length > 1 && (
-            <div ref={subtopicRef}>
-              <div className={styles.sectionLabel} style={{ marginTop: '20px' }}>Choose a subtopic</div>
-              <div className={styles.subjectList}>
-                {subtopics.map(st => {
-                  const stCount = st === 'All'
-                    ? questions.filter(q => q.subject === subject).length
-                    : questions.filter(q => q.subject === subject && q.subtopic === st).length
-                  return (
-                    <div
-                      key={st}
-                      className={`${styles.subjectRow} ${subtopic === st ? styles.subjectRowActive : ''}`}
-                      onClick={() => setSubtopic(st)}
-                    >
-                      <div className={styles.subjectName}>{st}</div>
-                      <span className={`${styles.pill} ${st === 'All' ? styles.pillGray : styles.pillTeal}`}>
-                        {stCount} questions
-                      </span>
-                    </div>
-                  )
-                })}
-              </div>
-            </div>
-          )}
-
-          {/* Question type */}
-          <div className={styles.sectionLabel} style={{ marginTop: '20px' }}>Question type</div>
-          <div className={styles.modeGrid} style={{ gridTemplateColumns: 'repeat(3, 1fr)' }}>
-            {QUESTION_TYPES.map(t => (
-              <div
-                key={t.key}
-                className={`${styles.modeCard} ${qtype === t.key ? styles.modeCardActive : ''}`}
-                onClick={() => setQtype(t.key)}
-              >
-                <div className={styles.modeTitle}>{t.label}</div>
-                <div className={styles.modeDesc}>{t.desc}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        <div className={styles.right}>
-          <div className={styles.sideCard}>
-            <div className={styles.sideTitle}>Quiz settings</div>
-
-            <div className={styles.sectionLabel}>Mode</div>
-            <div className={styles.modeGrid}>
-              {['untimed', 'timed'].map(m => (
-                <div
-                  key={m}
-                  className={`${styles.modeCard} ${mode === m ? styles.modeCardActive : ''}`}
-                  onClick={() => setMode(m)}
-                >
-                  <div className={styles.modeTitle}>{m === 'untimed' ? 'Untimed' : 'Timed'}</div>
-                  <div className={styles.modeDesc}>{m === 'untimed' ? 'Study at your pace' : '90 sec per question'}</div>
-                </div>
+        {/* Hero Section */}
+        <section 
+          ref={heroRef}
+          className={styles.hero}
+          style={{
+            '--mouse-x': `${mousePos.x}px`,
+            '--mouse-y': `${mousePos.y}px`
+          }}
+        >
+          <div className={styles.heroBg}>
+            <div className={styles.heroGlow}></div>
+            <div className={styles.particles}>
+              {[...Array(20)].map((_, i) => (
+                <div 
+                  key={i} 
+                  className={styles.particle}
+                  style={{
+                    left: `${Math.random() * 100}%`,
+                    top: `${Math.random() * 100}%`,
+                    animationDelay: `${Math.random() * 5}s`,
+                    animationDuration: `${5 + Math.random() * 10}s`
+                  }}
+                />
               ))}
             </div>
-
-            <div className={styles.sectionLabel}>Questions per session</div>
-            <div className={styles.countRow}>
-              {[10, 20, 30].map(n => (
-                <div
-                  key={n}
-                  className={`${styles.countBtn} ${count === n ? styles.countBtnActive : ''}`}
-                  onClick={() => setCount(n)}
-                >
-                  {n}
-                </div>
-              ))}
+            <div className={styles.anatomicalRings}>
+              <div className={`${styles.ring} ${styles.ring1}`}></div>
+              <div className={`${styles.ring} ${styles.ring2}`}></div>
+              <div className={`${styles.ring} ${styles.ring3}`}></div>
+            </div>
+          </div>
+          
+          <div className={styles.heroContent}>
+            <div className={styles.heroTag}>Medical MCQ Practice</div>
+            <h1 className={styles.heroH1}>Master Medical Sciences<br/>Through Active Recall</h1>
+            <p className={styles.heroSub}>
+              Clinical scenario-based questions with detailed textbook explanations. 
+              Built for medical students who want structured, exam-style practice.
+            </p>
+            
+            <div className={styles.statsRow}>
+              <div className={styles.stat}>
+                <div className={styles.statN}>{total}</div>
+                <div className={styles.statL}>Questions</div>
+              </div>
+              <div className={styles.stat}>
+                <div className={styles.statN}>4</div>
+                <div className={styles.statL}>Subjects</div>
+              </div>
+              <div className={styles.stat}>
+                <div className={styles.statN}>100%</div>
+                <div className={styles.statL}>Explained</div>
+              </div>
             </div>
 
-            {subject && availableCount < count && (
-              <div className={styles.availableNote}>
-                Only {availableCount} question{availableCount !== 1 ? 's' : ''} available for this filter
-              </div>
-            )}
-
-            <button
-              className={styles.cta}
-              onClick={startQuiz}
-              disabled={!canStart}
+            <button 
+              className={styles.heroCta}
+              onClick={() => {
+                const firstAvailable = SUBJECTS.find(s => !s.comingSoon)
+                if (firstAvailable) setSelectedSubject(firstAvailable.key)
+              }}
             >
-              {!subject
-                ? 'Select a subject first'
-                : availableCount === 0
-                ? 'No questions match filters'
-                : `Start ${actualCount}-question quiz`}
+              Start Practicing
+              <svg className={styles.ctaArrow} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5 12h14M13 5l7 7-7 7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
             </button>
           </div>
+        </section>
 
-          <div className={styles.sideCard}>
-            <div className={styles.sideTitle}>Why trust this?</div>
-            <div className={styles.trustRow}>
-              <span className={styles.trustIcon}>✓</span>
-              <span>Built by a medical graduate who understands the struggle</span>
+        {/* Subject Cards */}
+        <section className={styles.subjectsSection}>
+          <h2 className={styles.sectionTitle}>Choose Your Subject</h2>
+          <div className={styles.cardsGrid}>
+            {SUBJECTS.map(subject => (
+              <div
+                key={subject.key}
+                className={`${styles.card} ${subject.comingSoon ? styles.cardComingSoon : ''} ${selectedSubject === subject.key ? styles.cardSelected : ''}`}
+                onClick={() => !subject.comingSoon && setSelectedSubject(subject.key === selectedSubject ? null : subject.key)}
+                style={!subject.comingSoon ? { '--card-color': subject.color } : {}}
+              >
+                <div className={styles.cardImage} style={{ background: subject.gradient }}>
+                  {subject.icon}
+                  {subject.comingSoon && <div className={styles.comingSoonOverlay}>Coming Soon</div>}
+                </div>
+                <div className={styles.cardContent}>
+                  <h3 className={styles.cardTitle}>{subject.label}</h3>
+                  <p className={styles.cardRef}>{subject.ref}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Settings Panel - Shows when subject is selected */}
+        {selectedSubject && (
+          <section className={styles.settingsPanel}>
+            <div className={styles.panelHeader}>
+              <h2 className={styles.panelTitle}>
+                {SUBJECTS.find(s => s.key === selectedSubject)?.label} Quiz Settings
+              </h2>
+              <button 
+                className={styles.closeBtn}
+                onClick={() => setSelectedSubject(null)}
+              >
+                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+                </svg>
+              </button>
             </div>
-            <div className={styles.trustRow}>
-              <span className={styles.trustIcon}>✓</span>
-              <span>Referenced to Gray's, Guyton, Snell's, and Ganong's</span>
+
+            <div className={styles.settingsGrid}>
+              {/* Subtopic */}
+              {subtopics.length > 1 && (
+                <div className={styles.settingGroup}>
+                  <label className={styles.settingLabel}>Subtopic</label>
+                  <div className={styles.optionsGrid}>
+                    {subtopics.map(st => (
+                      <button
+                        key={st}
+                        className={`${styles.optionBtn} ${subtopic === st ? styles.optionBtnActive : ''}`}
+                        onClick={() => setSubtopic(st)}
+                      >
+                        {st}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Question Type */}
+              <div className={styles.settingGroup}>
+                <label className={styles.settingLabel}>Question Type</label>
+                <div className={styles.optionsGrid}>
+                  {QUESTION_TYPES.map(t => (
+                    <button
+                      key={t.key}
+                      className={`${styles.optionBtn} ${qtype === t.key ? styles.optionBtnActive : ''}`}
+                      onClick={() => setQtype(t.key)}
+                    >
+                      {t.label}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {/* Mode */}
+              <div className={styles.settingGroup}>
+                <label className={styles.settingLabel}>Mode</label>
+                <div className={styles.modeOptions}>
+                  {['untimed', 'timed'].map(m => (
+                    <button
+                      key={m}
+                      className={`${styles.modeBtn} ${mode === m ? styles.modeBtnActive : ''}`}
+                      onClick={() => setMode(m)}
+                    >
+                      <span className={styles.modeBtnTitle}>{m === 'untimed' ? 'Untimed' : 'Timed'}</span>
+                      <span className={styles.modeBtnDesc}>{m === 'untimed' ? 'Study at your pace' : '90 sec/question'}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {/* Question Count */}
+              <div className={styles.settingGroup}>
+                <label className={styles.settingLabel}>Number of Questions</label>
+                <div className={styles.countOptions}>
+                  {COUNT_OPTIONS.map(n => (
+                    <button
+                      key={n}
+                      className={`${styles.countBtn} ${count === n ? styles.countBtnActive : ''}`}
+                      onClick={() => setCount(n)}
+                      disabled={n > availableCount && availableCount > 0}
+                    >
+                      {n}
+                    </button>
+                  ))}
+                </div>
+                {availableCount > 0 && availableCount < Math.max(...COUNT_OPTIONS) && (
+                  <p className={styles.availableNote}>
+                    {availableCount} questions available for this filter
+                  </p>
+                )}
+              </div>
             </div>
-            <div className={styles.trustRow}>
-              <span className={styles.trustIcon}>✓</span>
-              <span>Reviewed by qualified doctors and graduates</span>
+
+            <div className={styles.panelFooter}>
+              <button
+                className={styles.startBtn}
+                onClick={startQuiz}
+                disabled={!canStart}
+              >
+                {!canStart 
+                  ? (availableCount === 0 ? 'No questions match filters' : 'Select options above')
+                  : `Start ${actualCount}-Question Quiz`}
+              </button>
+            </div>
+          </section>
+        )}
+
+        {/* Trust Section */}
+        <section className={styles.trustSection}>
+          <h2 className={styles.trustTitle}>Why Trust This Platform?</h2>
+          <div className={styles.trustGrid}>
+            <div className={styles.trustItem}>
+              <div className={styles.trustIcon}>✓</div>
+              <div className={styles.trustText}>Built by medical graduates who understand the struggle</div>
+            </div>
+            <div className={styles.trustItem}>
+              <div className={styles.trustIcon}>✓</div>
+              <div className={styles.trustText}>Referenced to Gray's, Guyton, Snell's, Robbins, and Katzung</div>
+            </div>
+            <div className={styles.trustItem}>
+              <div className={styles.trustIcon}>✓</div>
+              <div className={styles.trustText}>Reviewed by qualified doctors and postgraduates</div>
+            </div>
+            <div className={styles.trustItem}>
+              <div className={styles.trustIcon}>✓</div>
+              <div className={styles.trustText}>Detailed explanations for every question</div>
             </div>
           </div>
-        </div>
+        </section>
       </main>
     </div>
   )
