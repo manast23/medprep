@@ -108,7 +108,7 @@
   margin-bottom: 14px;
 }
 .timerLabel { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--text-muted); margin-bottom: 6px; }
-.timerBig { font-size: 36px; font-weight: 700; 500; color: var(--green); }
+.timerBig { font-size: 36px; font-weight: 700; color: var(--green); }
 .timerWarn { color: var(--incorrect); }
 
 .expBox {
