@@ -1,34 +1,38 @@
 /* Main Layout */
 .main {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
-  padding: 0 2rem 3rem;
+  padding: 0 1rem 3rem;
   display: flex;
   flex-direction: column;
   gap: 3rem;
+  width: 100%;
 }
 
-/* Hero Section */
+/* Hero Section - Full Width */
 .hero {
   position: relative;
   background: linear-gradient(135deg, #0f6e56 0%, #1d9e75 100%);
-  background-image: url('https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=1200&q=80');
+  background-image: url('https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=1920&q=80');
   background-size: cover;
   background-position: center;
-  border-radius: var(--radius);
+  border-radius: 0;
   overflow: hidden;
-  min-height: 580px;
+  min-height: 600px;
   display: flex;
   align-items: center;
-  box-shadow: 0 8px 32px rgba(15, 110, 86, 0.2);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
 }
 
 .hero::before {
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(10, 80, 60, 0.82);
-  border-radius: 16px;
+  background: linear-gradient(135deg, rgba(10, 80, 60, 0.88) 0%, rgba(15, 110, 86, 0.82) 100%);
+  border-radius: 0;
   z-index: 1;
 }
 
