@@ -17,7 +17,7 @@
   background-position: center;
   border-radius: var(--radius);
   overflow: hidden;
-  min-height: 420px;
+  min-height: 580px;
   display: flex;
   align-items: center;
   box-shadow: 0 8px 32px rgba(15, 110, 86, 0.2);
@@ -276,12 +276,14 @@
 }
 
 .cardImage {
-  height: 100px;
+  height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   overflow: hidden;
+  background-size: cover;
+  background-position: center;
 }
 
 .cardImageOverlay {
@@ -582,43 +584,37 @@
 }
 
 /* Trust Section */
-.trustSection {
+.featuresSection {
   padding: 0 1rem;
 }
 
-.trustTitle {
-  font-size: 18px;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.trustGrid {
+.featuresGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 16px;
 }
 
-.trustItem {
-  display: flex;
-  align-items: flex-start;
-  gap: 12px;
-  padding: 16px;
+.featureItem {
+  padding: 24px;
   background: var(--white);
   border: 0.5px solid var(--border);
   border-radius: var(--radius);
+  text-align: center;
 }
 
-.trustIcon {
-  color: var(--green);
-  font-weight: 700;
-  font-size: 16px;
-  flex-shrink: 0;
-  margin-top: 2px;
+.featureIcon {
+  font-size: 28px;
+  margin-bottom: 12px;
 }
 
-.trustText {
+.featureTitle {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.featureDesc {
   font-size: 13px;
   color: var(--text-muted);
   line-height: 1.6;
@@ -631,7 +627,7 @@
   }
   
   .hero {
-    min-height: 380px;
+    min-height: 480px;
   }
   
   .heroContent {

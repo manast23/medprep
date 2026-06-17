@@ -215,29 +215,29 @@ export default function Home() {
         <section className={styles.subjectsSection}>
           <h2 className={styles.sectionTitle}>Choose Your Subject</h2>
           <div className={styles.cardsGrid}>
-            {SUBJECTS.map(subject => (
+            {SUBJECTS.filter(s => !s.comingSoon).map(subject => (
               <div
                 key={subject.key}
-                className={`${styles.card} ${subject.comingSoon ? styles.cardComingSoon : ''} ${selectedSubject === subject.key ? styles.cardSelected : ''}`}
-                onClick={() => !subject.comingSoon && setSelectedSubject(subject.key === selectedSubject ? null : subject.key)}
-                style={!subject.comingSoon ? { '--card-color': subject.color } : {}}
+                className={`${styles.card} ${selectedSubject === subject.key ? styles.cardSelected : ''}`}
+                onClick={() => setSelectedSubject(subject.key === selectedSubject ? null : subject.key)}
+                style={{ '--card-color': subject.color }}
               >
                 <div className={styles.cardImage} style={{ backgroundImage: `url(${subject.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
-                  {!subject.comingSoon && <div className={styles.cardImageOverlay}></div>}
-                  {subject.comingSoon && <div className={styles.comingSoonOverlay}>Coming Soon</div>}
+                  <div className={styles.cardImageOverlay}></div>
                 </div>
                 <div className={styles.cardContent}>
                   <h3 className={styles.cardTitle}>{subject.label}</h3>
                   <p className={styles.cardRef}>{subject.ref}</p>
-                  {!subject.comingSoon && (
-                    <div className={styles.questionCount}>
-                      {SUBJECT_QUESTION_COUNTS[subject.key] || 0} Questions
-                    </div>
-                  )}
+                  <div className={styles.questionCount}>
+                    {SUBJECT_QUESTION_COUNTS[subject.key] || 0} Questions
+                  </div>
                 </div>
               </div>
             ))}
           </div>
+          <p style={{ textAlign: 'center', fontSize: '13px', color: 'var(--text-muted)', marginTop: '12px' }}>
+            Pathology, Pharmacology & more coming soon
+          </p>
         </section>
 
         {/* Settings Panel - Shows when subject is selected */}
@@ -340,25 +340,23 @@ export default function Home() {
           </section>
         )}
 
-        {/* Trust Section */}
-        <section className={styles.trustSection}>
-          <h2 className={styles.trustTitle}>Why Trust This Platform?</h2>
-          <div className={styles.trustGrid}>
-            <div className={styles.trustItem}>
-              <div className={styles.trustIcon}>✓</div>
-              <div className={styles.trustText}>Built by medical graduates who understand the struggle</div>
+        {/* Features Section */}
+        <section className={styles.featuresSection}>
+          <div className={styles.featuresGrid}>
+            <div className={styles.featureItem}>
+              <div className={styles.featureIcon}>📖</div>
+              <h3 className={styles.featureTitle}>Textbook Referenced</h3>
+              <p className={styles.featureDesc}>Every explanation cites Gray's, Guyton, Snell's, Robbins, and Katzung.</p>
             </div>
-            <div className={styles.trustItem}>
-              <div className={styles.trustIcon}>✓</div>
-              <div className={styles.trustText}>Referenced to Gray's, Guyton, Snell's, Robbins, and Katzung</div>
+            <div className={styles.featureItem}>
+              <div className={styles.featureIcon}>🩺</div>
+              <h3 className={styles.featureTitle}>Clinical + Factual Mix</h3>
+              <p className={styles.featureDesc}>Scenario-based and recall questions modelled on real NRE exam style.</p>
             </div>
-            <div className={styles.trustItem}>
-              <div className={styles.trustIcon}>✓</div>
-              <div className={styles.trustText}>Reviewed by qualified doctors and postgraduates</div>
-            </div>
-            <div className={styles.trustItem}>
-              <div className={styles.trustIcon}>✓</div>
-              <div className={styles.trustText}>Detailed explanations for every question</div>
+            <div className={styles.featureItem}>
+              <div className={styles.featureIcon}>🎯</div>
+              <h3 className={styles.featureTitle}>Built for NRE/NLE</h3>
+              <p className={styles.featureDesc}>Topics mapped directly to the PM&DC NRE 2023 syllabus.</p>
             </div>
           </div>
         </section>
