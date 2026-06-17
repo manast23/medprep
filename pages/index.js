@@ -150,28 +150,7 @@ export default function Home() {
             '--mouse-y': `${mousePos.y}px`
           }}
         >
-          <div className={styles.heroBg}>
-            <div className={styles.heroGlow}></div>
-            <div className={styles.particles}>
-              {[...Array(20)].map((_, i) => (
-                <div 
-                  key={i} 
-                  className={styles.particle}
-                  style={{
-                    left: `${Math.random() * 100}%`,
-                    top: `${Math.random() * 100}%`,
-                    animationDelay: `${Math.random() * 5}s`,
-                    animationDuration: `${5 + Math.random() * 10}s`
-                  }}
-                />
-              ))}
-            </div>
-            <div className={styles.anatomicalRings}>
-              <div className={`${styles.ring} ${styles.ring1}`}></div>
-              <div className={`${styles.ring} ${styles.ring2}`}></div>
-              <div className={`${styles.ring} ${styles.ring3}`}></div>
-            </div>
-          </div>
+          <div className={styles.heroBg}></div>
           
           <div className={styles.heroContent}>
             <div className={styles.heroTag}>Medical MCQ Practice</div>

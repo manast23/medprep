@@ -10,7 +10,7 @@
   gap: 2.5rem;
   align-items: center;
   padding-bottom: 2rem;
-  border-bottom: 0.5px solid var(--border);
+  border-bottom: 1px solid var(--border);
   margin-bottom: 2rem;
 }
 
@@ -27,8 +27,9 @@
 }
 
 .stat {
+  box-shadow: var(--shadow-sm);
   background: var(--white);
-  border: 0.5px solid var(--border);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 14px;
 }
@@ -53,8 +54,9 @@
 }
 
 .breakdownCard {
+  box-shadow: var(--shadow-sm);
   background: var(--white);
-  border: 0.5px solid var(--border);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 14px 16px;
 }
@@ -88,7 +90,7 @@
 .outlineBtn {
   background: var(--white);
   color: var(--text);
-  border: 0.5px solid var(--border);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 13px;
   font-size: 14px;
