@@ -323,17 +323,17 @@ export default function Home() {
         <section className={styles.featuresSection}>
           <div className={styles.featuresGrid}>
             <div className={styles.featureItem}>
-              <div className={styles.featureIcon}>📖</div>
+              <div className={styles.featureIcon}><svg viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
               <h3 className={styles.featureTitle}>Textbook Referenced</h3>
               <p className={styles.featureDesc}>Every explanation cites Gray's, Guyton, Snell's, Robbins, and Katzung.</p>
             </div>
             <div className={styles.featureItem}>
-              <div className={styles.featureIcon}>🩺</div>
+              <div className={styles.featureIcon}><svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
               <h3 className={styles.featureTitle}>Clinical + Factual Mix</h3>
               <p className={styles.featureDesc}>Scenario-based and recall questions modelled on real NRE exam style.</p>
             </div>
             <div className={styles.featureItem}>
-              <div className={styles.featureIcon}>🎯</div>
+              <div className={styles.featureIcon}><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div>
               <h3 className={styles.featureTitle}>Built for NRE/NLE</h3>
               <p className={styles.featureDesc}>Topics mapped directly to the PM&DC NRE 2023 syllabus.</p>
             </div>

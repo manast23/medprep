@@ -186,7 +186,12 @@ export default function Quiz() {
                   </div>
                 )}
                 <div className={styles.expText}>{q.explanation}</div>
-                <div className={styles.refText}>📖 {q.reference}</div>
+                <div className={styles.refText}>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{flexShrink:0, marginTop:'1px'}}>
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+                  </svg>
+                  {q.reference}
+                </div>
               </div>
               <button className={styles.nextBtn} onClick={handleNext}>
                 {current + 1 < questions.length ? 'Next question →' : 'See results'}
