@@ -2470,5 +2470,133 @@
     "correct": 1,
     "explanation": "PE occludes pulmonary arteries, creating ventilated alveoli with no blood flow, increasing dead space (V/Q approaching infinity). Hypoxemia results from reflex bronchoconstriction, atelectasis, and V/Q mismatch. Low PaCO₂ reflects compensatory hyperventilation. OCPs + young woman = classic PE risk scenario.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation"
+  },
+  {
+    "id": 147,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "Which of the following best describes the role of surfactant in the lungs?",
+    "options": [
+      "Increases surface tension to prevent alveolar overdistension",
+      "Reduces surface tension, preventing alveolar collapse",
+      "Increases lung compliance by relaxing smooth muscle",
+      "Facilitates oxygen diffusion across the alveolar membrane"
+    ],
+    "correct": 1,
+    "explanation": "Surfactant (dipalmitoylphosphatidylcholine, DPPC) is produced by type II pneumocytes. It reduces alveolar surface tension, preventing collapse (atelectasis) especially in small alveoli. Without surfactant (e.g., neonatal respiratory distress syndrome), alveoli collapse on expiration. Surfactant also stabilizes alveoli of different sizes by reducing tension more in smaller alveoli.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 37, Pulmonary Ventilation"
+  },
+  {
+    "id": 148,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "clinical",
+    "question": "A 25-year-old man with acute severe asthma has the following ABG: pH 7.30, PaCO₂ 55 mmHg, PaO₂ 60 mmHg, HCO₃ 26 mEq/L. What does this ABG pattern indicate?",
+    "options": [
+      "Compensated metabolic acidosis",
+      "Acute respiratory acidosis",
+      "Acute respiratory alkalosis",
+      "Mixed metabolic and respiratory alkalosis"
+    ],
+    "correct": 1,
+    "explanation": "pH 7.30 (acidosis) + elevated PaCO₂ 55 mmHg = respiratory acidosis. Normal HCO₃ indicates no metabolic compensation yet, making this acute. In severe asthma, airway obstruction causes CO₂ retention. A rising PaCO₂ in asthma is an ominous sign indicating respiratory muscle fatigue and impending respiratory failure.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 30, Acid-Base Regulation"
+  },
+  {
+    "id": 149,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "In a normal lung, ventilation-perfusion (V/Q) ratio is highest in which zone?",
+    "options": [
+      "Zone 1 (apex)",
+      "Zone 2 (middle)",
+      "Zone 3 (base)",
+      "V/Q ratio is uniform throughout"
+    ],
+    "correct": 0,
+    "explanation": "In the upright lung, both ventilation and perfusion increase from apex to base, but perfusion increases more steeply. At the apex (Zone 1), perfusion is lowest relative to ventilation, giving the highest V/Q ratio (~3.3). At the base (Zone 3), perfusion exceeds ventilation proportionally, giving the lowest V/Q (~0.6). Overall V/Q ratio is ~0.8.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation"
+  },
+  {
+    "id": 150,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "clinical",
+    "question": "A 30-year-old tall thin man develops sudden onset right-sided chest pain and dyspnea. Breath sounds are absent on the right. Trachea is deviated to the left. What is the most likely diagnosis and its immediate physiological consequence?",
+    "options": [
+      "Pleural effusion causing compressive atelectasis",
+      "Tension pneumothorax causing mediastinal shift and reduced venous return",
+      "Simple pneumothorax causing ipsilateral lung collapse only",
+      "Massive hemothorax causing hypovolemic shock"
+    ],
+    "correct": 1,
+    "explanation": "Tension pneumothorax: air enters the pleural space and cannot escape (one-way valve mechanism). Progressive pressure shifts the mediastinum contralaterally, compresses the contralateral lung, and kinks the great veins — reducing venous return and cardiac output. Tracheal deviation away from the lesion is the key clinical sign. Requires immediate needle decompression.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Edema and Respiratory Failure"
+  },
+  {
+    "id": 151,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "Carbon dioxide is transported in the blood primarily as:",
+    "options": [
+      "Dissolved CO₂ in plasma",
+      "Carbaminohemoglobin bound to hemoglobin",
+      "Bicarbonate ions (HCO₃⁻) in plasma",
+      "Carbonic acid in red blood cells"
+    ],
+    "correct": 2,
+    "explanation": "~70% of CO₂ is transported as HCO₃⁻. CO₂ enters RBCs, combines with H₂O via carbonic anhydrase to form H₂CO₃, which dissociates to H⁺ + HCO₃⁻. HCO₃⁻ is exchanged for Cl⁻ (chloride shift) and enters plasma. ~23% is carried as carbaminohemoglobin, ~7% dissolved. This system also plays a key role in acid-base balance.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 41, Transport of Oxygen and Carbon Dioxide"
+  },
+  {
+    "id": 152,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "clinical",
+    "question": "A mountaineer ascends rapidly to 4500m. Within hours he develops headache, dyspnea at rest, and ataxia. Which physiological response is most immediately triggered by the hypoxia at altitude?",
+    "options": [
+      "Increased erythropoietin secretion increasing RBC mass",
+      "Stimulation of peripheral chemoreceptors causing hyperventilation",
+      "Increased 2,3-DPG production shifting the O₂ dissociation curve",
+      "Cerebral vasoconstriction to reduce altitude sickness"
+    ],
+    "correct": 1,
+    "explanation": "The immediate response to hypoxia at altitude is stimulation of carotid and aortic body peripheral chemoreceptors → hyperventilation. This raises PaO₂ but causes respiratory alkalosis (low PaCO₂). EPO rise takes days; 2,3-DPG increases over hours to days; cerebral vasodilation (not constriction) occurs. Acute mountain sickness results from rapid ascent without acclimatization.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 43, Aviation, High Altitude, and Space Physiology"
+  },
+  {
+    "id": 153,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "Hypoxic pulmonary vasoconstriction (HPV) serves what physiological purpose?",
+    "options": [
+      "Increases total pulmonary blood flow to improve oxygenation",
+      "Diverts blood away from poorly ventilated alveoli to better-ventilated regions",
+      "Reduces pulmonary arterial pressure during exercise",
+      "Increases diffusion capacity by recruiting capillaries"
+    ],
+    "correct": 1,
+    "explanation": "HPV is a local reflex unique to the pulmonary circulation — opposite to the systemic response. When alveolar PO₂ falls, local pulmonary arterioles constrict, diverting blood to better-ventilated alveoli to optimize V/Q matching. Globally (e.g., at altitude), HPV causes pulmonary hypertension. It is mediated by inhibition of K⁺ channels in vascular smooth muscle.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Circulation"
+  },
+  {
+    "id": 154,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "clinical",
+    "question": "A 70-year-old man with COPD is given high-flow oxygen. He subsequently becomes drowsy and his respiratory rate drops to 8/min. What is the most likely explanation?",
+    "options": [
+      "Oxygen toxicity causing CNS depression",
+      "Removal of hypoxic drive in a patient dependent on low PaO₂ to breathe",
+      "CO₂ narcosis from pre-existing hypercapnia",
+      "Absorption atelectasis causing worsening hypoxia"
+    ],
+    "correct": 1,
+    "explanation": "In chronic hypercapnic COPD, central chemoreceptors become desensitized to high CO₂. Breathing is maintained by hypoxic drive via peripheral chemoreceptors. High-flow O₂ abolishes this drive, causing hypoventilation and worsening hypercapnia. Target SpO₂ in COPD is 88–92% — controlled low-flow O₂ is safer than high-flow.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Regulation of Respiration"
   }
 ]
