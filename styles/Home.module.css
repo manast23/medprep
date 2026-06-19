@@ -126,10 +126,8 @@
   width: 120%;
   max-width: none;
   height: auto;
-  filter: drop-shadow(0 20px 60px rgba(0,0,0,0.35));
+  filter: drop-shadow(0 20px 60px rgba(0,0,0,0.3)) brightness(1.05);
   transform: translateX(30px);
-  border-radius: 16px;
-  opacity: 0.92;
 }
 
 /* ── Subjects ── */

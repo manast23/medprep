@@ -121,7 +121,7 @@ export default function Home() {
 
             <div className={styles.heroVisual}>
               <img
-                src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80"
+                src="/brain.png"
                 alt="Brain anatomy visualization"
                 className={styles.brainImage}
               />
