@@ -2150,5 +2150,325 @@
     "correct": 1,
     "explanation": "Cerebral autoregulation maintains CBF between MAP 60–150 mmHg. Above this, autoregulation fails → passive pressure-driven hyperperfusion → disruption of the blood-brain barrier → cerebral edema, papilledema, hypertensive encephalopathy. Requires controlled BP reduction with IV agents.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+  },
+  {
+    "id": 127,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "What is the approximate resting membrane potential of a typical neuron, and which ion is primarily responsible for maintaining it?",
+    "options": [
+      "-55 mV, maintained primarily by Na⁺",
+      "-70 mV, maintained primarily by K⁺",
+      "-90 mV, maintained primarily by Cl⁻",
+      "-70 mV, maintained primarily by Ca²⁺"
+    ],
+    "correct": 1,
+    "explanation": "The resting membrane potential (~-70 mV) is maintained primarily by K⁺ leaking out through K⁺ leak channels down its concentration gradient. The Na⁺/K⁺ ATPase maintains the concentration gradients (3 Na⁺ out, 2 K⁺ in). K⁺ equilibrium potential (~-94 mV) is the dominant determinant.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 5, Membrane Potentials and Action Potentials"
+  },
+  {
+    "id": 128,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "During the absolute refractory period of a neuronal action potential:",
+    "options": [
+      "A stronger-than-normal stimulus can generate a second action potential",
+      "No stimulus, regardless of strength, can generate another action potential",
+      "Only hyperpolarizing stimuli can fire the neuron",
+      "K⁺ channels are fully closed"
+    ],
+    "correct": 1,
+    "explanation": "During the absolute refractory period, voltage-gated Na⁺ channels are inactivated (h-gates closed). No stimulus can reopen them until they recover to the closed-but-activatable state. This prevents backward propagation and limits firing frequency.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 5, Membrane Potentials and Action Potentials"
+  },
+  {
+    "id": 129,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 28-year-old man suffers a complete spinal cord transection at T10. Which of the following deficits is expected below the level of injury?",
+    "options": [
+      "Loss of pain and temperature on the ipsilateral side only",
+      "Loss of all sensation and voluntary motor function bilaterally",
+      "Loss of proprioception ipsilaterally, pain and temperature contralaterally",
+      "Loss of motor function ipsilaterally only"
+    ],
+    "correct": 1,
+    "explanation": "Complete transection destroys all ascending and descending tracts bilaterally — spinothalamic (pain/temperature), dorsal columns (proprioception/vibration), and corticospinal (voluntary motor). All modalities are lost below T10 on both sides. Brown-Séquard (option C) occurs with hemisection, not complete transection.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 48, Sensory Functions of the Spinal Cord"
+  },
+  {
+    "id": 130,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "Which of the following best describes the mechanism of synaptic transmission at a chemical synapse?",
+    "options": [
+      "Electrical current flows directly from presynaptic to postsynaptic cell",
+      "Action potential depolarization opens voltage-gated Ca²⁺ channels triggering neurotransmitter exocytosis",
+      "Neurotransmitter diffuses through gap junctions into the postsynaptic cell",
+      "K⁺ influx into the terminal triggers vesicle fusion"
+    ],
+    "correct": 1,
+    "explanation": "Arrival of action potential at the terminal opens voltage-gated Ca²⁺ channels. Ca²⁺ influx triggers vesicle fusion and exocytosis of neurotransmitter into the synaptic cleft, which binds postsynaptic receptors. Ca²⁺ is the essential trigger.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 46, Organization of the Nervous System"
+  },
+  {
+    "id": 131,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 65-year-old woman presents with right-sided weakness, hyperreflexia, and a positive Babinski sign. These findings are most consistent with a lesion of:",
+    "options": [
+      "Lower motor neuron in the anterior horn",
+      "Peripheral nerve supplying the right leg",
+      "Upper motor neuron in the corticospinal tract",
+      "Neuromuscular junction"
+    ],
+    "correct": 2,
+    "explanation": "UMN lesions (corticospinal tract) produce spastic weakness, hyperreflexia, and extensor plantar response (Babinski). LMN lesions produce flaccid weakness, hyporeflexia, fasciculations, and atrophy. Babinski is the hallmark of UMN pathology.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 55, Cortical and Brain Stem Control of Motor Function"
+  },
+  {
+    "id": 132,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "Which neurotransmitter is released at the neuromuscular junction?",
+    "options": [
+      "Norepinephrine",
+      "Dopamine",
+      "Acetylcholine",
+      "Serotonin"
+    ],
+    "correct": 2,
+    "explanation": "Acetylcholine is released from motor nerve terminals at the NMJ, binds nicotinic ACh receptors on the motor end plate, causing Na⁺ influx and end plate potential, triggering muscle contraction. ACh is also used at all autonomic ganglia and parasympathetic end organs.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 7, Excitation of Skeletal Muscle"
+  },
+  {
+    "id": 133,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 55-year-old man presents with ptosis, miosis, and anhidrosis on the right side of his face. Which pathway is most likely disrupted?",
+    "options": [
+      "Parasympathetic fibers in the oculomotor nerve",
+      "Sympathetic fibers descending from the hypothalamus to the superior cervical ganglion",
+      "Motor fibers of the facial nerve",
+      "Sensory fibers of the trigeminal nerve"
+    ],
+    "correct": 1,
+    "explanation": "Horner's syndrome (ptosis, miosis, anhidrosis) results from disruption of the sympathetic chain — hypothalamus to ciliospinal center (C8-T2) to superior cervical ganglion to eye and face. Loss of sympathetic tone causes unopposed parasympathetic effects. Common causes include Pancoast tumor, carotid dissection, and brainstem stroke.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Autonomic Regulation"
+  },
+  {
+    "id": 134,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "The cerebellum primarily contributes to motor function by:",
+    "options": [
+      "Initiating voluntary movement via direct corticospinal projections",
+      "Comparing intended versus actual movement and correcting errors in real time",
+      "Generating the resting muscle tone via gamma motor neurons",
+      "Mediating conscious perception of proprioception"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum receives efference copies of motor commands and sensory feedback, comparing intended vs actual movement. It sends corrective signals via the thalamus back to the motor cortex. Cerebellar lesions produce ipsilateral ataxia, dysmetria, intention tremor, and dysdiadochokinesia.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 57, The Cerebellum and Basal Ganglia"
+  },
+  {
+    "id": 135,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 70-year-old man presents with resting tremor, rigidity, bradykinesia, and postural instability. The underlying pathology most likely involves:",
+    "options": [
+      "Loss of Purkinje cells in the cerebellar cortex",
+      "Degeneration of dopaminergic neurons in the substantia nigra pars compacta",
+      "Demyelination of corticospinal tracts",
+      "Degeneration of the caudate nucleus due to huntingtin protein accumulation"
+    ],
+    "correct": 1,
+    "explanation": "Parkinson's disease results from loss of dopaminergic neurons in the substantia nigra pars compacta, reducing dopamine in the striatum, imbalancing direct and indirect pathways, causing excessive thalamic inhibition and reduced cortical activation — bradykinesia, rigidity, resting tremor. Option D describes Huntington's disease.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 57, The Cerebellum and Basal Ganglia"
+  },
+  {
+    "id": 136,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "Which EEG pattern is associated with deep slow-wave sleep (Stage N3)?",
+    "options": [
+      "Alpha waves (8–13 Hz)",
+      "Beta waves (>13 Hz)",
+      "Delta waves (<4 Hz)",
+      "Theta waves (4–8 Hz)"
+    ],
+    "correct": 2,
+    "explanation": "Delta waves (<4 Hz, high amplitude) characterize Stage N3 (deep NREM sleep). Alpha = relaxed wakefulness with eyes closed. Beta = active thinking/REM sleep. Theta = light sleep/drowsiness. Deep sleep is when growth hormone is secreted and memory consolidation occurs.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 60, Sleep, Brain Waves, Epilepsy, Psychoses"
+  },
+  {
+    "id": 137,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "Which of the following best describes the structural basis of the blood-brain barrier?",
+    "options": [
+      "Thick basement membrane surrounding cerebral capillaries",
+      "Tight junctions between cerebral capillary endothelial cells",
+      "Astrocyte end-feet directly blocking capillary lumens",
+      "Pericytes wrapping around capillaries preventing diffusion"
+    ],
+    "correct": 1,
+    "explanation": "The BBB is formed by tight junctions (zonula occludens) between adjacent cerebral capillary endothelial cells, preventing paracellular diffusion. Astrocyte end-feet maintain and support the barrier but are not the structural basis. Lipid-soluble substances cross freely; glucose uses GLUT1 transporters.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+  },
+  {
+    "id": 138,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 19-year-old university student presents with fever, severe headache, neck stiffness, and photophobia. CSF analysis shows elevated protein, low glucose, and neutrophilic pleocytosis. Which of the following best explains the low CSF glucose?",
+    "options": [
+      "Decreased cerebral blood flow reducing glucose delivery",
+      "Increased glucose consumption by bacteria and inflammatory cells",
+      "Disruption of GLUT1 transporters at the blood-brain barrier",
+      "Increased insulin secretion from the pancreas during infection"
+    ],
+    "correct": 1,
+    "explanation": "In bacterial meningitis, bacteria and neutrophils in the CSF consume glucose rapidly, dropping CSF glucose below 45 mg/dL. Neutrophilic pleocytosis + low glucose + high protein = bacterial meningitis until proven otherwise. Viral meningitis typically shows lymphocytic pleocytosis with normal glucose.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+  },
+  {
+    "id": 139,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "factual",
+    "question": "Which of the following correctly pairs the receptor type with its location and effect?",
+    "options": [
+      "α1 adrenergic — heart — increased heart rate",
+      "M2 muscarinic — SA node — decreased heart rate",
+      "β2 adrenergic — blood vessels — vasoconstriction",
+      "Nicotinic — parasympathetic end organs — muscle contraction"
+    ],
+    "correct": 1,
+    "explanation": "M2 muscarinic receptors at the SA node mediate vagal bradycardia via increased K⁺ conductance and hyperpolarization. α1 causes vasoconstriction. β2 causes vasodilation and bronchodilation. Nicotinic receptors are at autonomic ganglia and the NMJ, not parasympathetic end organs.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Autonomic Nervous System"
+  },
+  {
+    "id": 140,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 40-year-old man with a large cerebral tumor presents with Cushing's triad. Which of the following correctly identifies the triad?",
+    "options": [
+      "Hypotension, tachycardia, tachypnea",
+      "Hypertension, bradycardia, irregular respirations",
+      "Hypertension, tachycardia, bradypnea",
+      "Hypotension, bradycardia, hyperthermia"
+    ],
+    "correct": 1,
+    "explanation": "Cushing's triad = hypertension + bradycardia + irregular respirations. Rising ICP compresses the brainstem causing reflex hypertension to maintain CPP, baroreceptor-mediated bradycardia, and irregular breathing from direct medullary compression. It is a late, ominous sign of impending herniation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+  },
+  {
+    "id": 141,
+    "subject": "Physiology",
+    "subtopic": "Nervous System",
+    "type": "clinical",
+    "question": "A 45-year-old woman presents with sharp radiating pain down the posterior thigh, lateral calf, and into the dorsum of the foot. Which nerve root is most likely compressed?",
+    "options": [
+      "L3",
+      "L4",
+      "L5",
+      "S1"
+    ],
+    "correct": 2,
+    "explanation": "L5 dermatome covers the lateral calf, dorsum of foot, and great toe. L4 covers the medial calf and medial foot. S1 covers the posterior calf, lateral foot, and small toe. The distribution described is classic L5 radiculopathy, often from L4/L5 disc herniation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 48, Somatic Sensations"
+  },
+  {
+    "id": 142,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "Which lung volume cannot be measured by spirometry alone?",
+    "options": [
+      "Tidal volume",
+      "Inspiratory reserve volume",
+      "Functional residual capacity",
+      "Expiratory reserve volume"
+    ],
+    "correct": 2,
+    "explanation": "FRC = ERV + RV. Residual volume cannot be exhaled and therefore cannot be measured by spirometry. FRC requires helium dilution, nitrogen washout, or body plethysmography. All other standard lung volumes and capacities that do not include RV can be measured by spirometry.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 37, Pulmonary Ventilation"
+  },
+  {
+    "id": 143,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "The oxygen-hemoglobin dissociation curve shifts to the right in response to:",
+    "options": [
+      "Decreased temperature",
+      "Decreased PCO₂",
+      "Increased 2,3-DPG",
+      "Increased pH"
+    ],
+    "correct": 2,
+    "explanation": "Right shift = decreased Hb affinity for O₂ = more O₂ released to tissues (Bohr effect). Caused by increased 2,3-DPG, CO₂, H⁺ (decreased pH), and temperature. Left shift = increased affinity = fetal Hb, hypothermia, decreased CO₂, alkalosis. 2,3-DPG rises in chronic hypoxia and anemia as a compensatory mechanism.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 41, Transport of Oxygen and Carbon Dioxide"
+  },
+  {
+    "id": 144,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "clinical",
+    "question": "A 62-year-old smoker has FEV1/FVC of 0.58, increased TLC, and increased RV. He has a chronic productive cough. What is the primary physiological defect?",
+    "options": [
+      "Restrictive lung disease with reduced compliance",
+      "Obstructive lung disease with air trapping",
+      "Pulmonary vascular disease with increased dead space",
+      "Diffusion impairment due to alveolar membrane thickening"
+    ],
+    "correct": 1,
+    "explanation": "FEV1/FVC <0.70 = obstructive pattern. Increased TLC and RV indicate air trapping from loss of elastic recoil (emphysema) and dynamic airway collapse. Chronic productive cough indicates chronic bronchitis. Together = COPD. Restrictive disease shows reduced TLC with normal or increased FEV1/FVC.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency"
+  },
+  {
+    "id": 145,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "factual",
+    "question": "The most powerful stimulus for increasing ventilation under normal physiological conditions is:",
+    "options": [
+      "Decreased arterial PO₂",
+      "Increased arterial PCO₂",
+      "Decreased CSF pH",
+      "Stimulation of peripheral chemoreceptors"
+    ],
+    "correct": 1,
+    "explanation": "Central chemoreceptors in the medulla are exquisitely sensitive to CO₂/H⁺. Rising PaCO₂ causes CO₂ to cross the BBB, forming carbonic acid, decreasing CSF pH and stimulating ventilation. Hypoxia stimulates peripheral chemoreceptors but is a weaker secondary stimulus. In chronic hypercapnia (COPD), hypoxic drive becomes primary.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Regulation of Respiration"
+  },
+  {
+    "id": 146,
+    "subject": "Physiology",
+    "subtopic": "Respiratory",
+    "type": "clinical",
+    "question": "A 35-year-old woman on oral contraceptives develops sudden pleuritic chest pain and dyspnea. ABG shows PaO₂ 68 mmHg and PaCO₂ 30 mmHg. What is the primary physiological consequence of her condition?",
+    "options": [
+      "Increased shunt fraction due to alveolar flooding",
+      "Increased physiological dead space due to ventilated but unperfused alveoli",
+      "Diffusion impairment due to pulmonary edema",
+      "Hypoventilation due to diaphragmatic splinting"
+    ],
+    "correct": 1,
+    "explanation": "PE occludes pulmonary arteries, creating ventilated alveoli with no blood flow, increasing dead space (V/Q approaching infinity). Hypoxemia results from reflex bronchoconstriction, atelectasis, and V/Q mismatch. Low PaCO₂ reflects compensatory hyperventilation. OCPs + young woman = classic PE risk scenario.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation"
   }
 ]
