@@ -5,7 +5,7 @@
     "topic": "Brachial Plexus",
     "subtopic": "Upper Limb",
     "type": "clinical",
-    "question": "A 28-year-old motorcyclist is brought to the emergency department after a road traffic accident. He has weakness in shoulder abduction and elbow flexion, with the arm hanging limply at his side in adduction and the forearm pronated — the classic 'waiter's tip' posture. Sensation is lost over the lateral forearm. Which nerve roots are most likely injured?",
+    "question": "A 28-year-old motorcyclist is brought to the emergency department after a road traffic accident. He has weakness in shoulder abduction and elbow flexion, with the arm hanging limply at his side in adduction and the forearm pronated \u2014 the classic 'waiter's tip' posture. Sensation is lost over the lateral forearm. Which nerve roots are most likely injured?",
     "options": [
       "C5 and C6",
       "C7 and C8",
@@ -14,8 +14,8 @@
       "C6, C7, and C8"
     ],
     "correct": 0,
-    "explanation": "This is Erb's palsy — an upper brachial plexus injury at C5 and C6. The deltoid, biceps, and brachioradialis are paralysed, producing the characteristic posture. Lateral forearm sensation is carried by the musculocutaneous nerve (C5–C6). Lower root injuries (C8, T1) produce Klumpke's palsy with intrinsic hand weakness instead.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "explanation": "This is Erb's palsy \u2014 an upper brachial plexus injury at C5 and C6. The deltoid, biceps, and brachioradialis are paralysed, producing the characteristic posture. Lateral forearm sensation is carried by the musculocutaneous nerve (C5\u2013C6). Lower root injuries (C8, T1) produce Klumpke's palsy with intrinsic hand weakness instead.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     ],
     "correct": 2,
     "explanation": "Abductor pollicis brevis (APB) is innervated exclusively by the recurrent branch of the median nerve, which exits the carpal tunnel distally. Weakness here is specific to median nerve compression at the wrist. The first dorsal interosseous is ulnar-innervated. APB testing is the most clinically reliable confirmation of carpal tunnel syndrome.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 50, Wrist and Hand"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 50, Wrist and Hand"
   },
   {
     "id": 3,
@@ -51,7 +51,7 @@
     ],
     "correct": 2,
     "explanation": "The femoral sheath has three compartments: lateral (artery), intermediate (vein), and femoral canal (medial). The femoral nerve lies lateral to the sheath but is NOT enclosed within it. The femoral canal contains lymphatics and is the site of femoral hernias, more common in females due to a wider canal.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 4,
@@ -69,7 +69,7 @@
     ],
     "correct": 1,
     "explanation": "Beck's triad (hypotension, raised JVP, muffled heart sounds) with an enlarged cardiac silhouette indicates cardiac tamponade. The pericardium extends anteriorly from the 2nd to 6th costal cartilages, making it directly accessible at this landmark. Blood accumulates in the pericardial sac and compresses the heart.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Mediastinum"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Pericardium and Mediastinum"
   },
   {
     "id": 5,
@@ -86,8 +86,8 @@
       "Genitofemoral nerve"
     ],
     "correct": 3,
-    "explanation": "The femoral nerve (L2-L4) travels through the retroperitoneal space and is vulnerable during this dissection. It innervates the quadriceps (knee extension) and supplies the anterior and medial thigh. The obturator nerve mediates adduction but does not extend the knee — the inability to extend is the key distinguishing feature.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 62, Lumbar Plexus"
+    "explanation": "The femoral nerve (L2-L4) travels through the retroperitoneal space and is vulnerable during this dissection. It innervates the quadriceps (knee extension) and supplies the anterior and medial thigh. The obturator nerve mediates adduction but does not extend the knee \u2014 the inability to extend is the key distinguishing feature.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 62, Lumbar Plexus"
   },
   {
     "id": 6,
@@ -105,7 +105,7 @@
     ],
     "correct": 2,
     "explanation": "Preload reduction decreases venous return and end-diastolic volume (EDV). The Frank-Starling mechanism dictates that reduced EDV means shorter initial sarcomere length, producing less contractile force and a lower stroke volume. Nitrates are the classic preload-reducing agents; they reduce congestion symptoms but may worsen low-output states.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, Cardiac Output"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 9, Cardiac Output"
   },
   {
     "id": 7,
@@ -122,8 +122,8 @@
       "Tubular obstruction by crystallised drug"
     ],
     "correct": 1,
-    "explanation": "Trimethoprim blocks the organic cation transporter in the proximal tubule, inhibiting tubular secretion of creatinine. This raises serum creatinine without any reduction in GFR — a pseudocreatininaemia. Cystatin C would remain unchanged, confirming preserved glomerular function. This is a well-recognised benign effect not to be confused with nephrotoxicity.",
-    "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 38, Renal Function"
+    "explanation": "Trimethoprim blocks the organic cation transporter in the proximal tubule, inhibiting tubular secretion of creatinine. This raises serum creatinine without any reduction in GFR \u2014 a pseudocreatininaemia. Cystatin C would remain unchanged, confirming preserved glomerular function. This is a well-recognised benign effect not to be confused with nephrotoxicity.",
+    "reference": "Ganong's Review of Medical Physiology, 26th ed. \u2014 Chapter 38, Renal Function"
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     ],
     "correct": 1,
     "explanation": "Chronic hypercapnia in COPD blunts central chemoreceptor sensitivity to CO2. Some patients rely on hypoxic drive to maintain ventilation. Administering high-flow oxygen removes this stimulus, reducing respiratory drive and worsening CO2 retention. Controlled low-flow oxygen (24-28%) titrated to SpO2 88-92% is recommended in COPD exacerbations.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 42, Respiratory Insufficiency"
   },
   {
     "id": 9,
@@ -158,8 +158,8 @@
       "Isolated failure of pituitary negative feedback"
     ],
     "correct": 1,
-    "explanation": "This is Graves' disease, caused by TSH receptor-stimulating antibodies (TRAb) — IgG immunoglobulins that continuously activate thyroid follicular cells. Unlike endogenous TSH, these antibodies are not subject to pituitary feedback, causing unregulated T3/T4 synthesis. The familial pattern reflects polygenic autoimmune inheritance.",
-    "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 20, Thyroid Gland"
+    "explanation": "This is Graves' disease, caused by TSH receptor-stimulating antibodies (TRAb) \u2014 IgG immunoglobulins that continuously activate thyroid follicular cells. Unlike endogenous TSH, these antibodies are not subject to pituitary feedback, causing unregulated T3/T4 synthesis. The familial pattern reflects polygenic autoimmune inheritance.",
+    "reference": "Ganong's Review of Medical Physiology, 26th ed. \u2014 Chapter 20, Thyroid Gland"
   },
   {
     "id": 10,
@@ -176,8 +176,8 @@
       "Rebound cholinergic overactivity in the striatum"
     ],
     "correct": 0,
-    "explanation": "Levodopa-induced dyskinesias result from pulsatile, non-physiological dopamine receptor stimulation in the striatum, leading to receptor hypersensitivity and maladaptive changes in basal ganglia circuitry. Peak-dose dyskinesias correlate with maximum plasma levodopa levels — explaining the afternoon pattern after a morning dose.",
-    "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 14, Basal Ganglia"
+    "explanation": "Levodopa-induced dyskinesias result from pulsatile, non-physiological dopamine receptor stimulation in the striatum, leading to receptor hypersensitivity and maladaptive changes in basal ganglia circuitry. Peak-dose dyskinesias correlate with maximum plasma levodopa levels \u2014 explaining the afternoon pattern after a morning dose.",
+    "reference": "Ganong's Review of Medical Physiology, 26th ed. \u2014 Chapter 14, Basal Ganglia"
   },
   {
     "id": 11,
@@ -194,7 +194,7 @@
     ],
     "correct": 2,
     "explanation": "The radial nerve winds around the spiral groove of the mid-shaft of the humerus. Fractures here commonly injure the radial nerve, resulting in wrist drop.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 12,
@@ -211,7 +211,7 @@
     ],
     "correct": 1,
     "explanation": "The axillary nerve passes through the quadrangular space and lies in close relation to the surgical neck of the humerus. Injury causes paralysis of the deltoid and loss of sensation over the regimental badge area.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 13,
@@ -228,7 +228,7 @@
     ],
     "correct": 2,
     "explanation": "Brachioradialis is the most powerful flexor when the forearm is in the mid-prone position. Brachialis is the true workhorse flexor in all positions, but brachioradialis dominates in mid-prone.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 14,
@@ -244,8 +244,8 @@
       "Anterior interosseous nerve"
     ],
     "correct": 1,
-    "explanation": "Carpal tunnel syndrome compresses the median nerve, causing wasting of the thenar eminence (LOAF muscles — Lumbricals 1&2, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis) and loss of pinch grip.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "explanation": "Carpal tunnel syndrome compresses the median nerve, causing wasting of the thenar eminence (LOAF muscles \u2014 Lumbricals 1&2, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis) and loss of pinch grip.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 15,
@@ -262,7 +262,7 @@
     ],
     "correct": 1,
     "explanation": "The ulnar nerve innervates adductor pollicis. Loss of thumb adduction is tested by Froment's sign, where the patient uses flexor pollicis longus (median nerve) to compensate.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 16,
@@ -279,7 +279,7 @@
     ],
     "correct": 2,
     "explanation": "The musculocutaneous nerve arises from the lateral cord (C5, C6, C7) of the brachial plexus. It innervates the muscles of the anterior compartment of the arm and continues as the lateral cutaneous nerve of the forearm.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 17,
@@ -296,7 +296,7 @@
     ],
     "correct": 1,
     "explanation": "Erb's palsy results from injury to C5 and C6 roots, typically from excessive lateral neck flexion during difficult delivery. The classic waiter's tip posture results from loss of shoulder abduction, lateral rotation, and elbow flexion.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 18,
@@ -313,7 +313,7 @@
     ],
     "correct": 0,
     "explanation": "The cephalic vein runs along the lateral aspect of the arm and drains into the axillary vein in the deltopectoral groove. It is commonly used for IV access and venous cutdown.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 19,
@@ -325,12 +325,12 @@
     "options": [
       "Axilla",
       "Spiral groove of humerus",
-      "Lateral epicondyle — posterior interosseous nerve",
+      "Lateral epicondyle \u2014 posterior interosseous nerve",
       "Anatomical snuffbox"
     ],
     "correct": 2,
     "explanation": "Injury to the posterior interosseous nerve (deep branch of radial nerve) at the lateral epicondyle spares triceps and brachioradialis but causes finger and wrist extension weakness. Wrist drop is incomplete as radial wrist extensors are spared.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 20,
@@ -347,7 +347,7 @@
     ],
     "correct": 1,
     "explanation": "The radial artery crosses the floor of the anatomical snuffbox, passing between the tendons of extensor pollicis longus and extensor pollicis brevis. The scaphoid bone forms the floor and is at risk of avascular necrosis following fracture.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 21,
@@ -364,7 +364,7 @@
     ],
     "correct": 1,
     "explanation": "Scaphoid fracture is the most common carpal bone fracture and classically presents with anatomical snuffbox tenderness. It may not be visible on initial X-ray. Risk of avascular necrosis is high due to the retrograde blood supply of the scaphoid.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 22,
@@ -381,7 +381,7 @@
     ],
     "correct": 2,
     "explanation": "The flexor retinaculum attaches medially to the pisiform and hook of hamate, and laterally to the scaphoid tubercle and trapezium. It forms the roof of the carpal tunnel.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 23,
@@ -398,7 +398,7 @@
     ],
     "correct": 2,
     "explanation": "Ulnar nerve injury at the elbow affects the medial two lumbricals, all interossei, hypothenar muscles, and adductor pollicis. Clawing is more pronounced than wrist injury because flexor digitorum profundus to ring and little fingers is also affected.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 24,
@@ -415,7 +415,7 @@
     ],
     "correct": 2,
     "explanation": "The anterior interosseous nerve (branch of median nerve) innervates flexor pollicis longus, flexor digitorum profundus to index and middle fingers, and pronator quadratus. Injury causes inability to flex the distal phalanx of index finger and loss of the OK sign.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 25,
@@ -432,7 +432,7 @@
     ],
     "correct": 1,
     "explanation": "The quadrangular space is bounded superiorly by teres minor, inferiorly by teres major, medially by the long head of triceps, and laterally by the surgical neck of the humerus. The axillary nerve and posterior circumflex humeral artery pass through it.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 9, Upper Limb"
   },
   {
     "id": 26,
@@ -442,14 +442,14 @@
     "type": "factual",
     "question": "Which nerve is responsible for the knee jerk reflex, and at what spinal level?",
     "options": [
-      "Femoral nerve — L2, L3",
-      "Femoral nerve — L3, L4",
-      "Obturator nerve — L3, L4",
-      "Sciatic nerve — L4, L5"
+      "Femoral nerve \u2014 L2, L3",
+      "Femoral nerve \u2014 L3, L4",
+      "Obturator nerve \u2014 L3, L4",
+      "Sciatic nerve \u2014 L4, L5"
     ],
     "correct": 1,
-    "explanation": "The knee jerk (patellar) reflex is mediated by the femoral nerve at L3 and L4. The reflex arc involves the quadriceps femoris muscle. A diminished or absent knee jerk suggests pathology at L3–L4 root level or femoral nerve.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "The knee jerk (patellar) reflex is mediated by the femoral nerve at L3 and L4. The reflex arc involves the quadriceps femoris muscle. A diminished or absent knee jerk suggests pathology at L3\u2013L4 root level or femoral nerve.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 27,
@@ -466,7 +466,7 @@
     ],
     "correct": 2,
     "explanation": "The common peroneal nerve winds around the neck of the fibula and is vulnerable during hip surgery and lateral leg compression. It innervates all muscles of the anterior and lateral compartments. Foot drop with loss of eversion but intact knee flexion (hamstrings, tibial nerve) localises the injury here.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 28,
@@ -482,8 +482,8 @@
       "Tensor fasciae latae"
     ],
     "correct": 2,
-    "explanation": "Gluteus medius is the primary hip abductor, innervated by the superior gluteal nerve (L4, L5, S1). Weakness causes a positive Trendelenburg sign — the pelvis drops to the contralateral side when standing on the affected limb. This is seen in superior gluteal nerve injury and hip pathology.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "Gluteus medius is the primary hip abductor, innervated by the superior gluteal nerve (L4, L5, S1). Weakness causes a positive Trendelenburg sign \u2014 the pelvis drops to the contralateral side when standing on the affected limb. This is seen in superior gluteal nerve injury and hip pathology.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 29,
@@ -500,7 +500,7 @@
     ],
     "correct": 1,
     "explanation": "Anterior hip dislocation occurs when the hip is forced into abduction and external rotation. The femoral head displaces anteriorly and inferiorly toward the obturator foramen. Loss of internal rotation and adduction is characteristic. Posterior dislocation is more common and presents with the limb in flexion, adduction, and internal rotation.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 30,
@@ -517,7 +517,7 @@
     ],
     "correct": 1,
     "explanation": "The popliteal fossa is bounded superolaterally by biceps femoris, superomedially by semimembranosus and semitendinosus, and inferiorly by the two heads of gastrocnemius. The common peroneal nerve runs along the medial border of biceps femoris through this space.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 31,
@@ -533,8 +533,8 @@
       "Lateral meniscus"
     ],
     "correct": 2,
-    "explanation": "The ACL is the most commonly torn knee ligament in sports injuries involving sudden deceleration and rotational forces. The 'pop' and immediate haemarthrosis are classic. Lachman's test — anterior tibial displacement with the knee at 30° flexion — is the most sensitive clinical test for ACL rupture.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "The ACL is the most commonly torn knee ligament in sports injuries involving sudden deceleration and rotational forces. The 'pop' and immediate haemarthrosis are classic. Lachman's test \u2014 anterior tibial displacement with the knee at 30\u00b0 flexion \u2014 is the most sensitive clinical test for ACL rupture.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 32,
@@ -550,8 +550,8 @@
       "Inferior gluteal artery"
     ],
     "correct": 1,
-    "explanation": "The medial circumflex femoral artery, a branch of the profunda femoris, provides the dominant blood supply to the femoral head in adults via the retinacular arteries. Disruption in femoral neck fractures causes avascular necrosis — a major complication, especially in displaced fractures.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "The medial circumflex femoral artery, a branch of the profunda femoris, provides the dominant blood supply to the femoral head in adults via the retinacular arteries. Disruption in femoral neck fractures causes avascular necrosis \u2014 a major complication, especially in displaced fractures.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 33,
@@ -567,8 +567,8 @@
       "Medial plantar nerve"
     ],
     "correct": 3,
-    "explanation": "The medial plantar nerve (branch of tibial nerve) supplies sensation to the medial three and a half toes and the sole — mirroring the median nerve distribution in the hand. Compression causes tarsal tunnel syndrome. The lateral plantar nerve supplies the lateral one and a half toes.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "The medial plantar nerve (branch of tibial nerve) supplies sensation to the medial three and a half toes and the sole \u2014 mirroring the median nerve distribution in the hand. Compression causes tarsal tunnel syndrome. The lateral plantar nerve supplies the lateral one and a half toes.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 34,
@@ -584,8 +584,8 @@
       "Popliteus"
     ],
     "correct": 3,
-    "explanation": "This is a trick question — popliteus is innervated by the tibial nerve. All muscles of the posterior compartment are tibial nerve innervated. The correct clinical teaching point is that gastrocnemius, soleus, and plantaris all plantarflex via the Achilles tendon, while popliteus unlocks the knee.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "This is a trick question \u2014 popliteus is innervated by the tibial nerve. All muscles of the posterior compartment are tibial nerve innervated. The correct clinical teaching point is that gastrocnemius, soleus, and plantaris all plantarflex via the Achilles tendon, while popliteus unlocks the knee.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 35,
@@ -593,7 +593,7 @@
     "topic": "Achilles Tendinopathy",
     "subtopic": "Lower Limb",
     "type": "clinical",
-    "question": "A 40-year-old runner presents with pain at the posterosuperior heel, worse in the morning. There is tenderness 2–6 cm proximal to the calcaneal insertion. What is the most likely diagnosis?",
+    "question": "A 40-year-old runner presents with pain at the posterosuperior heel, worse in the morning. There is tenderness 2\u20136 cm proximal to the calcaneal insertion. What is the most likely diagnosis?",
     "options": [
       "Plantar fasciitis",
       "Achilles tendinopathy",
@@ -601,8 +601,8 @@
       "Sural nerve entrapment"
     ],
     "correct": 1,
-    "explanation": "Achilles tendinopathy classically presents with pain in the tendon body 2–6 cm proximal to the insertion — the watershed zone of poor blood supply. Morning stiffness and pain with activity are hallmarks. Plantar fasciitis causes inferior heel pain at the calcaneal insertion, not posterosuperior.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "Achilles tendinopathy classically presents with pain in the tendon body 2\u20136 cm proximal to the insertion \u2014 the watershed zone of poor blood supply. Morning stiffness and pain with activity are hallmarks. Plantar fasciitis causes inferior heel pain at the calcaneal insertion, not posterosuperior.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 36,
@@ -612,14 +612,14 @@
     "type": "factual",
     "question": "The great saphenous vein drains into which vessel, and at what level?",
     "options": [
-      "Femoral vein at the saphenofemoral junction — 4 cm below and lateral to the pubic tubercle",
-      "Femoral vein at the saphenofemoral junction — 4 cm below and medial to the pubic tubercle",
+      "Femoral vein at the saphenofemoral junction \u2014 4 cm below and lateral to the pubic tubercle",
+      "Femoral vein at the saphenofemoral junction \u2014 4 cm below and medial to the pubic tubercle",
       "External iliac vein at the inguinal ligament",
       "Popliteal vein behind the knee"
     ],
     "correct": 1,
     "explanation": "The great saphenous vein drains into the femoral vein at the saphenofemoral junction, located 4 cm below and medial to the pubic tubercle. This is a key landmark in varicose vein surgery. The small saphenous vein drains into the popliteal vein behind the knee.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 37,
@@ -635,8 +635,8 @@
       "Sciatic nerve"
     ],
     "correct": 3,
-    "explanation": "Posterior hip dislocation — the most common type — drives the femoral head posteriorly toward the sciatic nerve, which lies in this region. Sciatic nerve injury occurs in up to 10–20% of cases, most commonly affecting the peroneal division, causing foot drop.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "explanation": "Posterior hip dislocation \u2014 the most common type \u2014 drives the femoral head posteriorly toward the sciatic nerve, which lies in this region. Sciatic nerve injury occurs in up to 10\u201320% of cases, most commonly affecting the peroneal division, causing foot drop.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 38,
@@ -653,7 +653,7 @@
     ],
     "correct": 2,
     "explanation": "Anterior compartment syndrome compresses the deep peroneal nerve and anterior tibial vessels. Pain on passive toe extension stretches the tibialis anterior and extensor muscles. Sensory loss in the first dorsal web space is the classic dermatomal sign of deep peroneal nerve compression.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 39,
@@ -669,8 +669,8 @@
       "Cardiac tamponade"
     ],
     "correct": 2,
-    "explanation": "Tension pneumothorax causes progressive air accumulation in the pleural space with no escape route, collapsing the lung and shifting the mediastinum contralaterally. Tracheal deviation away from the affected side, absent breath sounds, and haemodynamic compromise are the triad. It is a clinical diagnosis — do not wait for X-ray before decompression.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs"
+    "explanation": "Tension pneumothorax causes progressive air accumulation in the pleural space with no escape route, collapsing the lung and shifting the mediastinum contralaterally. Tracheal deviation away from the affected side, absent breath sounds, and haemodynamic compromise are the triad. It is a clinical diagnosis \u2014 do not wait for X-ray before decompression.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
   },
   {
     "id": 40,
@@ -687,7 +687,7 @@
     ],
     "correct": 1,
     "explanation": "The right border of the heart is formed by the superior vena cava (upper part) and right atrium (lower part). The left border is formed by the aortic knuckle, pulmonary trunk, left atrial appendage, and left ventricle. The right ventricle forms the anterior surface, not the right border.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Heart"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Pericardium and Heart"
   },
   {
     "id": 41,
@@ -704,7 +704,7 @@
     ],
     "correct": 1,
     "explanation": "A Pancoast tumour arises at the lung apex and can compress the cervical sympathetic chain, causing ipsilateral Horner's syndrome (miosis, ptosis, anhidrosis). Hoarseness suggests concurrent recurrent laryngeal nerve involvement. The right recurrent laryngeal nerve loops around the subclavian artery and is vulnerable to apical right-sided tumours.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
   },
   {
     "id": 42,
@@ -720,8 +720,8 @@
       "L1"
     ],
     "correct": 2,
-    "explanation": "The aorta passes through the aortic hiatus at T12, along with the thoracic duct. The oesophagus passes through the oesophageal hiatus at T10, and the inferior vena cava at T8. The mnemonic is 'I 8 (ate) 10 eggs at 12' — IVC at T8, oesophagus at T10, aorta at T12.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 58, Diaphragm"
+    "explanation": "The aorta passes through the aortic hiatus at T12, along with the thoracic duct. The oesophagus passes through the oesophageal hiatus at T10, and the inferior vena cava at T8. The mnemonic is 'I 8 (ate) 10 eggs at 12' \u2014 IVC at T8, oesophagus at T10, aorta at T12.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 58, Diaphragm"
   },
   {
     "id": 43,
@@ -738,7 +738,7 @@
     ],
     "correct": 1,
     "explanation": "Achalasia results from failure of the lower oesophageal sphincter to relax due to loss of Auerbach's myenteric plexus neurons. The classic barium swallow shows a 'bird's beak' tapering at the cardia with proximal dilatation. Dysphagia to both solids and liquids from the outset distinguishes it from mechanical obstruction like carcinoma.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 55, Oesophagus"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 55, Oesophagus"
   },
   {
     "id": 44,
@@ -754,8 +754,8 @@
       "Sympathetic chain"
     ],
     "correct": 2,
-    "explanation": "The phrenic nerve (C3, C4, C5) supplies the pericardium and central diaphragm. Irritation of the pericardium refers pain to the shoulder tip via the C4 dermatome — the same principle applies in diaphragmatic irritation from subphrenic abscess or haemoperitoneum.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Heart"
+    "explanation": "The phrenic nerve (C3, C4, C5) supplies the pericardium and central diaphragm. Irritation of the pericardium refers pain to the shoulder tip via the C4 dermatome \u2014 the same principle applies in diaphragmatic irritation from subphrenic abscess or haemoperitoneum.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Pericardium and Heart"
   },
   {
     "id": 45,
@@ -772,7 +772,7 @@
     ],
     "correct": 2,
     "explanation": "Approximately 300 ml of pleural fluid is required before blunting of the costophrenic angle becomes visible on an erect PA chest X-ray. Smaller amounts (as little as 50 ml) may be detectable on lateral views or ultrasound. The right costophrenic angle is normally the most acute and is the first to be blunted.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
   },
   {
     "id": 46,
@@ -789,7 +789,7 @@
     ],
     "correct": 1,
     "explanation": "The SA node is supplied by the SA nodal artery, which arises from the right coronary artery in approximately 60% of individuals and from the left circumflex in 40%. RCA occlusion can therefore cause sinus bradycardia or sick sinus syndrome in addition to inferior MI.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Coronary Circulation"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Coronary Circulation"
   },
   {
     "id": 47,
@@ -805,8 +805,8 @@
       "Diagonal branch"
     ],
     "correct": 2,
-    "explanation": "Inferior MI (ST elevation in II, III, aVF) results from right coronary artery occlusion in the majority of cases, as the RCA supplies the inferior wall of the left ventricle via the posterior descending artery. Radiation to the jaw reflects C3–C5 referred pain pathways from the pericardium and myocardium.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Coronary Circulation"
+    "explanation": "Inferior MI (ST elevation in II, III, aVF) results from right coronary artery occlusion in the majority of cases, as the RCA supplies the inferior wall of the left ventricle via the posterior descending artery. Radiation to the jaw reflects C3\u2013C5 referred pain pathways from the pericardium and myocardium.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 57, Coronary Circulation"
   },
   {
     "id": 48,
@@ -817,13 +817,13 @@
     "question": "Which structure forms the posterior boundary of the superior mediastinum?",
     "options": [
       "Manubrium of the sternum",
-      "Bodies of T1–T4 vertebrae",
+      "Bodies of T1\u2013T4 vertebrae",
       "Arch of the aorta",
       "Trachea"
     ],
     "correct": 1,
-    "explanation": "The superior mediastinum is bounded anteriorly by the manubrium, posteriorly by the bodies of T1–T4 vertebrae, superiorly by the thoracic inlet, and inferiorly by the sternal angle (angle of Louis) — the landmark for the 2nd costal cartilage and the carina.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 56, Mediastinum"
+    "explanation": "The superior mediastinum is bounded anteriorly by the manubrium, posteriorly by the bodies of T1\u2013T4 vertebrae, superiorly by the thoracic inlet, and inferiorly by the sternal angle (angle of Louis) \u2014 the landmark for the 2nd costal cartilage and the carina.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 56, Mediastinum"
   },
   {
     "id": 49,
@@ -840,7 +840,7 @@
     ],
     "correct": 1,
     "explanation": "The intercostal neurovascular bundle runs in the costal groove along the inferior border of each rib. Instruments should always be passed over the upper border of the lower rib to avoid injuring the nerve, artery, and vein. This rule applies to intercostal blocks, pleural aspiration, and chest drain insertion.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 53, Thoracic Wall"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 53, Thoracic Wall"
   },
   {
     "id": 50,
@@ -856,8 +856,8 @@
       "Posterior axillary nodes"
     ],
     "correct": 2,
-    "explanation": "Approximately 75% of breast lymph drains to the axillary nodes, primarily the anterior (pectoral) group along the lateral thoracic vessel. This is clinically critical in breast cancer staging — sentinel node biopsy targets this group. The remaining 25% drains to internal mammary nodes along the sternum.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 53, Thoracic Wall"
+    "explanation": "Approximately 75% of breast lymph drains to the axillary nodes, primarily the anterior (pectoral) group along the lateral thoracic vessel. This is clinically critical in breast cancer staging \u2014 sentinel node biopsy targets this group. The remaining 25% drains to internal mammary nodes along the sternum.",
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 53, Thoracic Wall"
   },
   {
     "id": 51,
@@ -874,7 +874,7 @@
     ],
     "correct": 1,
     "explanation": "A small primary spontaneous pneumothorax (less than 2 cm rim, no significant dyspnoea, SpO2 >90%) in a haemodynamically stable patient can be managed conservatively with high-flow oxygen to accelerate nitrogen reabsorption and observation. Aspiration or drain is reserved for larger or symptomatic cases. The tall thin male demographic is the classic presentation.",
-    "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs"
+    "reference": "Gray's Anatomy, 42nd ed. \u2014 Chapter 54, Pleura and Lungs"
   },
   {
     "id": 52,
@@ -891,7 +891,7 @@
     ],
     "correct": 1,
     "explanation": "Direct inguinal hernias protrude through Hesselbach's triangle, medial to the inferior epigastric vessels, through a weakness in the posterior wall of the inguinal canal. Indirect hernias pass through the deep inguinal ring lateral to the inferior epigastric vessels and descend into the scrotum. Direct hernias are more common in older men and rarely descend into the scrotum.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 53,
@@ -907,8 +907,8 @@
       "Mesosalpinx"
     ],
     "correct": 0,
-    "explanation": "The broad ligament is a double fold of peritoneum that carries the uterine tubes (mesosalpinx), ovaries (mesovarium), and round ligament of the uterus (mesometrium). The round ligament runs from the uterine horn through the inguinal canal to the labium majus — the female equivalent of the gubernaculum.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Pelvis"
+    "explanation": "The broad ligament is a double fold of peritoneum that carries the uterine tubes (mesosalpinx), ovaries (mesovarium), and round ligament of the uterus (mesometrium). The round ligament runs from the uterine horn through the inguinal canal to the labium majus \u2014 the female equivalent of the gubernaculum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Pelvis"
   },
   {
     "id": 54,
@@ -918,14 +918,14 @@
     "type": "clinical",
     "question": "A 60-year-old woman presents with a groin swelling below and lateral to the pubic tubercle. It is irreducible and tender. What is the most likely diagnosis and why is it more common in women?",
     "options": [
-      "Direct inguinal hernia — wider inguinal canal",
-      "Indirect inguinal hernia — patent processus vaginalis",
-      "Femoral hernia — wider femoral canal",
-      "Obturator hernia — wider obturator foramen"
+      "Direct inguinal hernia \u2014 wider inguinal canal",
+      "Indirect inguinal hernia \u2014 patent processus vaginalis",
+      "Femoral hernia \u2014 wider femoral canal",
+      "Obturator hernia \u2014 wider obturator foramen"
     ],
     "correct": 2,
     "explanation": "Femoral hernias pass through the femoral canal, medial to the femoral vein, below and lateral to the pubic tubercle. They are more common in women due to a wider pelvis and femoral canal. Despite being less common than inguinal hernias overall, femoral hernias have a high rate of strangulation and should be repaired promptly.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 55,
@@ -941,8 +941,8 @@
       "L5"
     ],
     "correct": 2,
-    "explanation": "The abdominal aorta bifurcates at L4 into the right and left common iliac arteries. This is a key landmark — the bifurcation lies just below and to the left of the umbilicus. The inferior vena cava is formed at L5 by the union of the common iliac veins.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "explanation": "The abdominal aorta bifurcates at L4 into the right and left common iliac arteries. This is a key landmark \u2014 the bifurcation lies just below and to the left of the umbilicus. The inferior vena cava is formed at L5 by the union of the common iliac veins.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 56,
@@ -958,8 +958,8 @@
       "Mesoappendix"
     ],
     "correct": 1,
-    "explanation": "The three taenia coli converge at the base of the appendix — the most reliable surgical landmark for identifying it. The appendix position is variable (retrocaecal most common at ~65%), but tracing the taenia coli always leads to its base regardless of position.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "explanation": "The three taenia coli converge at the base of the appendix \u2014 the most reliable surgical landmark for identifying it. The appendix position is variable (retrocaecal most common at ~65%), but tracing the taenia coli always leads to its base regardless of position.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 57,
@@ -976,7 +976,7 @@
     ],
     "correct": 2,
     "explanation": "The floor of the inguinal canal is formed by the inguinal ligament (and lacunar ligament medially). The roof is formed by the arching fibres of internal oblique and transversus abdominis. The anterior wall is the external oblique aponeurosis, and the posterior wall is the transversalis fascia (reinforced medially by the conjoint tendon).",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 58,
@@ -993,7 +993,7 @@
     ],
     "correct": 2,
     "explanation": "Hepatic cirrhosis causes portal hypertension, leading to a transudate (low protein, SAAG >11 g/L). Shifting dullness and fluid thrill are classic signs of ascites requiring at least 500 ml and 1000 ml respectively to elicit. TB and malignancy produce exudates with protein >25 g/L.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 59,
@@ -1009,8 +1009,8 @@
       "Obturator artery"
     ],
     "correct": 2,
-    "explanation": "The ureter crosses the common iliac artery bifurcation at the pelvic brim, making it vulnerable during pelvic surgery, hysterectomy, and colorectal resections. The mnemonic 'water under the bridge' refers to the ureter passing under the uterine artery in females — another site of surgical risk.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Pelvis"
+    "explanation": "The ureter crosses the common iliac artery bifurcation at the pelvic brim, making it vulnerable during pelvic surgery, hysterectomy, and colorectal resections. The mnemonic 'water under the bridge' refers to the ureter passing under the uterine artery in females \u2014 another site of surgical risk.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Pelvis"
   },
   {
     "id": 60,
@@ -1027,7 +1027,7 @@
     ],
     "correct": 1,
     "explanation": "McBurney's point lies one third of the way from the right anterior superior iliac spine to the umbilicus. It marks the base of the appendix on the surface. Maximum tenderness here, combined with Rovsing's sign (palpation of the left iliac fossa causing right iliac fossa pain), is highly suggestive of appendicitis.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 61,
@@ -1043,8 +1043,8 @@
       "Segment I"
     ],
     "correct": 1,
-    "explanation": "The gallbladder lies in the fossa between segments IV (quadrate lobe) and V of the liver. Couinaud's classification divides the liver into 8 functionally independent segments based on portal and hepatic venous supply — essential for planning hepatic resections. Segment I is the caudate lobe.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "explanation": "The gallbladder lies in the fossa between segments IV (quadrate lobe) and V of the liver. Couinaud's classification divides the liver into 8 functionally independent segments based on portal and hepatic venous supply \u2014 essential for planning hepatic resections. Segment I is the caudate lobe.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 62,
@@ -1061,7 +1061,7 @@
     ],
     "correct": 1,
     "explanation": "The inferior mesenteric artery supplies the descending colon, sigmoid, and upper rectum. During AAA repair it is often ligated, risking left colonic ischaemia if collateral flow via the marginal artery of Drummond is inadequate. The sigmoid colon and splenic flexure (watershed zones) are most vulnerable.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 63,
@@ -1078,7 +1078,7 @@
     ],
     "correct": 2,
     "explanation": "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by the medial border of sartorius, and medially by the medial border of adductor longus. The floor is formed by iliopsoas, pectineus, and adductor longus. Adductor longus is innervated by the obturator nerve and is the medial boundary.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Lower Limb"
   },
   {
     "id": 64,
@@ -1094,8 +1094,8 @@
       "Damage to the internal iliac artery"
     ],
     "correct": 2,
-    "explanation": "Ureteric transection during hysterectomy causes urinary leakage presenting as watery vaginal discharge (ureterovaginal fistula) with upstream hydronephrosis. The ureter is most vulnerable where it passes under the uterine artery — 'water under the bridge.' Ligation would cause hydronephrosis without leakage.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Pelvis"
+    "explanation": "Ureteric transection during hysterectomy causes urinary leakage presenting as watery vaginal discharge (ureterovaginal fistula) with upstream hydronephrosis. The ureter is most vulnerable where it passes under the uterine artery \u2014 'water under the bridge.' Ligation would cause hydronephrosis without leakage.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 5, Pelvis"
   },
   {
     "id": 65,
@@ -1112,7 +1112,7 @@
     ],
     "correct": 2,
     "explanation": "The midgut extends from the duodenojejunal flexure to the junction of the proximal two thirds and distal one third of the transverse colon. It gives rise to the jejunum, ileum, caecum, appendix, ascending colon, and proximal transverse colon. The midgut is supplied by the superior mesenteric artery.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 66,
@@ -1128,8 +1128,8 @@
       "Tail"
     ],
     "correct": 1,
-    "explanation": "The neck of the pancreas lies directly anterior to the superior mesenteric vessels and the aorta. This relationship is critical in pancreatic surgery — the neck is the usual site of transection in Whipple's procedure. The head lies in the C-loop of the duodenum, and the tail reaches the splenic hilum.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen"
+    "explanation": "The neck of the pancreas lies directly anterior to the superior mesenteric vessels and the aorta. This relationship is critical in pancreatic surgery \u2014 the neck is the usual site of transection in Whipple's procedure. The head lies in the C-loop of the duodenum, and the tail reaches the splenic hilum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 4, Abdomen"
   },
   {
     "id": 67,
@@ -1145,8 +1145,8 @@
       "Right internal capsule"
     ],
     "correct": 2,
-    "explanation": "A lower motor neuron facial nerve palsy (Bell's palsy) affects all ipsilateral facial muscles including the forehead, because the upper facial muscles receive bilateral cortical innervation — spared in UMN lesions. Taste and hearing are intact, localising the lesion distal to the chorda tympani and stapedius branch, i.e. at or below the stylomastoid foramen.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "A lower motor neuron facial nerve palsy (Bell's palsy) affects all ipsilateral facial muscles including the forehead, because the upper facial muscles receive bilateral cortical innervation \u2014 spared in UMN lesions. Taste and hearing are intact, localising the lesion distal to the chorda tympani and stapedius branch, i.e. at or below the stylomastoid foramen.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 68,
@@ -1163,7 +1163,7 @@
     ],
     "correct": 2,
     "explanation": "The lateral pterygoid is the only muscle of mastication that opens (depresses) the jaw, acting by pulling the condyle and articular disc forward. All muscles of mastication are innervated by the mandibular branch (V3) of the trigeminal nerve. Masseter, medial pterygoid, and temporalis all close the jaw.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 69,
@@ -1179,8 +1179,8 @@
       "Hypoglossal nerve"
     ],
     "correct": 2,
-    "explanation": "The recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except cricothyroid. Injury causes hoarseness and loss of vocal power. The external branch of the superior laryngeal nerve innervates only cricothyroid (pitch control) — its isolated injury causes loss of high pitch without significant hoarseness. Both nerves are at risk during thyroidectomy.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "The recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except cricothyroid. Injury causes hoarseness and loss of vocal power. The external branch of the superior laryngeal nerve innervates only cricothyroid (pitch control) \u2014 its isolated injury causes loss of high pitch without significant hoarseness. Both nerves are at risk during thyroidectomy.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 70,
@@ -1197,7 +1197,7 @@
     ],
     "correct": 2,
     "explanation": "The carotid triangle is bounded by the superior belly of omohyoid, the sternocleidomastoid, and the posterior belly of digastric. It contains the carotid sheath with the common and internal carotid arteries, internal jugular vein, and vagus nerve. Carotid endarterectomy and central line insertion are performed in this region.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 71,
@@ -1214,7 +1214,7 @@
     ],
     "correct": 2,
     "explanation": "Cholesteatoma is an abnormal collection of keratinising squamous epithelium in the middle ear, appearing as a pearly white mass. It erodes ossicles and surrounding structures causing conductive hearing loss. Untreated, it can erode the tegmen, facial nerve canal, or semicircular canals. Acoustic neuroma causes sensorineural hearing loss.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 72,
@@ -1231,7 +1231,7 @@
     ],
     "correct": 2,
     "explanation": "CN XII exits via the hypoglossal canal in the occipital bone. Injury causes ipsilateral tongue deviation toward the side of the lesion (the weak side) on protrusion, due to unopposed action of the contralateral genioglossus. The jugular foramen transmits CN IX, X, and XI.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 73,
@@ -1247,8 +1247,8 @@
       "EEG"
     ],
     "correct": 1,
-    "explanation": "A normal CT does not exclude subarachnoid haemorrhage — sensitivity drops to around 93% within 24 hours. Lumbar puncture showing xanthochromia (yellow discolouration from haemoglobin breakdown) is diagnostic. The headache of SAH is classically 'thunderclap' — maximal at onset.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "A normal CT does not exclude subarachnoid haemorrhage \u2014 sensitivity drops to around 93% within 24 hours. Lumbar puncture showing xanthochromia (yellow discolouration from haemoglobin breakdown) is diagnostic. The headache of SAH is classically 'thunderclap' \u2014 maximal at onset.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 74,
@@ -1264,8 +1264,8 @@
       "Vagus nerve (CN X)"
     ],
     "correct": 1,
-    "explanation": "Taste from the anterior two thirds of the tongue is carried by the chorda tympani (branch of CN VII), which joins the lingual nerve (V3) in the infratemporal fossa. General sensation from the anterior two thirds is carried by the lingual nerve (V3). The posterior third — both taste and general sensation — is supplied by CN IX.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "Taste from the anterior two thirds of the tongue is carried by the chorda tympani (branch of CN VII), which joins the lingual nerve (V3) in the infratemporal fossa. General sensation from the anterior two thirds is carried by the lingual nerve (V3). The posterior third \u2014 both taste and general sensation \u2014 is supplied by CN IX.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 75,
@@ -1282,7 +1282,7 @@
     ],
     "correct": 1,
     "explanation": "Masseter hypertonia from bruxism (teeth grinding) is the most common muscular contributor to TMJ dysfunction. The masseter inserts into the angle and ramus of the mandible and is easily palpated during clenching. Lateral pterygoid dysfunction contributes to clicking by disrupting disc movement, but masseter is the primary culprit in myofascial TMJ pain.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 76,
@@ -1299,7 +1299,7 @@
     ],
     "correct": 0,
     "explanation": "The lingual nerve passes through the pterygomandibular space, running medial to the mandible and just below the mucosa of the third molar region. It is vulnerable during inferior alveolar nerve blocks and lower wisdom tooth extraction, causing ipsilateral tongue numbness and altered taste.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 77,
@@ -1315,8 +1315,8 @@
       "Dermoid cyst"
     ],
     "correct": 1,
-    "explanation": "A thyroglossal cyst moves upward both on swallowing and on tongue protrusion — the pathognomonic feature, because the cyst is attached to the hyoid bone via the thyroglossal tract. It arises from a remnant of the thyroglossal duct along the path of thyroid descent from the foramen caecum. Branchial cysts do not move on tongue protrusion.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "A thyroglossal cyst moves upward both on swallowing and on tongue protrusion \u2014 the pathognomonic feature, because the cyst is attached to the hyoid bone via the thyroglossal tract. It arises from a remnant of the thyroglossal duct along the path of thyroid descent from the foramen caecum. Branchial cysts do not move on tongue protrusion.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 78,
@@ -1332,8 +1332,8 @@
       "Scalenus anterior"
     ],
     "correct": 2,
-    "explanation": "The sternocleidomastoid divides the neck into anterior and posterior triangles. It is innervated by the spinal accessory nerve (CN XI) and C2–C3. Unilateral SCM contraction causes ipsilateral lateral flexion and contralateral rotation of the head — torticollis results from its spasm or fibrosis.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "The sternocleidomastoid divides the neck into anterior and posterior triangles. It is innervated by the spinal accessory nerve (CN XI) and C2\u2013C3. Unilateral SCM contraction causes ipsilateral lateral flexion and contralateral rotation of the head \u2014 torticollis results from its spasm or fibrosis.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 79,
@@ -1350,7 +1350,7 @@
     ],
     "correct": 2,
     "explanation": "Posterior triangle level V nodes drain the oropharynx, hypopharynx, and nasopharynx. Squamous cell carcinoma in this location in a smoker most commonly arises from the oropharynx (tonsil, base of tongue) or hypopharynx. Thyroid malignancy typically spreads to central compartment (level VI) nodes.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 80,
@@ -1367,7 +1367,7 @@
     ],
     "correct": 1,
     "explanation": "The facial nerve exits the stylomastoid foramen and enters the parotid gland, dividing into temporofacial and cervicofacial divisions and then into five terminal branches (temporal, zygomatic, buccal, marginal mandibular, cervical). Parotid tumours, surgery, or penetrating injuries risk facial nerve damage causing ipsilateral facial palsy.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 81,
@@ -1383,8 +1383,8 @@
       "Ludwig's angina"
     ],
     "correct": 1,
-    "explanation": "Submandibular calculus (sialolithiasis) classically causes mealtime pain and swelling because salivary flow is stimulated by eating, obstructing at the stone. The submandibular gland produces thick, mucous-rich saliva with a slow upward flow against gravity — making it the most common site for calculi. The parotid duct runs horizontally and is less affected.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck"
+    "explanation": "Submandibular calculus (sialolithiasis) classically causes mealtime pain and swelling because salivary flow is stimulated by eating, obstructing at the stone. The submandibular gland produces thick, mucous-rich saliva with a slow upward flow against gravity \u2014 making it the most common site for calculi. The parotid duct runs horizontally and is less affected.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 11, Head and Neck"
   },
   {
     "id": 82,
@@ -1400,8 +1400,8 @@
       "Right cerebral peduncle"
     ],
     "correct": 1,
-    "explanation": "The internal capsule carries all descending motor fibres in a compact bundle. A small lesion here causes a dense contralateral hemiplegia affecting face, arm, and leg equally — unlike cortical strokes which produce unequal deficits due to the somatotopic spread of the motor homunculus. Lacunar infarcts from small vessel disease are the classic cause.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "The internal capsule carries all descending motor fibres in a compact bundle. A small lesion here causes a dense contralateral hemiplegia affecting face, arm, and leg equally \u2014 unlike cortical strokes which produce unequal deficits due to the somatotopic spread of the motor homunculus. Lacunar infarcts from small vessel disease are the classic cause.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 83,
@@ -1411,14 +1411,14 @@
     "type": "factual",
     "question": "Which tract carries pain and temperature sensation from the contralateral side of the body, and where does it decussate?",
     "options": [
-      "Dorsal columns — decussate in the medulla",
-      "Spinothalamic tract — decussate within 1–2 segments of entry in the spinal cord",
-      "Corticospinal tract — decussate in the medulla",
-      "Spinocerebellar tract — does not decussate"
+      "Dorsal columns \u2014 decussate in the medulla",
+      "Spinothalamic tract \u2014 decussate within 1\u20132 segments of entry in the spinal cord",
+      "Corticospinal tract \u2014 decussate in the medulla",
+      "Spinocerebellar tract \u2014 does not decussate"
     ],
     "correct": 1,
-    "explanation": "The spinothalamic tract carries pain and temperature. First-order neurons enter the spinal cord and synapse in the dorsal horn, then second-order fibres decussate via the anterior white commissure within 1–2 segments before ascending. This explains why a central cord lesion (syringomyelia) causes a cape-like bilateral loss of pain and temperature at the level of the lesion.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "The spinothalamic tract carries pain and temperature. First-order neurons enter the spinal cord and synapse in the dorsal horn, then second-order fibres decussate via the anterior white commissure within 1\u20132 segments before ascending. This explains why a central cord lesion (syringomyelia) causes a cape-like bilateral loss of pain and temperature at the level of the lesion.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 84,
@@ -1434,8 +1434,8 @@
       "Anterior spinal artery"
     ],
     "correct": 1,
-    "explanation": "This is the lateral medullary (Wallenberg) syndrome caused by PICA occlusion. The crossed sensory loss (ipsilateral face, contralateral body) is the hallmark — due to the trigeminal nucleus and spinothalamic tract being at the same level but separate. Horner's syndrome results from disruption of the descending sympathetic fibres in the lateral tegmentum.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "This is the lateral medullary (Wallenberg) syndrome caused by PICA occlusion. The crossed sensory loss (ipsilateral face, contralateral body) is the hallmark \u2014 due to the trigeminal nucleus and spinothalamic tract being at the same level but separate. Horner's syndrome results from disruption of the descending sympathetic fibres in the lateral tegmentum.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 85,
@@ -1445,14 +1445,14 @@
     "type": "factual",
     "question": "At which embryological week does the neural tube close, and what defect results from failure of closure at the caudal end?",
     "options": [
-      "Week 3 — anencephaly",
-      "Week 4 — spina bifida",
-      "Week 6 — holoprosencephaly",
-      "Week 8 — hydrocephalus"
+      "Week 3 \u2014 anencephaly",
+      "Week 4 \u2014 spina bifida",
+      "Week 6 \u2014 holoprosencephaly",
+      "Week 8 \u2014 hydrocephalus"
     ],
     "correct": 1,
-    "explanation": "Neural tube closure occurs during week 4. The rostral neuropore closes around day 25 — failure causes anencephaly. The caudal neuropore closes around day 27 — failure causes spina bifida. Folic acid supplementation before conception reduces the risk by approximately 70% by supporting normal neural tube closure.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "Neural tube closure occurs during week 4. The rostral neuropore closes around day 25 \u2014 failure causes anencephaly. The caudal neuropore closes around day 27 \u2014 failure causes spina bifida. Folic acid supplementation before conception reduces the risk by approximately 70% by supporting normal neural tube closure.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 86,
@@ -1469,7 +1469,7 @@
     ],
     "correct": 1,
     "explanation": "Parkinson's disease results from degeneration of dopaminergic neurons in the substantia nigra pars compacta, depleting dopamine in the striatum. This disrupts the balance between direct (facilitatory) and indirect (inhibitory) basal ganglia pathways, resulting in reduced thalamic activation and the classic triad of tremor, rigidity, and bradykinesia.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 87,
@@ -1486,7 +1486,7 @@
     ],
     "correct": 0,
     "explanation": "The oculomotor (CN III) nucleus lies in the midbrain at the level of the superior colliculus, and the trochlear (CN IV) nucleus at the inferior colliculus. CN V, VI, VII, and VIII nuclei are in the pons. CN IX, X, XI, and XII nuclei are in the medulla. CN IV is the only cranial nerve to exit dorsally from the brainstem.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 88,
@@ -1502,8 +1502,8 @@
       "Fibres from the left lateral geniculate body"
     ],
     "correct": 0,
-    "explanation": "At the optic chiasm, nasal retinal fibres (which carry temporal visual field information) decussate to the contralateral optic tract. A midline compressive lesion selectively damages these crossing fibres, causing bitemporal hemianopia — loss of the outer (temporal) visual fields bilaterally. Temporal fibres do not cross and are spared.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "At the optic chiasm, nasal retinal fibres (which carry temporal visual field information) decussate to the contralateral optic tract. A midline compressive lesion selectively damages these crossing fibres, causing bitemporal hemianopia \u2014 loss of the outer (temporal) visual fields bilaterally. Temporal fibres do not cross and are spared.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 89,
@@ -1520,7 +1520,7 @@
     ],
     "correct": 2,
     "explanation": "The adrenal medulla is derived from neural crest cells that migrate to the developing adrenal gland and differentiate into chromaffin cells. The adrenal cortex, by contrast, arises from intermediate mesoderm. This dual origin explains why phaeochromocytomas (tumours of chromaffin cells) and neuroblastomas share a neural crest lineage.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 90,
@@ -1536,8 +1536,8 @@
       "No motor deficit but loss of sensation only"
     ],
     "correct": 0,
-    "explanation": "Acute spinal cord transection causes spinal shock — flaccid paralysis with absent reflexes below the lesion, due to sudden loss of descending facilitatory inputs. After days to weeks, spinal reflex arcs recover in isolation from supraspinal control, producing UMN signs: spastic paralysis, hyperreflexia, and extensor plantar responses.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "Acute spinal cord transection causes spinal shock \u2014 flaccid paralysis with absent reflexes below the lesion, due to sudden loss of descending facilitatory inputs. After days to weeks, spinal reflex arcs recover in isolation from supraspinal control, producing UMN signs: spastic paralysis, hyperreflexia, and extensor plantar responses.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 91,
@@ -1553,8 +1553,8 @@
       "Pericytes surrounding capillaries"
     ],
     "correct": 1,
-    "explanation": "The BBB is formed by tight junctions (zonulae occludentes) between adjacent cerebral capillary endothelial cells, making it virtually impermeable to large molecules and hydrophilic substances. Astrocyte foot processes support and maintain the barrier but do not form it. This distinction is clinically important — BBB disruption is seen in inflammation, tumours, and trauma.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "The BBB is formed by tight junctions (zonulae occludentes) between adjacent cerebral capillary endothelial cells, making it virtually impermeable to large molecules and hydrophilic substances. Astrocyte foot processes support and maintain the barrier but do not form it. This distinction is clinically important \u2014 BBB disruption is seen in inflammation, tumours, and trauma.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 92,
@@ -1571,7 +1571,7 @@
     ],
     "correct": 1,
     "explanation": "The posterior cerebral artery supplies the visual cortex (occipital lobe). Right PCA occlusion causes left homonymous hemianopia. Macular sparing occurs because the macula has dual blood supply from both PCA and MCA branches at the occipital pole. AF is a major risk factor for cardioembolic strokes.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 93,
@@ -1587,8 +1587,8 @@
       "Mesoderm of the pharyngeal arches"
     ],
     "correct": 1,
-    "explanation": "The anterior pituitary (adenohypophysis) arises from Rathke's pouch — an upward evagination of oral ectoderm (roof of stomodeum). The posterior pituitary (neurohypophysis) arises from a downward evagination of neuroectoderm from the floor of the diencephalon. Craniopharyngiomas arise from remnants of Rathke's pouch.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "The anterior pituitary (adenohypophysis) arises from Rathke's pouch \u2014 an upward evagination of oral ectoderm (roof of stomodeum). The posterior pituitary (neurohypophysis) arises from a downward evagination of neuroectoderm from the floor of the diencephalon. Craniopharyngiomas arise from remnants of Rathke's pouch.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 94,
@@ -1598,14 +1598,14 @@
     "type": "clinical",
     "question": "A 25-year-old man dives into a shallow pool and sustains a hyperflexion injury. He presents with weakness of both arms but intact leg function, with loss of pain and temperature in a cape distribution. What is the most likely diagnosis?",
     "options": [
-      "Brown-Séquard syndrome",
+      "Brown-S\u00e9quard syndrome",
       "Anterior cord syndrome",
       "Central cord syndrome",
       "Posterior cord syndrome"
     ],
     "correct": 2,
-    "explanation": "Central cord syndrome is the most common incomplete spinal cord injury, typically from hyperextension in older patients or hyperflexion in younger ones. The central cord contains the cervical motor fibres — hence arms are weaker than legs (sacral fibres are peripheral). The cape distribution of sensory loss reflects spinothalamic involvement at the cervical level.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "explanation": "Central cord syndrome is the most common incomplete spinal cord injury, typically from hyperextension in older patients or hyperflexion in younger ones. The central cord contains the cervical motor fibres \u2014 hence arms are weaker than legs (sacral fibres are peripheral). The cape distribution of sensory loss reflects spinothalamic involvement at the cervical level.",
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 95,
@@ -1622,7 +1622,7 @@
     ],
     "correct": 2,
     "explanation": "Spina bifida occulta with tethered cord is a closed neural tube defect where the spinal cord is anchored caudally by a thickened fatty filum terminale, preventing normal ascent. A cutaneous stigmata (hair tuft, dimple, haemangioma) overlying the lumbar spine is the classic clue. Neurological deficits may develop later as the child grows and the cord stretches.",
-    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy"
+    "reference": "Snell's Clinical Anatomy by Regions, 10th ed. \u2014 Chapter 8, Neuroanatomy"
   },
   {
     "id": 96,
@@ -1638,8 +1638,8 @@
       "Simple cuboidal epithelium"
     ],
     "correct": 2,
-    "explanation": "The trachea is lined by pseudostratified ciliated columnar epithelium (respiratory epithelium), which also contains goblet cells secreting mucus. The cilia beat in coordinated waves to propel mucus and trapped particles upward toward the pharynx — the mucociliary escalator. Loss of this function in smokers predisposes to recurrent respiratory infections.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 17, Respiratory System"
+    "explanation": "The trachea is lined by pseudostratified ciliated columnar epithelium (respiratory epithelium), which also contains goblet cells secreting mucus. The cilia beat in coordinated waves to propel mucus and trapped particles upward toward the pharynx \u2014 the mucociliary escalator. Loss of this function in smokers predisposes to recurrent respiratory infections.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 17, Respiratory System"
   },
   {
     "id": 97,
@@ -1649,14 +1649,14 @@
     "type": "clinical",
     "question": "A biopsy from the gastro-oesophageal junction shows replacement of the normal stratified squamous epithelium with columnar epithelium containing goblet cells. What is this change called and what is its significance?",
     "options": [
-      "Dysplasia — premalignant change to squamous cell carcinoma",
-      "Metaplasia — Barrett's oesophagus, risk of adenocarcinoma",
-      "Hyperplasia — benign response to chronic inflammation",
-      "Anaplasia — highly aggressive malignant transformation"
+      "Dysplasia \u2014 premalignant change to squamous cell carcinoma",
+      "Metaplasia \u2014 Barrett's oesophagus, risk of adenocarcinoma",
+      "Hyperplasia \u2014 benign response to chronic inflammation",
+      "Anaplasia \u2014 highly aggressive malignant transformation"
     ],
     "correct": 1,
     "explanation": "Barrett's oesophagus is intestinal metaplasia of the oesophageal mucosa, driven by chronic gastro-oesophageal reflux. The normal stratified squamous epithelium is replaced by columnar epithelium with goblet cells (intestinal type). This carries a significantly increased risk of oesophageal adenocarcinoma and requires endoscopic surveillance.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 15, Digestive Tract"
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 15, Digestive Tract"
   },
   {
     "id": 98,
@@ -1673,7 +1673,7 @@
     ],
     "correct": 2,
     "explanation": "Parietal (oxyntic) cells secrete both hydrochloric acid (via H+/K+ ATPase) and intrinsic factor, essential for vitamin B12 absorption. Chief cells secrete pepsinogen. G cells secrete gastrin. Autoimmune destruction of parietal cells causes achlorhydria and pernicious anaemia due to loss of intrinsic factor.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 15, Digestive Tract"
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 15, Digestive Tract"
   },
   {
     "id": 99,
@@ -1689,8 +1689,8 @@
       "Hepatocellular carcinoma"
     ],
     "correct": 2,
-    "explanation": "Cirrhosis is defined histologically by diffuse hepatic fibrosis with regenerative nodule formation, disrupting normal lobular architecture. Bridging fibrosis connecting portal tracts and central veins is the hallmark. This pattern is irreversible and results from repeated hepatocyte injury regardless of the aetiology — alcohol, viral hepatitis, or NAFLD.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 16, Liver and Biliary Tract"
+    "explanation": "Cirrhosis is defined histologically by diffuse hepatic fibrosis with regenerative nodule formation, disrupting normal lobular architecture. Bridging fibrosis connecting portal tracts and central veins is the hallmark. This pattern is irreversible and results from repeated hepatocyte injury regardless of the aetiology \u2014 alcohol, viral hepatitis, or NAFLD.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 16, Liver and Biliary Tract"
   },
   {
     "id": 100,
@@ -1707,7 +1707,7 @@
     ],
     "correct": 3,
     "explanation": "Oligodendrocytes myelinate axons in the CNS, with a single oligodendrocyte myelinating up to 50 axons simultaneously. Schwann cells myelinate axons in the PNS, with each Schwann cell myelinating only one axon segment. Multiple sclerosis involves autoimmune destruction of oligodendrocytes and CNS myelin.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 9, Nervous Tissue"
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 9, Nervous Tissue"
   },
   {
     "id": 101,
@@ -1724,7 +1724,7 @@
     ],
     "correct": 2,
     "explanation": "Collagen is the most abundant protein in the body, comprising about 30% of total protein mass. It provides tensile strength to tendons, ligaments, skin, and bone. Type I collagen is the most common overall. Elastin provides elastic recoil. Reticulin (type III collagen) forms the scaffolding of lymph nodes, spleen, and liver.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 5, Connective Tissue"
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 5, Connective Tissue"
   },
   {
     "id": 102,
@@ -1740,8 +1740,8 @@
       "Hyperparathyroidism"
     ],
     "correct": 2,
-    "explanation": "Paget's disease is characterised by abnormal bone remodelling — excessive osteoclastic resorption followed by disorganised osteoblastic activity, producing a chaotic mosaic pattern of woven and lamellar bone. Markedly elevated alkaline phosphatase reflects high bone turnover. Osteoporosis shows normal histology with reduced bone mass.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 7, Bone"
+    "explanation": "Paget's disease is characterised by abnormal bone remodelling \u2014 excessive osteoclastic resorption followed by disorganised osteoblastic activity, producing a chaotic mosaic pattern of woven and lamellar bone. Markedly elevated alkaline phosphatase reflects high bone turnover. Osteoporosis shows normal histology with reduced bone mass.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 7, Bone"
   },
   {
     "id": 103,
@@ -1757,8 +1757,8 @@
       "Juxtaglomerular apparatus"
     ],
     "correct": 1,
-    "explanation": "The renal corpuscle comprises the glomerular capillary tuft and Bowman's capsule. Filtration occurs across the filtration membrane — fenestrated endothelium, glomerular basement membrane, and podocyte foot processes. The juxtaglomerular apparatus regulates filtration rate and blood pressure via renin secretion.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 19, Urinary System"
+    "explanation": "The renal corpuscle comprises the glomerular capillary tuft and Bowman's capsule. Filtration occurs across the filtration membrane \u2014 fenestrated endothelium, glomerular basement membrane, and podocyte foot processes. The juxtaglomerular apparatus regulates filtration rate and blood pressure via renin secretion.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 19, Urinary System"
   },
   {
     "id": 104,
@@ -1774,8 +1774,8 @@
       "Focal segmental glomerulosclerosis"
     ],
     "correct": 2,
-    "explanation": "Minimal change disease is the most common cause of nephrotic syndrome in children and young adults. Light microscopy appears normal, but electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes with no immune deposits — distinguishing it from membranous nephropathy and IgA nephropathy. It responds well to steroids.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 19, Urinary System"
+    "explanation": "Minimal change disease is the most common cause of nephrotic syndrome in children and young adults. Light microscopy appears normal, but electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes with no immune deposits \u2014 distinguishing it from membranous nephropathy and IgA nephropathy. It responds well to steroids.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 19, Urinary System"
   },
   {
     "id": 105,
@@ -1785,14 +1785,14 @@
     "type": "factual",
     "question": "Which zone of the adrenal cortex produces aldosterone, and what is its histological appearance?",
     "options": [
-      "Zona glomerulosa — cells arranged in rounded clusters",
-      "Zona fasciculata — cells arranged in parallel cords",
-      "Zona reticularis — cells arranged in anastomosing networks",
-      "Zona glomerulosa — cells arranged in parallel cords"
+      "Zona glomerulosa \u2014 cells arranged in rounded clusters",
+      "Zona fasciculata \u2014 cells arranged in parallel cords",
+      "Zona reticularis \u2014 cells arranged in anastomosing networks",
+      "Zona glomerulosa \u2014 cells arranged in parallel cords"
     ],
     "correct": 0,
-    "explanation": "The zona glomerulosa is the outermost zone, with cells arranged in rounded clusters (glomeruli). It is the sole source of aldosterone, regulated by the renin-angiotensin system and serum potassium. The zona fasciculata produces cortisol and the zona reticularis produces androgens — both regulated by ACTH.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 20, Endocrine Glands"
+    "explanation": "The zona glomerulosa is the outermost zone, with cells arranged in rounded clusters (glomeruli). It is the sole source of aldosterone, regulated by the renin-angiotensin system and serum potassium. The zona fasciculata produces cortisol and the zona reticularis produces androgens \u2014 both regulated by ACTH.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 20, Endocrine Glands"
   },
   {
     "id": 106,
@@ -1808,8 +1808,8 @@
       "Metastatic carcinoma"
     ],
     "correct": 2,
-    "explanation": "Reed-Sternberg cells — large binucleated cells with prominent owl-eye nucleoli — are the pathognomonic finding in Hodgkin lymphoma. Lacunar cells are a variant seen in nodular sclerosis, the most common subtype. Effacement of nodal architecture distinguishes lymphoma from reactive hyperplasia.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 14, Lymphoid Organs"
+    "explanation": "Reed-Sternberg cells \u2014 large binucleated cells with prominent owl-eye nucleoli \u2014 are the pathognomonic finding in Hodgkin lymphoma. Lacunar cells are a variant seen in nodular sclerosis, the most common subtype. Effacement of nodal architecture distinguishes lymphoma from reactive hyperplasia.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 14, Lymphoid Organs"
   },
   {
     "id": 107,
@@ -1825,8 +1825,8 @@
       "Myoepithelial cells"
     ],
     "correct": 2,
-    "explanation": "Cardiac muscle is striated like skeletal muscle but has centrally placed nuclei, branching fibres, and intercalated discs — specialised junctions containing gap junctions (for electrical coupling) and desmosomes (for mechanical coupling). This allows the heart to function as a functional syncytium. Skeletal muscle has peripheral nuclei and no intercalated discs.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 10, Muscle Tissue"
+    "explanation": "Cardiac muscle is striated like skeletal muscle but has centrally placed nuclei, branching fibres, and intercalated discs \u2014 specialised junctions containing gap junctions (for electrical coupling) and desmosomes (for mechanical coupling). This allows the heart to function as a functional syncytium. Skeletal muscle has peripheral nuclei and no intercalated discs.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 10, Muscle Tissue"
   },
   {
     "id": 108,
@@ -1836,14 +1836,14 @@
     "type": "clinical",
     "question": "A bronchial biopsy from a 55-year-old smoker shows replacement of the normal pseudostratified ciliated columnar epithelium with stratified squamous epithelium. What is this change and what does it predispose to?",
     "options": [
-      "Dysplasia — directly transforms to adenocarcinoma",
-      "Squamous metaplasia — predisposes to squamous cell carcinoma",
-      "Hyperplasia — benign and reversible with no malignant risk",
-      "Columnar metaplasia — predisposes to adenocarcinoma"
+      "Dysplasia \u2014 directly transforms to adenocarcinoma",
+      "Squamous metaplasia \u2014 predisposes to squamous cell carcinoma",
+      "Hyperplasia \u2014 benign and reversible with no malignant risk",
+      "Columnar metaplasia \u2014 predisposes to adenocarcinoma"
     ],
     "correct": 1,
     "explanation": "Squamous metaplasia in the bronchial epithelium is a reversible adaptive response to chronic irritation from smoking. The protective pseudostratified epithelium is replaced by hardier stratified squamous epithelium. However, this predisposes to squamous cell carcinoma of the lung if the stimulus (smoking) persists. Cessation of smoking can allow reversal of metaplasia.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 17, Respiratory System"
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 17, Respiratory System"
   },
   {
     "id": 109,
@@ -1853,14 +1853,14 @@
     "type": "factual",
     "question": "Hassall's corpuscles are found in which lymphoid organ and what do they represent?",
     "options": [
-      "Spleen — sites of red pulp filtration",
-      "Lymph node — germinal centre remnants",
-      "Thymus — concentric whorls of epithelial reticular cells in the medulla",
-      "Tonsil — crypts lined by stratified squamous epithelium"
+      "Spleen \u2014 sites of red pulp filtration",
+      "Lymph node \u2014 germinal centre remnants",
+      "Thymus \u2014 concentric whorls of epithelial reticular cells in the medulla",
+      "Tonsil \u2014 crypts lined by stratified squamous epithelium"
     ],
     "correct": 2,
-    "explanation": "Hassall's corpuscles are concentric whorls of keratinised epithelial reticular cells found in the thymic medulla. They are a histological hallmark of the thymus and are thought to be involved in regulatory T cell development. Their presence confirms thymic tissue on biopsy — important in distinguishing thymoma from other mediastinal masses.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 14, Lymphoid Organs"
+    "explanation": "Hassall's corpuscles are concentric whorls of keratinised epithelial reticular cells found in the thymic medulla. They are a histological hallmark of the thymus and are thought to be involved in regulatory T cell development. Their presence confirms thymic tissue on biopsy \u2014 important in distinguishing thymoma from other mediastinal masses.",
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 14, Lymphoid Organs"
   },
   {
     "id": 110,
@@ -1877,7 +1877,7 @@
     ],
     "correct": 1,
     "explanation": "Prolactinoma is the most common functioning pituitary adenoma. Histologically, pituitary adenomas show a monotonous sheet-like growth pattern replacing the normal acinar architecture, with granular cytoplasm reflecting hormone storage. Immunohistochemistry for prolactin confirms the diagnosis. Amenorrhoea-galactorrhoea syndrome is the classic clinical presentation.",
-    "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 20, Endocrine Glands"
+    "reference": "Junqueira's Basic Histology, 15th ed. \u2014 Chapter 20, Endocrine Glands"
   },
   {
     "id": 111,
@@ -1894,7 +1894,7 @@
     ],
     "correct": 1,
     "explanation": "The Frank-Starling law states that the force of myocardial contraction increases with greater end-diastolic fiber stretch, up to a physiological limit. As venous return increases, EDV rises, sarcomeres are stretched toward optimal overlap, and stroke volume increases. This intrinsic mechanism allows the heart to match output to venous return without needing neural input.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, Cardiac Muscle; The Heart as a Pump"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 9, Cardiac Muscle; The Heart as a Pump"
   },
   {
     "id": 112,
@@ -1904,14 +1904,14 @@
     "type": "factual",
     "question": "The plateau phase (phase 2) of the ventricular action potential is primarily maintained by:",
     "options": [
-      "Rapid influx of Na⁺ through fast channels",
-      "Efflux of K⁺ through inward rectifier channels",
-      "Influx of Ca²⁺ through L-type calcium channels",
-      "Influx of Cl⁻ through ligand-gated channels"
+      "Rapid influx of Na\u207a through fast channels",
+      "Efflux of K\u207a through inward rectifier channels",
+      "Influx of Ca\u00b2\u207a through L-type calcium channels",
+      "Influx of Cl\u207b through ligand-gated channels"
     ],
     "correct": 2,
-    "explanation": "Phase 2 (plateau) is unique to cardiac muscle. After the initial rapid depolarization (Na⁺ influx), L-type (long-lasting) voltage-gated Ca²⁺ channels open. The slow inward Ca²⁺ current balances outward K⁺ currents, sustaining the plateau. This prolonged depolarization triggers Ca²⁺-induced Ca²⁺ release from the SR and is essential for excitation-contraction coupling. The long refractory period this creates prevents tetanus.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 10, Rhythmical Excitation of the Heart"
+    "explanation": "Phase 2 (plateau) is unique to cardiac muscle. After the initial rapid depolarization (Na\u207a influx), L-type (long-lasting) voltage-gated Ca\u00b2\u207a channels open. The slow inward Ca\u00b2\u207a current balances outward K\u207a currents, sustaining the plateau. This prolonged depolarization triggers Ca\u00b2\u207a-induced Ca\u00b2\u207a release from the SR and is essential for excitation-contraction coupling. The long refractory period this creates prevents tetanus.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 10, Rhythmical Excitation of the Heart"
   },
   {
     "id": 113,
@@ -1927,8 +1927,8 @@
       "Reduced antidiuretic hormone secretion from the posterior pituitary"
     ],
     "correct": 1,
-    "explanation": "In low-output states, reduced renal perfusion activates the RAAS. Renin converts angiotensinogen to angiotensin I → ACE converts it to angiotensin II, a potent vasoconstrictor. This raises SVR, maintaining MAP (= CO × SVR) despite reduced CO. Angiotensin II also stimulates aldosterone, promoting Na⁺/water retention to increase preload. In the short term this is compensatory; chronically it worsens cardiac remodeling — the rationale for ACE inhibitors in heart failure.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 22, Cardiac Failure"
+    "explanation": "In low-output states, reduced renal perfusion activates the RAAS. Renin converts angiotensinogen to angiotensin I \u2192 ACE converts it to angiotensin II, a potent vasoconstrictor. This raises SVR, maintaining MAP (= CO \u00d7 SVR) despite reduced CO. Angiotensin II also stimulates aldosterone, promoting Na\u207a/water retention to increase preload. In the short term this is compensatory; chronically it worsens cardiac remodeling \u2014 the rationale for ACE inhibitors in heart failure.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 22, Cardiac Failure"
   },
   {
     "id": 114,
@@ -1944,8 +1944,8 @@
       "Increase sixteenfold"
     ],
     "correct": 3,
-    "explanation": "Poiseuille's law: R = 8ηL / πr⁴. Resistance is inversely proportional to the fourth power of the radius. If r is halved (r → r/2), then r⁴ → r⁴/16, so resistance increases by a factor of 16. This explains why small-vessel disease (e.g., arteriolar constriction, atherosclerosis) has a dramatically disproportionate effect on vascular resistance and blood pressure.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 14, Overview of the Circulation; Biophysics of Pressure, Flow, and Resistance"
+    "explanation": "Poiseuille's law: R = 8\u03b7L / \u03c0r\u2074. Resistance is inversely proportional to the fourth power of the radius. If r is halved (r \u2192 r/2), then r\u2074 \u2192 r\u2074/16, so resistance increases by a factor of 16. This explains why small-vessel disease (e.g., arteriolar constriction, atherosclerosis) has a dramatically disproportionate effect on vascular resistance and blood pressure.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 14, Overview of the Circulation; Biophysics of Pressure, Flow, and Resistance"
   },
   {
     "id": 115,
@@ -1961,8 +1961,8 @@
       "Activation of chemoreceptors in the carotid body"
     ],
     "correct": 1,
-    "explanation": "On standing, venous pooling in the lower limbs reduces venous return and CO, dropping arterial pressure. Carotid sinus and aortic arch baroreceptors detect reduced stretch and decrease afferent firing to the NTS in the medulla. This disinhibits sympathetic outflow and inhibits parasympathetic tone → increased HR (chronotropy), increased contractility (inotropy), and arteriolar/venous vasoconstriction. This orthostatic reflex typically restores BP within seconds. Failure of this reflex = orthostatic hypotension.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 18, Nervous Regulation of the Circulation and Rapid Control of Arterial Pressure"
+    "explanation": "On standing, venous pooling in the lower limbs reduces venous return and CO, dropping arterial pressure. Carotid sinus and aortic arch baroreceptors detect reduced stretch and decrease afferent firing to the NTS in the medulla. This disinhibits sympathetic outflow and inhibits parasympathetic tone \u2192 increased HR (chronotropy), increased contractility (inotropy), and arteriolar/venous vasoconstriction. This orthostatic reflex typically restores BP within seconds. Failure of this reflex = orthostatic hypotension.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 18, Nervous Regulation of the Circulation and Rapid Control of Arterial Pressure"
   },
   {
     "id": 116,
@@ -1979,7 +1979,7 @@
     ],
     "correct": 1,
     "explanation": "After mitral valve closure, the ventricle contracts against a closed aortic valve. Volume stays constant while pressure rises rapidly until it exceeds aortic diastolic pressure (~80 mmHg), at which point the aortic valve opens.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, The Cardiac Cycle"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 9, The Cardiac Cycle"
   },
   {
     "id": 117,
@@ -1996,7 +1996,7 @@
     ],
     "correct": 3,
     "explanation": "Systolic myocardial compression nearly obliterates left coronary flow. During diastole, the relaxed myocardium allows perfusion driven by aortic diastolic pressure. The right coronary, less compressed, flows throughout the cycle. This is why tachycardia (shortened diastole) risks subendocardial ischemia.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 21, Coronary Circulation and Ischemic Heart Disease"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 21, Coronary Circulation and Ischemic Heart Disease"
   },
   {
     "id": 118,
@@ -2012,8 +2012,8 @@
       "140 mmHg"
     ],
     "correct": 1,
-    "explanation": "MAP ≈ DBP + 1/3(PP) = 100 + 1/3(60) = 100 + 20 = 120 mmHg. MAP reflects average perfusion pressure and is a better indicator of organ perfusion than systolic BP alone.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 15, Vascular Distensibility and Functions of the Arterial and Venous Systems"
+    "explanation": "MAP \u2248 DBP + 1/3(PP) = 100 + 1/3(60) = 100 + 20 = 120 mmHg. MAP reflects average perfusion pressure and is a better indicator of organ perfusion than systolic BP alone.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 15, Vascular Distensibility and Functions of the Arterial and Venous Systems"
   },
   {
     "id": 119,
@@ -2024,13 +2024,13 @@
     "question": "Which receptor, when stimulated, increases heart rate by accelerating spontaneous depolarization in the SA node?",
     "options": [
       "M2 muscarinic receptor",
-      "β2-adrenergic receptor",
-      "β1-adrenergic receptor",
-      "α1-adrenergic receptor"
+      "\u03b22-adrenergic receptor",
+      "\u03b21-adrenergic receptor",
+      "\u03b11-adrenergic receptor"
     ],
     "correct": 2,
-    "explanation": "β1 receptors predominate in the SA node. Norepinephrine/epinephrine binding activates adenylyl cyclase → ↑cAMP → ↑If (funny current) and ↑ICa,L, steepening the slope of phase 4 spontaneous depolarization → tachycardia. M2 stimulation does the opposite (↑K⁺ conductance → hyperpolarization → bradycardia).",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 10, Rhythmical Excitation of the Heart"
+    "explanation": "\u03b21 receptors predominate in the SA node. Norepinephrine/epinephrine binding activates adenylyl cyclase \u2192 \u2191cAMP \u2192 \u2191If (funny current) and \u2191ICa,L, steepening the slope of phase 4 spontaneous depolarization \u2192 tachycardia. M2 stimulation does the opposite (\u2191K\u207a conductance \u2192 hyperpolarization \u2192 bradycardia).",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 10, Rhythmical Excitation of the Heart"
   },
   {
     "id": 120,
@@ -2040,14 +2040,14 @@
     "type": "clinical",
     "question": "A 30-year-old man arrives in the ER after a road traffic accident. BP 80/60, HR 128, cold clammy extremities, reduced urine output. Which type of shock is most likely and what is the primary hemodynamic defect?",
     "options": [
-      "Distributive shock — decreased SVR",
-      "Cardiogenic shock — decreased contractility",
-      "Hypovolemic shock — decreased preload",
-      "Obstructive shock — impaired ventricular filling"
+      "Distributive shock \u2014 decreased SVR",
+      "Cardiogenic shock \u2014 decreased contractility",
+      "Hypovolemic shock \u2014 decreased preload",
+      "Obstructive shock \u2014 impaired ventricular filling"
     ],
     "correct": 2,
-    "explanation": "Trauma with the above picture = hemorrhagic (hypovolemic) shock. Blood loss → ↓venous return → ↓preload → ↓CO → compensatory tachycardia and vasoconstriction (cold, clammy skin). Reduced renal perfusion → oliguria. Primary defect is decreased preload, distinguishing it from cardiogenic (pump failure) or distributive (sepsis, vasodilation) shock.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 24, Circulatory Shock and Its Treatment"
+    "explanation": "Trauma with the above picture = hemorrhagic (hypovolemic) shock. Blood loss \u2192 \u2193venous return \u2192 \u2193preload \u2192 \u2193CO \u2192 compensatory tachycardia and vasoconstriction (cold, clammy skin). Reduced renal perfusion \u2192 oliguria. Primary defect is decreased preload, distinguishing it from cardiogenic (pump failure) or distributive (sepsis, vasodilation) shock.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 24, Circulatory Shock and Its Treatment"
   },
   {
     "id": 121,
@@ -2063,8 +2063,8 @@
       "Lymphatic flow ceases"
     ],
     "correct": 1,
-    "explanation": "Capillary HP drives fluid out; plasma oncotic pressure draws it in. When HP > oncotic pressure, net filtration into interstitium occurs. At the venous end, oncotic pressure dominates, reabsorbing fluid. Excess is returned via lymphatics. Disruption → edema.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 16, Microcirculation and Lymphatic System"
+    "explanation": "Capillary HP drives fluid out; plasma oncotic pressure draws it in. When HP > oncotic pressure, net filtration into interstitium occurs. At the venous end, oncotic pressure dominates, reabsorbing fluid. Excess is returned via lymphatics. Disruption \u2192 edema.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 16, Microcirculation and Lymphatic System"
   },
   {
     "id": 122,
@@ -2080,8 +2080,8 @@
       "Mitral regurgitation increasing EDV"
     ],
     "correct": 1,
-    "explanation": "Aortic stenosis creates fixed outflow obstruction → chronic pressure overload → LV wall stress increases → concentric hypertrophy (↑wall thickness, normal cavity size) to normalize wall stress per Laplace's law. Volume overload (e.g., AR, MR) causes eccentric hypertrophy instead.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 22, Cardiac Failure"
+    "explanation": "Aortic stenosis creates fixed outflow obstruction \u2192 chronic pressure overload \u2192 LV wall stress increases \u2192 concentric hypertrophy (\u2191wall thickness, normal cavity size) to normalize wall stress per Laplace's law. Volume overload (e.g., AR, MR) causes eccentric hypertrophy instead.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 22, Cardiac Failure"
   },
   {
     "id": 123,
@@ -2097,8 +2097,8 @@
       "Pulmonary vascular resistance"
     ],
     "correct": 1,
-    "explanation": "Venous return = (MSFP − RAP) / venous resistance. MSFP reflects the filling state of the entire systemic circulation and is the primary driving force for venous return. It rises with blood volume expansion and falls with hemorrhage.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 20, Cardiac Output, Venous Return, and Their Regulation"
+    "explanation": "Venous return = (MSFP \u2212 RAP) / venous resistance. MSFP reflects the filling state of the entire systemic circulation and is the primary driving force for venous return. It rises with blood volume expansion and falls with hemorrhage.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 20, Cardiac Output, Venous Return, and Their Regulation"
   },
   {
     "id": 124,
@@ -2114,8 +2114,8 @@
       "Increased pulmonary vascular resistance"
     ],
     "correct": 1,
-    "explanation": "LV failure → ↑LVEDP → ↑pulmonary venous pressure → ↑pulmonary capillary HP. When it exceeds oncotic pressure (~25 mmHg), fluid floods the alveoli. Pink froth = fluid + red cells. Treated with diuretics, vasodilators, and positioning.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Edema"
+    "explanation": "LV failure \u2192 \u2191LVEDP \u2192 \u2191pulmonary venous pressure \u2192 \u2191pulmonary capillary HP. When it exceeds oncotic pressure (~25 mmHg), fluid floods the alveoli. Pink froth = fluid + red cells. Treated with diuretics, vasodilators, and positioning.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 38, Pulmonary Edema"
   },
   {
     "id": 125,
@@ -2125,14 +2125,14 @@
     "type": "factual",
     "question": "The Fick principle states that cardiac output equals:",
     "options": [
-      "O₂ consumption ÷ arteriovenous O₂ difference",
-      "Stroke volume × arterial O₂ content",
-      "Heart rate × end-diastolic volume",
-      "Mean arterial pressure ÷ systemic vascular resistance"
+      "O\u2082 consumption \u00f7 arteriovenous O\u2082 difference",
+      "Stroke volume \u00d7 arterial O\u2082 content",
+      "Heart rate \u00d7 end-diastolic volume",
+      "Mean arterial pressure \u00f7 systemic vascular resistance"
     ],
     "correct": 0,
-    "explanation": "CO = VO₂ / (CaO₂ − CvO₂). Oxygen consumed per minute divided by the amount extracted per liter of blood = liters of blood pumped per minute. Gold standard for CO measurement in cardiac catheterization labs.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 20, Cardiac Output, Venous Return, and Their Regulation"
+    "explanation": "CO = VO\u2082 / (CaO\u2082 \u2212 CvO\u2082). Oxygen consumed per minute divided by the amount extracted per liter of blood = liters of blood pumped per minute. Gold standard for CO measurement in cardiac catheterization labs.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 20, Cardiac Output, Venous Return, and Their Regulation"
   },
   {
     "id": 126,
@@ -2148,8 +2148,8 @@
       "Venous hypertension from right heart failure"
     ],
     "correct": 1,
-    "explanation": "Cerebral autoregulation maintains CBF between MAP 60–150 mmHg. Above this, autoregulation fails → passive pressure-driven hyperperfusion → disruption of the blood-brain barrier → cerebral edema, papilledema, hypertensive encephalopathy. Requires controlled BP reduction with IV agents.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+    "explanation": "Cerebral autoregulation maintains CBF between MAP 60\u2013150 mmHg. Above this, autoregulation fails \u2192 passive pressure-driven hyperperfusion \u2192 disruption of the blood-brain barrier \u2192 cerebral edema, papilledema, hypertensive encephalopathy. Requires controlled BP reduction with IV agents.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
   },
   {
     "id": 127,
@@ -2158,14 +2158,14 @@
     "type": "factual",
     "question": "What is the approximate resting membrane potential of a typical neuron, and which ion is primarily responsible for maintaining it?",
     "options": [
-      "-55 mV, maintained primarily by Na⁺",
-      "-70 mV, maintained primarily by K⁺",
-      "-90 mV, maintained primarily by Cl⁻",
-      "-70 mV, maintained primarily by Ca²⁺"
+      "-55 mV, maintained primarily by Na\u207a",
+      "-70 mV, maintained primarily by K\u207a",
+      "-90 mV, maintained primarily by Cl\u207b",
+      "-70 mV, maintained primarily by Ca\u00b2\u207a"
     ],
     "correct": 1,
-    "explanation": "The resting membrane potential (~-70 mV) is maintained primarily by K⁺ leaking out through K⁺ leak channels down its concentration gradient. The Na⁺/K⁺ ATPase maintains the concentration gradients (3 Na⁺ out, 2 K⁺ in). K⁺ equilibrium potential (~-94 mV) is the dominant determinant.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 5, Membrane Potentials and Action Potentials"
+    "explanation": "The resting membrane potential (~-70 mV) is maintained primarily by K\u207a leaking out through K\u207a leak channels down its concentration gradient. The Na\u207a/K\u207a ATPase maintains the concentration gradients (3 Na\u207a out, 2 K\u207a in). K\u207a equilibrium potential (~-94 mV) is the dominant determinant.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 5, Membrane Potentials and Action Potentials"
   },
   {
     "id": 128,
@@ -2177,11 +2177,11 @@
       "A stronger-than-normal stimulus can generate a second action potential",
       "No stimulus, regardless of strength, can generate another action potential",
       "Only hyperpolarizing stimuli can fire the neuron",
-      "K⁺ channels are fully closed"
+      "K\u207a channels are fully closed"
     ],
     "correct": 1,
-    "explanation": "During the absolute refractory period, voltage-gated Na⁺ channels are inactivated (h-gates closed). No stimulus can reopen them until they recover to the closed-but-activatable state. This prevents backward propagation and limits firing frequency.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 5, Membrane Potentials and Action Potentials"
+    "explanation": "During the absolute refractory period, voltage-gated Na\u207a channels are inactivated (h-gates closed). No stimulus can reopen them until they recover to the closed-but-activatable state. This prevents backward propagation and limits firing frequency.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 5, Membrane Potentials and Action Potentials"
   },
   {
     "id": 129,
@@ -2196,8 +2196,8 @@
       "Loss of motor function ipsilaterally only"
     ],
     "correct": 1,
-    "explanation": "Complete transection destroys all ascending and descending tracts bilaterally — spinothalamic (pain/temperature), dorsal columns (proprioception/vibration), and corticospinal (voluntary motor). All modalities are lost below T10 on both sides. Brown-Séquard (option C) occurs with hemisection, not complete transection.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 48, Sensory Functions of the Spinal Cord"
+    "explanation": "Complete transection destroys all ascending and descending tracts bilaterally \u2014 spinothalamic (pain/temperature), dorsal columns (proprioception/vibration), and corticospinal (voluntary motor). All modalities are lost below T10 on both sides. Brown-S\u00e9quard (option C) occurs with hemisection, not complete transection.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 48, Sensory Functions of the Spinal Cord"
   },
   {
     "id": 130,
@@ -2207,13 +2207,13 @@
     "question": "Which of the following best describes the mechanism of synaptic transmission at a chemical synapse?",
     "options": [
       "Electrical current flows directly from presynaptic to postsynaptic cell",
-      "Action potential depolarization opens voltage-gated Ca²⁺ channels triggering neurotransmitter exocytosis",
+      "Action potential depolarization opens voltage-gated Ca\u00b2\u207a channels triggering neurotransmitter exocytosis",
       "Neurotransmitter diffuses through gap junctions into the postsynaptic cell",
-      "K⁺ influx into the terminal triggers vesicle fusion"
+      "K\u207a influx into the terminal triggers vesicle fusion"
     ],
     "correct": 1,
-    "explanation": "Arrival of action potential at the terminal opens voltage-gated Ca²⁺ channels. Ca²⁺ influx triggers vesicle fusion and exocytosis of neurotransmitter into the synaptic cleft, which binds postsynaptic receptors. Ca²⁺ is the essential trigger.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 46, Organization of the Nervous System"
+    "explanation": "Arrival of action potential at the terminal opens voltage-gated Ca\u00b2\u207a channels. Ca\u00b2\u207a influx triggers vesicle fusion and exocytosis of neurotransmitter into the synaptic cleft, which binds postsynaptic receptors. Ca\u00b2\u207a is the essential trigger.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 46, Organization of the Nervous System"
   },
   {
     "id": 131,
@@ -2229,7 +2229,7 @@
     ],
     "correct": 2,
     "explanation": "UMN lesions (corticospinal tract) produce spastic weakness, hyperreflexia, and extensor plantar response (Babinski). LMN lesions produce flaccid weakness, hyporeflexia, fasciculations, and atrophy. Babinski is the hallmark of UMN pathology.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 55, Cortical and Brain Stem Control of Motor Function"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 55, Cortical and Brain Stem Control of Motor Function"
   },
   {
     "id": 132,
@@ -2244,8 +2244,8 @@
       "Serotonin"
     ],
     "correct": 2,
-    "explanation": "Acetylcholine is released from motor nerve terminals at the NMJ, binds nicotinic ACh receptors on the motor end plate, causing Na⁺ influx and end plate potential, triggering muscle contraction. ACh is also used at all autonomic ganglia and parasympathetic end organs.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 7, Excitation of Skeletal Muscle"
+    "explanation": "Acetylcholine is released from motor nerve terminals at the NMJ, binds nicotinic ACh receptors on the motor end plate, causing Na\u207a influx and end plate potential, triggering muscle contraction. ACh is also used at all autonomic ganglia and parasympathetic end organs.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 7, Excitation of Skeletal Muscle"
   },
   {
     "id": 133,
@@ -2260,8 +2260,8 @@
       "Sensory fibers of the trigeminal nerve"
     ],
     "correct": 1,
-    "explanation": "Horner's syndrome (ptosis, miosis, anhidrosis) results from disruption of the sympathetic chain — hypothalamus to ciliospinal center (C8-T2) to superior cervical ganglion to eye and face. Loss of sympathetic tone causes unopposed parasympathetic effects. Common causes include Pancoast tumor, carotid dissection, and brainstem stroke.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Autonomic Regulation"
+    "explanation": "Horner's syndrome (ptosis, miosis, anhidrosis) results from disruption of the sympathetic chain \u2014 hypothalamus to ciliospinal center (C8-T2) to superior cervical ganglion to eye and face. Loss of sympathetic tone causes unopposed parasympathetic effects. Common causes include Pancoast tumor, carotid dissection, and brainstem stroke.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, Autonomic Regulation"
   },
   {
     "id": 134,
@@ -2277,7 +2277,7 @@
     ],
     "correct": 1,
     "explanation": "The cerebellum receives efference copies of motor commands and sensory feedback, comparing intended vs actual movement. It sends corrective signals via the thalamus back to the motor cortex. Cerebellar lesions produce ipsilateral ataxia, dysmetria, intention tremor, and dysdiadochokinesia.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 57, The Cerebellum and Basal Ganglia"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 57, The Cerebellum and Basal Ganglia"
   },
   {
     "id": 135,
@@ -2292,8 +2292,8 @@
       "Degeneration of the caudate nucleus due to huntingtin protein accumulation"
     ],
     "correct": 1,
-    "explanation": "Parkinson's disease results from loss of dopaminergic neurons in the substantia nigra pars compacta, reducing dopamine in the striatum, imbalancing direct and indirect pathways, causing excessive thalamic inhibition and reduced cortical activation — bradykinesia, rigidity, resting tremor. Option D describes Huntington's disease.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 57, The Cerebellum and Basal Ganglia"
+    "explanation": "Parkinson's disease results from loss of dopaminergic neurons in the substantia nigra pars compacta, reducing dopamine in the striatum, imbalancing direct and indirect pathways, causing excessive thalamic inhibition and reduced cortical activation \u2014 bradykinesia, rigidity, resting tremor. Option D describes Huntington's disease.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 57, The Cerebellum and Basal Ganglia"
   },
   {
     "id": 136,
@@ -2302,14 +2302,14 @@
     "type": "factual",
     "question": "Which EEG pattern is associated with deep slow-wave sleep (Stage N3)?",
     "options": [
-      "Alpha waves (8–13 Hz)",
+      "Alpha waves (8\u201313 Hz)",
       "Beta waves (>13 Hz)",
       "Delta waves (<4 Hz)",
-      "Theta waves (4–8 Hz)"
+      "Theta waves (4\u20138 Hz)"
     ],
     "correct": 2,
     "explanation": "Delta waves (<4 Hz, high amplitude) characterize Stage N3 (deep NREM sleep). Alpha = relaxed wakefulness with eyes closed. Beta = active thinking/REM sleep. Theta = light sleep/drowsiness. Deep sleep is when growth hormone is secreted and memory consolidation occurs.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 60, Sleep, Brain Waves, Epilepsy, Psychoses"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 60, Sleep, Brain Waves, Epilepsy, Psychoses"
   },
   {
     "id": 137,
@@ -2325,7 +2325,7 @@
     ],
     "correct": 1,
     "explanation": "The BBB is formed by tight junctions (zonula occludens) between adjacent cerebral capillary endothelial cells, preventing paracellular diffusion. Astrocyte end-feet maintain and support the barrier but are not the structural basis. Lipid-soluble substances cross freely; glucose uses GLUT1 transporters.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
   },
   {
     "id": 138,
@@ -2341,7 +2341,7 @@
     ],
     "correct": 1,
     "explanation": "In bacterial meningitis, bacteria and neutrophils in the CSF consume glucose rapidly, dropping CSF glucose below 45 mg/dL. Neutrophilic pleocytosis + low glucose + high protein = bacterial meningitis until proven otherwise. Viral meningitis typically shows lymphocytic pleocytosis with normal glucose.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
   },
   {
     "id": 139,
@@ -2350,14 +2350,14 @@
     "type": "factual",
     "question": "Which of the following correctly pairs the receptor type with its location and effect?",
     "options": [
-      "α1 adrenergic — heart — increased heart rate",
-      "M2 muscarinic — SA node — decreased heart rate",
-      "β2 adrenergic — blood vessels — vasoconstriction",
-      "Nicotinic — parasympathetic end organs — muscle contraction"
+      "\u03b11 adrenergic \u2014 heart \u2014 increased heart rate",
+      "M2 muscarinic \u2014 SA node \u2014 decreased heart rate",
+      "\u03b22 adrenergic \u2014 blood vessels \u2014 vasoconstriction",
+      "Nicotinic \u2014 parasympathetic end organs \u2014 muscle contraction"
     ],
     "correct": 1,
-    "explanation": "M2 muscarinic receptors at the SA node mediate vagal bradycardia via increased K⁺ conductance and hyperpolarization. α1 causes vasoconstriction. β2 causes vasodilation and bronchodilation. Nicotinic receptors are at autonomic ganglia and the NMJ, not parasympathetic end organs.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Autonomic Nervous System"
+    "explanation": "M2 muscarinic receptors at the SA node mediate vagal bradycardia via increased K\u207a conductance and hyperpolarization. \u03b11 causes vasoconstriction. \u03b22 causes vasodilation and bronchodilation. Nicotinic receptors are at autonomic ganglia and the NMJ, not parasympathetic end organs.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, Autonomic Nervous System"
   },
   {
     "id": 140,
@@ -2373,7 +2373,7 @@
     ],
     "correct": 1,
     "explanation": "Cushing's triad = hypertension + bradycardia + irregular respirations. Rising ICP compresses the brainstem causing reflex hypertension to maintain CPP, baroreceptor-mediated bradycardia, and irregular breathing from direct medullary compression. It is a late, ominous sign of impending herniation.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism"
   },
   {
     "id": 141,
@@ -2389,7 +2389,7 @@
     ],
     "correct": 2,
     "explanation": "L5 dermatome covers the lateral calf, dorsum of foot, and great toe. L4 covers the medial calf and medial foot. S1 covers the posterior calf, lateral foot, and small toe. The distribution described is classic L5 radiculopathy, often from L4/L5 disc herniation.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 48, Somatic Sensations"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 48, Somatic Sensations"
   },
   {
     "id": 142,
@@ -2405,7 +2405,7 @@
     ],
     "correct": 2,
     "explanation": "FRC = ERV + RV. Residual volume cannot be exhaled and therefore cannot be measured by spirometry. FRC requires helium dilution, nitrogen washout, or body plethysmography. All other standard lung volumes and capacities that do not include RV can be measured by spirometry.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 37, Pulmonary Ventilation"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Pulmonary Ventilation"
   },
   {
     "id": 143,
@@ -2415,13 +2415,13 @@
     "question": "The oxygen-hemoglobin dissociation curve shifts to the right in response to:",
     "options": [
       "Decreased temperature",
-      "Decreased PCO₂",
+      "Decreased PCO\u2082",
       "Increased 2,3-DPG",
       "Increased pH"
     ],
     "correct": 2,
-    "explanation": "Right shift = decreased Hb affinity for O₂ = more O₂ released to tissues (Bohr effect). Caused by increased 2,3-DPG, CO₂, H⁺ (decreased pH), and temperature. Left shift = increased affinity = fetal Hb, hypothermia, decreased CO₂, alkalosis. 2,3-DPG rises in chronic hypoxia and anemia as a compensatory mechanism.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 41, Transport of Oxygen and Carbon Dioxide"
+    "explanation": "Right shift = decreased Hb affinity for O\u2082 = more O\u2082 released to tissues (Bohr effect). Caused by increased 2,3-DPG, CO\u2082, H\u207a (decreased pH), and temperature. Left shift = increased affinity = fetal Hb, hypothermia, decreased CO\u2082, alkalosis. 2,3-DPG rises in chronic hypoxia and anemia as a compensatory mechanism.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 41, Transport of Oxygen and Carbon Dioxide"
   },
   {
     "id": 144,
@@ -2437,7 +2437,7 @@
     ],
     "correct": 1,
     "explanation": "FEV1/FVC <0.70 = obstructive pattern. Increased TLC and RV indicate air trapping from loss of elastic recoil (emphysema) and dynamic airway collapse. Chronic productive cough indicates chronic bronchitis. Together = COPD. Restrictive disease shows reduced TLC with normal or increased FEV1/FVC.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 42, Respiratory Insufficiency"
   },
   {
     "id": 145,
@@ -2446,21 +2446,21 @@
     "type": "factual",
     "question": "The most powerful stimulus for increasing ventilation under normal physiological conditions is:",
     "options": [
-      "Decreased arterial PO₂",
-      "Increased arterial PCO₂",
+      "Decreased arterial PO\u2082",
+      "Increased arterial PCO\u2082",
       "Decreased CSF pH",
       "Stimulation of peripheral chemoreceptors"
     ],
     "correct": 1,
-    "explanation": "Central chemoreceptors in the medulla are exquisitely sensitive to CO₂/H⁺. Rising PaCO₂ causes CO₂ to cross the BBB, forming carbonic acid, decreasing CSF pH and stimulating ventilation. Hypoxia stimulates peripheral chemoreceptors but is a weaker secondary stimulus. In chronic hypercapnia (COPD), hypoxic drive becomes primary.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Regulation of Respiration"
+    "explanation": "Central chemoreceptors in the medulla are exquisitely sensitive to CO\u2082/H\u207a. Rising PaCO\u2082 causes CO\u2082 to cross the BBB, forming carbonic acid, decreasing CSF pH and stimulating ventilation. Hypoxia stimulates peripheral chemoreceptors but is a weaker secondary stimulus. In chronic hypercapnia (COPD), hypoxic drive becomes primary.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 42, Regulation of Respiration"
   },
   {
     "id": 146,
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 35-year-old woman on oral contraceptives develops sudden pleuritic chest pain and dyspnea. ABG shows PaO₂ 68 mmHg and PaCO₂ 30 mmHg. What is the primary physiological consequence of her condition?",
+    "question": "A 35-year-old woman on oral contraceptives develops sudden pleuritic chest pain and dyspnea. ABG shows PaO\u2082 68 mmHg and PaCO\u2082 30 mmHg. What is the primary physiological consequence of her condition?",
     "options": [
       "Increased shunt fraction due to alveolar flooding",
       "Increased physiological dead space due to ventilated but unperfused alveoli",
@@ -2468,8 +2468,8 @@
       "Hypoventilation due to diaphragmatic splinting"
     ],
     "correct": 1,
-    "explanation": "PE occludes pulmonary arteries, creating ventilated alveoli with no blood flow, increasing dead space (V/Q approaching infinity). Hypoxemia results from reflex bronchoconstriction, atelectasis, and V/Q mismatch. Low PaCO₂ reflects compensatory hyperventilation. OCPs + young woman = classic PE risk scenario.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation"
+    "explanation": "PE occludes pulmonary arteries, creating ventilated alveoli with no blood flow, increasing dead space (V/Q approaching infinity). Hypoxemia results from reflex bronchoconstriction, atelectasis, and V/Q mismatch. Low PaCO\u2082 reflects compensatory hyperventilation. OCPs + young woman = classic PE risk scenario.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 39, Pulmonary Circulation"
   },
   {
     "id": 147,
@@ -2485,14 +2485,14 @@
     ],
     "correct": 1,
     "explanation": "Surfactant (dipalmitoylphosphatidylcholine, DPPC) is produced by type II pneumocytes. It reduces alveolar surface tension, preventing collapse (atelectasis) especially in small alveoli. Without surfactant (e.g., neonatal respiratory distress syndrome), alveoli collapse on expiration. Surfactant also stabilizes alveoli of different sizes by reducing tension more in smaller alveoli.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 37, Pulmonary Ventilation"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Pulmonary Ventilation"
   },
   {
     "id": 148,
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 25-year-old man with acute severe asthma has the following ABG: pH 7.30, PaCO₂ 55 mmHg, PaO₂ 60 mmHg, HCO₃ 26 mEq/L. What does this ABG pattern indicate?",
+    "question": "A 25-year-old man with acute severe asthma has the following ABG: pH 7.30, PaCO\u2082 55 mmHg, PaO\u2082 60 mmHg, HCO\u2083 26 mEq/L. What does this ABG pattern indicate?",
     "options": [
       "Compensated metabolic acidosis",
       "Acute respiratory acidosis",
@@ -2500,8 +2500,8 @@
       "Mixed metabolic and respiratory alkalosis"
     ],
     "correct": 1,
-    "explanation": "pH 7.30 (acidosis) + elevated PaCO₂ 55 mmHg = respiratory acidosis. Normal HCO₃ indicates no metabolic compensation yet, making this acute. In severe asthma, airway obstruction causes CO₂ retention. A rising PaCO₂ in asthma is an ominous sign indicating respiratory muscle fatigue and impending respiratory failure.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 30, Acid-Base Regulation"
+    "explanation": "pH 7.30 (acidosis) + elevated PaCO\u2082 55 mmHg = respiratory acidosis. Normal HCO\u2083 indicates no metabolic compensation yet, making this acute. In severe asthma, airway obstruction causes CO\u2082 retention. A rising PaCO\u2082 in asthma is an ominous sign indicating respiratory muscle fatigue and impending respiratory failure.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 30, Acid-Base Regulation"
   },
   {
     "id": 149,
@@ -2517,7 +2517,7 @@
     ],
     "correct": 0,
     "explanation": "In the upright lung, both ventilation and perfusion increase from apex to base, but perfusion increases more steeply. At the apex (Zone 1), perfusion is lowest relative to ventilation, giving the highest V/Q ratio (~3.3). At the base (Zone 3), perfusion exceeds ventilation proportionally, giving the lowest V/Q (~0.6). Overall V/Q ratio is ~0.8.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation"
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 39, Pulmonary Circulation"
   },
   {
     "id": 150,
@@ -2532,8 +2532,8 @@
       "Massive hemothorax causing hypovolemic shock"
     ],
     "correct": 1,
-    "explanation": "Tension pneumothorax: air enters the pleural space and cannot escape (one-way valve mechanism). Progressive pressure shifts the mediastinum contralaterally, compresses the contralateral lung, and kinks the great veins — reducing venous return and cardiac output. Tracheal deviation away from the lesion is the key clinical sign. Requires immediate needle decompression.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Edema and Respiratory Failure"
+    "explanation": "Tension pneumothorax: air enters the pleural space and cannot escape (one-way valve mechanism). Progressive pressure shifts the mediastinum contralaterally, compresses the contralateral lung, and kinks the great veins \u2014 reducing venous return and cardiac output. Tracheal deviation away from the lesion is the key clinical sign. Requires immediate needle decompression.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 38, Pulmonary Edema and Respiratory Failure"
   },
   {
     "id": 151,
@@ -2542,14 +2542,14 @@
     "type": "factual",
     "question": "Carbon dioxide is transported in the blood primarily as:",
     "options": [
-      "Dissolved CO₂ in plasma",
+      "Dissolved CO\u2082 in plasma",
       "Carbaminohemoglobin bound to hemoglobin",
-      "Bicarbonate ions (HCO₃⁻) in plasma",
+      "Bicarbonate ions (HCO\u2083\u207b) in plasma",
       "Carbonic acid in red blood cells"
     ],
     "correct": 2,
-    "explanation": "~70% of CO₂ is transported as HCO₃⁻. CO₂ enters RBCs, combines with H₂O via carbonic anhydrase to form H₂CO₃, which dissociates to H⁺ + HCO₃⁻. HCO₃⁻ is exchanged for Cl⁻ (chloride shift) and enters plasma. ~23% is carried as carbaminohemoglobin, ~7% dissolved. This system also plays a key role in acid-base balance.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 41, Transport of Oxygen and Carbon Dioxide"
+    "explanation": "~70% of CO\u2082 is transported as HCO\u2083\u207b. CO\u2082 enters RBCs, combines with H\u2082O via carbonic anhydrase to form H\u2082CO\u2083, which dissociates to H\u207a + HCO\u2083\u207b. HCO\u2083\u207b is exchanged for Cl\u207b (chloride shift) and enters plasma. ~23% is carried as carbaminohemoglobin, ~7% dissolved. This system also plays a key role in acid-base balance.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 41, Transport of Oxygen and Carbon Dioxide"
   },
   {
     "id": 152,
@@ -2560,12 +2560,12 @@
     "options": [
       "Increased erythropoietin secretion increasing RBC mass",
       "Stimulation of peripheral chemoreceptors causing hyperventilation",
-      "Increased 2,3-DPG production shifting the O₂ dissociation curve",
+      "Increased 2,3-DPG production shifting the O\u2082 dissociation curve",
       "Cerebral vasoconstriction to reduce altitude sickness"
     ],
     "correct": 1,
-    "explanation": "The immediate response to hypoxia at altitude is stimulation of carotid and aortic body peripheral chemoreceptors → hyperventilation. This raises PaO₂ but causes respiratory alkalosis (low PaCO₂). EPO rise takes days; 2,3-DPG increases over hours to days; cerebral vasodilation (not constriction) occurs. Acute mountain sickness results from rapid ascent without acclimatization.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 43, Aviation, High Altitude, and Space Physiology"
+    "explanation": "The immediate response to hypoxia at altitude is stimulation of carotid and aortic body peripheral chemoreceptors \u2192 hyperventilation. This raises PaO\u2082 but causes respiratory alkalosis (low PaCO\u2082). EPO rise takes days; 2,3-DPG increases over hours to days; cerebral vasodilation (not constriction) occurs. Acute mountain sickness results from rapid ascent without acclimatization.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 43, Aviation, High Altitude, and Space Physiology"
   },
   {
     "id": 153,
@@ -2580,8 +2580,8 @@
       "Increases diffusion capacity by recruiting capillaries"
     ],
     "correct": 1,
-    "explanation": "HPV is a local reflex unique to the pulmonary circulation — opposite to the systemic response. When alveolar PO₂ falls, local pulmonary arterioles constrict, diverting blood to better-ventilated alveoli to optimize V/Q matching. Globally (e.g., at altitude), HPV causes pulmonary hypertension. It is mediated by inhibition of K⁺ channels in vascular smooth muscle.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Circulation"
+    "explanation": "HPV is a local reflex unique to the pulmonary circulation \u2014 opposite to the systemic response. When alveolar PO\u2082 falls, local pulmonary arterioles constrict, diverting blood to better-ventilated alveoli to optimize V/Q matching. Globally (e.g., at altitude), HPV causes pulmonary hypertension. It is mediated by inhibition of K\u207a channels in vascular smooth muscle.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 38, Pulmonary Circulation"
   },
   {
     "id": 154,
@@ -2591,12 +2591,204 @@
     "question": "A 70-year-old man with COPD is given high-flow oxygen. He subsequently becomes drowsy and his respiratory rate drops to 8/min. What is the most likely explanation?",
     "options": [
       "Oxygen toxicity causing CNS depression",
-      "Removal of hypoxic drive in a patient dependent on low PaO₂ to breathe",
-      "CO₂ narcosis from pre-existing hypercapnia",
+      "Removal of hypoxic drive in a patient dependent on low PaO\u2082 to breathe",
+      "CO\u2082 narcosis from pre-existing hypercapnia",
       "Absorption atelectasis causing worsening hypoxia"
     ],
     "correct": 1,
-    "explanation": "In chronic hypercapnic COPD, central chemoreceptors become desensitized to high CO₂. Breathing is maintained by hypoxic drive via peripheral chemoreceptors. High-flow O₂ abolishes this drive, causing hypoventilation and worsening hypercapnia. Target SpO₂ in COPD is 88–92% — controlled low-flow O₂ is safer than high-flow.",
-    "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Regulation of Respiration"
+    "explanation": "In chronic hypercapnic COPD, central chemoreceptors become desensitized to high CO\u2082. Breathing is maintained by hypoxic drive via peripheral chemoreceptors. High-flow O\u2082 abolishes this drive, causing hypoventilation and worsening hypercapnia. Target SpO\u2082 in COPD is 88\u201392% \u2014 controlled low-flow O\u2082 is safer than high-flow.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 42, Regulation of Respiration"
+  },
+  {
+    "id": 155,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "factual",
+    "question": "Which segment of the nephron is responsible for the majority of sodium and water reabsorption?",
+    "options": [
+      "Descending loop of Henle",
+      "Proximal convoluted tubule",
+      "Distal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correct": 1,
+    "explanation": "The proximal convoluted tubule (PCT) reabsorbs approximately 65\u201367% of filtered sodium, water, bicarbonate, glucose, and amino acids. Reabsorption is driven by the Na+/K+-ATPase pump on the basolateral membrane, which maintains a low intracellular sodium concentration, allowing sodium to enter the cell passively from the tubular lumen. Water follows osmotically via aquaporin-1 channels.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 28, Urine Formation by the Kidneys"
+  },
+  {
+    "id": 156,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "clinical",
+    "question": "A 58-year-old man with chronic heart failure is started on furosemide. His urine output increases significantly. Which transport protein is directly inhibited by furosemide?",
+    "options": [
+      "Na+/K+-ATPase in the PCT",
+      "Na+/H+ exchanger in the DCT",
+      "Na+/K+/2Cl\u2212 cotransporter in the thick ascending limb",
+      "Aquaporin-2 in the collecting duct"
+    ],
+    "correct": 2,
+    "explanation": "Furosemide is a loop diuretic that inhibits the Na+/K+/2Cl\u2212 (NKCC2) cotransporter in the thick ascending limb of the loop of Henle. This segment is normally impermeable to water, and inhibiting NKCC2 prevents the generation of the hypertonic medullary interstitium, reducing the driving force for water reabsorption in the collecting duct. The result is a large volume of dilute urine.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 31, Diuretics and Kidney Disease"
+  },
+  {
+    "id": 157,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "factual",
+    "question": "What is the approximate glomerular filtration rate (GFR) in a healthy adult?",
+    "options": [
+      "50 mL/min",
+      "75 mL/min",
+      "125 mL/min",
+      "180 mL/min"
+    ],
+    "correct": 2,
+    "explanation": "The normal GFR in a healthy adult is approximately 125 mL/min, which amounts to about 180 L/day of filtrate. Of this, roughly 99% is reabsorbed, resulting in only 1\u20132 L of urine per day. GFR is determined by the Starling forces across the glomerular capillary and the filtration coefficient (Kf). It is clinically estimated using creatinine clearance.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 26, Glomerular Filtration, Renal Blood Flow"
+  },
+  {
+    "id": 158,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "clinical",
+    "question": "A 35-year-old woman presents with polyuria and polydipsia. Her serum sodium is 148 mEq/L. Urine osmolality remains low despite water deprivation but rises after exogenous ADH administration. What is the most likely diagnosis?",
+    "options": [
+      "Primary polydipsia",
+      "Nephrogenic diabetes insipidus",
+      "Central diabetes insipidus",
+      "SIADH"
+    ],
+    "correct": 2,
+    "explanation": "The water deprivation test showing persistently dilute urine confirms diabetes insipidus. The response to exogenous ADH (desmopressin) \u2014 urine osmolality rises \u2014 indicates that the kidneys are capable of responding to ADH, ruling out nephrogenic DI. This pattern is consistent with central (neurogenic) diabetes insipidus, caused by inadequate ADH secretion from the posterior pituitary.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 29, Regulation of Extracellular Fluid Osmolarity and Sodium Concentration"
+  },
+  {
+    "id": 159,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "factual",
+    "question": "Aldosterone acts primarily on which segment of the nephron to regulate sodium reabsorption?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Thick ascending limb",
+      "Principal cells of the collecting duct",
+      "Descending loop of Henle"
+    ],
+    "correct": 2,
+    "explanation": "Aldosterone acts on principal cells of the late distal convoluted tubule and collecting duct. It binds to cytoplasmic mineralocorticoid receptors, leading to increased transcription of Na+/K+-ATPase and epithelial sodium channels (ENaC). This results in increased sodium reabsorption and potassium secretion. Aldosterone release is primarily stimulated by angiotensin II and hyperkalemia.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 30, Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium"
+  },
+  {
+    "id": 160,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "clinical",
+    "question": "A 70-year-old man with a history of hypertension is found to have a serum potassium of 2.8 mEq/L and metabolic alkalosis. He is on a medication that blocks the renin-angiotensin system distally. Which drug class most likely caused these findings?",
+    "options": [
+      "ACE inhibitors",
+      "Thiazide diuretics",
+      "Potassium-sparing diuretics",
+      "Beta-blockers"
+    ],
+    "correct": 1,
+    "explanation": "Thiazide diuretics inhibit the Na+/Cl\u2212 cotransporter in the distal convoluted tubule, increasing sodium delivery to the collecting duct. This stimulates aldosterone-mediated Na+ reabsorption and K+ secretion, causing hypokalemia. The volume contraction also activates the renin-angiotensin-aldosterone system, and increased H+ secretion leads to metabolic alkalosis. Thiazides are a classic cause of hypokalemic metabolic alkalosis.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 31, Diuretics and Kidney Disease"
+  },
+  {
+    "id": 161,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "factual",
+    "question": "The countercurrent multiplier mechanism responsible for generating the medullary osmotic gradient operates in which structure?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Loop of Henle",
+      "Distal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correct": 1,
+    "explanation": "The loop of Henle functions as a countercurrent multiplier. The descending limb is permeable to water but not solutes, concentrating the tubular fluid as it descends. The thick ascending limb actively transports NaCl out of the tubule (impermeable to water), diluting the fluid and depositing solutes in the medullary interstitium. This builds a progressively hypertonic gradient from cortex to medulla (300\u20131200 mOsm/kg), enabling concentration of urine in the collecting duct under ADH influence.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 28, Urine Concentration and Dilution"
+  },
+  {
+    "id": 162,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "clinical",
+    "question": "A 45-year-old woman is admitted with confusion. Labs show: serum Na+ 118 mEq/L, urine osmolality 600 mOsm/kg, urine Na+ 55 mEq/L, and she is euvolemic. Which mechanism best explains her hyponatremia?",
+    "options": [
+      "Excess free water loss",
+      "Inappropriate ADH secretion causing water retention",
+      "Sodium wasting by the kidneys",
+      "Decreased aldosterone activity"
+    ],
+    "correct": 1,
+    "explanation": "This presentation is classic for Syndrome of Inappropriate ADH secretion (SIADH): euvolemic hyponatremia, concentrated urine (>100 mOsm/kg), elevated urine sodium (>40 mEq/L), and low serum osmolality. Excess ADH causes water retention via upregulation of aquaporin-2 channels in the collecting duct, diluting serum sodium. Causes include CNS disorders, pulmonary disease, and certain medications.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 29, Regulation of Extracellular Fluid Osmolarity and Sodium Concentration"
+  },
+  {
+    "id": 163,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "factual",
+    "question": "What percentage of the filtered water is reabsorbed in the proximal convoluted tubule?",
+    "options": [
+      "25%",
+      "45%",
+      "65%",
+      "85%"
+    ],
+    "correct": 2,
+    "explanation": "Approximately 65% of filtered water is reabsorbed in the proximal convoluted tubule. This reabsorption is isosmotic \u2014 it occurs passively via aquaporin-1 channels as water follows the osmotic gradient created by active sodium reabsorption. The tubular fluid remains isotonic throughout the PCT despite the large volume reabsorbed.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 28, Urine Formation by the Kidneys"
+  },
+  {
+    "id": 164,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "clinical",
+    "question": "A 25-year-old man sustains severe burns over 40% of his body surface area. Four hours later, his urine output drops to 15 mL/hour. His urine osmolality is 750 mOsm/kg and urine Na+ is 8 mEq/L. What is the most likely cause of his oliguria?",
+    "options": [
+      "Acute tubular necrosis",
+      "Pre-renal azotemia due to hypovolemia",
+      "Nephrogenic diabetes insipidus",
+      "Obstructive uropathy"
+    ],
+    "correct": 1,
+    "explanation": "The combination of oliguria, highly concentrated urine (high osmolality), and very low urine sodium indicates intact tubular function responding to hypovolemia \u2014 consistent with pre-renal azotemia. Severe burns cause massive fluid loss and plasma volume depletion, activating the RAAS and ADH, leading to maximal sodium and water reabsorption. In ATN, tubular damage would result in isosthenuric urine (osmolality ~300 mOsm/kg) and elevated urine sodium (>40 mEq/L).",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 32, Kidney Diseases and Diuretics"
+  },
+  {
+    "id": 165,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "factual",
+    "question": "Which of the following best describes the intracellular fluid (ICF) compartment in a 70 kg adult?",
+    "options": [
+      "14 L, primarily containing Na+ and Cl\u2212",
+      "28 L, primarily containing K+ and phosphate",
+      "14 L, primarily containing K+ and phosphate",
+      "42 L, primarily containing Na+ and Cl\u2212"
+    ],
+    "correct": 1,
+    "explanation": "Total body water in a 70 kg adult is approximately 42 L (60% of body weight). Of this, two-thirds (~28 L) is intracellular fluid. The ICF is characterised by high concentrations of K+ (main cation), Mg\u00b2+, and phosphate/protein (main anions). The extracellular fluid (~14 L) is dominated by Na+ and Cl\u2212. This ionic asymmetry is maintained by the Na+/K+-ATPase pump.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 25, The Body Fluid Compartments"
+  },
+  {
+    "id": 166,
+    "subject": "Physiology",
+    "subtopic": "Renal & Body Fluids",
+    "type": "clinical",
+    "question": "A 60-year-old man with type 2 diabetes presents with serum creatinine 3.2 mg/dL, urine protein 4+ on dipstick, and bilateral pitting oedema. Renal biopsy would most likely show which pathological finding?",
+    "options": [
+      "Diffuse glomerulosclerosis with Kimmelstiel-Wilson nodules",
+      "Linear IgG deposits on glomerular basement membrane",
+      "Granular immune complex deposits in the mesangium",
+      "Effacement of podocyte foot processes only"
+    ],
+    "correct": 0,
+    "explanation": "This presentation \u2014 longstanding diabetes, heavy proteinuria, oedema, and progressive renal impairment \u2014 is consistent with diabetic nephropathy. The pathognomonic histological finding is diffuse glomerulosclerosis with Kimmelstiel-Wilson nodules (nodular glomerulosclerosis): PAS-positive nodular deposits in the mesangium caused by accumulation of extracellular matrix. The mechanism involves hyperfiltration-induced mesangial expansion driven by chronic hyperglycaemia and RAAS activation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 32, Kidney Diseases; Ganong's Review of Medical Physiology, 26th ed."
   }
 ]
