@@ -1,7 +1,8 @@
 .nav {
   height: 72px;
-  background: white;
-  border-bottom: 1px solid var(--border);
+  background: rgba(6,78,59,0.3);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11,69 +12,26 @@
   z-index: 100;
 }
 
-.logo {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  cursor: pointer;
-  flex-shrink: 0;
-}
+.logo { display: flex; align-items: center; gap: 8px; cursor: pointer; flex-shrink: 0; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: #10b981; display: inline-block; box-shadow: 0 0 6px #10b981; }
+.name { font-size: 22px; font-weight: 800; color: #95d3ba; letter-spacing: -0.5px; }
 
-.dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--primary);
-  display: inline-block;
-}
+.homeLinks { display: flex; align-items: center; gap: 32px; }
+.navLink { font-size: 14px; font-weight: 500; color: rgba(255,255,255,0.5); text-decoration: none; transition: color 0.2s; }
+.navLink:hover { color: #10b981; }
 
-.name {
-  font-size: 22px;
-  font-weight: 800;
-  color: var(--primary);
-  letter-spacing: -0.5px;
-}
-
-.homeLinks {
-  display: flex;
-  align-items: center;
-  gap: 32px;
-}
-
-.navLink {
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--text-muted);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-.navLink:hover { color: var(--primary); }
-
-.quizActions {
-  display: flex;
-  gap: 10px;
-}
-
+.quizActions { display: flex; gap: 10px; }
 .navBtn, .navBtnDanger {
   padding: 8px 16px;
   border-radius: var(--radius-sm);
-  border: 1px solid var(--border);
-  background: white;
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--text-muted);
+  border: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.05);
+  font-size: 13px; font-weight: 600;
+  color: rgba(255,255,255,0.5);
   transition: all 0.15s;
 }
-.navBtn:hover { border-color: var(--primary); color: var(--primary); }
-.navBtnDanger:hover { border-color: #b91c1c; color: #b91c1c; }
+.navBtn:hover { border-color: rgba(16,185,129,0.4); color: #10b981; }
+.navBtnDanger:hover { border-color: rgba(239,68,68,0.4); color: #ef4444; }
 
-.center {
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--text-muted);
-}
-
-.right {
-  font-size: 13px;
-  color: var(--text-muted);
-}
+.center { font-size: 13px; font-weight: 600; color: rgba(255,255,255,0.5); }
+.right { font-size: 13px; color: rgba(255,255,255,0.4); }

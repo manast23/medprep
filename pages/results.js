@@ -60,9 +60,22 @@ export default function Results() {
         {/* Score + Stats */}
         <section className={styles.topCards}>
           <div className={styles.scoreCard}>
-            <div className={styles.scoreCircle} style={{ borderColor: scoreColor }}>
-              <div className={styles.scoreValue} style={{ color: scoreColor }}>{pct}%</div>
-              <div className={styles.scoreLabel}>Total Score</div>
+            <div style={{position:'relative',display:'flex',alignItems:'center',justifyContent:'center'}}>
+              <svg className={styles.scoreRing} width="128" height="128" viewBox="0 0 128 128">
+                <circle cx="64" cy="64" r="56" fill="transparent" stroke="rgba(255,255,255,0.08)" strokeWidth="8"/>
+                <circle cx="64" cy="64" r="56" fill="transparent"
+                  stroke={scoreColor}
+                  strokeWidth="8"
+                  strokeLinecap="round"
+                  strokeDasharray="351.85"
+                  strokeDashoffset={351.85 - (351.85 * pct / 100)}
+                  style={{transform:'rotate(-90deg)',transformOrigin:'50% 50%',transition:'stroke-dashoffset 0.6s ease'}}
+                />
+              </svg>
+              <div style={{position:'absolute',textAlign:'center'}}>
+                <div style={{fontSize:'28px',fontWeight:'800',color:scoreColor,letterSpacing:'-1px'}}>{pct}%</div>
+                <div style={{fontSize:'9px',textTransform:'uppercase',letterSpacing:'1px',color:'rgba(255,255,255,0.35)',marginTop:'2px'}}>Score</div>
+              </div>
             </div>
           </div>
 
