@@ -16,9 +16,9 @@
 }
 
 .main {
-  max-width: 860px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 3rem 24px;
+  padding: 3rem 48px;
   position: relative;
   z-index: 1;
 }
