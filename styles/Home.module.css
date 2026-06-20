@@ -11,6 +11,23 @@
   color: white;
   padding: 100px 0;
   overflow: hidden;
+  position: relative;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(255,255,255,0.15) 1px, transparent 1px);
+  background-size: 28px 28px;
+  animation: gridPulse 4s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes gridPulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
 }
 
 .heroContent {
@@ -21,6 +38,8 @@
   grid-template-columns: 1fr 1fr;
   align-items: center;
   gap: 80px;
+  position: relative;
+  z-index: 1;
 }
 
 .heroTag {
@@ -309,18 +328,37 @@
   font-weight: 600;
 }
 
-/* ── Quiz Settings Panel ── */
+/* ── Quiz Settings Panel (Glass) ── */
+.settingsSectionWrap {
+  background: #062d21;
+  padding: 48px 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.settingsSectionWrap::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(255,255,255,0.06) 1px, transparent 1px);
+  background-size: 24px 24px;
+  pointer-events: none;
+}
+
 .settingsSection {
-  max-width: 1200px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 0 24px 60px;
+  position: relative;
+  z-index: 1;
 }
 
 .settingsPanel {
-  background: white;
-  border: 1.5px solid #e2ddd8;
-  border-radius: 12px;
+  background: rgba(15, 110, 86, 0.12);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(132, 214, 185, 0.2);
+  border-radius: 16px;
   padding: 32px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
   animation: slideDown 0.35s cubic-bezier(0.34,1.56,0.64,1);
 }
 
@@ -335,13 +373,13 @@
   justify-content: space-between;
   margin-bottom: 28px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #e2ddd8;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
 .panelTitle {
   font-size: 18px;
   font-weight: 700;
-  color: #0a5040;
+  color: white;
 }
 
 .closeBtn {
@@ -349,13 +387,13 @@
   border: none;
   padding: 6px;
   cursor: pointer;
-  color: #6b6b6b;
+  color: rgba(255,255,255,0.5);
   border-radius: 8px;
   transition: all 0.15s;
   display: flex;
 }
 
-.closeBtn:hover { background: #f5f3ef; color: #1a1a1a; }
+.closeBtn:hover { background: rgba(255,255,255,0.1); color: white; }
 .closeBtn svg { width: 20px; height: 20px; }
 
 .settingsGrid {
@@ -375,7 +413,7 @@
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1.2px;
-  color: #6b6b6b;
+  color: rgba(255,255,255,0.5);
   font-weight: 700;
 }
 
@@ -383,22 +421,22 @@
 
 .optionBtn {
   padding: 8px 14px;
-  background: #f5f3ef;
-  border: 1px solid #e2ddd8;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.12);
   border-radius: 8px;
   font-size: 13px;
-  color: #6b6b6b;
+  color: rgba(255,255,255,0.7);
   cursor: pointer;
   transition: all 0.15s;
   font-weight: 500;
 }
 
-.optionBtn:hover { border-color: #0f6e56; color: #1a1a1a; }
+.optionBtn:hover { border-color: rgba(132,214,185,0.5); color: white; }
 
 .optionBtnActive {
-  background: #e1f5ee;
-  border-color: #0f6e56;
-  color: #0a5040;
+  background: rgba(132,214,185,0.15);
+  border-color: rgba(132,214,185,0.6);
+  color: white;
   font-weight: 700;
 }
 
@@ -406,36 +444,35 @@
 
 .modeBtn {
   padding: 12px 16px;
-  background: #f5f3ef;
-  border: 1px solid #e2ddd8;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.12);
   border-radius: 8px;
   cursor: pointer;
   text-align: left;
   transition: all 0.15s;
 }
 
-.modeBtn:hover { border-color: #0f6e56; }
-.modeBtnActive { background: #e1f5ee; border-color: #0f6e56; }
-.modeName { display: block; font-size: 13px; font-weight: 700; color: #1a1a1a; margin-bottom: 2px; }
-.modeDesc { display: block; font-size: 11px; color: #6b6b6b; }
-.modeBtnActive .modeName { color: #0a5040; }
+.modeBtn:hover { border-color: rgba(132,214,185,0.5); }
+.modeBtnActive { background: rgba(132,214,185,0.15); border-color: rgba(132,214,185,0.6); }
+.modeName { display: block; font-size: 13px; font-weight: 700; color: white; margin-bottom: 2px; }
+.modeDesc { display: block; font-size: 11px; color: rgba(255,255,255,0.5); }
 
 .countWrap { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
 
 .countBtn {
   padding: 11px;
-  background: #f5f3ef;
-  border: 1px solid #e2ddd8;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.12);
   border-radius: 8px;
   font-size: 14px;
   font-weight: 600;
-  color: #6b6b6b;
+  color: rgba(255,255,255,0.7);
   cursor: pointer;
   transition: all 0.15s;
 }
 
-.countBtn:hover { border-color: #0f6e56; }
-.countBtnActive { background: #e1f5ee; border-color: #0f6e56; color: #0a5040; }
+.countBtn:hover { border-color: rgba(132,214,185,0.5); color: white; }
+.countBtnActive { background: rgba(132,214,185,0.15); border-color: rgba(132,214,185,0.6); color: white; }
 
 .startBtn {
   width: 100%;

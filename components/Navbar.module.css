@@ -4,36 +4,19 @@
   border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
   position: sticky;
   top: 0;
   z-index: 100;
-}
-
-.navContent, .nav {
-  width: 100%;
 }
 
 .logo {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 22px;
-  font-weight: 800;
-  color: var(--primary);
-  letter-spacing: -0.5px;
-  padding: 0 24px;
-  max-width: 1200px;
-  margin: 0 auto;
-  width: 100%;
-  justify-content: space-between;
-}
-
-/* Reuse .nav as flex container directly */
-.nav {
-  display: flex;
-  align-items: center;
-  padding: 0 24px;
-  max-width: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
 }
 
 .dot {
@@ -55,7 +38,6 @@
   display: flex;
   align-items: center;
   gap: 32px;
-  margin-left: auto;
 }
 
 .navLink {
@@ -67,11 +49,9 @@
 }
 .navLink:hover { color: var(--primary); }
 
-/* Quiz navbar actions */
 .quizActions {
   display: flex;
   gap: 10px;
-  margin-left: auto;
 }
 
 .navBtn, .navBtnDanger {
@@ -91,11 +71,9 @@
   font-size: 13px;
   font-weight: 600;
   color: var(--text-muted);
-  margin: 0 auto;
 }
 
 .right {
   font-size: 13px;
   color: var(--text-muted);
-  margin-left: auto;
 }
