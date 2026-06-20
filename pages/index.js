@@ -20,14 +20,14 @@ const SUBJECTS = [
     title: 'Anatomy',
     references: "Gray's Anatomy · Snell's Clinical Anatomy",
     description: 'Comprehensive coverage of musculoskeletal, neural, and visceral systems with high-yield clinical correlations.',
-    image: 'https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=80',
+    image: '/anatomy.jpg',
   },
   {
     key: 'Physiology',
     title: 'Physiology',
     references: "Guyton & Hall · Ganong's Review",
     description: 'Deep dive into homeostatic mechanisms, cellular signaling, and systemic function with clinical case integration.',
-    image: 'https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=600&q=80',
+    image: '/physiology.jpg',
   },
 ]
 
