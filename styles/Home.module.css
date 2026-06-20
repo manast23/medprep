@@ -245,7 +245,7 @@
   pointer-events: none;
 }
 
-.settingsSection { max-width: 900px; margin: 0 auto; position: relative; z-index: 1; }
+.settingsSection { max-width: 1400px; margin: 0 auto; position: relative; z-index: 1; padding: 0 48px; }
 
 .settingsPanel {
   background: rgba(15,110,86,0.12);
