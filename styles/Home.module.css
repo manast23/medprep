@@ -199,7 +199,7 @@
   width: 100%;
   padding: 11px;
   background: rgba(29,158,117,0.15);
-  color: var(--accent);
+  color: white;
   border: 1px solid var(--border-green);
   border-radius: var(--radius-sm);
   font-weight: 700;
