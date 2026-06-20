@@ -100,17 +100,29 @@ export default function Quiz() {
     q.type === 'clinical' ? 'Clinical' : q.type === 'factual' ? 'Factual' : null
   ].filter(Boolean).join(' · ')
 
+  const pills = navLabel.split(' · ')
+
   return (
     <div>
-      <Navbar
-        centerText={navLabel}
-        rightText={`Q${current + 1} of ${questions.length}`}
-        onCancel={() => setShowConfirm('cancel')}
-        onRestart={() => setShowConfirm('restart')}
-      />
-      <div className={styles.progressBar}>
-        <div className={styles.progressFill} style={{ width: `${progress}%` }} />
-      </div>
+      <nav className={styles.quizNav}>
+        <div className={styles.navLeft}>
+          <button className={styles.navBtn} onClick={() => setShowConfirm('cancel')}>✕ Cancel</button>
+          <div className={styles.pills}>
+            {pills.map((p, i) => (
+              <span key={i} className={i === 0 ? styles.pillGreen : styles.pillGray}>{p}</span>
+            ))}
+          </div>
+        </div>
+        <div className={styles.navCenter}>
+          <div className={styles.qCounter}>Q {current + 1} / {questions.length}</div>
+          <div className={styles.progressBar} style={{width:'200px'}}>
+            <div className={styles.progressFill} style={{ width: `${progress}%` }} />
+          </div>
+        </div>
+        <div className={styles.navRight}>
+          <button className={styles.navBtn} onClick={() => setShowConfirm('restart')}>↺ Restart</button>
+        </div>
+      </nav>
 
       {/* Confirm dialog */}
       {showConfirm && (
@@ -141,8 +153,10 @@ export default function Quiz() {
 
       <main className={styles.main}>
         <div className={styles.left}>
-          <div className={styles.qLabel}>Question {current + 1}</div>
-          <div className={styles.qText}>{q.question}</div>
+          <div className={styles.questionCard}>
+            <span className={styles.qType}>{q.type === 'clinical' ? 'Clinical Scenario' : 'Factual'}</span>
+            <div className={styles.qText}>{q.question}</div>
+          </div>
 
           <div className={styles.options}>
             {q.options.map((opt, i) => (
@@ -177,6 +191,7 @@ export default function Quiz() {
           {submitted && (
             <>
               <div className={styles.expBox}>
+                <div className={styles.expHeader}>Explanation</div>
                 <div className={`${styles.resultBadge} ${selected === q.correct ? styles.badgeCorrect : styles.badgeIncorrect}`}>
                   {selected === q.correct ? 'Correct' : 'Incorrect'}
                 </div>

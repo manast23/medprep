@@ -1,103 +1,101 @@
 .nav {
-  background: var(--white);
-  border-bottom: 0.5px solid var(--border);
-  padding: 0 2rem;
-  height: 52px;
+  height: 72px;
+  background: white;
+  border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
-  justify-content: space-between;
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 100;
+}
+
+.navContent, .nav {
+  width: 100%;
 }
 
 .logo {
   display: flex;
   align-items: center;
   gap: 8px;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -0.5px;
+  padding: 0 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  justify-content: space-between;
+}
+
+/* Reuse .nav as flex container directly */
+.nav {
+  display: flex;
+  align-items: center;
+  padding: 0 24px;
+  max-width: 100%;
 }
 
 .dot {
-  width: 9px;
-  height: 9px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
-  background: var(--green);
+  background: var(--primary);
   display: inline-block;
 }
 
 .name {
-  font-size: 16px;
-  font-weight: 500;
-  color: var(--text);
-  letter-spacing: -0.3px;
-}
-
-.center {
-  font-size: 13px;
-  color: var(--text-muted);
-}
-
-.right {
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--green);
-  min-width: 80px;
-  text-align: right;
-}
-
-.quizActions {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.navBtn {
-  font-size: 12px;
-  font-weight: 500;
-  color: var(--text-muted);
-  background: var(--bg);
-  border: 0.5px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 5px 12px;
-  cursor: pointer;
-  transition: all 0.1s;
-}
-
-.navBtn:hover {
-  border-color: var(--green-mid);
-  color: var(--text);
-}
-
-.navBtnDanger {
-  font-size: 12px;
-  font-weight: 500;
-  color: #b91c1c;
-  background: #fff5f5;
-  border: 0.5px solid #fca5a5;
-  border-radius: var(--radius-sm);
-  padding: 5px 12px;
-  cursor: pointer;
-  transition: all 0.1s;
-}
-
-.navBtnDanger:hover {
-  background: #fee2e2;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -0.5px;
 }
 
 .homeLinks {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 32px;
+  margin-left: auto;
 }
 
 .navLink {
   font-size: 14px;
   font-weight: 500;
-  color: var(--text);
+  color: var(--text-muted);
   text-decoration: none;
-  transition: color 0.15s ease;
+  transition: color 0.2s;
+}
+.navLink:hover { color: var(--primary); }
+
+/* Quiz navbar actions */
+.quizActions {
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
 }
 
-.navLink:hover {
-  color: var(--green);
+.navBtn, .navBtnDanger {
+  padding: 8px 16px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: white;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  transition: all 0.15s;
+}
+.navBtn:hover { border-color: var(--primary); color: var(--primary); }
+.navBtnDanger:hover { border-color: #b91c1c; color: #b91c1c; }
+
+.center {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  margin: 0 auto;
+}
+
+.right {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-left: auto;
 }

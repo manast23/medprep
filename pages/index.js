@@ -37,7 +37,7 @@ const QUESTION_TYPES = [
   { key: 'factual', label: 'Factual' },
   { key: 'clinical', label: 'Clinical' },
 ]
-const COUNT_OPTIONS = [10, 25, 50, 100]
+const COUNT_OPTIONS = [5, 25, 50]
 
 export default function Home() {
   const router = useRouter()

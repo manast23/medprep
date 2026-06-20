@@ -1,100 +1,238 @@
-.main {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 2rem;
+.container {
+  min-height: 100vh;
+  background: var(--bg);
 }
 
-.topRow {
+.main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 24px;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  gap: 24px;
+}
+
+.kicker {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.5px;
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.headerActions {
+  display: flex;
+  gap: 12px;
+  flex-shrink: 0;
+  align-items: center;
+}
+
+.btnOutline {
+  padding: 10px 20px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  background: white;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  transition: all 0.15s;
+}
+.btnOutline:hover { border-color: var(--primary); color: var(--primary); }
+
+.btnPrimary {
+  padding: 10px 20px;
+  background: var(--primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 13px;
+  font-weight: 700;
+  transition: background 0.15s;
+}
+.btnPrimary:hover { background: var(--primary-dark); }
+
+/* Score cards */
+.topCards {
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 2.5rem;
-  align-items: center;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 2rem;
-}
-
-.scoreBlock { text-align: center; }
-.scorePct { font-size: 64px; font-weight: 500; color: var(--green); line-height: 1; }
-.scoreLabel { font-size: 13px; color: var(--text-muted); margin-top: 6px; }
-
-.scoreMsg { font-size: 18px; font-weight: 500; color: var(--text); margin-bottom: 16px; }
-
-.statsRow {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-}
-
-.stat {
-  box-shadow: var(--shadow-sm);
-  background: var(--white);
+  gap: 24px;
+  margin-bottom: 36px;
+  background: white;
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 14px;
+  padding: 32px;
+  align-items: center;
 }
 
-.statN { font-size: 22px; font-weight: 500; }
-.statL { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-top: 3px; }
+.scoreCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+  border-right: 1px solid var(--border);
+}
 
-.sectionLabel {
+.scoreCircle {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 6px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.scoreValue {
+  font-size: 32px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.scoreLabel {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  padding-left: 32px;
+}
+
+.statBox {
+  text-align: center;
+}
+
+.statValue {
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -1px;
+  color: var(--text);
+}
+
+.statLabel {
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: var(--text-muted);
-  font-weight: 500;
-  margin-bottom: 12px;
+  margin-top: 4px;
 }
 
-.breakdownGrid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 12px;
-  margin-bottom: 2rem;
-}
-
-.breakdownCard {
-  box-shadow: var(--shadow-sm);
-  background: var(--white);
+/* Topic table (Stitch style) */
+.performanceTable {
+  background: white;
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 14px 16px;
+  overflow: hidden;
 }
 
-.bcTopic { font-size: 13px; font-weight: 500; color: var(--text); margin-bottom: 10px; }
-
-.bcBarTrack { height: 5px; background: var(--border); border-radius: 3px; margin-bottom: 6px; }
-.bcBarFill { height: 5px; border-radius: 3px; transition: width 0.4s; }
-
-.bcRow { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-muted); }
-
-.actions {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  max-width: 500px;
+.tableHeader {
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
 }
 
-.primaryBtn {
-  background: var(--green);
-  color: #fff;
-  border: none;
-  border-radius: var(--radius);
-  padding: 13px;
-  font-size: 14px;
-  font-weight: 500;
-  transition: background 0.15s;
-}
-.primaryBtn:hover { background: var(--green-dark); }
-
-.outlineBtn {
-  background: var(--white);
+.tableHeader h2 {
+  font-size: 16px;
+  font-weight: 700;
   color: var(--text);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 13px;
+}
+
+.topicList { padding: 8px 0; }
+
+.topicRow {
+  display: grid;
+  grid-template-columns: 1fr 2fr auto;
+  align-items: center;
+  gap: 20px;
+  padding: 14px 24px;
+  border-bottom: 1px solid #f5f3ef;
+}
+.topicRow:last-child { border-bottom: none; }
+
+.topicInfo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.topicDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.topicName {
   font-size: 14px;
   font-weight: 500;
-  transition: background 0.1s;
+  color: var(--text);
 }
-.outlineBtn:hover { background: var(--bg); }
+
+.topicProgress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.topicBar {
+  flex: 1;
+  height: 6px;
+  background: var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.topicFill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.6s var(--ease-snap);
+}
+
+.topicScore {
+  font-size: 13px;
+  font-weight: 700;
+  min-width: 36px;
+  text-align: right;
+}
+
+.topicCount {
+  font-size: 12px;
+  color: var(--text-muted);
+  min-width: 40px;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .header { flex-direction: column; }
+  .topCards { grid-template-columns: 1fr; }
+  .scoreCard { border-right: none; border-bottom: 1px solid var(--border); padding-right: 0; padding-bottom: 24px; }
+  .statsGrid { padding-left: 0; }
+  .topicRow { grid-template-columns: 1fr auto; }
+  .topicProgress { display: none; }
+}
