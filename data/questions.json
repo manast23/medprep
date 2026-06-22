@@ -3011,5 +3011,192 @@
     "explanation": "The water deprivation test distinguishes causes of polyuria. In central DI, ADH production by the posterior pituitary is deficient. Urine fails to concentrate with dehydration alone, but responds briskly to exogenous ADH (desmopressin) \u2014 urine osmolality rises >50% \u2014 confirming an intact renal response. In nephrogenic DI, the collecting duct is unresponsive to ADH, so desmopressin fails to concentrate urine. In primary polydipsia, mild concentration occurs with dehydration and desmopressin adds little further. Diabetes mellitus causes osmotic polyuria with hyperglycaemia, not dilute urine at normal glucose.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 76, Posterior Pituitary Hormones",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507701/"
+  },
+  {
+    "id": 180,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "clinical",
+    "question": "A 45-year-old man presents with epigastric pain relieved by eating, nausea, and a positive urea breath test. Which mechanism does H. pylori use to survive the acidic gastric environment?",
+    "options": [
+      "Secreting bicarbonate to neutralise local pH",
+      "Producing urease to convert urea to ammonia and CO\u2082",
+      "Inhibiting parietal cell H\u207a/K\u207a-ATPase directly",
+      "Stimulating mucus hypersecretion to form a protective coat"
+    ],
+    "correct": 1,
+    "explanation": "H. pylori produces urease, which hydrolyses urea (diffusing from mucosal capillaries) into ammonia and CO\u2082. Ammonia neutralises local acid, creating a microenvironment with pH ~6\u20137 around the bacterium. This is the basis of the urea breath test \u2014 ingested labelled urea is cleaved and \u00b9\u00b3CO\u2082 is detected in exhaled breath. Chronic H. pylori infection disrupts mucosal defence, promoting peptic ulcer disease.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 65, Propulsion and Mixing of Food in the GIT",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534792/"
+  },
+  {
+    "id": 181,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "factual",
+    "question": "Which cells of the gastric mucosa secrete intrinsic factor?",
+    "options": [
+      "Chief cells",
+      "G cells",
+      "Parietal cells",
+      "Mucous neck cells"
+    ],
+    "correct": 2,
+    "explanation": "Parietal cells (oxyntic cells) of the gastric fundus and body secrete both hydrochloric acid (via H\u207a/K\u207a-ATPase) and intrinsic factor. Intrinsic factor is a glycoprotein essential for vitamin B12 absorption in the terminal ileum. Autoimmune destruction of parietal cells causes both achlorhydria and intrinsic factor deficiency, leading to pernicious anaemia. Chief cells secrete pepsinogen; G cells secrete gastrin.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 65, Secretory Functions of the Alimentary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537170/"
+  },
+  {
+    "id": 182,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "clinical",
+    "question": "A 60-year-old woman post-gastrectomy develops fatigue, pallor, and peripheral neuropathy. Serum B12 is low. Which mechanism explains her B12 deficiency?",
+    "options": [
+      "Reduced gastric acid impairing B12 release from food",
+      "Loss of intrinsic factor-secreting parietal cells",
+      "Accelerated B12 metabolism from bacterial overgrowth",
+      "Malabsorption of B12 in the duodenum"
+    ],
+    "correct": 1,
+    "explanation": "Vitamin B12 absorption requires intrinsic factor (IF), secreted by gastric parietal cells. IF binds B12 in the stomach and the IF-B12 complex is absorbed via cubilin receptors in the terminal ileum. Gastrectomy removes the parietal cell-containing mucosa, eliminating IF production. Without IF, B12 absorption fails regardless of dietary intake. B12 deficiency impairs DNA synthesis (megaloblastic anaemia) and myelin production (subacute combined degeneration of the spinal cord).",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 66, Digestion and Absorption in the GIT",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537170/"
+  },
+  {
+    "id": 183,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "factual",
+    "question": "Secretin is released from S cells of the duodenum primarily in response to:",
+    "options": [
+      "Gastric distension",
+      "Fatty acids in the duodenum",
+      "Acid (low pH) entering the duodenum",
+      "Hyperosmolar chyme"
+    ],
+    "correct": 2,
+    "explanation": "Secretin is released from S cells in the duodenal mucosa when luminal pH falls below ~4.5, triggered by acidic gastric chyme entering the duodenum. Secretin stimulates pancreatic ductal cells to secrete a large volume of bicarbonate-rich fluid, neutralising duodenal acid. It also inhibits gastric acid secretion and motility. CCK, released by fatty acids and protein, stimulates pancreatic enzyme secretion and gallbladder contraction.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 65, Secretory Functions of the Alimentary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537171/"
+  },
+  {
+    "id": 184,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "clinical",
+    "question": "A 50-year-old man with chronic alcohol use presents with severe epigastric pain radiating to the back, elevated lipase, and steatorrhoea. Which process explains the fat malabsorption?",
+    "options": [
+      "Reduced gastric lipase secretion",
+      "Deficient pancreatic lipase secretion from exocrine insufficiency",
+      "Bile salt deficiency from hepatic damage",
+      "Accelerated small bowel transit reducing absorption time"
+    ],
+    "correct": 1,
+    "explanation": "The pancreas secretes lipase, colipase, and other enzymes essential for fat digestion. In chronic pancreatitis (common with alcohol use), progressive destruction of acinar cells causes exocrine insufficiency. When lipase output falls below ~10% of normal, fat digestion fails, producing steatorrhoea (pale, greasy, floating stools). Gastric lipase accounts for only ~10\u201330% of fat digestion and cannot compensate. Bile salts emulsify fat but cannot digest it without lipase.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 66, Digestion and Absorption in the GIT",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551620/"
+  },
+  {
+    "id": 185,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "factual",
+    "question": "Which of the following best describes the migrating motor complex (MMC)?",
+    "options": [
+      "Peristaltic waves initiated by swallowing that propel food through the oesophagus",
+      "Cyclical contractile activity in the fasting state that clears residual contents from the small bowel",
+      "Segmentation contractions in the fed state that mix chyme with digestive enzymes",
+      "Tonic contractions of the lower oesophageal sphincter preventing reflux"
+    ],
+    "correct": 1,
+    "explanation": "The migrating motor complex (MMC) is a cyclical pattern of electrical and motor activity occurring every 90\u2013120 minutes during fasting. It originates in the stomach and migrates distally through the small intestine, sweeping residual food, bacteria, and debris into the colon \u2014 sometimes called the 'intestinal housekeeper'. The MMC is mediated by motilin and is suppressed when eating begins, replaced by irregular fed-state mixing contractions. Disruption of the MMC (e.g. in diabetes, post-surgical) leads to bacterial overgrowth.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 63, Movements of the GIT",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535425/"
+  },
+  {
+    "id": 186,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "clinical",
+    "question": "A 3-year-old child presents with profuse watery diarrhoea after eating rice contaminated with Vibrio cholerae. The toxin activates adenylyl cyclase in enterocytes, raising cAMP. Which transport process is directly impaired?",
+    "options": [
+      "Na\u207a/glucose co-transport via SGLT1",
+      "Cl\u207b secretion via CFTR channels",
+      "Na\u207a absorption via apical NHE3 exchanger",
+      "Water absorption through AQP4 channels"
+    ],
+    "correct": 2,
+    "explanation": "Cholera toxin permanently activates Gs protein in enterocytes, massively raising cAMP. Elevated cAMP inhibits apical NHE3 (Na\u207a/H\u207a exchanger 3), reducing Na\u207a and water absorption, while simultaneously opening CFTR Cl\u207b channels, driving massive Cl\u207b secretion into the lumen. Water follows osmotically, producing the characteristic 'rice-water' diarrhoea. Critically, SGLT1 (Na\u207a/glucose co-transport) is unaffected \u2014 the basis for oral rehydration therapy (glucose + Na\u207a solution).",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 66, Digestion and Absorption in the GIT",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK431054/"
+  },
+  {
+    "id": 187,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "factual",
+    "question": "Bile salts are reabsorbed from the gastrointestinal tract primarily in which location?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Jejunum",
+      "Terminal ileum"
+    ],
+    "correct": 3,
+    "explanation": "Approximately 95% of bile salts are reabsorbed in the terminal ileum via the apical sodium-dependent bile acid transporter (ASBT). They are returned to the liver via the portal circulation for re-secretion \u2014 the enterohepatic circulation. This cycle occurs 6\u201310 times per day. Only ~5% of bile salts are lost in faeces; the liver synthesises new bile salts to replenish this. Disease or resection of the terminal ileum (e.g. Crohn's disease) interrupts this cycle, depleting the bile salt pool and causing fat malabsorption.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 71, Liver and Biliary System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470209/"
+  },
+  {
+    "id": 188,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "clinical",
+    "question": "A 35-year-old woman with coeliac disease has chronic diarrhoea, weight loss, and iron deficiency anaemia despite adequate dietary intake. Which mechanism explains her iron deficiency?",
+    "options": [
+      "Increased iron loss through inflamed intestinal mucosa",
+      "Villous atrophy in the duodenum and proximal jejunum reducing absorptive surface",
+      "Malabsorption of vitamin C required for iron transport",
+      "Autoantibodies blocking transferrin receptors"
+    ],
+    "correct": 1,
+    "explanation": "Iron is primarily absorbed in the duodenum and proximal jejunum via DMT1 (divalent metal transporter 1) on enterocyte brush borders. In coeliac disease, gluten-triggered immune destruction causes villous atrophy, dramatically reducing the absorptive surface area precisely in the iron-absorbing segment. This leads to iron deficiency anaemia despite normal dietary intake. Coeliac disease is a common cause of refractory iron deficiency in young women and should be excluded before other investigations.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 66, Digestion and Absorption in the GIT",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441901/"
+  },
+  {
+    "id": 189,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "factual",
+    "question": "Which hormone is primarily responsible for stimulating gallbladder contraction and pancreatic enzyme secretion?",
+    "options": [
+      "Secretin",
+      "Gastrin",
+      "Cholecystokinin (CCK)",
+      "Motilin"
+    ],
+    "correct": 2,
+    "explanation": "Cholecystokinin (CCK) is released from I cells of the duodenum and jejunum in response to fat and protein in the duodenal lumen. CCK acts on CCK-A receptors on gallbladder smooth muscle to cause contraction, expelling bile into the duodenum. It also stimulates pancreatic acinar cells to secrete digestive enzymes (lipase, amylase, proteases). CCK acts synergistically with secretin (which drives bicarbonate secretion). Secretin's primary action is bicarbonate secretion from pancreatic ductal cells.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 65, Secretory Functions of the Alimentary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537171/"
+  },
+  {
+    "id": 190,
+    "subject": "Physiology",
+    "subtopic": "GIT",
+    "type": "clinical",
+    "question": "A 70-year-old man develops bloody diarrhoea, abdominal cramps, and fever after a course of broad-spectrum antibiotics. Stool culture confirms Clostridioides difficile. Which mechanism causes mucosal damage?",
+    "options": [
+      "Direct invasion of the colonic epithelium by C. difficile",
+      "Toxin A and Toxin B disrupting enterocyte tight junctions and actin cytoskeleton",
+      "Superantigen-mediated T cell activation causing mucosal inflammation",
+      "Bile acid depletion from antibiotic-induced dysbiosis"
+    ],
+    "correct": 1,
+    "explanation": "C. difficile causes disease through two exotoxins. Toxin A (enterotoxin) and Toxin B (cytotoxin) glucosylate and inactivate Rho GTPases within enterocytes, disrupting the actin cytoskeleton and tight junctions. This causes cell rounding, apoptosis, and loss of mucosal barrier integrity, leading to fluid secretion, inflammation, and the characteristic pseudomembranous colitis. C. difficile does not invade the mucosa itself. Antibiotic disruption of normal flora allows C. difficile overgrowth, but the toxins are the direct cause of tissue damage.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 68, Physiology of GIT Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519518/"
   }
 ]
