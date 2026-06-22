@@ -3453,5 +3453,107 @@
     "explanation": "The resting membrane potential is primarily set by high resting K\u207a permeability (via leak K\u207a channels) combined with the steep K\u207a concentration gradient (high intracellular, low extracellular). K\u207a diffuses out down its concentration gradient, leaving behind negative intracellular charges \u2014 approaching the K\u207a equilibrium potential (~\u201390 mV). The Na\u207a/K\u207a-ATPase contributes a small electrogenic component (~\u20135 mV) and maintains the ionic gradients, but the dominant determinant is K\u207a diffusion.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 5, Membrane Potentials and Action Potentials",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538143/"
+  },
+  {
+    "id": 206,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "Phototransduction in rod photoreceptors involves which sequence of events upon light absorption?",
+    "options": [
+      "Rhodopsin activation \u2192 Gi \u2192 decreased cAMP \u2192 Na\u207a channel opening",
+      "Rhodopsin activation \u2192 transducin (Gt) \u2192 phosphodiesterase \u2192 cGMP hydrolysis \u2192 Na\u207a channel closure",
+      "Rhodopsin activation \u2192 Gq \u2192 IP3 \u2192 Ca\u00b2\u207a release \u2192 depolarisation",
+      "Rhodopsin activation \u2192 adenylyl cyclase \u2192 increased cAMP \u2192 K\u207a channel opening"
+    ],
+    "correct": 1,
+    "explanation": "Light isomerises retinal in rhodopsin, activating transducin (Gt). Transducin activates phosphodiesterase, which hydrolyses cGMP. In darkness, cGMP keeps CNG (cyclic nucleotide-gated) Na\u207a channels open, maintaining depolarisation. Light reduces cGMP, closing these channels, hyperpolarising the rod, and reducing glutamate release onto bipolar cells \u2014 an inhibitory-to-excitatory signal shift.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 51, The Eye: Receptor and Neural Function",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK10806/"
+  },
+  {
+    "id": 207,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "clinical",
+    "question": "A 70-year-old man notices difficulty reading and a central scotoma in his right eye. Fundoscopy shows drusen and subretinal neovascularisation at the macula. Which cell type is primarily lost early in this condition?",
+    "options": [
+      "Retinal ganglion cells",
+      "Rod photoreceptors in the peripheral retina",
+      "Retinal pigment epithelium (RPE) cells",
+      "M\u00fcller glial cells"
+    ],
+    "correct": 2,
+    "explanation": "Age-related macular degeneration (AMD) begins with dysfunction and loss of retinal pigment epithelium (RPE) cells. RPE cells phagocytose shed photoreceptor outer segments, recycle retinoids, and maintain the blood-retinal barrier. RPE failure leads to drusen accumulation, photoreceptor death, and central vision loss. In wet AMD, VEGF from stressed RPE drives choroidal neovascularisation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 51, The Eye: Receptor and Neural Function",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551689/"
+  },
+  {
+    "id": 208,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "Which structure in the inner ear contains the hair cells responsible for detecting sound frequency?",
+    "options": [
+      "Semicircular canals",
+      "Utricle",
+      "Organ of Corti on the basilar membrane",
+      "Tectorial membrane"
+    ],
+    "correct": 2,
+    "explanation": "The organ of Corti sits on the basilar membrane within the cochlea. Sound-induced pressure waves cause frequency-specific basilar membrane vibration \u2014 high frequencies at the base, low frequencies at the apex (tonotopic organisation). Hair cell stereocilia deflect against the tectorial membrane, opening mechanically gated K\u207a channels, depolarising hair cells and releasing glutamate onto auditory nerve fibres. The semicircular canals and utricle detect rotational and linear acceleration respectively.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 52, The Sense of Hearing",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK10900/"
+  },
+  {
+    "id": 209,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "clinical",
+    "question": "A 55-year-old man presents with sudden unilateral sensorineural hearing loss, tinnitus, and episodic vertigo lasting hours. Which structure is most likely affected?",
+    "options": [
+      "External auditory canal",
+      "Ossicular chain in the middle ear",
+      "Endolymphatic system of the inner ear",
+      "Cochlear nerve at the internal auditory meatus"
+    ],
+    "correct": 2,
+    "explanation": "This is M\u00e9ni\u00e8re's disease, caused by endolymphatic hydrops \u2014 excess endolymph distending the membranous labyrinth. Endolymph distension affects both the cochlea (hearing loss, tinnitus) and vestibular apparatus (vertigo). The high K\u207a endolymph composition is critical for hair cell mechanotransduction; its dysregulation disrupts both auditory and vestibular function simultaneously.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 52, The Sense of Hearing",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536955/"
+  },
+  {
+    "id": 210,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "Olfactory receptor neurons differ from other sensory receptor cells in which important way?",
+    "options": [
+      "They are the only sensory neurons that synapse directly in the thalamus",
+      "They are bipolar neurons that project directly to the olfactory cortex without a thalamic relay",
+      "They are replaced every 10 years by stem cells in the olfactory epithelium",
+      "They respond exclusively to volatile hydrocarbons"
+    ],
+    "correct": 1,
+    "explanation": "Olfaction is unique \u2014 olfactory receptor neurons project via the olfactory bulb directly to the primary olfactory cortex (piriform cortex) and amygdala without a thalamic relay. All other senses synapse in the thalamus before reaching cortex. This direct limbic connection explains the powerful emotional and memory associations of smell. Olfactory neurons are also notable for being among the few CNS neurons capable of regeneration from basal stem cells.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 54, The Chemical Senses: Taste and Smell",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK10812/"
+  },
+  {
+    "id": 211,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "clinical",
+    "question": "A 25-year-old presents after head trauma with loss of smell. CT shows fracture of the cribriform plate. Which structure is damaged to cause anosmia?",
+    "options": [
+      "Olfactory cortex in the temporal lobe",
+      "Olfactory nerve filaments (CN I) passing through the cribriform plate",
+      "Olfactory bulb vasculature causing ischaemia",
+      "Trigeminal nerve endings in the nasal mucosa"
+    ],
+    "correct": 1,
+    "explanation": "Olfactory receptor neuron axons travel as thin filaments (fila olfactoria) through the perforations of the cribriform plate of the ethmoid bone to synapse in the olfactory bulb. Cribriform plate fracture shears these delicate filaments, causing anosmia. Post-traumatic anosmia from cribriform plate injury is often permanent. The trigeminal nerve detects chemical irritants (not smell) and is unaffected here.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 54, The Chemical Senses: Taste and Smell",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK10812/"
   }
 ]
