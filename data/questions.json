@@ -2790,5 +2790,226 @@
     "correct": 0,
     "explanation": "This presentation \u2014 longstanding diabetes, heavy proteinuria, oedema, and progressive renal impairment \u2014 is consistent with diabetic nephropathy. The pathognomonic histological finding is diffuse glomerulosclerosis with Kimmelstiel-Wilson nodules (nodular glomerulosclerosis): PAS-positive nodular deposits in the mesangium caused by accumulation of extracellular matrix. The mechanism involves hyperfiltration-induced mesangial expansion driven by chronic hyperglycaemia and RAAS activation.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 32, Kidney Diseases; Ganong's Review of Medical Physiology, 26th ed."
+  },
+  {
+    "id": 167,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 35-year-old woman presents with weight gain, fatigue, cold intolerance, constipation, and dry skin over 6 months. TSH is 18 mIU/L and free T4 is low. Which of the following best explains the elevated TSH?",
+    "options": [
+      "Loss of negative feedback from low thyroid hormones",
+      "Increased TRH secretion from the posterior pituitary",
+      "Autonomous TSH secretion by a pituitary adenoma",
+      "Peripheral resistance to thyroid hormone action"
+    ],
+    "correct": 0,
+    "explanation": "The hypothalamic-pituitary-thyroid axis operates via negative feedback. T3 and T4 suppress TSH secretion from thyrotrophs in the anterior pituitary. In primary hypothyroidism, low thyroid hormone levels remove this inhibition, causing TSH to rise markedly. TRH is secreted by the hypothalamus (not the posterior pituitary), and autonomous TSH secretion (TSH-secreting adenoma) would cause hyperthyroidism with suppressed, not elevated, T4.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 77, Thyroid Metabolic Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK279303/"
+  },
+  {
+    "id": 168,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "factual",
+    "question": "Which thyroid hormone is considered the primary active form at the tissue level?",
+    "options": [
+      "Thyroxine (T4)",
+      "Triiodothyronine (T3)",
+      "Reverse T3 (rT3)",
+      "Thyroglobulin"
+    ],
+    "correct": 1,
+    "explanation": "T3 (triiodothyronine) is the biologically active form of thyroid hormone. Although the thyroid gland secretes predominantly T4, approximately 80% of circulating T3 is produced by peripheral deiodination of T4 by deiodinase enzymes (primarily type 1 and type 2). T3 binds nuclear thyroid hormone receptors with ~10\u00d7 greater affinity than T4. Reverse T3 (rT3) is metabolically inactive and is produced by alternative deiodination of T4.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 77, Thyroid Metabolic Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537039/"
+  },
+  {
+    "id": 169,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 28-year-old man with type 1 diabetes skips his insulin injection and develops nausea, vomiting, abdominal pain, and Kussmaul breathing. Blood glucose is 22 mmol/L and arterial pH is 7.18. What is the primary metabolic derangement driving his respiratory pattern?",
+    "options": [
+      "Hyperglycaemia stimulating the carotid chemoreceptors",
+      "Metabolic acidosis stimulating central and peripheral chemoreceptors",
+      "Hyperosmolarity reducing respiratory centre sensitivity",
+      "Elevated ketones directly depressing the brainstem"
+    ],
+    "correct": 1,
+    "explanation": "In diabetic ketoacidosis (DKA), insulin deficiency leads to unrestrained lipolysis and hepatic ketogenesis (acetoacetate, beta-hydroxybutyrate), producing a high anion gap metabolic acidosis. The resulting fall in blood pH stimulates peripheral chemoreceptors (carotid and aortic bodies) and central chemoreceptors in the medulla. This drives compensatory hyperventilation \u2014 deep, sighing Kussmaul respirations \u2014 to blow off CO\u2082 and partially correct the acidosis.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 79, Insulin, Glucagon, and Diabetes Mellitus",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+  },
+  {
+    "id": 170,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "factual",
+    "question": "Which of the following is the rate-limiting step in cortisol biosynthesis?",
+    "options": [
+      "Conversion of cholesterol to pregnenolone by CYP11A1",
+      "Conversion of progesterone to 17\u03b1-hydroxyprogesterone",
+      "Conversion of 11-deoxycortisol to cortisol by CYP11B1",
+      "Conversion of DHEA to androstenedione"
+    ],
+    "correct": 0,
+    "explanation": "The conversion of cholesterol to pregnenolone by the mitochondrial enzyme CYP11A1 (cholesterol side-chain cleavage enzyme) is the rate-limiting and ACTH-regulated step in steroidogenesis. ACTH stimulates this step acutely by increasing cholesterol transport into the mitochondria via StAR (steroidogenic acute regulatory protein). All subsequent steps proceed rapidly once pregnenolone is formed.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 78, Adrenocortical Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK278953/"
+  },
+  {
+    "id": 171,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 45-year-old woman presents with hypertension, central obesity, purple striae, and proximal muscle weakness. 24-hour urinary free cortisol is markedly elevated and does not suppress with low-dose dexamethasone. Which of the following mechanisms best explains her hypertension?",
+    "options": [
+      "Cortisol directly activating aldosterone receptors in the distal nephron",
+      "ACTH-driven aldosterone hypersecretion",
+      "Cortisol-induced upregulation of vascular adrenergic receptors and sodium retention",
+      "Increased renin secretion from cortisol-induced renal ischaemia"
+    ],
+    "correct": 2,
+    "explanation": "Excess cortisol causes hypertension through multiple mechanisms: it upregulates vascular smooth muscle sensitivity to catecholamines (increasing peripheral resistance), promotes sodium and water retention via mineralocorticoid receptor activation (cortisol has weak intrinsic mineralocorticoid activity and can overwhelm 11\u03b2-HSD2 enzyme capacity), and suppresses vasodilatory prostaglandins. Although cortisol can weakly activate mineralocorticoid receptors, the dominant mechanism is adrenergic sensitisation and sodium retention rather than acting purely as aldosterone.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 78, Adrenocortical Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470218/"
+  },
+  {
+    "id": 172,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "factual",
+    "question": "Insulin promotes glucose uptake into skeletal muscle and adipose tissue primarily by:",
+    "options": [
+      "Increasing transcription of the GLUT2 gene",
+      "Activating Na\u207a/K\u207a-ATPase to co-transport glucose",
+      "Stimulating translocation of GLUT4 vesicles to the plasma membrane",
+      "Inhibiting glucokinase in peripheral tissues"
+    ],
+    "correct": 2,
+    "explanation": "Insulin stimulates glucose uptake in skeletal muscle and adipose tissue by promoting the translocation of GLUT4-containing vesicles from intracellular storage pools to the plasma membrane. Insulin binds its tyrosine kinase receptor, activating the PI3K\u2013Akt signalling pathway, which phosphorylates AS160, releasing GLUT4 vesicles to fuse with the cell membrane. GLUT2 is constitutively expressed in hepatocytes and pancreatic beta cells and is not regulated by insulin translocation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 79, Insulin, Glucagon, and Diabetes Mellitus",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537038/"
+  },
+  {
+    "id": 173,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 55-year-old man with a known pituitary adenoma presents with headache, bitemporal hemianopia, and acromegalic features (enlarged hands, jaw prognathism, macroglossia). GH levels are elevated and do not suppress with oral glucose. What is the mechanism of his visual field defect?",
+    "options": [
+      "GH-induced optic nerve demyelination",
+      "Suprasellar extension of the adenoma compressing the optic chiasm",
+      "Raised intracranial pressure from GH-driven CSF hypersecretion",
+      "Cavernous sinus invasion compressing the optic tract"
+    ],
+    "correct": 1,
+    "explanation": "The optic chiasm lies directly above the pituitary fossa. Suprasellar extension of a pituitary macroadenoma compresses the decussating nasal fibres of the optic chiasm, which carry temporal visual field information from both eyes. This produces the classic bitemporal hemianopia. GH itself does not cause demyelination or raised ICP. Cavernous sinus invasion would produce cranial nerve palsies (III, IV, VI, V1/V2) rather than bitemporal field loss.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 75, Pituitary Hormones and Their Control",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554543/"
+  },
+  {
+    "id": 174,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "factual",
+    "question": "Which of the following hormones is primarily responsible for maintaining blood calcium levels between meals by mobilising calcium from bone?",
+    "options": [
+      "Calcitonin",
+      "1,25-dihydroxyvitamin D (calcitriol)",
+      "Parathyroid hormone (PTH)",
+      "Cortisol"
+    ],
+    "correct": 2,
+    "explanation": "PTH is the principal minute-to-minute regulator of plasma calcium. Secreted by the parathyroid glands in response to low ionised calcium, PTH acts on bone osteoclasts (indirectly via osteoblast RANK-L signalling) to mobilise calcium, increases renal calcium reabsorption in the distal tubule, and stimulates renal 1\u03b1-hydroxylase to convert 25-OH-D to calcitriol. Calcitonin lowers plasma calcium (produced by parafollicular C cells) but is not the primary regulator in healthy adults.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 80, Parathyroid Hormone, Calcitonin, Calcium, and Vitamin D",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551580/"
+  },
+  {
+    "id": 175,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 30-year-old woman in her third trimester is found to have low TSH, elevated free T4, and elevated total T3, but is clinically asymptomatic. The most likely explanation for these findings is:",
+    "options": [
+      "Gestational hyperthyroidism from hCG cross-reactivity with TSH receptors",
+      "Autoimmune Graves' disease triggered by pregnancy",
+      "Increased TBG from oestrogen causing falsely elevated total T4",
+      "Placental production of TSH stimulating the maternal thyroid"
+    ],
+    "correct": 0,
+    "explanation": "Human chorionic gonadotropin (hCG) shares structural homology with TSH (both are glycoprotein hormones with a common \u03b1-subunit). At the high hCG levels seen in the first and early third trimester, hCG cross-reacts with TSH receptors, mildly stimulating thyroid hormone production. This transiently suppresses TSH and mildly elevates free T4 \u2014 a physiological state called gestational hyperthyroidism. It is usually asymptomatic and self-limiting. Additionally, oestrogen increases TBG, raising total (but not free) T4 levels in pregnancy.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 77, Thyroid Metabolic Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537039/"
+  },
+  {
+    "id": 176,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "factual",
+    "question": "Aldosterone secretion from the zona glomerulosa is primarily stimulated by:",
+    "options": [
+      "ACTH and cortisol",
+      "Angiotensin II and hyperkalaemia",
+      "ADH and hyponatraemia",
+      "GH and IGF-1"
+    ],
+    "correct": 1,
+    "explanation": "Aldosterone secretion is regulated primarily by angiotensin II (via the renin-angiotensin-aldosterone system, activated by low blood pressure, low sodium, or sympathetic stimulation) and by direct hyperkalaemia (elevated plasma K\u207a directly depolarises zona glomerulosa cells, opening calcium channels and stimulating aldosterone synthesis). ACTH has a minor permissive role but is not a primary regulator. ADH regulates free water reabsorption via V2 receptors in the collecting duct, not aldosterone.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 78, Adrenocortical Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470218/"
+  },
+  {
+    "id": 177,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 40-year-old woman presents with episodic headache, palpitations, and diaphoresis. BP during an episode is 210/120 mmHg. 24-hour urine shows elevated catecholamines and metanephrines. The tumour responsible secretes hormones that act on which receptor to increase heart rate?",
+    "options": [
+      "\u03b11-adrenergic receptor",
+      "\u03b12-adrenergic receptor",
+      "\u03b21-adrenergic receptor",
+      "\u03b22-adrenergic receptor"
+    ],
+    "correct": 2,
+    "explanation": "This is a classic presentation of phaeochromocytoma, a catecholamine-secreting tumour of the adrenal medulla. Noradrenaline and adrenaline are the primary secretory products. Tachycardia is mediated via \u03b21-adrenergic receptors on the sinoatrial node, which increase heart rate through Gs-protein coupling, raising cAMP and enhancing pacemaker current (If). \u03b11 receptors mediate vasoconstriction (hypertension). \u03b22 receptors mediate bronchodilation and vasodilation in skeletal muscle. \u03b12 receptors are presynaptic inhibitory receptors.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 61, The Autonomic Nervous System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482251/"
+  },
+  {
+    "id": 178,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "factual",
+    "question": "Which of the following correctly describes the action of antidiuretic hormone (ADH) on the renal collecting duct?",
+    "options": [
+      "ADH binds V1 receptors, activating Gq and inserting ENaC channels",
+      "ADH binds V2 receptors, activating Gs, raising cAMP, and inserting AQP2 water channels",
+      "ADH binds V2 receptors, activating Gi, lowering cAMP, and closing AQP3 channels",
+      "ADH binds V1 receptors, activating Gs, and increasing urea permeability only"
+    ],
+    "correct": 1,
+    "explanation": "ADH (vasopressin) acts on principal cells of the collecting duct via V2 receptors coupled to Gs protein. This activates adenylyl cyclase, raising intracellular cAMP, which activates PKA. PKA phosphorylates AQP2 (aquaporin-2) vesicles, causing their insertion into the apical membrane. This dramatically increases water permeability, allowing water to be reabsorbed along the osmotic gradient into the hypertonic medullary interstitium. AQP3 and AQP4 on the basolateral membrane are constitutively expressed.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 29, Renal Tubular Reabsorption and Secretion",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526069/"
+  },
+  {
+    "id": 179,
+    "subject": "Physiology",
+    "subtopic": "Endocrinology",
+    "type": "clinical",
+    "question": "A 25-year-old man presents with polydipsia, polyuria (8 L/day), and dilute urine (osmolality 80 mOsm/kg). Plasma osmolality is 298 mOsm/kg. After water deprivation, urine osmolality remains low, but rises to 650 mOsm/kg after intranasal desmopressin (ADH analogue). What is the most likely diagnosis?",
+    "options": [
+      "Primary polydipsia (psychogenic)",
+      "Central (neurogenic) diabetes insipidus",
+      "Nephrogenic diabetes insipidus",
+      "Type 2 diabetes mellitus"
+    ],
+    "correct": 1,
+    "explanation": "The water deprivation test distinguishes causes of polyuria. In central DI, ADH production by the posterior pituitary is deficient. Urine fails to concentrate with dehydration alone, but responds briskly to exogenous ADH (desmopressin) \u2014 urine osmolality rises >50% \u2014 confirming an intact renal response. In nephrogenic DI, the collecting duct is unresponsive to ADH, so desmopressin fails to concentrate urine. In primary polydipsia, mild concentration occurs with dehydration and desmopressin adds little further. Diabetes mellitus causes osmotic polyuria with hyperglycaemia, not dilute urine at normal glucose.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 76, Posterior Pituitary Hormones",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507701/"
   }
 ]
