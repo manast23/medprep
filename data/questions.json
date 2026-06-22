@@ -3198,5 +3198,141 @@
     "explanation": "C. difficile causes disease through two exotoxins. Toxin A (enterotoxin) and Toxin B (cytotoxin) glucosylate and inactivate Rho GTPases within enterocytes, disrupting the actin cytoskeleton and tight junctions. This causes cell rounding, apoptosis, and loss of mucosal barrier integrity, leading to fluid secretion, inflammation, and the characteristic pseudomembranous colitis. C. difficile does not invade the mucosa itself. Antibiotic disruption of normal flora allows C. difficile overgrowth, but the toxins are the direct cause of tissue damage.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 68, Physiology of GIT Disorders",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519518/"
+  },
+  {
+    "id": 191,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "factual",
+    "question": "Which of the following is the primary site of erythropoietin (EPO) production?",
+    "options": [
+      "Liver",
+      "Bone marrow",
+      "Peritubular interstitial cells of the renal cortex",
+      "Adrenal cortex"
+    ],
+    "correct": 2,
+    "explanation": "EPO is produced predominantly (~90%) by peritubular interstitial cells (fibroblast-like cells) of the renal cortex in response to hypoxia, via HIF-1\u03b1 stabilisation. EPO stimulates erythroid progenitor proliferation and differentiation in bone marrow. The liver produces ~10% of EPO (dominant in fetal life). Renal disease causes anaemia primarily through EPO deficiency.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 32, Red Blood Cells and Anaemia",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537191/"
+  },
+  {
+    "id": 192,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "clinical",
+    "question": "A 25-year-old woman has microcytic hypochromic anaemia, low serum ferritin, and low transferrin saturation. Which step in haemoglobin synthesis is most directly impaired?",
+    "options": [
+      "Globin chain transcription",
+      "Haem synthesis \u2014 incorporation of iron into protoporphyrin IX by ferrochelatase",
+      "Vitamin B12-dependent DNA replication in erythroblasts",
+      "EPO receptor signalling in erythroid progenitors"
+    ],
+    "correct": 1,
+    "explanation": "Haem is synthesised by insertion of Fe\u00b2\u207a into protoporphyrin IX by ferrochelatase in mitochondria. Iron deficiency limits this step, reducing haem and therefore haemoglobin production. Erythroblasts continue dividing with less cytoplasm per division, producing small (microcytic) pale (hypochromic) red cells. Low ferritin confirms depleted iron stores; low transferrin saturation confirms reduced iron delivery.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 32, Red Blood Cells and Anaemia",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448065/"
+  },
+  {
+    "id": 193,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "factual",
+    "question": "Which clotting factor is shared by both the intrinsic and extrinsic coagulation pathways?",
+    "options": [
+      "Factor VII",
+      "Factor VIII",
+      "Factor X",
+      "Factor XII"
+    ],
+    "correct": 2,
+    "explanation": "The intrinsic pathway (factors XII\u2192XI\u2192IX\u2192VIII) and extrinsic pathway (tissue factor + factor VII) both converge at factor X activation \u2014 the start of the common pathway. Activated factor X (Xa) combines with factor Va (prothrombinase complex) to convert prothrombin to thrombin. Factor VII is extrinsic-only; factors VIII and XII are intrinsic-only.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Haemostasis and Blood Coagulation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507850/"
+  },
+  {
+    "id": 194,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "clinical",
+    "question": "A 10-year-old boy has prolonged bleeding after minor cuts, normal platelet count, prolonged aPTT, and normal PT. His maternal uncle has the same condition. Which protein is most likely deficient?",
+    "options": [
+      "Von Willebrand factor",
+      "Factor VIII",
+      "Factor VII",
+      "Fibrinogen"
+    ],
+    "correct": 1,
+    "explanation": "X-linked recessive inheritance (affected males, carrier females, maternal uncle affected) combined with isolated aPTT prolongation (intrinsic pathway) and normal PT (extrinsic pathway) is classic for Haemophilia A \u2014 factor VIII deficiency. Factor VIII is a cofactor for factor IXa in the intrinsic pathway; its absence prolongs aPTT. PT tests the extrinsic/common pathway and is unaffected. Von Willebrand disease typically also prolongs bleeding time and affects platelet adhesion.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Haemostasis and Blood Coagulation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470265/"
+  },
+  {
+    "id": 195,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "factual",
+    "question": "The ABO blood group antigens are determined by glycosyltransferase enzymes that add sugar residues to H antigen on red cell surfaces. A person with blood group O has:",
+    "options": [
+      "Both A and B transferases active",
+      "Only A transferase active",
+      "Neither A nor B transferase \u2014 H antigen remains unmodified",
+      "Absent H antigen due to non-functional FUT1 gene"
+    ],
+    "correct": 2,
+    "explanation": "Blood group O individuals inherit non-functional alleles for both A and B glycosyltransferases. The H antigen (fucose residue added by FUT1) is present but unmodified. Group A adds N-acetylgalactosamine to H; group B adds galactose. Group O red cells display only H antigen and carry anti-A and anti-B antibodies in plasma. The rare Bombay phenotype (hh) lacks FUT1 function and has no H antigen \u2014 reacts with all ABO groups.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 35, Blood Groups and Transfusion",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559276/"
+  },
+  {
+    "id": 196,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "clinical",
+    "question": "A 30-year-old woman (O Rh-negative) delivers an Rh-positive baby. She was not given anti-D immunoglobulin. In a subsequent Rh-positive pregnancy, her baby develops jaundice, anaemia, and hydrops fetalis. What is the mechanism?",
+    "options": [
+      "ABO incompatibility activating complement on fetal red cells",
+      "Maternal IgM anti-D crossing the placenta and haemolysing fetal red cells",
+      "Maternal IgG anti-D crossing the placenta and opsonising fetal Rh-positive red cells",
+      "Fetal IgG production against maternal Rh antigen"
+    ],
+    "correct": 2,
+    "explanation": "During the first Rh-positive pregnancy, fetal red cells sensitise the Rh-negative mother, generating IgG anti-D memory cells. In a subsequent Rh-positive pregnancy, these IgG antibodies cross the placenta (IgG is the only immunoglobulin class that crosses), opsonise fetal Rh-positive red cells, and trigger extravascular haemolysis by fetal macrophages \u2014 causing haemolytic disease of the fetus/newborn (HDFN). IgM does not cross the placenta. Anti-D prophylaxis (Rhesus immunoglobulin) prevents maternal sensitisation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 35, Blood Groups and Transfusion",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559276/"
+  },
+  {
+    "id": 197,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "factual",
+    "question": "Which of the following best describes the function of thrombomodulin in haemostasis?",
+    "options": [
+      "Activates factor X on platelet surfaces",
+      "Binds thrombin, converting it to an anticoagulant that activates protein C",
+      "Inhibits tissue factor pathway by binding factor VIIa",
+      "Degrades fibrin clots by activating plasminogen"
+    ],
+    "correct": 1,
+    "explanation": "Thrombomodulin is an endothelial surface receptor that binds thrombin, altering its substrate specificity \u2014 the thrombin-thrombomodulin complex no longer cleaves fibrinogen but instead activates protein C. Activated protein C (with cofactor protein S) proteolytically inactivates factors Va and VIIIa, limiting coagulation. This is a key endothelial anticoagulant mechanism. TFPI inhibits the factor VIIa-tissue factor complex; tPA activates plasminogen.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Haemostasis and Blood Coagulation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507850/"
+  },
+  {
+    "id": 198,
+    "subject": "Physiology",
+    "subtopic": "Blood",
+    "type": "clinical",
+    "question": "A 65-year-old man on warfarin for atrial fibrillation has an INR of 6.5 and presents with haematuria. Warfarin exerts its anticoagulant effect by:",
+    "options": [
+      "Directly inhibiting thrombin (factor IIa)",
+      "Blocking vitamin K epoxide reductase, impairing \u03b3-carboxylation of factors II, VII, IX, X",
+      "Inhibiting platelet aggregation by blocking ADP receptors",
+      "Activating antithrombin III to neutralise serine proteases"
+    ],
+    "correct": 1,
+    "explanation": "Warfarin inhibits vitamin K epoxide reductase (VKORC1), preventing recycling of oxidised vitamin K back to its active reduced form. Vitamin K (reduced) is required as a cofactor for \u03b3-carboxylation of glutamate residues on factors II, VII, IX, X, and proteins C and S \u2014 carboxylation is essential for their calcium-binding and activation. Factor VII has the shortest half-life (~6 hours), so PT/INR rises first. Warfarin has no direct effect on thrombin or platelets.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Haemostasis and Blood Coagulation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470412/"
   }
 ]
