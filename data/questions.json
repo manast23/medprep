@@ -3555,5 +3555,90 @@
     "explanation": "Olfactory receptor neuron axons travel as thin filaments (fila olfactoria) through the perforations of the cribriform plate of the ethmoid bone to synapse in the olfactory bulb. Cribriform plate fracture shears these delicate filaments, causing anosmia. Post-traumatic anosmia from cribriform plate injury is often permanent. The trigeminal nerve detects chemical irritants (not smell) and is unaffected here.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 54, The Chemical Senses: Taste and Smell",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK10812/"
+  },
+  {
+    "id": 212,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "Which hormone triggers ovulation in the menstrual cycle?",
+    "options": [
+      "FSH surge",
+      "LH surge",
+      "Oestrogen surge",
+      "Progesterone surge"
+    ],
+    "correct": 1,
+    "explanation": "The midcycle LH surge (triggered by positive feedback from rising oestradiol) causes follicle rupture and ovulation ~36 hours later. LH also luteinises the granulosa cells, forming the corpus luteum which secretes progesterone. FSH drives follicular growth but does not trigger ovulation.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 82, Female Reproductive Physiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537132/"
+  },
+  {
+    "id": 213,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "clinical",
+    "question": "A 28-year-old woman has oligomenorrhoea, hirsutism, and acne. LH:FSH ratio is elevated and fasting insulin is high. Which mechanism best explains her anovulation?",
+    "options": [
+      "Primary ovarian failure from autoimmune destruction",
+      "Excess androgens and insulin disrupting the LH surge and follicular development",
+      "Hyperprolactinaemia suppressing GnRH pulsatility",
+      "FSH receptor mutation preventing follicle maturation"
+    ],
+    "correct": 1,
+    "explanation": "In PCOS, insulin resistance drives hyperinsulinaemia, which synergises with elevated LH to stimulate thecal androgen overproduction. Excess androgens disrupt normal follicular development, preventing dominant follicle selection and the oestradiol rise needed to trigger the LH surge. The elevated LH:FSH ratio further favours androgen over oestrogen synthesis.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 82, Female Reproductive Physiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459148/"
+  },
+  {
+    "id": 214,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "Which hormone maintains the corpus luteum during early pregnancy?",
+    "options": [
+      "Oestradiol",
+      "Progesterone",
+      "Human chorionic gonadotropin (hCG)",
+      "Prolactin"
+    ],
+    "correct": 2,
+    "explanation": "hCG, secreted by the syncytiotrophoblast from implantation (~day 8), mimics LH and binds LH receptors on the corpus luteum, maintaining progesterone production. Without hCG, the corpus luteum regresses at day 14, progesterone falls, and menstruation occurs. hCG peaks at ~10 weeks, after which the placenta produces sufficient progesterone independently.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 83, Pregnancy and Lactation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537197/"
+  },
+  {
+    "id": 215,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "clinical",
+    "question": "A 50-year-old woman has hot flushes, night sweats, vaginal dryness, and elevated FSH. Which best explains her FSH elevation?",
+    "options": [
+      "Increased GnRH sensitivity of gonadotrophs",
+      "Loss of negative feedback from declining ovarian oestradiol and inhibin B",
+      "Direct pituitary stimulation by rising LH",
+      "Adrenal androgen excess stimulating FSH release"
+    ],
+    "correct": 1,
+    "explanation": "At menopause, ovarian follicle depletion causes oestradiol and inhibin B to fall markedly. Both hormones normally suppress FSH via negative feedback on the anterior pituitary. Their loss removes this inhibition, causing FSH (and LH) to rise sharply. Elevated FSH (>25 IU/L) with amenorrhoea for 12 months confirms menopause.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 82, Female Reproductive Physiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507826/"
+  },
+  {
+    "id": 216,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "Testosterone exerts negative feedback on the hypothalamic-pituitary axis primarily by:",
+    "options": [
+      "Directly suppressing LH and FSH secretion from the anterior pituitary",
+      "Being converted to oestradiol by aromatase, which suppresses GnRH and LH",
+      "Inhibiting inhibin B secretion from Sertoli cells",
+      "Stimulating prolactin release to suppress GnRH"
+    ],
+    "correct": 1,
+    "explanation": "Testosterone suppresses the HPG axis largely via aromatisation to oestradiol in the hypothalamus and pituitary. Oestradiol is the dominant inhibitor of GnRH pulsatility and LH secretion in males. Testosterone also has some direct androgen receptor-mediated suppression, but oestradiol conversion is the primary mechanism \u2014 explaining why aromatase inhibitors increase LH and testosterone in men.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 81, Male Reproductive Physiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK279031/"
   }
 ]
