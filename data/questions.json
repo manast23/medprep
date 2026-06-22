@@ -3334,5 +3334,124 @@
     "explanation": "Warfarin inhibits vitamin K epoxide reductase (VKORC1), preventing recycling of oxidised vitamin K back to its active reduced form. Vitamin K (reduced) is required as a cofactor for \u03b3-carboxylation of glutamate residues on factors II, VII, IX, X, and proteins C and S \u2014 carboxylation is essential for their calcium-binding and activation. Factor VII has the shortest half-life (~6 hours), so PT/INR rises first. Warfarin has no direct effect on thrombin or platelets.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 37, Haemostasis and Blood Coagulation",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470412/"
+  },
+  {
+    "id": 199,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "factual",
+    "question": "Which ion is primarily responsible for the depolarisation phase of an action potential in a myelinated nerve fibre?",
+    "options": [
+      "K\u207a influx",
+      "Na\u207a influx",
+      "Ca\u00b2\u207a influx",
+      "Cl\u207b efflux"
+    ],
+    "correct": 1,
+    "explanation": "Depolarisation is caused by rapid Na\u207a influx through voltage-gated Na\u207a channels (activated at ~\u201355 mV threshold). The membrane potential rises toward the Na\u207a equilibrium potential (~+60 mV). Repolarisation is then driven by Na\u207a channel inactivation and delayed K\u207a efflux through voltage-gated K\u207a channels. Ca\u00b2\u207a influx drives depolarisation at cardiac SA node and presynaptic terminals, not myelinated axons.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 5, Membrane Potentials and Action Potentials",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538143/"
+  },
+  {
+    "id": 200,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "clinical",
+    "question": "A 40-year-old woman presents with progressive proximal muscle weakness, ptosis, and diplopia worsening toward the end of the day. Ice-pack test improves ptosis temporarily. Repetitive nerve stimulation shows a decremental response. Which mechanism explains her weakness?",
+    "options": [
+      "Autoantibodies blocking presynaptic voltage-gated Ca\u00b2\u207a channels",
+      "Autoantibodies against nicotinic acetylcholine receptors at the neuromuscular junction",
+      "Deficiency of acetylcholinesterase at the neuromuscular junction",
+      "Autoantibodies against voltage-gated K\u207a channels in motor nerves"
+    ],
+    "correct": 1,
+    "explanation": "Myasthenia gravis is caused by IgG autoantibodies against postsynaptic nicotinic ACh receptors (AChR), reducing functional receptor density. Repeated nerve stimulation depletes presynaptic ACh quanta; with fewer receptors, end-plate potentials progressively fail to reach threshold \u2014 producing the decremental response. Fatigability worsening through the day and improvement with cold (ice-pack test) are characteristic. Lambert-Eaton syndrome involves presynaptic Ca\u00b2\u207a channel antibodies and shows an incremental response.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 7, Neuromuscular Junction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559131/"
+  },
+  {
+    "id": 201,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "factual",
+    "question": "In skeletal muscle contraction, calcium released from the sarcoplasmic reticulum initiates cross-bridge cycling by:",
+    "options": [
+      "Directly activating myosin ATPase",
+      "Binding troponin C, causing tropomyosin to shift and expose myosin-binding sites on actin",
+      "Opening ryanodine receptors on the T-tubule membrane",
+      "Activating calmodulin to phosphorylate myosin light chains"
+    ],
+    "correct": 1,
+    "explanation": "Ca\u00b2\u207a released from the SR binds troponin C (part of the troponin-tropomyosin complex on actin filaments). This conformational change shifts tropomyosin away from the myosin-binding sites on actin, allowing myosin heads to attach and cycle. In the resting state, tropomyosin physically blocks these sites. Myosin light-chain phosphorylation by calmodulin-dependent kinase is the mechanism in smooth muscle, not skeletal muscle.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 6, Contraction of Skeletal Muscle",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537140/"
+  },
+  {
+    "id": 202,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "clinical",
+    "question": "A farmer presents 2 hours after accidental exposure to an organophosphate pesticide with miosis, excessive salivation, bronchospasm, bradycardia, and muscle fasciculations. Which mechanism explains the fasciculations?",
+    "options": [
+      "Direct nicotinic receptor agonism by the organophosphate",
+      "Accumulation of acetylcholine at nicotinic NMJ receptors due to acetylcholinesterase inhibition",
+      "Hyperkalaemia-induced spontaneous muscle depolarisation",
+      "Noradrenaline excess causing motor neuron hyperexcitability"
+    ],
+    "correct": 1,
+    "explanation": "Organophosphates irreversibly inhibit acetylcholinesterase, preventing ACh breakdown at synapses. ACh accumulates at both muscarinic receptors (miosis, secretions, bradycardia, bronchospasm \u2014 SLUDGE) and nicotinic receptors at the NMJ, causing continuous end-plate depolarisation, fasciculations, and eventually depolarisation blockade with flaccid paralysis. Treatment: atropine (blocks muscarinic effects) + pralidoxime (reactivates cholinesterase if given early).",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 7, Neuromuscular Junction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK542253/"
+  },
+  {
+    "id": 203,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "factual",
+    "question": "Which of the following correctly describes a motor unit?",
+    "options": [
+      "A single muscle fibre innervated by multiple motor neurons",
+      "A single alpha motor neuron and all the muscle fibres it innervates",
+      "The functional unit of the spinal cord controlling one muscle group",
+      "A group of motor neurons in the anterior horn supplying one joint"
+    ],
+    "correct": 1,
+    "explanation": "A motor unit is one alpha motor neuron and all the skeletal muscle fibres it innervates \u2014 these fibres contract simultaneously when the neuron fires. Muscles requiring fine control (e.g. extraocular, hand intrinsics) have small motor units (1\u201310 fibres); postural muscles have large units (hundreds of fibres). Graded force is achieved by recruiting more motor units (spatial summation) and increasing firing frequency (temporal summation).",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 6, Contraction of Skeletal Muscle",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537140/"
+  },
+  {
+    "id": 204,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "clinical",
+    "question": "A 55-year-old man develops ascending flaccid paralysis and absent reflexes 2 weeks after a respiratory infection. Nerve conduction studies show reduced motor conduction velocity. Which structure is primarily targeted?",
+    "options": [
+      "Anterior horn cells of the spinal cord",
+      "Peripheral nerve myelin sheaths",
+      "Neuromuscular junction",
+      "Skeletal muscle fibres"
+    ],
+    "correct": 1,
+    "explanation": "This is Guillain-Barr\u00e9 syndrome (acute inflammatory demyelinating polyneuropathy). Molecular mimicry between infectious antigens and peripheral nerve myelin (Schwann cell) components triggers autoimmune demyelination. Loss of myelin slows saltatory conduction, reducing motor nerve conduction velocity. Demyelination of motor and sensory fibres causes ascending weakness, areflexia, and sensory loss. Anterior horn cell destruction (polio) would show normal conduction velocity with reduced amplitude.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 5, Membrane Potentials and Action Potentials",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532254/"
+  },
+  {
+    "id": 205,
+    "subject": "Physiology",
+    "subtopic": "Nerve & Muscle",
+    "type": "factual",
+    "question": "The resting membrane potential of a typical neuron (~\u201370 mV) is primarily maintained by:",
+    "options": [
+      "Electrogenic Na\u207a/K\u207a-ATPase pumping 3 Na\u207a out and 2 K\u207a in",
+      "High resting permeability to K\u207a and the K\u207a concentration gradient",
+      "Active Cl\u207b transport into the cell",
+      "Voltage-gated Na\u207a channels remaining partially open at rest"
+    ],
+    "correct": 1,
+    "explanation": "The resting membrane potential is primarily set by high resting K\u207a permeability (via leak K\u207a channels) combined with the steep K\u207a concentration gradient (high intracellular, low extracellular). K\u207a diffuses out down its concentration gradient, leaving behind negative intracellular charges \u2014 approaching the K\u207a equilibrium potential (~\u201390 mV). The Na\u207a/K\u207a-ATPase contributes a small electrogenic component (~\u20135 mV) and maintains the ionic gradients, but the dominant determinant is K\u207a diffusion.",
+    "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 5, Membrane Potentials and Action Potentials",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538143/"
   }
 ]
