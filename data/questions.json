@@ -4762,5 +4762,175 @@
     "explanation": "Primary sclerosing cholangitis (PSC) causes fibro-obliterative inflammation of both intra- and extrahepatic bile ducts, producing the classic beaded appearance on cholangiography. It is strongly associated with IBD (UC in ~75% of PSC cases), pANCA is positive in ~80%, and it carries significant risk of cholangiocarcinoma.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459365/"
+  },
+  {
+    "id": 283,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "Which glomerulonephritis is characterised by subepithelial 'hump-shaped' immune deposits on electron microscopy?",
+    "options": [
+      "Membranous nephropathy",
+      "Post-streptococcal glomerulonephritis",
+      "IgA nephropathy",
+      "Membranoproliferative GN"
+    ],
+    "correct": 1,
+    "explanation": "Post-streptococcal (post-infectious) glomerulonephritis shows subepithelial hump-shaped immune deposits (IgG, C3) on EM, corresponding to 'lumpy-bumpy' granular immunofluorescence. It presents 1\u20134 weeks after streptococcal infection with nephritic syndrome and is usually self-limiting in children.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 284,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "The most common cause of nephrotic syndrome in adults is:",
+    "options": [
+      "Minimal change disease",
+      "Focal segmental glomerulosclerosis",
+      "Membranous nephropathy",
+      "Diabetic nephropathy"
+    ],
+    "correct": 2,
+    "explanation": "Membranous nephropathy is the most common cause of primary nephrotic syndrome in adults. It is caused by anti-PLA2R antibodies in ~70% of primary cases, producing subepithelial immune deposits that thicken the GBM ('spike and dome' on EM). Minimal change disease is the most common cause in children.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532999/"
+  },
+  {
+    "id": 285,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "Minimal change disease causes nephrotic syndrome via which primary mechanism?",
+    "options": [
+      "Subendothelial immune deposits activating complement",
+      "T-cell-derived circulating factor causing podocyte foot process effacement",
+      "Anti-GBM antibody deposition",
+      "Mesangial IgA deposition"
+    ],
+    "correct": 1,
+    "explanation": "Minimal change disease is caused by a T-cell-derived circulating permeability factor (likely CD80) that injures podocytes, causing diffuse foot process effacement visible only on EM. Light microscopy and IF are normal. It is highly responsive to steroids and is the most common nephrotic syndrome in children.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532999/"
+  },
+  {
+    "id": 286,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "clinical",
+    "question": "A 25-year-old man with recurrent macroscopic haematuria after upper respiratory tract infections has mesangial IgA deposits on immunofluorescence. The diagnosis is:",
+    "options": [
+      "Post-streptococcal GN",
+      "IgA nephropathy (Berger disease)",
+      "Henoch-Schonlein purpura",
+      "Anti-GBM disease"
+    ],
+    "correct": 1,
+    "explanation": "IgA nephropathy (Berger disease) is the most common primary glomerulonephritis worldwide. Haematuria occurring during or immediately after a mucosal infection (synpharyngitic haematuria) \u2014 rather than 1\u20133 weeks later as in post-streptococcal GN \u2014 is characteristic. Mesangial IgA deposits on IF are diagnostic.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 287,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "Rapidly progressive (crescentic) glomerulonephritis with linear IgG deposits along the GBM is caused by:",
+    "options": [
+      "Immune complex deposition",
+      "Anti-GBM antibodies",
+      "ANCA-associated vasculitis",
+      "IgA nephropathy"
+    ],
+    "correct": 1,
+    "explanation": "Linear IgG deposits along the GBM are the hallmark of anti-GBM disease (Goodpasture syndrome), caused by antibodies against the alpha-3 chain of type IV collagen. When lung haemorrhage accompanies RPGN, it is Goodpasture syndrome. ANCA-associated RPGN shows pauci-immune (no IF deposits) pattern; immune complex RPGN shows granular deposits.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 288,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "The earliest morphological change in diabetic nephropathy is:",
+    "options": [
+      "Nodular glomerulosclerosis (Kimmelstiel-Wilson nodules)",
+      "Diffuse glomerulosclerosis",
+      "GBM thickening and mesangial expansion",
+      "Arteriolar hyalinosis"
+    ],
+    "correct": 2,
+    "explanation": "The earliest change in diabetic nephropathy is GBM thickening and mesangial matrix expansion, detectable on EM and correlating with microalbuminuria. Diffuse glomerulosclerosis follows. Nodular glomerulosclerosis (Kimmelstiel-Wilson nodules) \u2014 pathognomonic but not specific \u2014 appears later and indicates advanced disease.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 289,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "clinical",
+    "question": "A 55-year-old man presents with flank pain, haematuria, and a palpable abdominal mass. CT shows a heterogeneous renal mass with areas of necrosis. The most likely diagnosis is:",
+    "options": [
+      "Angiomyolipoma",
+      "Renal cell carcinoma",
+      "Transitional cell carcinoma",
+      "Wilms tumour"
+    ],
+    "correct": 1,
+    "explanation": "The classic triad of flank pain, haematuria, and palpable mass suggests renal cell carcinoma (RCC). Clear cell RCC (most common subtype, ~75%) is associated with VHL gene deletion on chromosome 3p. RCC is notorious for paraneoplastic syndromes (polycythaemia, hypercalcaemia) and for spreading via the renal vein into the IVC.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470505/"
+  },
+  {
+    "id": 290,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "Wilms tumour (nephroblastoma) is associated with deletion of which tumour suppressor gene?",
+    "options": [
+      "VHL",
+      "WT1",
+      "RB1",
+      "APC"
+    ],
+    "correct": 1,
+    "explanation": "Wilms tumour is associated with loss-of-function mutations in WT1 (chromosome 11p13), a transcription factor essential for renal and gonadal development. WT1 mutations are found in sporadic cases and in WAGR syndrome (Wilms, Aniridia, Genitourinary anomalies, intellectual disability) and Denys-Drash syndrome.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 10: Neoplasia",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554349/"
+  },
+  {
+    "id": 291,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "factual",
+    "question": "Acute tubular necrosis (ATN) most commonly affects which segment of the nephron in ischaemic injury?",
+    "options": [
+      "Proximal convoluted tubule and thick ascending limb",
+      "Distal convoluted tubule",
+      "Collecting duct",
+      "Glomerulus"
+    ],
+    "correct": 0,
+    "explanation": "Ischaemic ATN primarily injures the proximal convoluted tubule (PCT) and the medullary thick ascending limb (TAL), which have the highest metabolic demands and are most vulnerable to ATP depletion. Tubular epithelial cell necrosis and casts cause luminal obstruction and back-leak of filtrate, resulting in oliguric acute kidney injury.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441959/"
+  },
+  {
+    "id": 292,
+    "subject": "Pathology",
+    "subtopic": "Renal Pathology",
+    "type": "clinical",
+    "question": "A 70-year-old woman with longstanding hypertension has bilaterally small, granular kidneys on ultrasound. Biopsy shows hyaline arteriolosclerosis and global glomerulosclerosis. The diagnosis is:",
+    "options": [
+      "Malignant hypertension",
+      "Benign nephrosclerosis",
+      "Chronic pyelonephritis",
+      "Ischaemic nephropathy"
+    ],
+    "correct": 1,
+    "explanation": "Benign nephrosclerosis is the renal manifestation of longstanding benign hypertension. Hyaline arteriolosclerosis (plasma protein deposition in arteriolar walls) reduces glomerular perfusion, causing ischaemic global glomerulosclerosis and tubular atrophy. The result is bilaterally shrunken, finely granular kidneys with preserved corticomedullary differentiation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
   }
 ]
