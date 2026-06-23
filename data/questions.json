@@ -5204,5 +5204,90 @@
     "explanation": "ACTH-secreting pituitary adenoma (Cushing disease) accounts for ~70% of endogenous Cushing syndrome. Excess ACTH drives bilateral adrenal hyperplasia and cortisol overproduction. It is distinguished from ectopic ACTH (usually small cell lung cancer) by high-dose dexamethasone suppression (suppresses pituitary, not ectopic sources) and inferior petrosal sinus sampling.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441983/"
+  },
+  {
+    "id": 309,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Which bone tumour characteristically shows a 'sunburst' pattern on X-ray and affects the metaphysis of long bones in adolescents?",
+    "options": [
+      "Ewing sarcoma",
+      "Osteosarcoma",
+      "Giant cell tumour",
+      "Chondrosarcoma"
+    ],
+    "correct": 1,
+    "explanation": "Osteosarcoma is the most common primary malignant bone tumour in adolescents. It arises in the metaphysis (distal femur, proximal tibia) and produces osteoid. Radiological features include a sunburst pattern (periosteal new bone) and Codman triangle (elevated periosteum). RB1 and TP53 mutations are implicated.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 26: Bones, Joints, and Soft Tissue Tumours",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549868/"
+  },
+  {
+    "id": 310,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Ewing sarcoma is characterised by which translocation?",
+    "options": [
+      "t(11;22) EWS-FLI1",
+      "t(9;22) BCR-ABL",
+      "t(8;14) MYC-IgH",
+      "t(11;14) CCND1-IgH"
+    ],
+    "correct": 0,
+    "explanation": "Ewing sarcoma carries t(11;22)(q24;q12), fusing EWS with FLI1 (an ETS transcription factor) in ~85% of cases. It presents in the diaphysis of long bones in children/adolescents with an 'onion-skin' periosteal reaction. Histology shows sheets of small round blue cells with PAS-positive glycogen.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 26: Bones, Joints, and Soft Tissue Tumours",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549868/"
+  },
+  {
+    "id": 311,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "clinical",
+    "question": "A 60-year-old woman with rheumatoid arthritis has symmetrical joint destruction, pannus formation, and ulnar deviation. The pannus is composed of:",
+    "options": [
+      "Urate crystal deposits",
+      "Fibrocartilage overgrowth",
+      "Hyperplastic synovial tissue with macrophages and fibroblasts",
+      "Dense neutrophilic exudate"
+    ],
+    "correct": 2,
+    "explanation": "Pannus in rheumatoid arthritis is hyperplastic, invasive synovial tissue composed of proliferating synoviocytes, macrophages, and fibroblasts driven by TNF-\u03b1 and IL-1. It erodes cartilage and subchondral bone via proteases and RANKL-mediated osteoclast activation, causing the characteristic joint destruction.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 26: Bones, Joints, and Soft Tissue Tumours",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441987/"
+  },
+  {
+    "id": 312,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Gout results from deposition of which crystals, and what is their appearance under polarised light microscopy?",
+    "options": [
+      "Calcium pyrophosphate; weakly positive birefringence",
+      "Monosodium urate; needle-shaped, strongly negative birefringence",
+      "Calcium oxalate; envelope-shaped, positive birefringence",
+      "Hydroxyapatite; non-birefringent"
+    ],
+    "correct": 1,
+    "explanation": "Gout results from monosodium urate (MSU) crystal deposition due to hyperuricaemia. MSU crystals are needle-shaped and show strongly negative birefringence (yellow parallel, blue perpendicular to the slow vibration axis) under compensated polarised light. Calcium pyrophosphate crystals (pseudogout) are rhomboid with weakly positive birefringence.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 26: Bones, Joints, and Soft Tissue Tumours",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441895/"
+  },
+  {
+    "id": 313,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Psoriasis is characterised by which histological findings?",
+    "options": [
+      "Spongiosis and intraepidermal vesicles",
+      "Acanthosis, parakeratosis, Munro microabscesses, and suprapapillary thinning",
+      "Subepidermal blistering with IgG deposits",
+      "Lichenoid interface dermatitis"
+    ],
+    "correct": 1,
+    "explanation": "Psoriasis shows regular epidermal acanthosis (thickening), parakeratosis (retained nuclei in stratum corneum), collections of neutrophils in the stratum corneum (Munro microabscesses), and thinning of the suprapapillary plate with dilated dermal papillary vessels \u2014 explaining the Auspitz sign (pinpoint bleeding on scale removal).",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 25: The Skin",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559260/"
   }
 ]
