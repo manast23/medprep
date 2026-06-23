@@ -5068,5 +5068,141 @@
     "explanation": "Invasive ductal carcinoma (no special type, NST) is the most common invasive breast cancer (~75%). It forms a hard, stellate mass (scirrhous carcinoma) due to desmoplastic stromal reaction \u2014 causing the characteristic skin dimpling (Cooper ligament tethering) and nipple retraction. Invasive lobular carcinoma grows in single-file cords and is associated with E-cadherin loss.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 23: The Breast",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459439/"
+  },
+  {
+    "id": 301,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "factual",
+    "question": "Hashimoto thyroiditis is characterised by which immune mechanism?",
+    "options": [
+      "Type II hypersensitivity via anti-TSH receptor antibodies",
+      "CD8+ T-cell and autoantibody-mediated thyroid destruction",
+      "Type I hypersensitivity with IgE-mediated mast cell activation",
+      "Immune complex deposition in thyroid follicles"
+    ],
+    "correct": 1,
+    "explanation": "Hashimoto thyroiditis involves CD8+ cytotoxic T-cell destruction of follicular cells combined with autoantibodies against thyroid peroxidase (anti-TPO) and thyroglobulin (anti-Tg). Histology shows lymphocytic infiltration with germinal centre formation and Hurthle cell (oxyphilic) metaplasia. It is the most common cause of hypothyroidism in iodine-sufficient regions.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+  },
+  {
+    "id": 302,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "factual",
+    "question": "Graves disease causes hyperthyroidism via which mechanism?",
+    "options": [
+      "Thyroid-stimulating immunoglobulins (TSI) activating TSH receptors",
+      "Destruction of follicular cells releasing stored T3/T4",
+      "Ectopic TSH secretion by a pituitary adenoma",
+      "Autoantibodies blocking thyroid peroxidase"
+    ],
+    "correct": 0,
+    "explanation": "Graves disease is caused by thyroid-stimulating immunoglobulins (TSI) \u2014 IgG autoantibodies that bind and chronically activate TSH receptors, driving unregulated thyroid hormone synthesis. It is the most common cause of hyperthyroidism and uniquely presents with diffuse goitre, exophthalmos, and pretibial myxoedema.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+  },
+  {
+    "id": 303,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "factual",
+    "question": "Which thyroid carcinoma is characterised by 'Orphan Annie eye' nuclei and psammoma bodies?",
+    "options": [
+      "Follicular carcinoma",
+      "Medullary carcinoma",
+      "Papillary carcinoma",
+      "Anaplastic carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "Papillary thyroid carcinoma (PTC) \u2014 the most common thyroid malignancy \u2014 shows diagnostic nuclear features: ground-glass 'Orphan Annie eye' nuclei, nuclear grooves, and pseudoinclusions. Psammoma bodies (concentric calcifications) are characteristic. PTC spreads via lymphatics and has an excellent prognosis. BRAF V600E mutation is the most common molecular alteration.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+  },
+  {
+    "id": 304,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "factual",
+    "question": "Medullary thyroid carcinoma arises from which cell type and secretes which tumour marker?",
+    "options": [
+      "Follicular cells; thyroglobulin",
+      "Parafollicular C cells; calcitonin",
+      "Hurthle cells; thyroid peroxidase",
+      "Chief cells; PTH"
+    ],
+    "correct": 1,
+    "explanation": "Medullary thyroid carcinoma (MTC) arises from parafollicular C cells and secretes calcitonin \u2014 used as a diagnostic and surveillance marker. Amyloid deposits derived from procalcitonin are present in the stroma. RET proto-oncogene mutations drive hereditary MTC (MEN2A, MEN2B).",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+  },
+  {
+    "id": 305,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "clinical",
+    "question": "A 40-year-old man has hypertension, hypokalaemia, and suppressed plasma renin. CT shows a 2 cm left adrenal adenoma. The diagnosis is:",
+    "options": [
+      "Phaeochromocytoma",
+      "Cushing syndrome",
+      "Primary hyperaldosteronism (Conn syndrome)",
+      "Adrenal cortical carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "Conn syndrome (primary hyperaldosteronism) is caused by autonomous aldosterone secretion \u2014 most commonly from a unilateral adrenal adenoma. Aldosterone causes sodium retention, hypertension, hypokalaemia, and suppression of renin (via negative feedback). It is the most common cause of secondary hypertension.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441983/"
+  },
+  {
+    "id": 306,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "factual",
+    "question": "Phaeochromocytoma follows the 'rule of 10s' \u2014 10% are bilateral, 10% are extra-adrenal, and 10% are:",
+    "options": [
+      "Associated with MEN1",
+      "Malignant",
+      "Non-functional",
+      "Associated with Graves disease"
+    ],
+    "correct": 1,
+    "explanation": "The classic rule of 10s for phaeochromocytoma: 10% bilateral, 10% extra-adrenal (paraganglioma), 10% malignant, 10% in children, and 10% familial (associated with MEN2, VHL, NF1, SDH mutations). It secretes catecholamines causing episodic hypertension, headache, palpitations, and sweating. Diagnosis uses urinary metanephrines.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482282/"
+  },
+  {
+    "id": 307,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "factual",
+    "question": "MEN1 syndrome is caused by mutation in the MEN1 gene and classically involves tumours of which three organs?",
+    "options": [
+      "Parathyroid, anterior pituitary, pancreatic islets",
+      "Thyroid, adrenal medulla, parathyroid",
+      "Parathyroid, adrenal cortex, pituitary",
+      "Pancreas, thyroid, adrenal medulla"
+    ],
+    "correct": 0,
+    "explanation": "MEN1 (Wermer syndrome) is caused by germline MEN1 (menin) mutation and involves: parathyroid hyperplasia/adenoma (hyperparathyroidism \u2014 most common, >90%), pancreatic endocrine tumours (gastrinoma/Zollinger-Ellison most common), and anterior pituitary adenomas (prolactinoma most common). MEN2A involves thyroid (MTC), adrenal (phaeochromocytoma), and parathyroid.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537339/"
+  },
+  {
+    "id": 308,
+    "subject": "Pathology",
+    "subtopic": "Endocrine Pathology",
+    "type": "clinical",
+    "question": "A 35-year-old woman has central obesity, moon face, purple striae, and hypertension. 24-hour urine cortisol is elevated; low-dose dexamethasone suppression test is non-suppressive. The most common cause of endogenous Cushing syndrome is:",
+    "options": [
+      "Adrenal cortical adenoma",
+      "Ectopic ACTH secretion",
+      "ACTH-secreting pituitary adenoma (Cushing disease)",
+      "Adrenal cortical carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "ACTH-secreting pituitary adenoma (Cushing disease) accounts for ~70% of endogenous Cushing syndrome. Excess ACTH drives bilateral adrenal hyperplasia and cortisol overproduction. It is distinguished from ectopic ACTH (usually small cell lung cancer) by high-dose dexamethasone suppression (suppresses pituitary, not ectopic sources) and inferior petrosal sinus sampling.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441983/"
   }
 ]
