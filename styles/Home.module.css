@@ -145,7 +145,7 @@
 
 .sectionSubtitle { font-size: 15px; color: var(--text-muted); margin-top: 16px; }
 
-.subjectGrid { display: grid; grid-template-columns: repeat(2,1fr) 260px; gap: 24px; }
+.subjectGrid { display: grid; grid-template-columns: repeat(3,1fr); gap: 24px; }
 
 .subjectCard {
   background: var(--bg-card);
