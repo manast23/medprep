@@ -4932,5 +4932,141 @@
     "explanation": "Benign nephrosclerosis is the renal manifestation of longstanding benign hypertension. Hyaline arteriolosclerosis (plasma protein deposition in arteriolar walls) reduces glomerular perfusion, causing ischaemic global glomerulosclerosis and tubular atrophy. The result is bilaterally shrunken, finely granular kidneys with preserved corticomedullary differentiation.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 20: The Kidney",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 293,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "factual",
+    "question": "Cervical squamous cell carcinoma is most strongly associated with infection by which pathogen?",
+    "options": [
+      "HSV-2",
+      "HPV 16 and 18",
+      "Chlamydia trachomatis",
+      "Trichomonas vaginalis"
+    ],
+    "correct": 1,
+    "explanation": "HPV 16 and 18 (high-risk serotypes) are responsible for ~70% of cervical cancers. E6 protein degrades p53; E7 inactivates Rb \u2014 together driving uncontrolled cell proliferation. Infection occurs at the squamocolumnar transformation zone. Cervical cytology (Pap smear) and HPV vaccination are the cornerstones of prevention.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 22: The Female Genital Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441946/"
+  },
+  {
+    "id": 294,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "factual",
+    "question": "Endometrial carcinoma (Type I) is most strongly associated with which hormonal state?",
+    "options": [
+      "Hypoestrogenism",
+      "Unopposed oestrogen excess",
+      "Progesterone excess",
+      "Androgen excess"
+    ],
+    "correct": 1,
+    "explanation": "Type I endometrial carcinoma (endometrioid, ~80%) is driven by unopposed oestrogen stimulation causing endometrial hyperplasia progressing to carcinoma. Risk factors include obesity, anovulation, oestrogen-only HRT, and tamoxifen. PTEN mutation is the most common molecular alteration. Type II (serous, clear cell) is oestrogen-independent.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 22: The Female Genital Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441946/"
+  },
+  {
+    "id": 295,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "clinical",
+    "question": "A 30-year-old woman has dysmenorrhoea, dyspareunia, and an adnexal mass. Laparoscopy reveals chocolate-coloured cysts on the ovaries and peritoneum. The diagnosis is:",
+    "options": [
+      "Polycystic ovary syndrome",
+      "Endometriosis",
+      "Ovarian teratoma",
+      "Pelvic inflammatory disease"
+    ],
+    "correct": 1,
+    "explanation": "Endometriosis is the presence of endometrial glands and stroma outside the uterus. Ovarian involvement produces endometriomas (chocolate cysts) filled with old haemorrhagic fluid. The retrograde menstruation theory (Sampson) is the most accepted pathogenesis. Complications include infertility, adhesions, and a small increased risk of ovarian carcinoma.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 22: The Female Genital Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK279Brother/"
+  },
+  {
+    "id": 296,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "factual",
+    "question": "The most common ovarian tumour overall is:",
+    "options": [
+      "Serous cystadenoma",
+      "Mucinous cystadenoma",
+      "Dermoid cyst (mature cystic teratoma)",
+      "Granulosa cell tumour"
+    ],
+    "correct": 2,
+    "explanation": "Mature cystic teratoma (dermoid cyst) is the most common ovarian tumour overall and the most common in women under 30. It is a benign germ cell tumour containing well-differentiated tissues from all three germ layers \u2014 most commonly ectodermal (hair, sebaceous glands, teeth). Malignant transformation to squamous cell carcinoma occurs in <2%.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 22: The Female Genital Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441946/"
+  },
+  {
+    "id": 297,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "factual",
+    "question": "Serous cystadenocarcinoma of the ovary is associated with mutation of which gene in hereditary cases?",
+    "options": [
+      "TP53",
+      "BRCA1 and BRCA2",
+      "KRAS",
+      "MLH1"
+    ],
+    "correct": 1,
+    "explanation": "Hereditary ovarian carcinoma is predominantly caused by germline BRCA1 (chromosome 17q) and BRCA2 (chromosome 13q) mutations, accounting for ~15% of all ovarian cancers. High-grade serous carcinoma is the most common subtype; TP53 mutations are nearly universal in sporadic high-grade serous tumours but BRCA mutations drive the hereditary form.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 22: The Female Genital Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441946/"
+  },
+  {
+    "id": 298,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "factual",
+    "question": "The most common benign breast tumour in women under 35 is:",
+    "options": [
+      "Phyllodes tumour",
+      "Intraductal papilloma",
+      "Fibroadenoma",
+      "Sclerosing adenosis"
+    ],
+    "correct": 2,
+    "explanation": "Fibroadenoma is the most common benign breast tumour in young women. It is a well-circumscribed, mobile, rubbery lesion composed of proliferating fibroblasts and epithelial elements. It is oestrogen-sensitive (enlarges in pregnancy, regresses after menopause) and carries minimal malignant potential.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 23: The Breast",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459439/"
+  },
+  {
+    "id": 299,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "factual",
+    "question": "HER2 (ERBB2) gene amplification in breast carcinoma is associated with:",
+    "options": [
+      "Better prognosis and response to tamoxifen",
+      "Poorer prognosis and targetable by trastuzumab",
+      "Excellent prognosis regardless of treatment",
+      "Responsiveness to aromatase inhibitors only"
+    ],
+    "correct": 1,
+    "explanation": "HER2 amplification/overexpression occurs in ~20% of breast cancers and is associated with aggressive behaviour and poorer prognosis. However, it is a therapeutic target \u2014 trastuzumab (Herceptin), a monoclonal antibody against HER2, significantly improves outcomes. HER2+ tumours are not ER/PR-driven and do not respond to tamoxifen.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 23: The Breast",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459439/"
+  },
+  {
+    "id": 300,
+    "subject": "Pathology",
+    "subtopic": "Female Genital & Breast Pathology",
+    "type": "clinical",
+    "question": "A 55-year-old woman presents with a hard, irregular breast lump with skin dimpling and nipple retraction. Biopsy shows malignant cells arranged in cords within a dense fibrous stroma. The diagnosis is:",
+    "options": [
+      "Lobular carcinoma in situ",
+      "Invasive ductal carcinoma (NST)",
+      "Invasive lobular carcinoma",
+      "Medullary carcinoma"
+    ],
+    "correct": 1,
+    "explanation": "Invasive ductal carcinoma (no special type, NST) is the most common invasive breast cancer (~75%). It forms a hard, stellate mass (scirrhous carcinoma) due to desmoplastic stromal reaction \u2014 causing the characteristic skin dimpling (Cooper ligament tethering) and nipple retraction. Invasive lobular carcinoma grows in single-file cords and is associated with E-cadherin loss.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 23: The Breast",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459439/"
   }
 ]
