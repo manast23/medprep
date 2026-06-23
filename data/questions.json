@@ -4388,5 +4388,175 @@
     "explanation": "Myeloma cells and stromal cells produce RANKL (receptor activator of NF-\u03baB ligand) and suppress osteoprotegerin (OPG), tipping the balance toward osteoclast activation. Osteoclast-mediated bone resorption causes lytic lesions, hypercalcaemia, and pathological fractures. DKK-1 secreted by myeloma cells also suppresses osteoblast activity, further impairing bone repair.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547601/"
+  },
+  {
+    "id": 261,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "Which cell type is responsible for surfactant production in the lung?",
+    "options": [
+      "Type I pneumocytes",
+      "Type II pneumocytes",
+      "Clara cells",
+      "Alveolar macrophages"
+    ],
+    "correct": 1,
+    "explanation": "Type II pneumocytes produce surfactant (dipalmitoylphosphatidylcholine), which reduces alveolar surface tension and prevents collapse. They also serve as progenitors for Type I pneumocytes after injury. Deficiency of surfactant in premature infants causes neonatal respiratory distress syndrome (hyaline membrane disease).",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537310/"
+  },
+  {
+    "id": 262,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "Centriacinar emphysema is most strongly associated with:",
+    "options": [
+      "Alpha-1 antitrypsin deficiency",
+      "Cigarette smoking",
+      "Intravenous drug use",
+      "Coal worker's pneumoconiosis"
+    ],
+    "correct": 1,
+    "explanation": "Centriacinar (centrilobular) emphysema predominantly affects the respiratory bronchioles in the upper lobes and is strongly associated with cigarette smoking. Panacinar emphysema affecting the entire acinus and predominantly involving the lower lobes is characteristic of alpha-1 antitrypsin deficiency.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482217/"
+  },
+  {
+    "id": 263,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "clinical",
+    "question": "A 55-year-old non-smoker with alpha-1 antitrypsin deficiency presents with progressive dyspnoea. Spirometry shows decreased FEV1/FVC. CT shows lower lobe-predominant emphysema. Which mechanism explains the lung destruction?",
+    "options": [
+      "Excess mucus production blocking airways",
+      "Unopposed neutrophil elastase degrading alveolar walls",
+      "Fibrosis obliterating alveolar spaces",
+      "Vascular remodelling causing air trapping"
+    ],
+    "correct": 1,
+    "explanation": "Alpha-1 antitrypsin (AAT) is the main inhibitor of neutrophil elastase. AAT deficiency allows unopposed elastase activity, destroying alveolar walls and causing panacinar emphysema. The lower lobe predominance reflects greater perfusion and neutrophil traffic. The same mechanism in smokers is accelerated because cigarette smoke both recruits neutrophils and oxidatively inactivates AAT.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482217/"
+  },
+  {
+    "id": 264,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "Lobar pneumonia progresses through four stages. Which stage is characterised by a firm, airless, red lung with alveoli packed with red cells and fibrin?",
+    "options": [
+      "Congestion",
+      "Red hepatisation",
+      "Grey hepatisation",
+      "Resolution"
+    ],
+    "correct": 1,
+    "explanation": "Red hepatisation (days 2\u20133) is characterised by massive exudation of red cells, fibrin, and neutrophils into alveoli, making the lung firm and liver-like (hepatised) in texture with a red colour. Grey hepatisation follows (days 4\u20136) as red cells lyse and fibrin persists with macrophages. Resolution restores normal architecture.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534781/"
+  },
+  {
+    "id": 265,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "Which pneumonia pattern shows inflammation confined to the alveolar walls with preserved alveolar spaces, typically caused by atypical organisms?",
+    "options": [
+      "Lobar pneumonia",
+      "Bronchopneumonia",
+      "Interstitial pneumonia",
+      "Aspiration pneumonia"
+    ],
+    "correct": 2,
+    "explanation": "Interstitial (atypical) pneumonia shows inflammation within alveolar walls and interstitium rather than the airspaces \u2014 giving a 'walking pneumonia' presentation with relatively mild symptoms despite widespread infiltrates. Causative agents include Mycoplasma pneumoniae, viruses (influenza, RSV, CMV), and Chlamydophila. Alveolar spaces remain largely clear.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534781/"
+  },
+  {
+    "id": 266,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "The most common primary lung cancer in non-smokers and the most common lung cancer overall is:",
+    "options": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "Adenocarcinoma is the most common lung cancer overall and the most common type in non-smokers and women. It arises peripherally from bronchial mucosal glands, often with EGFR, ALK, or KRAS mutations. Squamous cell carcinoma is most strongly linked to smoking and arises centrally. Small cell carcinoma is the most aggressive, nearly always smoking-related, and centrally located.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482357/"
+  },
+  {
+    "id": 267,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "clinical",
+    "question": "A 60-year-old male smoker presents with haemoptysis, obstructive pneumonia, and a central hilar mass. Biopsy shows keratinisation and intercellular bridges. The diagnosis is:",
+    "options": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Carcinoid tumour"
+    ],
+    "correct": 2,
+    "explanation": "Squamous cell carcinoma arises centrally from bronchial epithelium via squamous metaplasia \u2192 dysplasia \u2192 carcinoma. Histological hallmarks are keratin pearls and intercellular bridges. It is strongly associated with smoking, most commonly causes haemoptysis and obstructive complications, and may produce PTHrP causing hypercalcaemia.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482357/"
+  },
+  {
+    "id": 268,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "Small cell lung carcinoma (SCLC) is derived from which cell type?",
+    "options": [
+      "Type II pneumocytes",
+      "Bronchial squamous cells",
+      "Kulchitsky (neuroendocrine) cells",
+      "Bronchial mucous gland cells"
+    ],
+    "correct": 2,
+    "explanation": "SCLC arises from Kulchitsky cells \u2014 neuroendocrine cells of the bronchial epithelium \u2014 and exhibits neuroendocrine differentiation (neurosecretory granules, expression of synaptophysin, chromogranin, NSE). This explains its paraneoplastic syndromes: SIADH (ectopic ADH), Cushing syndrome (ectopic ACTH), and Lambert-Eaton myasthenic syndrome.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482357/"
+  },
+  {
+    "id": 269,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "factual",
+    "question": "Mesothelioma of the pleura is most strongly associated with exposure to which substance?",
+    "options": [
+      "Silica",
+      "Coal dust",
+      "Asbestos",
+      "Beryllium"
+    ],
+    "correct": 2,
+    "explanation": "Malignant mesothelioma has a near-exclusive association with asbestos exposure, with a latency period of 25\u201345 years. Amphibole fibres (crocidolite) are more carcinogenic than serpentine (chrysotile). Microscopically, mesothelioma shows biphasic (epithelioid and sarcomatoid) patterns; it is positive for calretinin, WT-1, and CK5/6, and negative for CEA and TTF-1.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482357/"
+  },
+  {
+    "id": 270,
+    "subject": "Pathology",
+    "subtopic": "Respiratory Pathology",
+    "type": "clinical",
+    "question": "A 45-year-old construction worker develops progressive exertional dyspnoea and a pleural effusion. CT shows pleural thickening and nodularity. Pleural biopsy is positive for calretinin and WT-1. The most likely diagnosis is:",
+    "options": [
+      "Metastatic adenocarcinoma",
+      "Primary lung adenocarcinoma invading pleura",
+      "Malignant pleural mesothelioma",
+      "Fibrous pleurisy"
+    ],
+    "correct": 2,
+    "explanation": "Calretinin and WT-1 positivity with CK5/6 is the immunohistochemical signature of mesothelioma, distinguishing it from metastatic adenocarcinoma (CEA+, TTF-1+, calretinin\u2212). The occupational history of construction work (asbestos exposure) and pleural-based disease strongly support mesothelioma. Median survival is 12\u201318 months.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482357/"
   }
 ]
