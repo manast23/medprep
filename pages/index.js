@@ -34,7 +34,7 @@ const SUBJECTS = [
     title: 'Pathology',
     references: "Robbins & Cotran Pathologic Basis of Disease",
     description: 'Cell injury, inflammation, neoplasia, and organ-system disease — from general principles to clinical pathological correlations.',
-    image: '/physiology.jpg',
+    image: '/pathology.jpg',
   },
 ]
 
