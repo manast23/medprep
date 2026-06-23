@@ -29,9 +29,16 @@ const SUBJECTS = [
     description: 'Deep dive into homeostatic mechanisms, cellular signaling, and systemic function with clinical case integration.',
     image: '/physiology.jpg',
   },
+  {
+    key: 'Pathology',
+    title: 'Pathology',
+    references: "Robbins & Cotran Pathologic Basis of Disease",
+    description: 'Cell injury, inflammation, neoplasia, and organ-system disease — from general principles to clinical pathological correlations.',
+    image: '/physiology.jpg',
+  },
 ]
 
-const COMING_SOON = ['Pathology', 'Pharmacology', 'Microbiology']
+const COMING_SOON = ['Pharmacology', 'Microbiology']
 const QUESTION_TYPES = [
   { key: 'All', label: 'All Types' },
   { key: 'factual', label: 'Factual' },
