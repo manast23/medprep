@@ -3640,5 +3640,345 @@
     "explanation": "Testosterone suppresses the HPG axis largely via aromatisation to oestradiol in the hypothalamus and pituitary. Oestradiol is the dominant inhibitor of GnRH pulsatility and LH secretion in males. Testosterone also has some direct androgen receptor-mediated suppression, but oestradiol conversion is the primary mechanism \u2014 explaining why aromatase inhibitors increase LH and testosterone in men.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. \u2014 Chapter 81, Male Reproductive Physiology",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK279031/"
+  },
+  {
+    "id": 217,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which of the following best describes reversible cell injury?",
+    "options": [
+      "Nuclear pyknosis",
+      "Plasma membrane blebbing",
+      "Karyolysis",
+      "Myelin figures in mitochondria"
+    ],
+    "correct": 1,
+    "explanation": "Reversible cell injury is characterized by plasma membrane blebbing, cellular swelling, and ER dilation. These changes are reversible if the injurious stimulus is removed. Nuclear changes (pyknosis, karyorrhexis, karyolysis) and myelin figures in mitochondria indicate irreversible injury or cell death.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557781/"
+  },
+  {
+    "id": 218,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "clinical",
+    "question": "A 65-year-old man with chronic alcoholism develops fatty change in his liver. Which mechanism best explains hepatic steatosis in this setting?",
+    "options": [
+      "Increased fatty acid synthesis and decreased export as VLDL",
+      "Decreased fatty acid uptake from portal circulation",
+      "Increased beta-oxidation of fatty acids",
+      "Decreased triglyceride synthesis"
+    ],
+    "correct": 0,
+    "explanation": "Alcohol impairs hepatocyte function by increasing fatty acid synthesis, inhibiting beta-oxidation, and decreasing apolipoprotein synthesis \u2014 which is required for VLDL assembly. The net result is accumulation of triglycerides as lipid droplets within hepatocytes (steatosis).",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
+  },
+  {
+    "id": 219,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Coagulative necrosis is the hallmark of infarction in most organs EXCEPT:",
+    "options": [
+      "Kidney",
+      "Heart",
+      "Brain",
+      "Spleen"
+    ],
+    "correct": 2,
+    "explanation": "Coagulative necrosis occurs in most solid organs (heart, kidney, spleen) following ischemic infarction \u2014 cell outlines are preserved due to protein denaturation. The brain is the exception: ischemic brain infarcts undergo liquefactive necrosis because the CNS is rich in lipids and proteolytic enzymes, leading to dissolution of tissue.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557790/"
+  },
+  {
+    "id": 220,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which type of necrosis is characteristically seen in tuberculosis?",
+    "options": [
+      "Coagulative",
+      "Liquefactive",
+      "Caseous",
+      "Fat necrosis"
+    ],
+    "correct": 2,
+    "explanation": "Caseous necrosis is the hallmark of tuberculosis and other granulomatous infections. Grossly it appears cheese-like (Latin: caseus); microscopically it shows amorphous eosinophilic debris without preserved cell outlines, surrounded by a granulomatous inflammatory reaction with Langhans giant cells.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.statpearls.com/articlemix/NBK557790/"
+  },
+  {
+    "id": 221,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "clinical",
+    "question": "A 45-year-old woman with acute pancreatitis develops chalky white deposits in the peripancreatic fat. What is the underlying mechanism?",
+    "options": [
+      "Coagulative necrosis of adipocytes",
+      "Saponification of fatty acids by calcium",
+      "Liquefactive necrosis with abscess formation",
+      "Caseous necrosis from enzymatic release"
+    ],
+    "correct": 1,
+    "explanation": "Fat necrosis in acute pancreatitis results from release of pancreatic lipases that digest peripancreatic fat. Free fatty acids released from triglycerides bind calcium ions to form calcium soaps (saponification), producing the characteristic chalky-white deposits seen grossly and microscopically.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557790/"
+  },
+  {
+    "id": 222,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which of the following is a feature of apoptosis, distinguishing it from necrosis?",
+    "options": [
+      "Cell swelling",
+      "Plasma membrane rupture",
+      "Inflammation of surrounding tissue",
+      "Cell shrinkage with chromatin condensation"
+    ],
+    "correct": 3,
+    "explanation": "Apoptosis is characterized by cell shrinkage, chromatin condensation (pyknosis), nuclear fragmentation (karyorrhexis), and formation of apoptotic bodies \u2014 all without membrane rupture or inflammatory response. Necrosis involves cell swelling, membrane disruption, and release of cellular contents that trigger inflammation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK27361/"
+  },
+  {
+    "id": 223,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "The intrinsic (mitochondrial) pathway of apoptosis is regulated primarily by which protein family?",
+    "options": [
+      "Caspase-8 and caspase-9",
+      "BCL-2 family proteins",
+      "TNF receptor-associated proteins",
+      "Fas ligand and Fas receptor"
+    ],
+    "correct": 1,
+    "explanation": "The intrinsic pathway is regulated by the BCL-2 family. Pro-apoptotic members (BAX, BAK) promote mitochondrial outer membrane permeabilization, releasing cytochrome c. Anti-apoptotic members (BCL-2, BCL-XL) inhibit this. Cytochrome c forms the apoptosome with APAF-1, activating caspase-9 and the caspase cascade.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK27361/"
+  },
+  {
+    "id": 224,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which cellular adaptation is characterized by replacement of one differentiated cell type by another?",
+    "options": [
+      "Hypertrophy",
+      "Hyperplasia",
+      "Metaplasia",
+      "Dysplasia"
+    ],
+    "correct": 2,
+    "explanation": "Metaplasia is the reversible replacement of one differentiated cell type by another. Classic examples include Barrett esophagus (squamous \u2192 columnar), respiratory tract changes in smokers (ciliated columnar \u2192 squamous), and bladder changes in schistosomiasis. Metaplasia reflects reprogramming of stem cells in response to persistent injury.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553175/"
+  },
+  {
+    "id": 225,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "clinical",
+    "question": "A 55-year-old smoker undergoes bronchoscopy, and biopsy of the bronchial mucosa shows squamous cells replacing the normal ciliated columnar epithelium. This change is best classified as:",
+    "options": [
+      "Dysplasia",
+      "Squamous metaplasia",
+      "Squamous carcinoma in situ",
+      "Hyperplasia"
+    ],
+    "correct": 1,
+    "explanation": "This is squamous metaplasia \u2014 a reversible adaptive response to chronic irritation from cigarette smoke. The normal pseudostratified ciliated columnar epithelium is replaced by squamous epithelium. While not malignant, persistent metaplasia can progress to dysplasia and ultimately squamous cell carcinoma if the irritant is not removed.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553175/"
+  },
+  {
+    "id": 226,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Free radical injury to cells is countered by which endogenous enzyme system?",
+    "options": [
+      "Xanthine oxidase",
+      "Superoxide dismutase",
+      "NADPH oxidase",
+      "Myeloperoxidase"
+    ],
+    "correct": 1,
+    "explanation": "Superoxide dismutase (SOD) converts superoxide (O\u2082\u207b) to H\u2082O\u2082, which is then degraded by catalase and glutathione peroxidase. This system constitutes the primary endogenous defense against reactive oxygen species (ROS). NADPH oxidase and xanthine oxidase generate ROS; myeloperoxidase produces hypochlorous acid for microbial killing.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 2: Cell Injury, Cell Death, and Adaptations",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
+  },
+  {
+    "id": 227,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which chemical mediator is the most important endogenous pyrogen?",
+    "options": [
+      "IL-6",
+      "TNF-\u03b1",
+      "IL-1\u03b2",
+      "IL-12"
+    ],
+    "correct": 2,
+    "explanation": "IL-1\u03b2 (along with TNF-\u03b1 and IL-6) acts as an endogenous pyrogen. IL-1\u03b2 acts on the hypothalamus to induce COX-2, increasing prostaglandin E\u2082 (PGE\u2082), which raises the thermoregulatory set point. IL-1\u03b2 is considered the primary endogenous pyrogen, explaining why NSAIDs (which block COX-2) reduce fever.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441886/"
+  },
+  {
+    "id": 228,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which complement component has the greatest opsonizing activity?",
+    "options": [
+      "C1q",
+      "C3b",
+      "C5a",
+      "C4b"
+    ],
+    "correct": 1,
+    "explanation": "C3b is the principal opsonin of the complement system. It covalently coats microorganisms and is recognized by complement receptor 1 (CR1/CD35) on phagocytes, greatly enhancing phagocytosis. C5a is a potent chemotactic agent and anaphylatoxin. C4b also has opsonizing activity but is less potent than C3b.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459254/"
+  },
+  {
+    "id": 229,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "clinical",
+    "question": "A 30-year-old woman presents with recurrent episodes of angioedema without urticaria. C4 levels are low between attacks. Which complement pathway deficiency best explains this?",
+    "options": [
+      "C3 deficiency",
+      "C1 inhibitor deficiency",
+      "Factor D deficiency",
+      "C5-C9 deficiency"
+    ],
+    "correct": 1,
+    "explanation": "Hereditary angioedema is caused by C1 inhibitor (C1-INH) deficiency. C1-INH normally inhibits C1r/C1s as well as kallikrein and factor XIIa. Deficiency leads to uncontrolled classical pathway activation, complement consumption, and bradykinin accumulation \u2014 causing episodic angioedema. Low C4 between attacks is a diagnostic clue.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 5: Diseases of the Immune System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459254/"
+  },
+  {
+    "id": 230,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which cell type is the hallmark of chronic inflammation?",
+    "options": [
+      "Neutrophil",
+      "Eosinophil",
+      "Macrophage",
+      "Mast cell"
+    ],
+    "correct": 2,
+    "explanation": "Macrophages are the central effector cells of chronic inflammation. They are activated by T-cell-derived cytokines (IFN-\u03b3) and PAMPs, and in turn secrete proteases, ROS, NO, and cytokines that perpetuate tissue injury. They also present antigens and can fuse to form multinucleated giant cells in granulomatous inflammation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441886/"
+  },
+  {
+    "id": 231,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Granuloma formation requires which cytokine as the key stimulus for macrophage activation?",
+    "options": [
+      "IL-4",
+      "IL-10",
+      "IFN-\u03b3",
+      "TGF-\u03b2"
+    ],
+    "correct": 2,
+    "explanation": "IFN-\u03b3, produced by CD4+ Th1 cells and NK cells, is the principal activator of macrophages in granulomatous inflammation. It transforms macrophages into epithelioid cells and stimulates their fusion into Langhans giant cells. TGF-\u03b2 promotes fibrosis and resolution; IL-4 drives Th2 responses; IL-10 is anti-inflammatory.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441886/"
+  },
+  {
+    "id": 232,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Primary intention wound healing differs from secondary intention primarily in that it:",
+    "options": [
+      "Requires more granulation tissue",
+      "Involves wound contraction by myofibroblasts",
+      "Has apposed wound edges with minimal tissue loss",
+      "Results in a larger scar"
+    ],
+    "correct": 2,
+    "explanation": "Primary intention healing occurs when wound edges are closely apposed (e.g., surgical incision). It requires minimal granulation tissue, produces a thin scar, and heals rapidly. Secondary intention involves larger tissue defects with open wound edges, requiring extensive granulation tissue, significant wound contraction by myofibroblasts, and a larger resulting scar.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553033/"
+  },
+  {
+    "id": 233,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Which growth factor is most important for angiogenesis during wound healing?",
+    "options": [
+      "TGF-\u03b2",
+      "EGF",
+      "VEGF",
+      "PDGF"
+    ],
+    "correct": 2,
+    "explanation": "VEGF (Vascular Endothelial Growth Factor) is the primary stimulus for angiogenesis. It promotes endothelial cell proliferation, migration, and tube formation. It is induced by hypoxia via HIF-1\u03b1. TGF-\u03b2 drives fibrosis and ECM synthesis; PDGF recruits pericytes and smooth muscle cells; EGF promotes epithelial and fibroblast proliferation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553033/"
+  },
+  {
+    "id": 234,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "clinical",
+    "question": "A 70-year-old diabetic develops a non-healing leg ulcer. Biopsy shows abundant collagen but no new blood vessels. Which phase of wound healing is defective?",
+    "options": [
+      "Hemostasis",
+      "Inflammation",
+      "Granulation tissue formation",
+      "Remodeling"
+    ],
+    "correct": 2,
+    "explanation": "Granulation tissue formation \u2014 characterized by angiogenesis and fibroblast proliferation \u2014 is impaired in diabetic wounds. Diabetes causes reduced VEGF signaling, impaired macrophage function, and decreased growth factor production. The result is poor neovascularization and failure to form the vascularized granulation tissue necessary for wound closure.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 3: Inflammation and Repair",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553033/"
+  },
+  {
+    "id": 235,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "factual",
+    "question": "Amyloidosis is characterized by deposition of amyloid fibrils that stain with Congo red and show which finding under polarized light?",
+    "options": [
+      "Blue birefringence",
+      "Apple-green birefringence",
+      "Yellow-brown birefringence",
+      "Red birefringence"
+    ],
+    "correct": 1,
+    "explanation": "Amyloid deposits stain with Congo red and display characteristic apple-green birefringence under polarized light. This optical property results from the ordered cross-beta-pleated sheet configuration of amyloid fibrils. This Congo red birefringence is pathognomonic for amyloid and distinguishes it from other eosinophilic deposits.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 6: Diseases of the Immune System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470285/"
+  },
+  {
+    "id": 236,
+    "subject": "Pathology",
+    "subtopic": "General Pathology",
+    "type": "clinical",
+    "question": "A 60-year-old man with multiple myeloma develops proteinuria and cardiomegaly. Rectal biopsy shows Congo red-positive deposits with apple-green birefringence. The amyloid protein most likely deposited is:",
+    "options": [
+      "AA amyloid (serum amyloid A)",
+      "AL amyloid (immunoglobulin light chains)",
+      "ATTR amyloid (transthyretin)",
+      "A\u03b2 amyloid (amyloid precursor protein)"
+    ],
+    "correct": 1,
+    "explanation": "AL amyloidosis (primary amyloidosis) results from deposition of immunoglobulin light chains (usually lambda) produced by a plasma cell dyscrasia such as multiple myeloma. It commonly involves the heart (restrictive cardiomyopathy), kidney (nephrotic syndrome), tongue (macroglossia), and peripheral nerves. AA amyloidosis complicates chronic inflammatory conditions; ATTR affects the elderly and hereditary forms.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 6: Diseases of the Immune System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470285/"
   }
 ]
