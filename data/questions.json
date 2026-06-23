@@ -4558,5 +4558,209 @@
     "explanation": "Calretinin and WT-1 positivity with CK5/6 is the immunohistochemical signature of mesothelioma, distinguishing it from metastatic adenocarcinoma (CEA+, TTF-1+, calretinin\u2212). The occupational history of construction work (asbestos exposure) and pleural-based disease strongly support mesothelioma. Median survival is 12\u201318 months.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 15: The Lung",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482357/"
+  },
+  {
+    "id": 271,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Which type of oesophageal carcinoma is associated with Barrett's oesophagus?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Leiomyosarcoma"
+    ],
+    "correct": 1,
+    "explanation": "Barrett's oesophagus \u2014 intestinal metaplasia of the distal oesophageal squamous epithelium from chronic GERD \u2014 is the major risk factor for oesophageal adenocarcinoma. Squamous cell carcinoma arises in the upper/mid oesophagus and is associated with smoking, alcohol, and achalasia.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 17: The Gastrointestinal Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441938/"
+  },
+  {
+    "id": 272,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Helicobacter pylori infection most commonly produces which pattern of gastritis?",
+    "options": [
+      "Fundal (autoimmune) gastritis",
+      "Antral-predominant gastritis",
+      "Pan-gastritis with intestinal metaplasia",
+      "Chemical (reactive) gastritis"
+    ],
+    "correct": 1,
+    "explanation": "H. pylori colonises the antrum preferentially, producing antral-predominant chronic active gastritis. This pattern increases acid production and is associated with duodenal ulcers. Long-standing infection can progress to pangastritis, intestinal metaplasia, and gastric adenocarcinoma (intestinal type).",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 17: The Gastrointestinal Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534233/"
+  },
+  {
+    "id": 273,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "clinical",
+    "question": "A 55-year-old man with longstanding H. pylori infection undergoes endoscopy showing a gastric ulcer on the lesser curvature. Biopsy shows intestinal-type adenocarcinoma. The precursor sequence responsible is:",
+    "options": [
+      "Normal mucosa to dysplasia to carcinoma",
+      "Normal mucosa to hyperplasia to carcinoma",
+      "Normal mucosa to atrophic gastritis to intestinal metaplasia to dysplasia to carcinoma",
+      "Normal mucosa to squamous metaplasia to carcinoma"
+    ],
+    "correct": 2,
+    "explanation": "The Correa cascade describes the stepwise progression driven by H. pylori: chronic gastritis to atrophic gastritis to intestinal metaplasia to dysplasia to intestinal-type gastric adenocarcinoma. Eradication of H. pylori halts or reverses early steps in this cascade.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 17: The Gastrointestinal Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534233/"
+  },
+  {
+    "id": 274,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Crohn's disease is distinguished from ulcerative colitis by which histological feature?",
+    "options": [
+      "Crypt abscesses",
+      "Superficial mucosal ulceration",
+      "Non-caseating granulomas",
+      "Goblet cell depletion"
+    ],
+    "correct": 2,
+    "explanation": "Non-caseating granulomas are the hallmark of Crohn's disease (present in ~60%), reflecting transmural inflammation involving all bowel layers. UC is limited to the mucosa and submucosa and does not produce granulomas. Transmural involvement, skip lesions, and perianal disease are Crohn-specific features.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 17: The Gastrointestinal Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470312/"
+  },
+  {
+    "id": 275,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Familial adenomatous polyposis (FAP) results from germline mutation in which tumour suppressor gene?",
+    "options": [
+      "MLH1",
+      "APC",
+      "KRAS",
+      "TP53"
+    ],
+    "correct": 1,
+    "explanation": "FAP is caused by germline loss-of-function mutations in APC on chromosome 5q. APC normally degrades beta-catenin; loss of APC leads to constitutive WNT pathway activation. Patients develop hundreds to thousands of colonic adenomas and have near-100% lifetime risk of colorectal carcinoma without colectomy.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 17: The Gastrointestinal Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK153/"
+  },
+  {
+    "id": 276,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "clinical",
+    "question": "A 45-year-old woman presents with right lower quadrant pain, fever, and vomiting. Appendicectomy specimen shows transmural neutrophilic infiltration. The most common initiating event is:",
+    "options": [
+      "Bacterial invasion of the mucosa",
+      "Luminal obstruction by a faecolith",
+      "Ischaemia of the appendiceal wall",
+      "Viral infection of lymphoid tissue"
+    ],
+    "correct": 1,
+    "explanation": "Acute appendicitis is most commonly initiated by luminal obstruction \u2014 by a faecolith in adults or lymphoid hyperplasia in children. Obstruction raises intraluminal pressure, causing ischaemia, mucosal breakdown, and bacterial invasion. Transmural neutrophilic infiltration is the histological criterion for diagnosis.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 17: The Gastrointestinal Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493193/"
+  },
+  {
+    "id": 277,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Hepatitis B virus causes liver injury primarily through which mechanism?",
+    "options": [
+      "Direct cytopathic effect of the virus",
+      "CD8+ T-cell-mediated killing of infected hepatocytes",
+      "Antibody-dependent cellular cytotoxicity",
+      "Activation of hepatic stellate cells"
+    ],
+    "correct": 1,
+    "explanation": "HBV is not directly cytopathic. Liver injury is mediated by CD8+ cytotoxic T lymphocytes recognising HBV antigens on infected hepatocytes. In immunocompetent hosts this response clears infection but causes hepatitis; in immunocompromised hosts, high viral replication occurs with minimal inflammation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554781/"
+  },
+  {
+    "id": 278,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Mallory-Denk bodies in hepatocytes are composed of:",
+    "options": [
+      "Viral inclusion bodies",
+      "Aggregated ubiquitinated cytokeratin filaments",
+      "Excess glycogen deposits",
+      "Iron-containing ferritin aggregates"
+    ],
+    "correct": 1,
+    "explanation": "Mallory-Denk bodies are intracytoplasmic eosinophilic inclusions composed of aggregated, ubiquitinated intermediate filaments (CK8 and CK18). Classically associated with alcoholic hepatitis, they are also seen in NASH, Wilson disease, and primary biliary cholangitis, reflecting impaired protein degradation under oxidative stress.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
+  },
+  {
+    "id": 279,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "clinical",
+    "question": "A 50-year-old man with chronic HCV cirrhosis has a 3 cm arterially enhancing hepatic nodule with portal phase washout on CT and markedly elevated AFP. The most likely diagnosis is:",
+    "options": [
+      "Hepatic haemangioma",
+      "Focal nodular hyperplasia",
+      "Hepatocellular carcinoma",
+      "Cholangiocarcinoma"
+    ],
+    "correct": 2,
+    "explanation": "Arterial enhancement with portal phase washout on CT plus elevated AFP in a cirrhotic patient is diagnostic of hepatocellular carcinoma (HCC). HCC is the most common primary liver malignancy and complicates cirrhosis from HBV, HCV, alcohol, or NASH. It spreads via portal vein invasion and AFP is used for surveillance and diagnosis.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559314/"
+  },
+  {
+    "id": 280,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "The hepatic zone most susceptible to ischaemic and paracetamol-induced injury is:",
+    "options": [
+      "Zone 1 (periportal)",
+      "Zone 2 (midzonal)",
+      "Zone 3 (centrilobular)",
+      "Uniform across all zones"
+    ],
+    "correct": 2,
+    "explanation": "Zone 3 hepatocytes are farthest from the portal blood supply, receiving the most deoxygenated blood \u2014 making them most vulnerable to ischaemia. CYP2E1 (which activates paracetamol to NAPQI) is also highest in Zone 3, explaining centrilobular necrosis in paracetamol toxicity and right heart failure.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
+  },
+  {
+    "id": 281,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "factual",
+    "question": "Primary biliary cholangitis (PBC) is characterised by immune-mediated destruction of which structures?",
+    "options": [
+      "Large extrahepatic bile ducts",
+      "Intrahepatic small bile ducts",
+      "Hepatocytes in Zone 1",
+      "Peribiliary glands"
+    ],
+    "correct": 1,
+    "explanation": "PBC causes granulomatous destruction of small and medium intrahepatic bile ducts. It predominantly affects middle-aged women and is associated with anti-mitochondrial antibodies (AMA, anti-PDC-E2) in over 95% of cases. Progressive bile duct loss leads to cholestasis and cirrhosis.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459209/"
+  },
+  {
+    "id": 282,
+    "subject": "Pathology",
+    "subtopic": "GIT & Liver Pathology",
+    "type": "clinical",
+    "question": "A 35-year-old man with ulcerative colitis presents with pruritus and jaundice. MRCP shows multifocal strictures and dilatations of intra- and extrahepatic bile ducts. The most likely diagnosis is:",
+    "options": [
+      "Primary biliary cholangitis",
+      "Primary sclerosing cholangitis",
+      "Autoimmune hepatitis",
+      "Choledocholithiasis"
+    ],
+    "correct": 1,
+    "explanation": "Primary sclerosing cholangitis (PSC) causes fibro-obliterative inflammation of both intra- and extrahepatic bile ducts, producing the classic beaded appearance on cholangiography. It is strongly associated with IBD (UC in ~75% of PSC cases), pANCA is positive in ~80%, and it carries significant risk of cholangiocarcinoma.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459365/"
   }
 ]
