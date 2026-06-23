@@ -4184,5 +4184,209 @@
     "explanation": "Hypertrophic cardiomyopathy (HCM) is the most common cause of sudden cardiac death in young athletes. The classic triad at autopsy is asymmetric septal hypertrophy (septal-to-free wall ratio >1.3), myofiber disarray with nuclear pleomorphism, and interstitial fibrosis. The small ventricular cavity and outflow obstruction predispose to fatal arrhythmias during exertion.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 12: The Heart",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430788/"
+  },
+  {
+    "id": 249,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "Which anaemia is characterised by hypersegmented neutrophils on peripheral smear?",
+    "options": [
+      "Iron deficiency anaemia",
+      "Megaloblastic anaemia",
+      "Anaemia of chronic disease",
+      "Haemolytic anaemia"
+    ],
+    "correct": 1,
+    "explanation": "Megaloblastic anaemia (B12 or folate deficiency) impairs DNA synthesis, causing defective nuclear maturation with continued cytoplasmic growth. This produces macro-ovalocytes and hypersegmented neutrophils (\u22655 lobes in >5% of neutrophils). The MCV is elevated. Iron deficiency causes microcytic hypochromic anaemia; anaemia of chronic disease is normocytic.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 14: Red Cell and Bleeding Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441923/"
+  },
+  {
+    "id": 250,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "The anaemia of chronic disease is primarily caused by:",
+    "options": [
+      "Decreased erythropoietin production",
+      "Hepcidin-mediated sequestration of iron",
+      "Vitamin B12 deficiency",
+      "Increased red cell destruction"
+    ],
+    "correct": 1,
+    "explanation": "Hepcidin, an acute-phase reactant elevated in chronic inflammation, blocks ferroportin on macrophages and enterocytes \u2014 trapping iron intracellularly and reducing its availability for erythropoiesis. This produces a normocytic (sometimes microcytic) anaemia with low serum iron, low TIBC, and elevated ferritin, distinguishing it from iron deficiency anaemia.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 14: Red Cell and Bleeding Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441923/"
+  },
+  {
+    "id": 251,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "clinical",
+    "question": "A 30-year-old woman of Mediterranean origin has chronic haemolytic anaemia, splenomegaly, and target cells on smear. Haemoglobin electrophoresis shows HbA2 >3.5%. The diagnosis is:",
+    "options": [
+      "Sickle cell disease",
+      "Alpha thalassaemia trait",
+      "Beta thalassaemia major",
+      "Hereditary spherocytosis"
+    ],
+    "correct": 2,
+    "explanation": "Elevated HbA2 (>3.5%) is the hallmark of beta thalassaemia. In beta thalassaemia major (Cooley's anaemia), absent or severely reduced beta-globin chains lead to excess alpha chains that precipitate, causing ineffective erythropoiesis and haemolysis. Features include severe anaemia, hepatosplenomegaly, bony changes from marrow expansion, and transfusion dependence.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 14: Red Cell and Bleeding Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK241/>"
+  },
+  {
+    "id": 252,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "Sickle cell disease results from a point mutation causing which amino acid substitution in the beta-globin chain?",
+    "options": [
+      "Glutamate \u2192 Lysine at position 6",
+      "Glutamate \u2192 Valine at position 6",
+      "Valine \u2192 Glutamate at position 6",
+      "Lysine \u2192 Glutamate at position 6"
+    ],
+    "correct": 1,
+    "explanation": "Sickle cell disease is caused by a single nucleotide substitution (GAG\u2192GTG) in codon 6 of the HBB gene, replacing glutamic acid with valine. This produces HbS, which polymerises under deoxygenation, distorting red cells into the sickle shape. The hydrophobic valine creates a sticky patch that drives HbS aggregation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 14: Red Cell and Bleeding Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1377/"
+  },
+  {
+    "id": 253,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "Hereditary spherocytosis most commonly results from a deficiency of which red cell membrane protein?",
+    "options": [
+      "Glycophorin A",
+      "Band 3 protein",
+      "Ankyrin",
+      "Spectrin"
+    ],
+    "correct": 2,
+    "explanation": "Ankyrin deficiency is the most common molecular defect in hereditary spherocytosis (~50% of cases), followed by spectrin and band 3 deficiencies. Ankyrin links spectrin to band 3, maintaining the lipid bilayer-cytoskeleton connection. Loss of this linkage causes membrane vesiculation, surface area reduction, and spherocyte formation \u2014 destroyed by the spleen.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 14: Red Cell and Bleeding Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549867/"
+  },
+  {
+    "id": 254,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "clinical",
+    "question": "A 35-year-old woman develops thrombocytopaenia, microangiopathic haemolytic anaemia, fever, renal failure, and neurological symptoms. The peripheral smear shows schistocytes. The most likely diagnosis is:",
+    "options": [
+      "Immune thrombocytopaenic purpura",
+      "Thrombotic thrombocytopaenic purpura",
+      "Disseminated intravascular coagulation",
+      "Haemolytic uraemic syndrome"
+    ],
+    "correct": 1,
+    "explanation": "The pentad of TTP \u2014 thrombocytopaenia, microangiopathic haemolytic anaemia (MAHA), fever, renal failure, and neurological symptoms \u2014 with schistocytes is classic. TTP is caused by deficiency of ADAMTS13 (vWF-cleaving protease), leading to accumulation of ultra-large vWF multimers, platelet aggregation, and microvascular thrombi. HUS typically lacks fever and neurological features.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 14: Red Cell and Bleeding Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470585/"
+  },
+  {
+    "id": 255,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "The Philadelphia chromosome, a translocation t(9;22), produces which fusion oncogene?",
+    "options": [
+      "BCL-2/IgH",
+      "BCR-ABL",
+      "PML-RAR\u03b1",
+      "MYC/IgH"
+    ],
+    "correct": 1,
+    "explanation": "The Philadelphia chromosome t(9;22)(q34;q11) fuses the BCR gene on chromosome 22 with the ABL1 tyrosine kinase gene on chromosome 9, producing the BCR-ABL fusion protein. This constitutively active tyrosine kinase drives uncontrolled myeloid proliferation and is present in >95% of CML cases and ~25% of adult ALL. It is the therapeutic target of imatinib.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562179/"
+  },
+  {
+    "id": 256,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "Reed-Sternberg cells are the malignant cells of which condition?",
+    "options": [
+      "Non-Hodgkin lymphoma",
+      "Hodgkin lymphoma",
+      "Multiple myeloma",
+      "Burkitt lymphoma"
+    ],
+    "correct": 1,
+    "explanation": "Reed-Sternberg cells \u2014 large binucleated or bilobed cells with prominent 'owl-eye' nucleoli \u2014 are the malignant cells of Hodgkin lymphoma. They are derived from germinal centre B cells and characteristically express CD15 and CD30 but lack CD20 and CD45. RS cells represent a minority of the tumour mass; the surrounding reactive inflammatory infiltrate defines the histological subtype.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499969/"
+  },
+  {
+    "id": 257,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "Burkitt lymphoma is characterised by translocation of the MYC oncogene adjacent to which locus?",
+    "options": [
+      "BCL-2",
+      "Immunoglobulin heavy chain (IgH)",
+      "BCL-6",
+      "Cyclin D1"
+    ],
+    "correct": 1,
+    "explanation": "Burkitt lymphoma is defined by translocation t(8;14), juxtaposing MYC on chromosome 8 with the IgH locus on chromosome 14, causing constitutive MYC overexpression and unchecked cell proliferation. Variant translocations t(2;8) and t(8;22) involve kappa and lambda light chain loci. EBV is implicated in the endemic (African) form. The 'starry sky' pattern reflects high turnover with apoptosis.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537322/"
+  },
+  {
+    "id": 258,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "clinical",
+    "question": "A 65-year-old man is found to have lymphocytosis on routine CBC. Flow cytometry shows CD5+, CD19+, CD20 (dim), CD23+ B cells. The most likely diagnosis is:",
+    "options": [
+      "Mantle cell lymphoma",
+      "Follicular lymphoma",
+      "Chronic lymphocytic leukaemia",
+      "Hairy cell leukaemia"
+    ],
+    "correct": 2,
+    "explanation": "The immunophenotype CD5+, CD19+, CD20 (dim), CD23+ is characteristic of CLL/SLL. CLL is the most common adult leukaemia in the Western world. CD5 co-expression with B-cell markers is a key feature. Mantle cell lymphoma also expresses CD5 but is CD23\u2212 and carries t(11;14)/cyclin D1 overexpression. Hairy cell leukaemia expresses CD11c, CD25, CD103, and TRAP.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470235/"
+  },
+  {
+    "id": 259,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "factual",
+    "question": "Multiple myeloma is characterised by malignant proliferation of plasma cells producing a monoclonal immunoglobulin. The most common M-protein is:",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgD"
+    ],
+    "correct": 1,
+    "explanation": "IgG is the most common M-protein in multiple myeloma (~55%), followed by IgA (~25%). IgM overproduction is characteristic of Waldenstr\u00f6m macroglobulinaemia (lymphoplasmacytic lymphoma), not myeloma. Myeloma plasma cells express CD138 (syndecan-1) and CD38 but lack CD19 and CD20. Bence Jones proteins (free light chains in urine) cause tubular damage.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547rn/"
+  },
+  {
+    "id": 260,
+    "subject": "Pathology",
+    "subtopic": "Haematopathology",
+    "type": "clinical",
+    "question": "A 70-year-old man presents with back pain, anaemia, hypercalcaemia, and renal failure. Serum protein electrophoresis shows an M-spike. X-ray reveals multiple lytic bone lesions. The mechanism of bone destruction is:",
+    "options": [
+      "Direct invasion by plasma cells",
+      "RANKL-mediated osteoclast activation",
+      "PTHrP secretion by tumour cells",
+      "Decreased osteoblast activity only"
+    ],
+    "correct": 1,
+    "explanation": "Myeloma cells and stromal cells produce RANKL (receptor activator of NF-\u03baB ligand) and suppress osteoprotegerin (OPG), tipping the balance toward osteoclast activation. Osteoclast-mediated bone resorption causes lytic lesions, hypercalcaemia, and pathological fractures. DKK-1 secreted by myeloma cells also suppresses osteoblast activity, further impairing bone repair.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 13: White Cell Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547601/"
   }
 ]
