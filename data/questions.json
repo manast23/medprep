@@ -5289,5 +5289,56 @@
     "explanation": "Psoriasis shows regular epidermal acanthosis (thickening), parakeratosis (retained nuclei in stratum corneum), collections of neutrophils in the stratum corneum (Munro microabscesses), and thinning of the suprapapillary plate with dilated dermal papillary vessels \u2014 explaining the Auspitz sign (pinpoint bleeding on scale removal).",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 25: The Skin",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559260/"
+  },
+  {
+    "id": 314,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "Which enzyme is the most sensitive and specific serum marker for acute myocardial infarction?",
+    "options": [
+      "CK-MB",
+      "LDH",
+      "Troponin I",
+      "AST"
+    ],
+    "correct": 2,
+    "explanation": "Cardiac troponin I (cTnI) is the most sensitive and specific biomarker for myocardial injury. It rises within 3\u20136 hours of infarction, peaks at 24 hours, and remains elevated for 7\u201310 days. CK-MB is less specific (also elevated in skeletal muscle injury) and clears faster (2\u20133 days), making troponin the preferred marker for both early diagnosis and late presentation.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 12: The Heart",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507808/"
+  },
+  {
+    "id": 315,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "In diabetic ketoacidosis (DKA), the primary biochemical disturbance is:",
+    "options": [
+      "Hyperglycaemia with metabolic alkalosis",
+      "Absolute insulin deficiency causing ketone body accumulation and high anion gap metabolic acidosis",
+      "Lactic acidosis from tissue hypoperfusion",
+      "Hyperglycaemic hyperosmolar state without ketosis"
+    ],
+    "correct": 1,
+    "explanation": "DKA results from absolute (or near-absolute) insulin deficiency, causing unrestrained lipolysis and hepatic ketogenesis (acetoacetate, beta-hydroxybutyrate). Accumulation of ketoacids produces a high anion gap metabolic acidosis. Hyperglycaemia causes osmotic diuresis with dehydration and electrolyte loss. Hyperglycaemic hyperosmolar state occurs in Type 2 DM with sufficient insulin to suppress ketosis.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 24: The Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560723/"
+  },
+  {
+    "id": 316,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "clinical",
+    "question": "A 50-year-old man with chronic alcohol use has AST:ALT ratio of 2:1, elevated GGT, and macrocytosis. The AST:ALT ratio in alcoholic liver disease is elevated because:",
+    "options": [
+      "ALT synthesis is increased by alcohol",
+      "Alcohol depletes hepatic pyridoxal phosphate, preferentially reducing ALT activity",
+      "AST is released from skeletal muscle damaged by alcohol",
+      "GGT elevation suppresses ALT production"
+    ],
+    "correct": 1,
+    "explanation": "In alcoholic liver disease, AST:ALT >2:1 occurs because alcohol depletes pyridoxal phosphate (vitamin B6), a cofactor required for both transaminases \u2014 but ALT is more dependent on it than AST. Additionally, mitochondrial AST (released by alcohol-induced mitochondrial injury) contributes to the disproportionate AST rise. An AST:ALT ratio >2 strongly suggests alcoholic aetiology.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
   }
 ]
