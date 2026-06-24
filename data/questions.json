@@ -5595,5 +5595,260 @@
     "explanation": "Neonates have immature hepatic UDP-glucuronosyltransferase (UGT), which normally conjugates chloramphenicol for excretion. Deficient glucuronidation leads to accumulation of free chloramphenicol, causing mitochondrial toxicity and cardiovascular collapse (grey baby syndrome). This illustrates how Phase II metabolic immaturity can result in life-threatening drug toxicity in neonates.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 4: Drug Biotransformation",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544346/"
+  },
+  {
+    "id": 332,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Which adrenoceptor subtype mediates bronchodilation?",
+    "options": [
+      "Alpha-1",
+      "Alpha-2",
+      "Beta-1",
+      "Beta-2"
+    ],
+    "correct": 3,
+    "explanation": "Beta-2 adrenoceptors mediate bronchodilation, uterine relaxation, and vasodilation in skeletal muscle. Activation stimulates Gs-adenylyl cyclase-cAMP pathway, relaxing smooth muscle. Beta-1 receptors mediate cardiac stimulation. Alpha-1 mediates vasoconstriction and mydriasis. Selective Beta-2 agonists (salbutamol) are used in asthma to minimise cardiac side effects.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 9: Adrenoceptor Agonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 333,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Atropine produces tachycardia by blocking which receptor?",
+    "options": [
+      "Beta-1 adrenoceptors in the SA node",
+      "Muscarinic M2 receptors in the SA node",
+      "Nicotinic receptors at the cardiac ganglia",
+      "Alpha-1 adrenoceptors in cardiac muscle"
+    ],
+    "correct": 1,
+    "explanation": "Atropine is a competitive muscarinic antagonist. Blocking M2 receptors at the SA node removes vagal (parasympathetic) tone, increasing heart rate. This is used therapeutically in bradycardia and organophosphate poisoning. M1 receptors mediate gastric secretion; M3 mediate glandular secretion and smooth muscle contraction.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 8: Cholinoceptor-Blocking Drugs",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507798/"
+  },
+  {
+    "id": 334,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "clinical",
+    "question": "A farmer presents with miosis, bradycardia, excessive salivation, bronchospasm, and muscle fasciculations after pesticide exposure. The antidote is:",
+    "options": [
+      "Naloxone and flumazenil",
+      "Atropine and pralidoxime",
+      "Physostigmine and neostigmine",
+      "Propranolol and phentolamine"
+    ],
+    "correct": 1,
+    "explanation": "Organophosphate poisoning inhibits acetylcholinesterase, causing ACh accumulation at muscarinic (SLUDGE: salivation, lacrimation, urination, defecation, GI cramps, emesis; bradycardia, bronchospasm, miosis) and nicotinic synapses (fasciculations, paralysis). Atropine blocks muscarinic effects; pralidoxime (2-PAM) reactivates AChE if given early (before 'ageing').",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 7: Cholinoceptor-Activating Drugs",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507726/"
+  },
+  {
+    "id": 335,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Neostigmine differs from physostigmine in that neostigmine:",
+    "options": [
+      "Crosses the blood-brain barrier readily",
+      "Is a reversible cholinesterase inhibitor only at peripheral synapses",
+      "Causes CNS toxicity due to tertiary amine structure",
+      "Has a longer duration of action"
+    ],
+    "correct": 1,
+    "explanation": "Neostigmine is a quaternary ammonium compound that does not cross the blood-brain barrier, limiting its action to peripheral cholinergic synapses. It is used to reverse non-depolarising neuromuscular blockade and treat myasthenia gravis. Physostigmine is a tertiary amine that crosses the BBB and can treat central anticholinergic toxicity (atropine overdose).",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 7: Cholinoceptor-Activating Drugs",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507726/"
+  },
+  {
+    "id": 336,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Adrenaline (epinephrine) administered subcutaneously during anaphylaxis acts primarily via which receptors?",
+    "options": [
+      "Alpha-1 only",
+      "Beta-2 only",
+      "Alpha-1, Beta-1, and Beta-2",
+      "Dopamine receptors"
+    ],
+    "correct": 2,
+    "explanation": "Adrenaline activates all adrenoceptor subtypes. In anaphylaxis: Alpha-1 causes vasoconstriction (reverses hypotension, reduces angioedema); Beta-2 causes bronchodilation (reverses bronchospasm); Beta-1 increases heart rate and contractility. This broad receptor activation makes adrenaline the first-line treatment for anaphylaxis.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 9: Adrenoceptor Agonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 337,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Which selective alpha-1 antagonist is used in the treatment of benign prostatic hyperplasia?",
+    "options": [
+      "Phentolamine",
+      "Prazosin",
+      "Tamsulosin",
+      "Phenoxybenzamine"
+    ],
+    "correct": 2,
+    "explanation": "Tamsulosin is an alpha-1A selective antagonist that relaxes smooth muscle in the prostate and bladder neck, improving urinary flow in BPH with minimal effect on vascular tone. Prazosin is a non-selective alpha-1 blocker used for hypertension. Phenoxybenzamine is an irreversible non-selective alpha blocker used in phaeochromocytoma.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 10: Adrenoceptor Antagonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 338,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "clinical",
+    "question": "A patient with phaeochromocytoma is to undergo surgical resection. Which drug must be given FIRST before any beta-blocker?",
+    "options": [
+      "Labetalol",
+      "Phenoxybenzamine",
+      "Propranolol",
+      "Metoprolol"
+    ],
+    "correct": 1,
+    "explanation": "Alpha blockade (phenoxybenzamine) must precede beta blockade in phaeochromocytoma. If a beta-blocker is given first, the remaining unopposed alpha-adrenergic stimulation from catecholamines causes severe hypertension and vasoconstriction. Alpha blockade first controls blood pressure; beta blockade is then added to control tachycardia.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 10: Adrenoceptor Antagonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 339,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Succinylcholine causes initial muscle fasciculations because it acts as a:",
+    "options": [
+      "Competitive nicotinic antagonist",
+      "Depolarising neuromuscular blocking agent",
+      "Non-depolarising neuromuscular blocking agent",
+      "Muscarinic agonist at the NMJ"
+    ],
+    "correct": 1,
+    "explanation": "Succinylcholine (suxamethonium) is a depolarising neuromuscular blocker that binds nicotinic receptors and causes persistent depolarisation (Phase I block). Initial fasciculations reflect this depolarisation before flaccid paralysis ensues. Unlike non-depolarising agents, it is not reversed by neostigmine; it is metabolised by plasma cholinesterase. Used for rapid sequence intubation.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 27: Skeletal Muscle Relaxants",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499898/"
+  },
+  {
+    "id": 340,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Clonidine lowers blood pressure primarily by acting on:",
+    "options": [
+      "Peripheral alpha-1 receptors causing vasodilation",
+      "Central alpha-2 receptors reducing sympathetic outflow",
+      "Beta-1 receptors in the heart decreasing cardiac output",
+      "Imidazoline receptors in the renal tubule"
+    ],
+    "correct": 1,
+    "explanation": "Clonidine is a centrally acting alpha-2 agonist that stimulates presynaptic alpha-2 receptors in the vasomotor centre of the medulla, reducing sympathetic outflow and lowering blood pressure and heart rate. Abrupt withdrawal causes rebound hypertension. It is also used for opioid withdrawal, ADHD, and menopausal flushing.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 11: Antihypertensive Agents",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 341,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "clinical",
+    "question": "A 60-year-old man with hypertension is given a non-selective beta-blocker and develops severe bronchospasm. Which condition predisposes him to this adverse effect?",
+    "options": [
+      "Diabetes mellitus",
+      "Asthma or COPD",
+      "Renal failure",
+      "Hepatic cirrhosis"
+    ],
+    "correct": 1,
+    "explanation": "Non-selective beta-blockers (propranolol) block beta-2 receptors in the bronchi, causing bronchoconstriction. This is dangerous in patients with asthma or COPD. Cardioselective beta-1 blockers (metoprolol, atenolol) are relatively safer in these patients but should still be used cautiously. Beta-blockers also mask hypoglycaemia symptoms in diabetics, but bronchospasm is the primary concern here.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 10: Adrenoceptor Antagonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 342,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Which neurotransmitter is released at all preganglionic autonomic synapses?",
+    "options": [
+      "Noradrenaline",
+      "Acetylcholine",
+      "Dopamine",
+      "Adrenaline"
+    ],
+    "correct": 1,
+    "explanation": "Acetylcholine is released at all preganglionic synapses of both the sympathetic and parasympathetic divisions, acting on nicotinic receptors at autonomic ganglia. It is also the postganglionic neurotransmitter of the parasympathetic system (muscarinic receptors) and at the NMJ. Noradrenaline is the postganglionic sympathetic transmitter (except sweat glands, which use ACh).",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 6: Introduction to Autonomic Pharmacology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507798/"
+  },
+  {
+    "id": 343,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Which drug is used to diagnose myasthenia gravis by transiently increasing muscle strength?",
+    "options": [
+      "Neostigmine",
+      "Edrophonium",
+      "Pyridostigmine",
+      "Physostigmine"
+    ],
+    "correct": 1,
+    "explanation": "Edrophonium (Tensilon) is an ultra-short-acting reversible AChE inhibitor used in the Tensilon test. In myasthenia gravis, IV edrophonium transiently increases ACh at the NMJ, briefly improving muscle strength. Its rapid onset and short duration (5 minutes) make it ideal for diagnostic use. Pyridostigmine (longer-acting) is used for chronic treatment.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 7: Cholinoceptor-Activating Drugs",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507726/"
+  },
+  {
+    "id": 344,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Dopamine at low doses (1\u20133 mcg/kg/min) produces renal vasodilation by acting on:",
+    "options": [
+      "Beta-1 receptors",
+      "Alpha-1 receptors",
+      "D1 dopamine receptors",
+      "Beta-2 receptors"
+    ],
+    "correct": 2,
+    "explanation": "At low doses, dopamine selectively activates D1 receptors in the renal and mesenteric vasculature, causing vasodilation and increased renal perfusion. At intermediate doses (3\u201310 mcg/kg/min), beta-1 effects predominate (increased cardiac output); at high doses (>10 mcg/kg/min), alpha-1 vasoconstriction dominates. Used in cardiogenic shock and acute heart failure.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 9: Adrenoceptor Agonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 345,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "clinical",
+    "question": "A patient taking a non-selective beta-blocker is given adrenaline for anaphylaxis. Which paradoxical response may occur?",
+    "options": [
+      "Excessive bronchodilation",
+      "Severe hypertension due to unopposed alpha-1 stimulation",
+      "Hypoglycaemia due to beta-2 blockade",
+      "Bradycardia from increased vagal tone only"
+    ],
+    "correct": 1,
+    "explanation": "With beta receptors blocked, adrenaline's vasoconstrictive alpha-1 effects are unopposed, causing a paradoxical severe hypertensive response. The expected beta-2 bronchodilation and beta-1 cardiac stimulation are blocked. This is the 'epinephrine reversal' phenomenon seen with non-selective alpha+beta blockers, and explains why glucagon (bypasses beta receptors via Gs) is the preferred treatment in these patients.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 10: Adrenoceptor Antagonists",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534204/"
+  },
+  {
+    "id": 346,
+    "subject": "Pharmacology",
+    "subtopic": "Autonomic Pharmacology",
+    "type": "factual",
+    "question": "Botulinum toxin produces flaccid paralysis by:",
+    "options": [
+      "Blocking nicotinic receptors post-synaptically",
+      "Inhibiting ACh release from presynaptic motor nerve terminals",
+      "Enhancing AChE activity at the NMJ",
+      "Blocking voltage-gated calcium channels"
+    ],
+    "correct": 1,
+    "explanation": "Botulinum toxin cleaves SNARE proteins (SNAP-25, synaptobrevin) required for acetylcholine vesicle fusion and release at the NMJ, causing flaccid paralysis. It is irreversible \u2014 recovery requires sprouting of new nerve terminals. Clinically used for focal dystonia, spasticity, hyperhidrosis, and cosmetic purposes. Lambert-Eaton syndrome involves autoantibodies against presynaptic VGCCs, not botulinum toxin.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 6: Introduction to Autonomic Pharmacology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507798/"
   }
 ]
