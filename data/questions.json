@@ -5340,5 +5340,260 @@
     "explanation": "In alcoholic liver disease, AST:ALT >2:1 occurs because alcohol depletes pyridoxal phosphate (vitamin B6), a cofactor required for both transaminases \u2014 but ALT is more dependent on it than AST. Additionally, mitochondrial AST (released by alcohol-induced mitochondrial injury) contributes to the disproportionate AST rise. An AST:ALT ratio >2 strongly suggests alcoholic aetiology.",
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. \u2014 Chapter 18: Liver and Biliary Tract",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
+  },
+  {
+    "id": 317,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Which pharmacokinetic parameter describes the fraction of an administered drug that reaches systemic circulation unchanged?",
+    "options": [
+      "Volume of distribution",
+      "Bioavailability",
+      "Clearance",
+      "Half-life"
+    ],
+    "correct": 1,
+    "explanation": "Bioavailability (F) is the fraction of an administered dose that reaches systemic circulation in unchanged form. IV administration has 100% bioavailability. Oral bioavailability is reduced by incomplete absorption and first-pass hepatic metabolism. It determines the dose needed to achieve therapeutic plasma concentrations.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 3: Pharmacokinetics and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 318,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "A drug with a large volume of distribution (Vd) is best described as:",
+    "options": [
+      "Highly protein-bound and confined to plasma",
+      "Widely distributed into tissues with low plasma concentration",
+      "Rapidly cleared by the kidneys",
+      "Having high oral bioavailability"
+    ],
+    "correct": 1,
+    "explanation": "Volume of distribution (Vd) is a theoretical volume that relates the total amount of drug in the body to its plasma concentration. A large Vd indicates extensive tissue distribution with low plasma levels \u2014 seen with lipophilic, highly tissue-bound drugs (e.g. chloroquine, amiodarone). A small Vd suggests confinement to plasma, typical of highly protein-bound drugs.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 3: Pharmacokinetics and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 319,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Zero-order kinetics in drug elimination means that:",
+    "options": [
+      "A constant fraction of drug is eliminated per unit time",
+      "A constant amount of drug is eliminated per unit time",
+      "Elimination rate increases with plasma concentration",
+      "Half-life increases as dose increases"
+    ],
+    "correct": 1,
+    "explanation": "Zero-order kinetics occurs when elimination mechanisms are saturated \u2014 a fixed amount (not fraction) is eliminated per unit time regardless of concentration. Examples include ethanol, phenytoin at high doses, and aspirin in overdose. Half-life is not constant and increases as dose increases, making these drugs prone to toxic accumulation.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 3: Pharmacokinetics and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 320,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "clinical",
+    "question": "A patient on warfarin is started on rifampicin. Her INR falls significantly. The most likely mechanism is:",
+    "options": [
+      "Rifampicin displaces warfarin from plasma proteins",
+      "Rifampicin induces CYP2C9, increasing warfarin metabolism",
+      "Rifampicin inhibits vitamin K epoxide reductase",
+      "Rifampicin decreases warfarin absorption from the gut"
+    ],
+    "correct": 1,
+    "explanation": "Rifampicin is a potent inducer of CYP450 enzymes (CYP2C9, CYP3A4, P-glycoprotein). Warfarin is metabolised by CYP2C9; enzyme induction accelerates its metabolism, reducing plasma levels and anticoagulant effect (lower INR). This is a classic pharmacokinetic drug interaction \u2014 warfarin dose must be increased and closely monitored when rifampicin is co-administered.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 4: Drug Biotransformation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544346/"
+  },
+  {
+    "id": 321,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Which CYP450 enzyme is responsible for metabolising the largest number of clinical drugs?",
+    "options": [
+      "CYP1A2",
+      "CYP2D6",
+      "CYP3A4",
+      "CYP2C9"
+    ],
+    "correct": 2,
+    "explanation": "CYP3A4 is the most abundant hepatic and intestinal CYP enzyme and metabolises approximately 50% of all drugs in clinical use. It is subject to induction (rifampicin, carbamazepine, St John's Wort) and inhibition (ketoconazole, erythromycin, grapefruit juice). CYP2D6 is notable for genetic polymorphism affecting codeine and tricyclic metabolism.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 4: Drug Biotransformation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544346/"
+  },
+  {
+    "id": 322,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "The therapeutic index of a drug is defined as:",
+    "options": [
+      "ED50 / LD50",
+      "LD50 / ED50",
+      "Maximum effect / Minimum effect",
+      "Cmax / Cmin"
+    ],
+    "correct": 1,
+    "explanation": "Therapeutic index (TI) = LD50 / ED50, where LD50 is the lethal dose in 50% of subjects and ED50 is the effective dose in 50%. A high TI indicates a wide margin of safety. Drugs with narrow TI (e.g. warfarin, digoxin, lithium, phenytoin, aminoglycosides) require therapeutic drug monitoring due to the small difference between effective and toxic doses.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 2: Drug Receptors and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 323,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "A full agonist differs from a partial agonist in that a full agonist:",
+    "options": [
+      "Has higher receptor affinity",
+      "Produces maximal efficacy even at low receptor occupancy",
+      "Has a lower EC50",
+      "Cannot be antagonised competitively"
+    ],
+    "correct": 1,
+    "explanation": "Efficacy refers to the maximal response a drug can produce. A full agonist produces the maximum possible response (efficacy = 1) when it occupies receptors. A partial agonist produces a submaximal response even at 100% receptor occupancy (efficacy < 1). Affinity (EC50) and efficacy are independent properties \u2014 a partial agonist may have higher affinity than a full agonist.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 2: Drug Receptors and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 324,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Competitive antagonism is characterised by:",
+    "options": [
+      "Irreversible binding to the receptor",
+      "Rightward shift of the agonist dose-response curve with no change in Emax",
+      "Reduction in Emax with no change in EC50",
+      "Allosteric modification of the receptor"
+    ],
+    "correct": 1,
+    "explanation": "Competitive (surmountable) antagonism involves reversible binding at the same site as the agonist. Increasing agonist concentration can overcome the antagonism, producing a parallel rightward shift of the dose-response curve with the same Emax. Non-competitive (irreversible) antagonism reduces Emax without shifting EC50.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 2: Drug Receptors and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 325,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "clinical",
+    "question": "A 70-year-old patient with renal failure is prescribed gentamicin. The dose interval should be extended because:",
+    "options": [
+      "Gentamicin has increased hepatic metabolism in renal failure",
+      "Renal clearance of gentamicin is reduced, prolonging its half-life",
+      "Protein binding of gentamicin increases in uraemia",
+      "Gentamicin undergoes zero-order kinetics in renal failure"
+    ],
+    "correct": 1,
+    "explanation": "Gentamicin is renally excreted unchanged. In renal failure, GFR decreases, reducing gentamicin clearance and prolonging its half-life. Accumulation leads to nephrotoxicity and ototoxicity. Dose adjustment (extended interval or reduced dose) is required, guided by drug level monitoring (trough levels). Creatinine clearance is used to estimate dose adjustments.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 3: Pharmacokinetics and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 326,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Phase II drug metabolism reactions primarily involve:",
+    "options": [
+      "Oxidation and reduction reactions",
+      "Conjugation reactions adding polar groups",
+      "Hydrolysis of ester bonds",
+      "CYP450-mediated hydroxylation"
+    ],
+    "correct": 1,
+    "explanation": "Phase II reactions are conjugation reactions that attach polar molecules (glucuronate, sulfate, glutathione, acetate, glycine, methyl groups) to drugs or Phase I metabolites, increasing water solubility for renal or biliary excretion. Phase I reactions (oxidation, reduction, hydrolysis) typically produce reactive intermediates; Phase II generally inactivates drugs and facilitates elimination.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 4: Drug Biotransformation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544346/"
+  },
+  {
+    "id": 327,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Tachyphylaxis refers to:",
+    "options": [
+      "Increased drug response with repeated dosing",
+      "Rapid decrease in drug response following repeated administration",
+      "Allergy developing after first drug exposure",
+      "Cross-tolerance between structurally similar drugs"
+    ],
+    "correct": 1,
+    "explanation": "Tachyphylaxis is a rapid, short-term decrease in drug response following repeated or continuous administration. Mechanisms include receptor downregulation, depletion of neurotransmitter stores (e.g. indirect sympathomimetics like ephedrine), or receptor desensitisation. It differs from tolerance, which develops more slowly over days to weeks.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 2: Drug Receptors and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 328,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "clinical",
+    "question": "A 30-year-old woman takes an oral contraceptive pill and is prescribed erythromycin for a chest infection. She is counselled about reduced contraceptive efficacy. Which mechanism is responsible?",
+    "options": [
+      "Erythromycin displaces oestrogen from protein binding sites",
+      "Erythromycin inhibits CYP3A4, increasing oestrogen toxicity",
+      "Erythromycin kills gut bacteria that hydrolyse conjugated oestrogen, reducing enterohepatic recirculation",
+      "Erythromycin accelerates renal excretion of oestrogen"
+    ],
+    "correct": 2,
+    "explanation": "Conjugated oestrogen excreted in bile is hydrolysed by gut bacteria back to active oestrogen, which is reabsorbed \u2014 enterohepatic recirculation. Broad-spectrum antibiotics reduce gut flora, impairing this hydrolysis and lowering oestrogen levels. This is the proposed mechanism for reduced OCP efficacy with antibiotics, though its clinical significance is debated.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 4: Drug Biotransformation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544346/"
+  },
+  {
+    "id": 329,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "The loading dose of a drug is primarily determined by:",
+    "options": [
+      "Clearance and desired steady-state concentration",
+      "Volume of distribution and desired plasma concentration",
+      "Half-life and dosing interval",
+      "Bioavailability and protein binding"
+    ],
+    "correct": 1,
+    "explanation": "Loading dose = (Vd \u00d7 desired plasma concentration) / bioavailability. Vd determines how much drug is needed to fill the apparent volume of distribution and achieve the target concentration rapidly. Clearance determines maintenance dose. Loading doses are used when a rapid therapeutic effect is required (e.g. digoxin, amiodarone, phenytoin).",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 3: Pharmacokinetics and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 330,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "factual",
+    "question": "Which type of drug receptor is directly linked to a ligand-gated ion channel, producing the fastest response?",
+    "options": [
+      "G protein-coupled receptor (GPCR)",
+      "Receptor tyrosine kinase",
+      "Ionotropic receptor",
+      "Nuclear receptor"
+    ],
+    "correct": 2,
+    "explanation": "Ionotropic (ligand-gated ion channel) receptors produce the fastest responses (milliseconds) as ligand binding directly opens the ion channel \u2014 no second messenger required. Examples include nicotinic ACh receptors (Na+/K+), GABA-A (Cl-), and glutamate NMDA receptors. GPCRs act via second messengers (seconds); tyrosine kinases (minutes); nuclear receptors (hours).",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 2: Drug Receptors and Pharmacodynamics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557744/"
+  },
+  {
+    "id": 331,
+    "subject": "Pharmacology",
+    "subtopic": "General Pharmacology",
+    "type": "clinical",
+    "question": "A neonate is given chloramphenicol. She develops cardiovascular collapse and grey cyanosis \u2014 'grey baby syndrome'. The mechanism is:",
+    "options": [
+      "Immature renal excretion of chloramphenicol",
+      "Deficient hepatic UDP-glucuronosyltransferase causing toxic drug accumulation",
+      "Chloramphenicol displacing bilirubin from albumin",
+      "Immature blood-brain barrier allowing CNS toxicity"
+    ],
+    "correct": 1,
+    "explanation": "Neonates have immature hepatic UDP-glucuronosyltransferase (UGT), which normally conjugates chloramphenicol for excretion. Deficient glucuronidation leads to accumulation of free chloramphenicol, causing mitochondrial toxicity and cardiovascular collapse (grey baby syndrome). This illustrates how Phase II metabolic immaturity can result in life-threatening drug toxicity in neonates.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. \u2014 Chapter 4: Drug Biotransformation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544346/"
   }
 ]
