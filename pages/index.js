@@ -36,9 +36,16 @@ const SUBJECTS = [
     description: 'Cell injury, inflammation, neoplasia, and organ-system disease — from general principles to clinical pathological correlations.',
     image: '/pathology.jpg',
   },
+  {
+    key: 'Pharmacology',
+    title: 'Pharmacology',
+    references: "Katzung's Basic & Clinical Pharmacology · Goodman & Gilman",
+    description: 'Drug mechanisms, receptor pharmacology, autonomic, CNS, cardiovascular, antimicrobials, and clinical toxicology.',
+    image: '/pharmacology.jpg',
+  },
 ]
 
-const COMING_SOON = ['Pharmacology', 'Microbiology']
+const COMING_SOON = ['Microbiology']
 const QUESTION_TYPES = [
   { key: 'All', label: 'All Types' },
   { key: 'factual', label: 'Factual' },
