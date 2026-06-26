@@ -49,8 +49,8 @@ export default function StarField({ style = {} }) {
       t += 0.016
 
       for (const s of stars) {
-        const alpha = 0.08 + 0.5 * (0.5 + 0.5 * Math.sin(s.phase + t * s.speed))
-        const a = s.bright ? Math.min(alpha * 2.2, 1) : alpha
+        const alpha = 0.04 + 0.18 * (0.5 + 0.5 * Math.sin(s.phase + t * s.speed))
+        const a = s.bright ? Math.min(alpha * 1.8, 0.55) : alpha
 
         ctx.save()
         ctx.translate(s.x, s.y)
