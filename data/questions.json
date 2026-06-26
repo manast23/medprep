@@ -6750,5 +6750,185 @@
     "explanation": "Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) notorious for CNS side effects — including vivid or disturbing dreams, dizziness, insomnia, impaired concentration, and rarely psychosis — that are most prominent in the first 2–4 weeks of therapy and often resolve with continued use. These effects are thought to result from efavirenz's activity as a positive allosteric modulator of GABA-A receptors and partial agonism at cannabinoid receptors. Tenofovir's main toxicities are nephrotoxicity and reduced bone mineral density, not CNS effects.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 49",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541126/"
+  },
+  {
+    "id": 397,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 52-year-old obese woman with type 2 diabetes is started on metformin. She asks why her doctor chose this drug over other options. Which of the following best describes metformin's primary mechanism of action?",
+    "options": [
+      "Stimulates pancreatic beta cells to increase insulin secretion",
+      "Activates AMPK, reducing hepatic glucose production and improving insulin sensitivity",
+      "Inhibits intestinal alpha-glucosidase, slowing carbohydrate absorption",
+      "Binds PPAR-gamma, promoting adipocyte differentiation and glucose uptake",
+      "Blocks SGLT2, causing urinary glucose excretion"
+    ],
+    "correct": 1,
+    "explanation": "Metformin activates AMP-activated protein kinase (AMPK) in the liver, primarily by inhibiting mitochondrial complex I; this reduces hepatic gluconeogenesis and glycogenolysis, lowering fasting blood glucose without causing hypoglycaemia or weight gain. It is first-line for type 2 diabetes because of its proven cardiovascular mortality benefit (UKPDS), weight neutrality, low cost, and absence of hypoglycaemia risk as monotherapy. Sulfonylureas stimulate insulin secretion and are the main distractor, but they carry hypoglycaemia risk and are not first-line in most guidelines.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526023/"
+  },
+  {
+    "id": 398,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 48-year-old man with type 2 diabetes on metformin is prescribed a sulfonylurea as add-on therapy. He later presents to the emergency department with sweating, tremor, and confusion. His blood glucose is 2.1 mmol/L. What is the mechanism by which sulfonylureas cause hypoglycaemia?",
+    "options": [
+      "Inhibition of hepatic gluconeogenesis via AMPK activation",
+      "Closure of ATP-sensitive potassium channels on beta cells, causing insulin release independent of glucose",
+      "Stimulation of GLP-1 receptors on pancreatic beta cells",
+      "Inhibition of dipeptidyl peptidase-4, increasing endogenous incretin levels",
+      "Activation of PPAR-gamma receptors increasing peripheral glucose uptake"
+    ],
+    "correct": 1,
+    "explanation": "Sulfonylureas bind to the SUR1 subunit of ATP-sensitive K⁺ (K_ATP) channels on pancreatic beta cells, causing channel closure and membrane depolarisation regardless of ambient glucose levels; this triggers voltage-gated calcium influx and insulin exocytosis independent of blood glucose, which can cause hypoglycaemia even in the fasting state. This mechanism makes sulfonylureas particularly dangerous in elderly patients, those who skip meals, and those with renal impairment (where renally cleared metabolites accumulate). GLP-1 receptor agonists and DPP-4 inhibitors stimulate insulin secretion only in a glucose-dependent manner and carry minimal hypoglycaemia risk.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430900/"
+  },
+  {
+    "id": 399,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 60-year-old woman with type 2 diabetes and established cardiovascular disease is started on a weekly subcutaneous injection that mimics an incretin hormone. She reports significant nausea for the first two weeks but loses 4 kg over three months. Which drug class is this, and what is its mechanism?",
+    "options": [
+      "DPP-4 inhibitor — inhibits degradation of endogenous GLP-1",
+      "GLP-1 receptor agonist — activates GLP-1 receptors, stimulating glucose-dependent insulin secretion and reducing appetite",
+      "SGLT2 inhibitor — promotes urinary glucose excretion causing weight loss",
+      "Amylin analogue — delays gastric emptying and suppresses glucagon",
+      "Thiazolidinedione — activates PPAR-gamma reducing insulin resistance"
+    ],
+    "correct": 1,
+    "explanation": "GLP-1 receptor agonists (e.g. semaglutide, dulaglutide) mimic native GLP-1 by activating GLP-1 receptors on pancreatic beta cells to stimulate glucose-dependent insulin secretion, suppress glucagon, delay gastric emptying, and reduce appetite via central hypothalamic pathways — accounting for the nausea and significant weight loss. They have proven cardiovascular and renal benefits in high-risk patients with type 2 diabetes. DPP-4 inhibitors also increase GLP-1 activity but are weight-neutral and produce more modest glucose lowering, making them less effective than GLP-1 receptor agonists for weight reduction.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551663/"
+  },
+  {
+    "id": 400,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 35-year-old woman with Graves' disease is started on carbimazole. After six weeks her thyroid function improves, but a blood count shows an absolute neutrophil count of 0.4 × 10⁹/L. What is the most serious adverse effect of thionamide antithyroid drugs?",
+    "options": [
+      "Hepatotoxicity causing fulminant liver failure",
+      "Agranulocytosis, increasing risk of life-threatening infection",
+      "Hypothyroidism from excessive thyroid suppression",
+      "Teratogenicity causing choanal atresia in the fetus",
+      "Vasculitis from ANCA-positive drug reaction"
+    ],
+    "correct": 1,
+    "explanation": "Agranulocytosis (absolute neutrophil count <500/μL) is the most dangerous adverse effect of thionamide drugs (carbimazole, propylthiouracil), occurring in approximately 0.1–0.5% of patients, typically within the first three months of therapy. Patients must be counselled to stop the drug immediately and seek urgent medical attention if they develop fever, sore throat, or mouth ulcers, as fatal sepsis can result. Routine monitoring of blood counts is not reliable for prevention because agranulocytosis can develop rapidly between scheduled tests; patient education is therefore paramount.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 38",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537039/"
+  },
+  {
+    "id": 401,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 28-year-old woman with hypothyroidism is prescribed levothyroxine. She is also taking ferrous sulphate for iron-deficiency anaemia. Her thyroid-stimulating hormone remains elevated despite adequate levothyroxine dosing. What is the most likely explanation?",
+    "options": [
+      "Iron deficiency impairs peripheral conversion of T4 to T3",
+      "Ferrous sulphate chelates levothyroxine in the gut, reducing its absorption",
+      "Iron supplementation increases hepatic thyroxine-binding globulin synthesis",
+      "Ferrous sulphate induces CYP3A4, accelerating levothyroxine metabolism",
+      "Iron excess causes thyroid peroxidase inhibition, reducing T4 synthesis"
+    ],
+    "correct": 1,
+    "explanation": "Ferrous sulphate (and other polyvalent cations including calcium carbonate, aluminium hydroxide, and cholestyramine) binds levothyroxine in the gastrointestinal tract, forming insoluble complexes that markedly reduce its oral absorption, resulting in inadequate thyroid hormone replacement. Levothyroxine should be taken on an empty stomach 30–60 minutes before food and separated from interfering substances by at least four hours. This is a clinically important and commonly missed cause of apparent levothyroxine resistance.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 38",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519536/"
+  },
+  {
+    "id": 402,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 45-year-old man with Cushing's disease awaiting surgery is started on a drug that inhibits adrenal steroidogenesis by blocking CYP11B1 (11-beta-hydroxylase). He develops hypertension and hypokalaemia. Which drug is being used, and what explains the electrolyte disturbance?",
+    "options": [
+      "Ketoconazole — inhibits multiple CYP enzymes causing mineralocorticoid accumulation",
+      "Metyrapone — blocks 11-beta-hydroxylase causing accumulation of 11-deoxycorticosterone, a mineralocorticoid",
+      "Mitotane — causes adrenal cortex destruction releasing stored mineralocorticoids",
+      "Mifepristone — blocks glucocorticoid receptors causing compensatory aldosterone rise",
+      "Aminoglutethimide — inhibits cholesterol side-chain cleavage causing ACTH surge"
+    ],
+    "correct": 1,
+    "explanation": "Metyrapone inhibits CYP11B1 (11-beta-hydroxylase), blocking the final step of cortisol synthesis; this causes accumulation of 11-deoxycorticosterone (DOC), a potent mineralocorticoid that acts on collecting duct mineralocorticoid receptors to cause sodium retention, hypertension, and hypokalaemia. Metyrapone is used as a short-term medical treatment for Cushing's disease and as a diagnostic test for adrenal reserve. Ketoconazole also inhibits adrenal steroidogenesis but through multiple CYP enzymes and does not cause the same degree of DOC accumulation.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 39",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482389/"
+  },
+  {
+    "id": 403,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 70-year-old woman with osteoporosis is started on alendronate. She is counselled on strict administration instructions. Which of the following adverse effects is most directly related to improper administration technique?",
+    "options": [
+      "Osteonecrosis of the jaw from systemic bisphosphonate accumulation",
+      "Oesophageal ulceration from prolonged contact of the tablet with the oesophageal mucosa",
+      "Atypical femoral fracture from suppression of bone turnover",
+      "Acute phase reaction with flu-like symptoms on first dose",
+      "Hypocalcaemia from excessive suppression of osteoclast activity"
+    ],
+    "correct": 1,
+    "explanation": "Oral bisphosphonates such as alendronate are highly irritant to the oesophageal mucosa and must be taken with a full glass of water in the upright position, remaining upright for at least 30 minutes, to prevent tablet retention in the oesophagus and caustic oesophagitis or ulceration. This local irritant effect — not systemic drug toxicity — is the reason for these strict administration requirements. Osteonecrosis of the jaw and atypical femoral fractures are rare but serious systemic adverse effects associated with long-term use, not administration technique.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 42",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470528/"
+  },
+  {
+    "id": 404,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 55-year-old man with type 2 diabetes and chronic kidney disease (eGFR 25 mL/min) needs additional glucose-lowering therapy. Which drug is contraindicated due to risk of lactic acidosis in this patient?",
+    "options": [
+      "Sitagliptin — accumulates causing pancreatitis",
+      "Insulin glargine — renal impairment increases hypoglycaemia risk",
+      "Metformin — accumulates in renal failure, increasing risk of lactic acidosis",
+      "Empagliflozin — ineffective at low eGFR as glucosuria requires adequate filtration",
+      "Linagliptin — predominantly renally excreted causing toxic accumulation"
+    ],
+    "correct": 2,
+    "explanation": "Metformin is renally excreted and accumulates in renal impairment, inhibiting hepatic mitochondrial complex I and impairing lactate metabolism; when serum metformin concentrations rise above therapeutic levels, lactic acidosis — a potentially fatal complication — can develop. Current guidelines contraindicate metformin when eGFR falls below 30 mL/min and recommend dose reduction when eGFR is 30–45 mL/min. Linagliptin is the only DPP-4 inhibitor that is predominantly hepatically eliminated and does not require dose adjustment in renal impairment, making it a preferred option in this patient.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526023/"
+  },
+  {
+    "id": 405,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 40-year-old woman is prescribed prednisolone 40 mg/day for severe asthma. After four weeks she develops proximal muscle weakness, central obesity, striae, and her blood glucose is elevated. Which mechanism best explains the hyperglycaemia?",
+    "options": [
+      "Prednisolone directly stimulates pancreatic glucagon secretion",
+      "Glucocorticoids increase hepatic gluconeogenesis and cause peripheral insulin resistance",
+      "Prednisolone inhibits insulin secretion by closing beta cell K_ATP channels",
+      "Glucocorticoids activate AMPK, increasing hepatic glucose output",
+      "Prednisolone competitively inhibits insulin binding to its receptor"
+    ],
+    "correct": 1,
+    "explanation": "Glucocorticoids cause steroid-induced hyperglycaemia through two main mechanisms: stimulation of hepatic gluconeogenesis (via upregulation of gluconeogenic enzymes) and induction of peripheral insulin resistance in skeletal muscle and adipose tissue by impairing insulin signalling downstream of the insulin receptor. The resulting hyperglycaemia is typically most pronounced in the afternoon and evening, reflecting peak prednisolone activity after morning dosing. Long-term steroid use can unmask latent type 2 diabetes or cause de novo steroid-induced diabetes requiring insulin therapy.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 39",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499969/"
+  },
+  {
+    "id": 406,
+    "subject": "Pharmacology",
+    "subtopic": "Endocrine Pharmacology",
+    "type": "clinical",
+    "question": "A 30-year-old woman with type 1 diabetes uses a basal-bolus insulin regimen. She takes insulin glargine at night and insulin aspart before meals. What pharmacokinetic property of insulin glargine makes it suitable as a basal insulin?",
+    "options": [
+      "Rapid onset and short duration matching mealtime glucose spikes",
+      "Intermediate duration with a pronounced peak at 6–8 hours",
+      "Prolonged, peakless action lasting 20–24 hours due to slow subcutaneous absorption",
+      "Immediate IV action suitable for hyperglycaemic emergencies",
+      "Hepatic first-pass metabolism producing a sustained active metabolite"
+    ],
+    "correct": 2,
+    "explanation": "Insulin glargine is a long-acting insulin analogue modified to be soluble at acidic pH but precipitate at physiological pH after subcutaneous injection, forming micro-crystals that dissolve slowly to provide a steady, peakless release over 20–24 hours — mimicking physiological basal insulin secretion. This flat pharmacokinetic profile reduces the risk of nocturnal hypoglycaemia compared to NPH insulin, which has a pronounced peak at 6–8 hours. Rapid-acting analogues like insulin aspart have a quick onset and short duration to control postprandial glucose excursions.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430900/"
   }
 ]
