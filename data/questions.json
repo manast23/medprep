@@ -6336,5 +6336,149 @@
     "explanation": "Clopidogrel is a prodrug that requires hepatic bioactivation by CYP2C19 to generate the active thiol metabolite that irreversibly blocks platelet P2Y12 ADP receptors; patients who are CYP2C19 poor metabolisers (carrying loss-of-function alleles) produce less active metabolite, resulting in reduced platelet inhibition and increased risk of recurrent MI or stent thrombosis. This pharmacogenomic interaction has led to FDA black box warnings and guidelines recommending alternative agents (prasugrel, ticagrelor) in poor metabolisers. Omeprazole and other PPI interactions occur via CYP2C19 inhibition for the same reason.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 34",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537339/"
+  },
+  {
+    "id": 374,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 55-year-old man with heart failure and severe peripheral oedema is given a diuretic that acts on the thick ascending limb of the loop of Henle. Despite adequate dosing, his response is diminished over several days. Which diuretic is being used, and what is the most likely explanation for reduced efficacy?",
+    "options": [
+      "Furosemide — tachyphylaxis from downregulation of NKCC2 cotransporters",
+      "Furosemide — braking phenomenon from compensatory distal tubular sodium reabsorption",
+      "Hydrochlorothiazide — resistance from aldosterone escape",
+      "Spironolactone — resistance from increased renin secretion",
+      "Acetazolamide — metabolic alkalosis limiting carbonic anhydrase inhibition"
+    ],
+    "correct": 1,
+    "explanation": "Furosemide inhibits the Na-K-2Cl (NKCC2) cotransporter in the thick ascending limb; with chronic use, the 'braking phenomenon' occurs as the distal nephron — particularly the distal convoluted tubule and collecting duct — compensatorily upregulates sodium reabsorption, blunting the overall natriuretic effect. This is compounded by activation of the renin-angiotensin-aldosterone system, which further promotes sodium retention. The response can be restored by adding a thiazide diuretic to block distal compensatory reabsorption — so-called sequential nephron blockade.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500032/"
+  },
+  {
+    "id": 375,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 62-year-old woman is prescribed hydrochlorothiazide for hypertension. Three months later she has elevated fasting glucose, hyponatraemia, hypokalaemia, and hyperuricaemia. Which mechanism best explains the hyperuricaemia?",
+    "options": [
+      "Thiazides directly inhibit xanthine oxidase, reducing uric acid excretion",
+      "Volume contraction increases proximal tubular uric acid reabsorption, reducing urinary excretion",
+      "Thiazides block uric acid secretion at the organic acid transporter in the proximal tubule",
+      "Thiazide-induced hypokalaemia activates purine catabolism",
+      "Thiazides increase hepatic uric acid synthesis via AMPK activation"
+    ],
+    "correct": 1,
+    "explanation": "Thiazide-induced volume contraction stimulates proximal tubular sodium and water reabsorption; uric acid is passively reabsorbed alongside sodium and water via the same proximal tubular pathway, reducing its urinary excretion and raising serum levels. This makes thiazides relatively contraindicated in gout. The metabolic side effects of thiazides — hypokalaemia, hyperglycaemia, hyperlipidaemia, and hyperuricaemia — are dose-related and were more prominent at the higher doses historically used.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557838/"
+  },
+  {
+    "id": 376,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 45-year-old man with primary hyperaldosteronism and hypertension is started on a drug that competitively blocks mineralocorticoid receptors in the collecting duct. After two weeks his blood pressure improves but he develops gynaecomastia and erectile dysfunction. Which drug is responsible?",
+    "options": [
+      "Amiloride",
+      "Eplerenone",
+      "Spironolactone",
+      "Triamterene",
+      "Furosemide"
+    ],
+    "correct": 2,
+    "explanation": "Spironolactone is a competitive aldosterone antagonist at mineralocorticoid receptors but also has significant anti-androgenic and progestogenic activity, causing gynaecomastia, breast tenderness, and sexual dysfunction in men as dose-dependent endocrine side effects. Eplerenone is a more selective mineralocorticoid receptor antagonist with negligible sex hormone receptor activity and therefore does not cause these endocrine effects. Both drugs are potassium-sparing and can cause hyperkalaemia, which must be monitored.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554579/"
+  },
+  {
+    "id": 377,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 30-year-old woman with idiopathic intracranial hypertension presents with headache and visual changes. She is started on a diuretic that inhibits carbonic anhydrase in the proximal tubule, reducing bicarbonate reabsorption. Which drug was prescribed, and what acid-base disturbance does it cause?",
+    "options": [
+      "Furosemide — metabolic alkalosis",
+      "Acetazolamide — hyperchloraemic metabolic acidosis",
+      "Hydrochlorothiazide — metabolic alkalosis",
+      "Spironolactone — metabolic alkalosis",
+      "Mannitol — metabolic acidosis"
+    ],
+    "correct": 1,
+    "explanation": "Acetazolamide inhibits carbonic anhydrase in the proximal tubule, impairing bicarbonate reabsorption and causing urinary bicarbonate loss, which produces a hyperchloraemic (normal anion gap) metabolic acidosis. This self-limiting effect also reduces its own diuretic potency over time as serum bicarbonate falls. In idiopathic intracranial hypertension, acetazolamide reduces CSF production by inhibiting choroid plexus carbonic anhydrase, providing symptomatic relief.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+  },
+  {
+    "id": 378,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 68-year-old man with type 2 diabetes and heart failure is started on a drug that inhibits the sodium-glucose cotransporter 2 (SGLT2) in the proximal tubule, lowering blood glucose and causing osmotic diuresis. Which drug class is this, and what is an important urological side effect to counsel about?",
+    "options": [
+      "GLP-1 receptor agonists — pancreatitis",
+      "SGLT2 inhibitors — genital mycotic infections",
+      "DPP-4 inhibitors — urinary tract infections",
+      "Thiazolidinediones — fluid retention and oedema",
+      "Sulfonylureas — hypoglycaemia"
+    ],
+    "correct": 1,
+    "explanation": "SGLT2 inhibitors (e.g. empagliflozin, dapagliflozin) block glucose reabsorption in the proximal tubule, causing glucosuria and osmotic diuresis; the increased glucose in urine promotes fungal overgrowth, resulting in genital mycotic infections (candidal balanitis in men, vulvovaginal candidiasis in women) as the most common side effect. Beyond glycaemic control, SGLT2 inhibitors have proven cardiovascular and renal protective benefits in heart failure and diabetic nephropathy. Euglycaemic diabetic ketoacidosis is a rarer but serious adverse effect that can occur even with near-normal glucose levels.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551663/"
+  },
+  {
+    "id": 379,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 50-year-old man with nephrotic syndrome and severe hypoalbuminaemia is given intravenous furosemide but has a blunted diuretic response despite high doses. What is the most likely pharmacokinetic explanation?",
+    "options": [
+      "Furosemide undergoes extensive first-pass metabolism in nephrotic syndrome",
+      "Furosemide is highly protein-bound and urinary albumin binding reduces free drug delivery to its tubular site of action",
+      "Nephrotic syndrome causes increased renal blood flow, diluting tubular drug concentration",
+      "Hypoalbuminaemia reduces furosemide absorption from the gut",
+      "Furosemide is filtered but not secreted into the tubule in nephrotic syndrome"
+    ],
+    "correct": 1,
+    "explanation": "Furosemide is highly protein-bound (~98%) and reaches its site of action — the luminal surface of the thick ascending limb — by active secretion into the tubular lumen via organic anion transporters in the proximal tubule. In nephrotic syndrome, massive proteinuria results in high urinary albumin concentrations; intratubular albumin binds free furosemide in the lumen, reducing the concentration of active drug available to inhibit NKCC2, causing diuretic resistance despite adequate systemic dosing. This can be partially overcome by dose escalation or by combining furosemide with albumin infusion.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500032/"
+  },
+  {
+    "id": 380,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 35-year-old man with recurrent calcium oxalate kidney stones is found to have hypercalciuria. His physician prescribes a diuretic that paradoxically reduces urinary calcium excretion. Which diuretic is being used and what is its mechanism?",
+    "options": [
+      "Furosemide — increases calcium excretion by blocking NKCC2 in the loop",
+      "Hydrochlorothiazide — reduces urinary calcium by stimulating distal tubular calcium reabsorption",
+      "Spironolactone — reduces calcium excretion by blocking aldosterone-mediated calcium secretion",
+      "Acetazolamide — reduces calcium excretion by alkalinising urine",
+      "Amiloride — blocks calcium channels in the collecting duct"
+    ],
+    "correct": 1,
+    "explanation": "Thiazide diuretics (e.g. hydrochlorothiazide) are unique among diuretics in that they reduce urinary calcium excretion by stimulating calcium reabsorption in the distal convoluted tubule; thiazide-induced mild volume contraction enhances proximal sodium and calcium reabsorption, and thiazides directly stimulate a luminal calcium channel (TRPV5) in the distal tubule. This makes thiazides the diuretic of choice for hypercalciuric calcium stone disease. Loop diuretics, in contrast, inhibit calcium reabsorption in the thick ascending limb and increase urinary calcium — hence their use in hypercalcaemia of malignancy.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557838/"
+  },
+  {
+    "id": 381,
+    "subject": "Pharmacology",
+    "subtopic": "Renal & Diuretics",
+    "type": "clinical",
+    "question": "A 60-year-old woman with acute oliguric renal failure following surgery is given mannitol intravenously to promote osmotic diuresis. Before administration, her serum osmolality is 295 mOsm/kg. Which of the following is the most important contraindication to mannitol in this clinical context?",
+    "options": [
+      "Hypokalaemia, as mannitol causes potassium wasting",
+      "Established anuria, as mannitol-induced plasma expansion may precipitate pulmonary oedema",
+      "Hypertension, as mannitol raises blood pressure via osmotic vasoconstriction",
+      "Metabolic alkalosis, as mannitol inhibits proximal bicarbonate reabsorption",
+      "Hyperglycaemia, as mannitol is metabolised to glucose"
+    ],
+    "correct": 1,
+    "explanation": "Mannitol is an osmotic diuretic that expands plasma volume by drawing fluid from the intracellular compartment into the vasculature; in established anuria (no urine output), this fluid cannot be excreted and accumulates intravascularly, potentially causing dangerous plasma volume expansion, pulmonary oedema, and worsening heart failure. Mannitol is therefore contraindicated in patients with anuria, severe pulmonary congestion, or established renal failure where diuresis cannot be provoked. It is most appropriate as a prophylactic agent before an insult occurs, not after anuria is established.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500032/"
   }
 ]
