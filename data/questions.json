@@ -6480,5 +6480,275 @@
     "explanation": "Mannitol is an osmotic diuretic that expands plasma volume by drawing fluid from the intracellular compartment into the vasculature; in established anuria (no urine output), this fluid cannot be excreted and accumulates intravascularly, potentially causing dangerous plasma volume expansion, pulmonary oedema, and worsening heart failure. Mannitol is therefore contraindicated in patients with anuria, severe pulmonary congestion, or established renal failure where diuresis cannot be provoked. It is most appropriate as a prophylactic agent before an insult occurs, not after anuria is established.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500032/"
+  },
+  {
+    "id": 382,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 24-year-old woman presents with dysuria and urinary frequency. Urine culture grows E. coli sensitive to multiple antibiotics. She is prescribed an antibiotic that inhibits bacterial DNA gyrase and topoisomerase IV. Two days later she reports tendon pain in her Achilles region. Which drug is responsible?",
+    "options": [
+      "Nitrofurantoin",
+      "Trimethoprim",
+      "Ciprofloxacin",
+      "Amoxicillin",
+      "Fosfomycin"
+    ],
+    "correct": 2,
+    "explanation": "Ciprofloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, preventing DNA supercoiling and replication; Achilles tendinopathy and tendon rupture are a well-recognised class effect of fluoroquinolones, particularly in patients over 60, those on corticosteroids, or with renal impairment. The FDA has issued black box warnings for fluoroquinolone-associated tendinitis and tendon rupture, as well as peripheral neuropathy and CNS effects. Nitrofurantoin and fosfomycin are alternative agents for uncomplicated UTI that do not carry this risk.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 46",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551577/"
+  },
+  {
+    "id": 383,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 32-year-old pregnant woman at 34 weeks gestation is diagnosed with a UTI caused by E. coli. Which antibiotic is contraindicated in the third trimester due to the risk of neonatal haemolytic anaemia and kernicterus?",
+    "options": [
+      "Amoxicillin",
+      "Nitrofurantoin",
+      "Cephalexin",
+      "Trimethoprim-sulfamethoxazole",
+      "Fosfomycin"
+    ],
+    "correct": 3,
+    "explanation": "Trimethoprim-sulfamethoxazole (co-trimoxazole) is contraindicated near term because sulfonamides displace bilirubin from albumin in the neonate, leading to kernicterus, and can cause haemolytic anaemia in neonates with G6PD deficiency. Trimethoprim is also a folate antagonist and is avoided in the first trimester. Nitrofurantoin is avoided at term (38–42 weeks) due to risk of neonatal haemolytic anaemia but is generally considered safe earlier in pregnancy. Amoxicillin and cephalexin are the safest options for UTI in pregnancy.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 46",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532276/"
+  },
+  {
+    "id": 384,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 19-year-old man is treated with doxycycline for Chlamydia trachomatis infection. He is counselled to avoid taking it with dairy products or antacids. What is the pharmacokinetic reason for this advice?",
+    "options": [
+      "Dairy products induce CYP3A4, increasing doxycycline metabolism",
+      "Calcium and magnesium ions chelate doxycycline, forming insoluble complexes that reduce oral absorption",
+      "Antacids raise gastric pH, causing doxycycline degradation",
+      "Dairy proteins competitively inhibit doxycycline's intestinal transporter",
+      "Doxycycline undergoes enterohepatic recirculation that is blocked by antacids"
+    ],
+    "correct": 1,
+    "explanation": "Tetracyclines including doxycycline chelate divalent and trivalent cations (Ca²⁺, Mg²⁺, Al³⁺, Fe²⁺) to form insoluble complexes in the gastrointestinal tract, dramatically reducing oral bioavailability. This is why tetracyclines must be taken on an empty stomach and not co-administered with dairy, antacids, iron supplements, or calcium-containing preparations. Doxycycline has somewhat better oral absorption than older tetracyclines and can be taken with a small amount of food if gastrointestinal upset is a concern, but dairy and antacids must still be avoided.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 44",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549795/"
+  },
+  {
+    "id": 385,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 45-year-old man develops antibiotic-associated diarrhoea after a course of clindamycin for a dental abscess. Stool testing is positive for Clostridioides difficile toxin. Which antibiotic is first-line treatment for mild-to-moderate C. difficile infection?",
+    "options": [
+      "Metronidazole IV",
+      "Oral vancomycin",
+      "Oral fidaxomicin or oral vancomycin",
+      "IV ceftriaxone",
+      "Oral clindamycin"
+    ],
+    "correct": 2,
+    "explanation": "Current guidelines recommend oral fidaxomicin or oral vancomycin as first-line treatment for mild-to-moderate C. difficile infection, as both achieve high intraluminal concentrations at the site of infection in the colon. Oral vancomycin is minimally absorbed from the gut, so it acts locally to eliminate C. difficile without significant systemic toxicity. Metronidazole is no longer preferred as first-line therapy due to inferior cure rates compared to vancomycin and fidaxomicin, though it remains an option when these agents are unavailable.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459458/"
+  },
+  {
+    "id": 386,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 70-year-old man with hospital-acquired pneumonia is started on vancomycin for suspected MRSA. His renal function deteriorates after three days and trough levels are found to be supratherapeutic. What is the mechanism of vancomycin's antibacterial action?",
+    "options": [
+      "Inhibition of DNA gyrase preventing bacterial DNA replication",
+      "Binding to D-Ala-D-Ala terminus of peptidoglycan precursors, inhibiting cell wall synthesis",
+      "Disruption of the bacterial 30S ribosomal subunit",
+      "Inhibition of dihydropteroate synthetase in folate synthesis",
+      "Pore formation in the bacterial outer membrane"
+    ],
+    "correct": 1,
+    "explanation": "Vancomycin is a glycopeptide antibiotic that binds to the D-Ala-D-Ala terminus of NAM/NAG peptide side chains in the peptidoglycan precursors, physically blocking transglycosylation and transpeptidation — the final steps in bacterial cell wall synthesis. MRSA resistance to beta-lactams (via altered PBPs) does not confer resistance to vancomycin, making it the cornerstone of MRSA treatment. Nephrotoxicity and ototoxicity are the major dose-related adverse effects, and trough-level monitoring (or AUC-guided dosing) is used to maintain efficacy while minimising toxicity.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 43",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459580/"
+  },
+  {
+    "id": 387,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 28-year-old man with no known allergies is prescribed amoxicillin-clavulanate for a skin infection. His friend suggests he take it with alcohol. What is the correct advice regarding alcohol interaction with this antibiotic?",
+    "options": [
+      "Alcohol is safe with amoxicillin-clavulanate but must be avoided with metronidazole",
+      "Alcohol must be avoided with all penicillins due to CYP2E1 induction",
+      "Alcohol is safe with amoxicillin-clavulanate and also with metronidazole",
+      "Alcohol must be avoided with amoxicillin due to risk of anaphylaxis",
+      "Alcohol significantly reduces amoxicillin bioavailability by increasing gastric motility"
+    ],
+    "correct": 0,
+    "explanation": "Amoxicillin-clavulanate has no clinically significant interaction with alcohol, and moderate alcohol consumption does not reduce its efficacy or cause toxicity. The classic antibiotic-alcohol interaction — a disulfiram-like reaction (flushing, nausea, tachycardia) — occurs specifically with metronidazole and certain cephalosporins (e.g. cefoperazone) containing an N-methylthiotetrazole side chain, which inhibit acetaldehyde dehydrogenase. Patients prescribed metronidazole must be counselled to strictly avoid alcohol during treatment and for 48 hours after the last dose.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537092/"
+  },
+  {
+    "id": 388,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 55-year-old man with tuberculosis is started on a four-drug regimen. After two months, he develops peripheral neuropathy. Which drug in the standard TB regimen is responsible, and how is this prevented?",
+    "options": [
+      "Rifampicin — prevented by avoiding fatty meals",
+      "Ethambutol — prevented by ophthalmological monitoring",
+      "Isoniazid — prevented by co-administration of pyridoxine (vitamin B6)",
+      "Pyrazinamide — prevented by adequate hydration",
+      "Streptomycin — prevented by renal function monitoring"
+    ],
+    "correct": 2,
+    "explanation": "Isoniazid (INH) inhibits mycobacterial cell wall synthesis by blocking mycolic acid production; it also competitively inhibits pyridoxal phosphate (vitamin B6)-dependent enzymes in human neurons, causing peripheral neuropathy — particularly in slow acetylators, malnourished patients, diabetics, alcoholics, and pregnant women. Routine co-administration of pyridoxine (vitamin B6) 25–50 mg/day prevents this complication. Ethambutol causes optic neuritis (colour vision and visual acuity loss), which is the distractor here as it is another vision-threatening TB drug side effect.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 47",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK548400/"
+  },
+  {
+    "id": 389,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 40-year-old man on antituberculous therapy presents with orange discolouration of his urine, tears, and sweat. His liver enzymes are also mildly elevated. Which drug is responsible for the discolouration?",
+    "options": [
+      "Isoniazid",
+      "Pyrazinamide",
+      "Rifampicin",
+      "Ethambutol",
+      "Streptomycin"
+    ],
+    "correct": 2,
+    "explanation": "Rifampicin is a rifamycin antibiotic that imparts a harmless red-orange colour to urine, tears, sweat, and saliva — a well-known and benign side effect that patients must be counselled about before starting treatment to prevent unnecessary alarm or non-adherence. More importantly, rifampicin is a potent inducer of hepatic CYP enzymes (CYP3A4, 2C9, 2C19) and can significantly reduce plasma levels of co-administered drugs including oral contraceptives, antiretrovirals, and warfarin. Hepatotoxicity is the most serious adverse effect of rifampicin and is monitored by liver function tests.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 47",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557593/"
+  },
+  {
+    "id": 390,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 6-year-old child is prescribed a tetracycline antibiotic by mistake for a chest infection. The parents are concerned. What is the primary adverse effect of tetracyclines in young children?",
+    "options": [
+      "Nephrotoxicity from accumulation in immature kidneys",
+      "Irreversible sensorineural hearing loss",
+      "Permanent yellow-brown tooth discolouration and inhibition of bone growth",
+      "Haemolytic anaemia from G6PD enzyme inhibition",
+      "Neurotoxicity causing seizures in children under 8"
+    ],
+    "correct": 2,
+    "explanation": "Tetracyclines chelate calcium and are deposited in developing teeth and bones; in children under 8 years, this causes permanent yellow-brown staining of the teeth and can inhibit long bone growth. For this reason, tetracyclines are contraindicated in children under 8 and in pregnant women (second and third trimester). The exception is doxycycline, which the CDC recommends for short courses in children of any age for specific indications such as Rocky Mountain spotted fever, where the risk of untreated disease outweighs the dental risk.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 44",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549795/"
+  },
+  {
+    "id": 391,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 50-year-old man with a penicillin allergy labelled as 'anaphylaxis' requires treatment for community-acquired pneumonia. The organism is sensitive to beta-lactams. Which antibiotic is safest to use given his allergy history?",
+    "options": [
+      "Amoxicillin — cross-reactivity with penicillin is negligible",
+      "Cefuroxime — second-generation cephalosporins are safe in penicillin anaphylaxis",
+      "Azithromycin or a respiratory fluoroquinolone — avoid all beta-lactams in true penicillin anaphylaxis",
+      "Imipenem — carbapenems have no cross-reactivity with penicillins",
+      "Piperacillin-tazobactam — extended-spectrum penicillins are safe after anaphylaxis"
+    ],
+    "correct": 2,
+    "explanation": "In patients with a documented history of IgE-mediated penicillin anaphylaxis, all beta-lactams (penicillins, cephalosporins, carbapenems) carry some risk of cross-reactivity and should be avoided unless no alternative exists and desensitisation is performed. For community-acquired pneumonia, azithromycin (a macrolide) or a respiratory fluoroquinolone (levofloxacin, moxifloxacin) provides adequate coverage without beta-lactam exposure. Cross-reactivity between penicillins and cephalosporins is approximately 1–2% in patients with confirmed IgE-mediated allergy, which is clinically significant.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 43",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/"
+  },
+  {
+    "id": 392,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 35-year-old HIV-positive man with a CD4 count of 60 cells/μL develops headache, fever, and confusion. CSF India ink stain shows encapsulated yeast. He is started on a drug that binds to ergosterol in fungal cell membranes, forming pores and causing cell lysis. Which drug is being used?",
+    "options": [
+      "Fluconazole",
+      "Voriconazole",
+      "Amphotericin B",
+      "Caspofungin",
+      "Flucytosine"
+    ],
+    "correct": 2,
+    "explanation": "Amphotericin B binds ergosterol in fungal cell membranes and forms transmembrane pores, causing leakage of intracellular ions and cell death; it is the drug of choice for severe cryptococcal meningitis (the diagnosis suggested by India ink and low CD4). Its major limitation is significant nephrotoxicity (azotaemia, tubular dysfunction) and infusion-related reactions (fever, rigors, hypotension), which can be mitigated by using lipid formulations. Fluconazole is used for consolidation and maintenance therapy after initial amphotericin B induction in cryptococcal meningitis.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 48",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545171/"
+  },
+  {
+    "id": 393,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 30-year-old woman with recurrent vulvovaginal candidiasis is prescribed oral fluconazole. What is the mechanism of action of azole antifungals?",
+    "options": [
+      "Binding to ergosterol, forming membrane pores",
+      "Inhibition of beta-1,3-glucan synthase, disrupting fungal cell wall synthesis",
+      "Inhibition of fungal CYP51 (lanosterol 14α-demethylase), reducing ergosterol synthesis",
+      "Incorporation into fungal DNA, causing strand breaks",
+      "Inhibition of fungal dihydrofolate reductase, blocking nucleotide synthesis"
+    ],
+    "correct": 2,
+    "explanation": "Azole antifungals (fluconazole, itraconazole, voriconazole) inhibit fungal cytochrome P450 enzyme CYP51 (lanosterol 14α-demethylase), which is essential for converting lanosterol to ergosterol — the principal sterol in fungal cell membranes. Depletion of ergosterol and accumulation of toxic sterol precursors disrupts membrane integrity and function. Because azoles are fungistatic rather than fungicidal, they rely on host immune defences to clear infection, which is why severely immunocompromised patients may require the fungicidal amphotericin B instead.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 48",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545171/"
+  },
+  {
+    "id": 394,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 22-year-old man presents with urethral discharge. Gram stain of the discharge shows Gram-negative diplococci. He is given a single IM dose of ceftriaxone. Why is dual therapy with azithromycin or doxycycline also recommended?",
+    "options": [
+      "Azithromycin potentiates ceftriaxone activity against Neisseria gonorrhoeae",
+      "To provide coverage for concurrent Chlamydia trachomatis co-infection, which is present in up to 40% of cases",
+      "Doxycycline prevents ceftriaxone-induced nephrotoxicity",
+      "Azithromycin prevents gonorrhoeal resistance to ceftriaxone by blocking efflux pumps",
+      "Dual therapy is required to achieve adequate CSF penetration for gonorrhoeal meningitis"
+    ],
+    "correct": 1,
+    "explanation": "Neisseria gonorrhoeae and Chlamydia trachomatis co-infection occurs in up to 20–40% of patients with gonorrhoea, and because Chlamydia testing is not always available at point of care, empirical dual therapy covers both pathogens simultaneously. Ceftriaxone is highly effective against N. gonorrhoeae, while azithromycin or doxycycline covers C. trachomatis. Current CDC guidelines recommend ceftriaxone monotherapy at higher dose (500 mg IM) for uncomplicated gonorrhoea, with addition of doxycycline only if chlamydial co-infection has not been excluded.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 46",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551577/"
+  },
+  {
+    "id": 395,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 60-year-old man with hospital-acquired pneumonia on mechanical ventilation is found to have Pseudomonas aeruginosa on bronchoalveolar lavage. Which antibiotic property is most important when selecting an agent for Pseudomonas coverage?",
+    "options": [
+      "High oral bioavailability to allow step-down therapy",
+      "Anti-pseudomonal activity with anti-biofilm properties",
+      "Narrow spectrum to preserve gut flora",
+      "Inhibition of protein synthesis to prevent toxin production",
+      "Intrinsic activity against anaerobes to prevent secondary infections"
+    ],
+    "correct": 1,
+    "explanation": "Pseudomonas aeruginosa is an intrinsically resistant organism with multiple resistance mechanisms (efflux pumps, outer membrane impermeability, beta-lactamases, biofilm formation), requiring agents with specific anti-pseudomonal activity such as piperacillin-tazobactam, cefepime, meropenem, ciprofloxacin, or ceftazidime. Pseudomonas forms biofilms on endotracheal tubes and medical devices, which dramatically reduce antibiotic penetration and increase treatment failure. Combination therapy (beta-lactam plus aminoglycoside or fluoroquinolone) may be used initially in severe infections to prevent emergence of resistance during treatment.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 43",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/"
+  },
+  {
+    "id": 396,
+    "subject": "Pharmacology",
+    "subtopic": "Antimicrobials",
+    "type": "clinical",
+    "question": "A 25-year-old woman with HIV is started on a combination antiretroviral regimen including tenofovir, emtricitabine, and efavirenz. Three weeks later she reports vivid dreams, dizziness, and difficulty concentrating. Which drug is responsible?",
+    "options": [
+      "Tenofovir — mitochondrial toxicity from nucleotide reverse transcriptase inhibition",
+      "Emtricitabine — CNS penetration causing dopaminergic side effects",
+      "Efavirenz — CNS side effects from non-nucleoside reverse transcriptase inhibition",
+      "Tenofovir — renal tubular dysfunction affecting CNS electrolyte balance",
+      "Emtricitabine — immune reconstitution inflammatory syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) notorious for CNS side effects — including vivid or disturbing dreams, dizziness, insomnia, impaired concentration, and rarely psychosis — that are most prominent in the first 2–4 weeks of therapy and often resolve with continued use. These effects are thought to result from efavirenz's activity as a positive allosteric modulator of GABA-A receptors and partial agonism at cannabinoid receptors. Tenofovir's main toxicities are nephrotoxicity and reduced bone mineral density, not CNS effects.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 49",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541126/"
   }
 ]
