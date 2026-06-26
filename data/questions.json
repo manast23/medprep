@@ -8010,5 +8010,185 @@
     "explanation": "Chlamydophila psittaci (psittacosis) causes atypical pneumonia with hilar lymphadenopathy acquired from exposure to infected birds — especially parrots, pigeons, and poultry. It is an obligate intracellular organism that cannot be cultured on standard media, has a Gram-negative-like cell wall without peptidoglycan, and requires special containment due to its infectivity. Diagnosis is serological. Histoplasma capsulatum is the important differential — it is a dimorphic fungus (not a bacterium) also associated with bird and bat droppings that causes a similar granulomatous pneumonia, but it is identified on culture as a mould at 25°C and yeast at 37°C, not by serology for Chlamydophila.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 27",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430783/"
+  },
+  {
+    "id": 467,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 35-year-old HIV-positive man with a CD4 count of 180 cells/μL presents with three weeks of productive cough, night sweats, and weight loss. Chest X-ray shows upper lobe cavitating infiltrates. Sputum smear stained with Ziehl-Neelsen stain shows red bacilli against a blue background. Which cell wall component is responsible for acid-fastness in this organism?",
+    "options": [
+      "Thick peptidoglycan layer trapping carbol fuchsin dye",
+      "Mycolic acids forming a waxy, lipid-rich outer layer that resists decolorisation with acid-alcohol",
+      "Lipopolysaccharide outer membrane retaining the primary stain",
+      "Teichoic acids cross-linking carbol fuchsin to the cell wall",
+      "Arabinogalactan forming a hydrophobic barrier preventing acid-alcohol penetration"
+    ],
+    "correct": 1,
+    "explanation": "Mycobacteria are acid-fast because their cell walls contain very long-chain mycolic acids (C60–C90 fatty acids) covalently linked to arabinogalactan and peptidoglycan, forming an extremely hydrophobic, waxy outer layer. This layer retains carbol fuchsin (the primary dye in Ziehl-Neelsen staining) even after decolorisation with 3% acid-alcohol — the defining feature of acid-fastness. This same lipid-rich wall confers resistance to many antibiotics, desiccation, and disinfectants, and slows bacterial growth (Mycobacterium tuberculosis divides every 15–20 hours compared to minutes for E. coli).",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK548400/"
+  },
+  {
+    "id": 468,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 40-year-old man with tuberculosis is started on standard four-drug therapy. After two months of treatment his sputum cultures remain positive. Sensitivity testing shows resistance to both isoniazid and rifampicin. Which term describes this pattern of resistance, and what is the implication for treatment?",
+    "options": [
+      "Extensively drug-resistant TB (XDR-TB) — resistant to isoniazid, rifampicin, a fluoroquinolone, and a second-line injectable",
+      "Multidrug-resistant TB (MDR-TB) — resistant to at least isoniazid and rifampicin, requiring second-line drugs for 18–24 months",
+      "Monoresistant TB — resistant to a single first-line drug, treated with adjusted first-line regimen",
+      "Polyresistant TB — resistant to two first-line drugs other than the isoniazid-rifampicin combination",
+      "Pan-resistant TB — resistant to all available anti-TB drugs"
+    ],
+    "correct": 1,
+    "explanation": "Multidrug-resistant tuberculosis (MDR-TB) is defined as resistance to at least isoniazid and rifampicin — the two most potent first-line anti-TB drugs — and requires treatment with second-line agents (fluoroquinolones, bedaquiline, linezolid) for 18–24 months with significantly lower cure rates and greater toxicity than drug-sensitive TB. MDR-TB arises from inadequate or incomplete treatment courses that allow selection of resistant mutants. Extensively drug-resistant TB (XDR-TB) is a subset of MDR-TB that is additionally resistant to fluoroquinolones and at least one second-line injectable, leaving very limited treatment options.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK548400/"
+  },
+  {
+    "id": 469,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 45-year-old HIV-positive man with a CD4 count of 40 cells/μL develops fever, night sweats, weight loss, and diarrhoea. Blood cultures grow acid-fast bacilli. The organism grows at 42°C and is identified as a non-chromogen. Which organism is responsible, and what is the recommended prophylaxis threshold?",
+    "options": [
+      "Mycobacterium tuberculosis — prophylaxis with isoniazid when CD4 <200",
+      "Mycobacterium avium complex — disseminated infection when CD4 <50, prophylaxis with azithromycin",
+      "Mycobacterium kansasii — photochromogen, causes pulmonary disease in COPD patients",
+      "Mycobacterium marinum — found in fish tanks, causes skin granulomas",
+      "Mycobacterium leprae — causes leprosy, cannot be cultured in vitro"
+    ],
+    "correct": 1,
+    "explanation": "Mycobacterium avium complex (MAC) causes disseminated infection in severely immunocompromised HIV patients when CD4 count falls below 50 cells/μL, presenting with fever, night sweats, weight loss, diarrhoea, hepatosplenomegaly, and anaemia; blood cultures are often positive as it disseminates widely via macrophages. MAC is a non-chromogen (non-pigment producing) that grows optimally at 42°C. Azithromycin (or clarithromycin) prophylaxis is recommended when CD4 <50 cells/μL. Treatment requires combination therapy with clarithromycin, ethambutol, and rifabutin.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557593/"
+  },
+  {
+    "id": 470,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 30-year-old man from a leprosy-endemic region presents with hypopigmented anaesthetic skin patches, thickened peripheral nerves, and claw hand deformity. Slit-skin smear shows acid-fast bacilli within macrophages. The organism cannot be cultured on artificial media. Which property of this organism explains the peripheral nerve involvement?",
+    "options": [
+      "The organism produces a neurotoxin that demyelinates peripheral nerves",
+      "The organism preferentially infects Schwann cells, which provide an optimal low-temperature intracellular environment",
+      "The organism invades dorsal root ganglia via axonal transport from skin lesions",
+      "The organism triggers a hyperimmune response that causes autoimmune neuritis",
+      "The organism produces mycolic acid deposits in peripheral nerve myelin sheaths"
+    ],
+    "correct": 1,
+    "explanation": "Mycobacterium leprae has a unique tropism for Schwann cells of peripheral nerves and skin macrophages; it preferentially infects cooler body sites (skin, peripheral nerves, anterior eye, testes) because its optimal growth temperature is 27–30°C. Within Schwann cells, M. leprae disrupts myelin production and causes demyelination, leading to sensory loss (anaesthetic skin patches), motor weakness, and autonomic dysfunction. The claw hand results from ulnar nerve thickening and damage. M. leprae is the only bacterium known to infect peripheral nerve Schwann cells as a primary target.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441918/"
+  },
+  {
+    "id": 471,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 60-year-old man with COPD and a history of alcohol use develops a chronic productive cough with cavitating lung lesions on CT. Sputum cultures grow a slow-growing mycobacterium that turns yellow-orange only after exposure to light (photochromogen). Which organism is responsible?",
+    "options": [
+      "Mycobacterium avium complex — non-chromogen, CD4-dependent opportunist",
+      "Mycobacterium kansasii — photochromogen, pulmonary disease mimicking TB in COPD patients",
+      "Mycobacterium scrofulaceum — scotochromogen, cervical lymphadenitis in children",
+      "Mycobacterium fortuitum — rapidly growing mycobacterium, wound infections",
+      "Mycobacterium tuberculosis — non-chromogen, primary TB pathogen"
+    ],
+    "correct": 1,
+    "explanation": "Mycobacterium kansasii is a photochromogen — it produces yellow-orange pigment (carotenoids) only when exposed to light, remaining unpigmented in the dark. It causes pulmonary disease virtually indistinguishable from tuberculosis, predominantly in middle-aged men with underlying lung disease (COPD, silicosis, prior TB). It is the most common NTM causing pulmonary disease after MAC. Treatment mirrors TB therapy with rifampicin, isoniazid, and ethambutol. Scotochromogens (e.g. M. scrofulaceum, M. gordonae) produce pigment in both light and dark conditions.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557593/"
+  },
+  {
+    "id": 472,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 55-year-old woman with a three-week history of atypical pneumonia does not respond to amoxicillin. She has a dry cough, headache, and myalgia. CXR shows patchy lower lobe infiltrates. Cold agglutinins are positive. Sputum Gram stain is unremarkable. Which organism is responsible, and why does it not respond to beta-lactam antibiotics?",
+    "options": [
+      "Streptococcus pneumoniae — resistant strain with altered penicillin-binding proteins",
+      "Mycoplasma pneumoniae — lacks a cell wall entirely, so beta-lactams have no target",
+      "Legionella pneumophila — intracellular organism not reached by penicillin",
+      "Chlamydophila pneumoniae — obligate intracellular, beta-lactams cannot penetrate host cells",
+      "Haemophilus influenzae — beta-lactamase producing strain inactivating amoxicillin"
+    ],
+    "correct": 1,
+    "explanation": "Mycoplasma pneumoniae is the most common cause of 'walking pneumonia' (atypical pneumonia) in young adults and is the classic cause of cold agglutinin-positive pneumonia. It is the smallest self-replicating bacterium and uniquely lacks a cell wall entirely, making it inherently resistant to all beta-lactam antibiotics (which target peptidoglycan synthesis) and also insensitive to glycopeptides. Treatment requires macrolides, tetracyclines, or fluoroquinolones which target intracellular processes. Its absence from Gram stain reflects its lack of a cell wall peptidoglycan layer.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 26",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430714/"
+  },
+  {
+    "id": 473,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 50-year-old man who works in air conditioning maintenance develops high fever, dry cough, pleuritic chest pain, and confusion five days after servicing a hotel cooling tower. CXR shows consolidation. Sputum Gram stain is unremarkable. Urine antigen test is positive. Which organism is responsible, and why does it appear poorly on Gram stain?",
+    "options": [
+      "Mycoplasma pneumoniae — lacks cell wall, Gram stain unremarkable",
+      "Legionella pneumophila — stains poorly with Gram stain, requires silver stain or DFA; detected by urinary antigen",
+      "Chlamydophila pneumoniae — obligate intracellular, not visible on Gram stain",
+      "Streptococcus pneumoniae — encapsulated, occasionally Gram stain negative in heavy sputum",
+      "Coxiella burnetii — Q fever, obligate intracellular, negative sputum culture"
+    ],
+    "correct": 1,
+    "explanation": "Legionella pneumophila causes Legionnaires' disease — a severe pneumonia with extrapulmonary features (confusion, hyponatraemia, diarrhoea) acquired via inhalation of contaminated aerosols from cooling towers, humidifiers, or plumbing systems. It stains very poorly with standard Gram stain due to its unusual lipid-rich outer membrane, but is visualised with silver stain (Dieterle) or direct fluorescent antibody (DFA); the urinary antigen test detects serogroup 1 (the most common) and is the most practical rapid diagnostic. As a facultative intracellular organism, it requires macrolide or fluoroquinolone therapy to reach it within alveolar macrophages.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 19",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430783/"
+  },
+  {
+    "id": 474,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 25-year-old woman presents with urethral discharge and pelvic pain. Endocervical swab Gram stain shows no organisms. Nucleic acid amplification testing (NAAT) is positive for Chlamydia trachomatis serovars D-K. Which lifecycle stage of this organism is the infectious, extracellular form?",
+    "options": [
+      "Reticulate body — metabolically active, divides by binary fission inside the cell",
+      "Elementary body — metabolically inactive, rigid cell wall, infectious extracellular form",
+      "Endospore — dormant form resistant to environmental stress",
+      "L-form — cell wall-deficient form evading antibiotic therapy",
+      "Trophozoite — active replicating form released from host cells"
+    ],
+    "correct": 1,
+    "explanation": "Chlamydia trachomatis has a unique biphasic life cycle: the elementary body (EB) is the small, rigid, metabolically inactive infectious form that attaches to and enters host cells; inside the cell it converts to the reticulate body (RB), the larger, metabolically active form that divides by binary fission within an inclusion. RBs then convert back to EBs, which are released to infect new cells. Beta-lactam antibiotics are ineffective because EBs lack peptidoglycan in their cell walls and RBs are intracellular; macrolides, doxycycline, and azithromycin are used for treatment.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 27",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430783/"
+  },
+  {
+    "id": 475,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A 40-year-old farmer develops fever, severe headache, and myalgia two weeks after delivering lambs on his farm. His wife, who had no direct animal contact but washed his contaminated clothing, also becomes ill. Serology shows a fourfold rise in phase II IgG antibodies. Which organism is responsible, and what makes it uniquely resistant to environmental destruction?",
+    "options": [
+      "Brucella abortus — facultative intracellular, acquired via direct animal contact or raw milk",
+      "Coxiella burnetii — obligate intracellular, forms spore-like endospores surviving months in the environment",
+      "Chlamydophila psittaci — obligate intracellular, psittacosis, acquired from birds not livestock",
+      "Rickettsia rickettsii — obligate intracellular, tick-borne, not transmitted via fomites",
+      "Francisella tularensis — obligate intracellular, tularaemia, associated with rabbits not sheep"
+    ],
+    "correct": 1,
+    "explanation": "Coxiella burnetii causes Q fever — an atypical pneumonia or flu-like illness acquired by inhalation of aerosols from infected animal placentas, amniotic fluid, and birth products (especially sheep, goats, and cattle). It forms spore-like structures (small cell variants) that are exceptionally resistant to desiccation, UV light, and many disinfectants, allowing survival in the environment for months and permitting infection without direct animal contact (e.g. via contaminated clothing or downwind aerosols). Phase II IgG serology (rather than phase I) is elevated in acute Q fever, while phase I IgG predominates in chronic Q fever endocarditis.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 25",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430882/"
+  },
+  {
+    "id": 476,
+    "subject": "Microbiology",
+    "subtopic": "Mycobacteria & Atypical Organisms",
+    "type": "clinical",
+    "question": "A tuberculin skin test (Mantoux test) is performed on a 30-year-old healthcare worker. At 48–72 hours, there is 16 mm of induration at the injection site. What type of hypersensitivity reaction is the basis of this test, and which cells mediate it?",
+    "options": [
+      "Type I (immediate) hypersensitivity — IgE-mediated mast cell degranulation",
+      "Type II (cytotoxic) hypersensitivity — IgG-mediated complement activation",
+      "Type III (immune complex) hypersensitivity — complement-fixing immune complexes in skin",
+      "Type IV (delayed-type) hypersensitivity — sensitised CD4+ T cells releasing cytokines causing macrophage infiltration",
+      "Type V (stimulatory) hypersensitivity — antibodies activating mycobacterial antigen receptors"
+    ],
+    "correct": 3,
+    "explanation": "The tuberculin skin test elicits a Type IV (delayed-type) hypersensitivity reaction mediated by previously sensitised CD4+ T helper 1 cells; upon intradermal injection of purified protein derivative (PPD), sensitised T cells recognise mycobacterial antigens, release IFN-γ and other cytokines, and recruit macrophages to the site, producing the characteristic indurated (firm, raised) reaction 48–72 hours later. The induration (not erythema) is measured and interpreted based on the patient's risk profile. A positive result indicates prior sensitisation (infection or BCG vaccination) but does not distinguish active from latent disease.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559023/"
   }
 ]
