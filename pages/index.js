@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { useRouter } from 'next/router'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
+import StarField from '../components/StarField'
 import questions from '../data/questions.json'
 import styles from '../styles/Home.module.css'
 
@@ -97,6 +98,7 @@ export default function Home() {
       <main>
         {/* Hero */}
         <section className={styles.hero}>
+          <StarField />
           <div className={styles.heroContent}>
             <div className={styles.heroText}>
               <div className={styles.heroTag}>Medical MCQ Practice</div>
@@ -145,6 +147,7 @@ export default function Home() {
 
         {/* Subjects */}
         <section id="subjects" className={styles.subjectsSection}>
+          <StarField />
           <div className={styles.sectionHeader}>
             <h2 className={styles.sectionTitle}>Choose Your Subject</h2>
             <p className={styles.sectionSubtitle}>Select a core module to begin your deep-dive preparation.</p>

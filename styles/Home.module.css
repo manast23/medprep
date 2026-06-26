@@ -15,14 +15,7 @@
 }
 
 .hero::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background-image: var(--dot-grid);
-  background-size: 28px 28px;
-  animation: gridPulse 4s ease-in-out infinite;
-  pointer-events: none;
-  z-index: 0;
+  display: none;
 }
 
 @keyframes gridPulse {
@@ -236,13 +229,7 @@
   overflow: hidden;
 }
 .settingsSectionWrap::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background-image: var(--dot-grid);
-  background-size: 24px 24px;
-  opacity: 0.8;
-  pointer-events: none;
+  display: none;
 }
 
 .settingsSection { max-width: 1400px; margin: 0 auto; position: relative; z-index: 1; padding: 0 48px; }

@@ -1,4 +1,5 @@
 import { useRouter } from 'next/router'
+import Image from 'next/image'
 import styles from './Navbar.module.css'
 
 export default function Navbar({ centerText, rightText, onCancel, onRestart }) {
@@ -8,7 +9,7 @@ export default function Navbar({ centerText, rightText, onCancel, onRestart }) {
   return (
     <nav className={styles.nav}>
       <div className={styles.logo} onClick={() => router.push('/')} style={{ cursor: 'pointer' }}>
-        <span className={styles.dot}></span>
+        <Image src="/brain.png" alt="MedPrep" width={28} height={28} className={styles.brainLogo} />
         <span className={styles.name}>MedPrep</span>
       </div>
       {centerText && <div className={styles.center}>{centerText}</div>}

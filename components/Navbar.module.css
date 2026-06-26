@@ -13,7 +13,7 @@
 }
 
 .logo { display: flex; align-items: center; gap: 8px; cursor: pointer; flex-shrink: 0; }
-.dot { width: 8px; height: 8px; border-radius: 50%; background: #10b981; display: inline-block; box-shadow: 0 0 6px #10b981; }
+.brainLogo { object-fit: contain; filter: drop-shadow(0 0 6px rgba(16,185,129,0.7)); }
 .name { font-size: 22px; font-weight: 800; color: #95d3ba; letter-spacing: -0.5px; }
 
 .homeLinks { display: flex; align-items: center; gap: 32px; }
