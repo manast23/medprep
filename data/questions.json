@@ -7020,5 +7020,95 @@
     "explanation": "Bulk-forming laxatives (psyllium, methylcellulose, ispaghula husk) are non-digestible polysaccharides that absorb water in the intestinal lumen to form a viscous gel, increasing stool bulk and water content, which stimulates peristalsis mechanically. They are the safest laxatives for long-term use and are recommended as first-line in most guidelines. Stimulant laxatives (senna, bisacodyl) directly activate the myenteric plexus and inhibit colonic water absorption; while effective, they cause cramping and are not suitable for prolonged daily use due to risk of electrolyte disturbance and possible melanosis coli.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537409/"
+  },
+  {
+    "id": 412,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "clinical",
+    "question": "A 35-year-old woman with breast cancer is started on cyclophosphamide-based chemotherapy. After her second cycle she presents with gross haematuria. Cystoscopy shows diffuse haemorrhagic inflammation of the bladder mucosa. Which mechanism explains this complication and how is it prevented?",
+    "options": [
+      "Cyclophosphamide directly irritates bladder epithelium; prevented by hydration alone",
+      "Acrolein, a toxic metabolite of cyclophosphamide, damages urothelium; prevented by co-administration of mesna",
+      "Cyclophosphamide causes immune-mediated bladder vasculitis; prevented by corticosteroids",
+      "Renal tubular excretion of cyclophosphamide causes concentrated urotoxic levels; prevented by alkalinisation",
+      "Cyclophosphamide metabolites form adducts with DNA in urothelial cells; prevented by N-acetylcysteine"
+    ],
+    "correct": 1,
+    "explanation": "Cyclophosphamide is metabolised in the liver to active alkylating species and acrolein, a highly reactive urotoxic by-product that concentrates in the bladder and damages the urothelium, causing haemorrhagic cystitis. Mesna (2-mercaptoethane sulfonate sodium) is co-administered to neutralise acrolein in the bladder by binding to it directly in the urine, preventing urothelial damage without affecting cyclophosphamide's antitumour activity. Adequate hydration is also recommended but is insufficient alone at high cyclophosphamide doses.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537239/"
+  },
+  {
+    "id": 413,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "clinical",
+    "question": "A 28-year-old man with choriocarcinoma achieves complete remission with methotrexate. His oncologist explains the drug works by inhibiting folate metabolism. What is the precise mechanism of methotrexate's cytotoxic action?",
+    "options": [
+      "Alkylation of DNA guanine residues causing cross-linking and strand breaks",
+      "Intercalation into DNA double helix disrupting replication and transcription",
+      "Inhibition of dihydrofolate reductase, depleting tetrahydrofolate and blocking thymidylate and purine synthesis",
+      "Inhibition of topoisomerase II, causing irreversible DNA double-strand breaks",
+      "Incorporation into RNA as a false nucleotide, causing premature chain termination"
+    ],
+    "correct": 2,
+    "explanation": "Methotrexate competitively inhibits dihydrofolate reductase (DHFR), preventing the reduction of dihydrofolate to tetrahydrofolate; without tetrahydrofolate, thymidylate synthase and purine synthesis are starved of one-carbon donors, halting DNA synthesis and causing S-phase cell death. Leucovorin (folinic acid) rescue bypasses DHFR to replenish tetrahydrofolate in normal cells after high-dose methotrexate, selectively protecting them without rescuing tumour cells that have accumulated higher intracellular methotrexate. DNA alkylation is the mechanism of cyclophosphamide, not methotrexate.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556114/"
+  },
+  {
+    "id": 414,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "clinical",
+    "question": "A 50-year-old man undergoes a renal transplant and is started on tacrolimus to prevent rejection. Three months later he develops new-onset hyperglycaemia and hypertension. What is the mechanism of tacrolimus's immunosuppressive action?",
+    "options": [
+      "Inhibition of inosine monophosphate dehydrogenase, blocking de novo purine synthesis in lymphocytes",
+      "Binding to FKBP12 to inhibit calcineurin, blocking IL-2 transcription and T-cell activation",
+      "Blockade of CD80/CD86 co-stimulatory signals preventing T-cell activation",
+      "Inhibition of mTOR, blocking cytokine-driven T-cell proliferation",
+      "Depletion of circulating T and B lymphocytes via complement-mediated lysis"
+    ],
+    "correct": 1,
+    "explanation": "Tacrolimus binds to the intracellular immunophilin FKBP12; the tacrolimus-FKBP12 complex inhibits calcineurin, a phosphatase that normally activates NFAT (nuclear factor of activated T-cells), thereby blocking transcription of IL-2 and other cytokines required for T-cell activation and proliferation. New-onset diabetes after transplant (NODAT) and nephrotoxicity are the most clinically significant adverse effects of tacrolimus, limiting its long-term use. Mycophenolate mofetil — not tacrolimus — inhibits inosine monophosphate dehydrogenase.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 55",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK548400/"
+  },
+  {
+    "id": 415,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "clinical",
+    "question": "A 60-year-old woman with non-small cell lung cancer harbouring an EGFR exon 19 deletion is started on erlotinib. She develops an acneiform rash on her face and chest. What does the rash indicate in this clinical context?",
+    "options": [
+      "A hypersensitivity reaction requiring immediate discontinuation of erlotinib",
+      "Erlotinib-induced folliculitis from EGFR inhibition in skin keratinocytes, which correlates with therapeutic response",
+      "Secondary bacterial skin infection from erlotinib-induced immunosuppression",
+      "Drug toxicity requiring dose reduction to prevent systemic EGFR blockade",
+      "Paraneoplastic skin manifestation indicating disease progression"
+    ],
+    "correct": 1,
+    "explanation": "Acneiform (papulopustular) rash is a class effect of EGFR inhibitors such as erlotinib and gefitinib, caused by EGFR blockade in skin keratinocytes and sebaceous glands where EGFR normally regulates proliferation and differentiation. Importantly, the severity of the rash correlates positively with tumour response and overall survival — patients who develop a pronounced rash tend to have better outcomes — so it is not an indication to stop therapy but to manage it supportively. Dose reduction is only considered for severe or refractory rash, not mild-to-moderate skin toxicity.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK563219/"
+  },
+  {
+    "id": 416,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "clinical",
+    "question": "A 55-year-old man with rheumatoid arthritis refractory to methotrexate is started on a biologic that blocks tumour necrosis factor-alpha (TNF-α). Before initiating therapy, he is screened for latent tuberculosis with a tuberculin skin test, which returns positive. What is the reason for this screening?",
+    "options": [
+      "TNF-α inhibitors impair hepatic metabolism of isoniazid, increasing its toxicity",
+      "TNF-α is essential for granuloma formation and maintenance; its blockade can reactivate latent TB by disrupting granuloma integrity",
+      "TNF-α blockade reduces neutrophil function, predisposing specifically to mycobacterial infection",
+      "Biologic agents cross-react with mycobacterial antigens, causing false-positive tuberculin tests",
+      "TNF-α inhibitors directly stimulate Mycobacterium tuberculosis replication in macrophages"
+    ],
+    "correct": 1,
+    "explanation": "TNF-α is a critical cytokine for the formation and structural integrity of granulomas — the immune structures that contain latent Mycobacterium tuberculosis infection. TNF-α inhibitors (etanercept, infliximab, adalimumab) disrupt granuloma maintenance, allowing reactivation of latent TB with risk of disseminated or miliary disease. All patients must be screened for latent TB before starting TNF-α inhibitors and treated with isoniazid prophylaxis if positive, before or concurrent with initiating the biologic. This risk applies to all TNF-α inhibitors as a class.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 55",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470410/"
   }
 ]
