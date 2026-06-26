@@ -6120,5 +6120,221 @@
     "explanation": "MAO inhibitors such as phenelzine and tranylcypromine irreversibly block monoamine oxidase, which normally metabolises tyramine in the gut wall and liver; ingestion of tyramine-rich foods (aged cheese, cured meats, red wine, fermented products) causes a hypertensive crisis due to massive norepinephrine release. This tyramine cheese reaction is potentially fatal and is the reason MAOIs are reserved for treatment-resistant depression. Tryptophan-rich foods are restricted to avoid serotonin syndrome when combined with serotonergic drugs, not as a general dietary restriction for all MAOI patients.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 30",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539852/"
+  },
+  {
+    "id": 362,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 58-year-old man with hypertension is started on a drug that blocks the renin-angiotensin system by inhibiting the conversion of angiotensin I to angiotensin II. Two weeks later he develops a persistent dry cough. Which drug is most likely responsible?",
+    "options": [
+      "Losartan",
+      "Enalapril",
+      "Amlodipine",
+      "Metoprolol",
+      "Hydrochlorothiazide"
+    ],
+    "correct": 1,
+    "explanation": "ACE inhibitors such as enalapril block the conversion of angiotensin I to angiotensin II and also inhibit the breakdown of bradykinin; bradykinin accumulation in the lungs stimulates cough receptors, producing the characteristic dry cough in up to 15% of patients. This side effect is a class effect of all ACE inhibitors and is the most common reason for switching to an angiotensin receptor blocker (ARB) such as losartan. ARBs block the AT1 receptor directly and do not affect bradykinin metabolism, so they do not cause cough.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 11",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430893/"
+  },
+  {
+    "id": 363,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 65-year-old woman with heart failure with reduced ejection fraction (HFrEF) is initiated on a beta-blocker. Her cardiologist starts her on a very low dose and titrates slowly. Which beta-blocker has proven mortality benefit in HFrEF and is therefore preferred?",
+    "options": [
+      "Atenolol",
+      "Metoprolol succinate",
+      "Propranolol",
+      "Sotalol",
+      "Labetalol"
+    ],
+    "correct": 1,
+    "explanation": "Metoprolol succinate (extended-release), carvedilol, and bisoprolol are the only beta-blockers with proven mortality reduction in HFrEF based on large randomised controlled trials. Short-acting propranolol and atenolol lack this evidence and are not indicated for heart failure. Slow up-titration is essential because beta-blockers can initially worsen heart failure by reducing contractility before the beneficial neurohormonal effects emerge.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 13",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537064/"
+  },
+  {
+    "id": 364,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 70-year-old man with atrial fibrillation is anticoagulated with warfarin. He is started on amiodarone for rate control. One week later his INR rises from 2.4 to 5.8 and he has a minor bleed. What is the mechanism of this interaction?",
+    "options": [
+      "Amiodarone displaces warfarin from plasma proteins",
+      "Amiodarone inhibits hepatic CYP2C9, reducing warfarin metabolism",
+      "Amiodarone induces CYP3A4, increasing warfarin clearance",
+      "Amiodarone reduces vitamin K absorption from the gut",
+      "Amiodarone increases warfarin renal excretion"
+    ],
+    "correct": 1,
+    "explanation": "Amiodarone is a potent inhibitor of CYP2C9 (the principal enzyme responsible for warfarin S-enantiomer metabolism) and also inhibits CYP3A4, leading to markedly reduced warfarin clearance and a potentially dangerous rise in INR. This interaction necessitates empirical warfarin dose reduction of 30–50% when amiodarone is started, with close INR monitoring. Amiodarone's exceptionally long half-life (40–55 days) means this interaction persists for weeks to months after the drug is stopped.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 14",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470583/"
+  },
+  {
+    "id": 365,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 55-year-old man presents with an acute ST-elevation MI. He is given aspirin in the emergency department. What is the primary mechanism by which aspirin reduces platelet aggregation in this setting?",
+    "options": [
+      "Blockade of ADP P2Y12 receptors on platelets",
+      "Irreversible inhibition of cyclooxygenase-1, reducing thromboxane A2 synthesis",
+      "Inhibition of glycoprotein IIb/IIIa receptors",
+      "Activation of antithrombin III",
+      "Inhibition of phosphodiesterase, increasing platelet cAMP"
+    ],
+    "correct": 1,
+    "explanation": "Aspirin irreversibly acetylates and inhibits cyclooxygenase-1 (COX-1) in platelets, preventing synthesis of thromboxane A2 (TXA2), which is a potent platelet activator and vasoconstrictor. Because platelets lack nuclei and cannot synthesise new COX-1, inhibition lasts the entire platelet lifespan (~7–10 days), making low-dose aspirin effective for long-term antiplatelet therapy. ADP receptor blockade is the mechanism of clopidogrel and other P2Y12 inhibitors, which are often combined with aspirin in dual antiplatelet therapy.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519546/"
+  },
+  {
+    "id": 366,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 60-year-old man with stable angina finds that his chest pain is triggered by exertion and relieved by rest. He is started on a drug that reduces myocardial oxygen demand by decreasing heart rate and contractility. Which drug class is being described?",
+    "options": [
+      "Nitrates",
+      "Calcium channel blockers — dihydropyridines",
+      "Beta-adrenergic blockers",
+      "Ranolazine",
+      "Ivabradine"
+    ],
+    "correct": 2,
+    "explanation": "Beta-adrenergic blockers reduce myocardial oxygen demand by decreasing heart rate, contractility (negative inotropy), and blood pressure, making them first-line agents for stable angina. By reducing heart rate they also increase diastolic filling time, improving coronary perfusion. Nitrates primarily act by reducing preload through venodilation and are used for acute angina relief, but beta-blockers are the cornerstone of long-term antianginal therapy with proven mortality benefit post-MI.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 12",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532906/"
+  },
+  {
+    "id": 367,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 72-year-old man with chronic kidney disease and hypertension has a potassium level of 5.8 mEq/L. His physician wants to add a diuretic that lowers blood pressure without worsening his hyperkalaemia. Which diuretic is most appropriate?",
+    "options": [
+      "Spironolactone",
+      "Amiloride",
+      "Furosemide",
+      "Eplerenone",
+      "Triamterene"
+    ],
+    "correct": 2,
+    "explanation": "Furosemide is a loop diuretic that blocks the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle, producing natriuresis and kaliuresis (urinary potassium wasting), which would help correct this patient's hyperkalaemia. Potassium-sparing diuretics — spironolactone, eplerenone, amiloride, and triamterene — block aldosterone or renal epithelial sodium channels, causing potassium retention and would dangerously worsen hyperkalaemia in this patient.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500032/"
+  },
+  {
+    "id": 368,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 48-year-old woman with hypertension and type 2 diabetes is started on a drug that blocks L-type calcium channels in vascular smooth muscle, causing vasodilation. After two weeks she reports bilateral ankle swelling. Which drug is responsible?",
+    "options": [
+      "Verapamil",
+      "Diltiazem",
+      "Amlodipine",
+      "Nifedipine",
+      "Clevidipine"
+    ],
+    "correct": 2,
+    "explanation": "Amlodipine is a dihydropyridine calcium channel blocker (CCB) that selectively acts on vascular smooth muscle L-type calcium channels, producing peripheral vasodilation; this preferentially dilates arterioles over venules, increasing capillary hydrostatic pressure and causing dependent oedema — the most common side effect. Non-dihydropyridine CCBs (verapamil, diltiazem) have significant cardiac effects (negative chronotropy and dromotropy) and cause less peripheral oedema. Switching to a renin-angiotensin blocker or combining amlodipine with an ACE inhibitor can reduce CCB-induced oedema.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 12",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482460/"
+  },
+  {
+    "id": 369,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 66-year-old man is started on a statin for primary prevention of cardiovascular disease. Three months later he reports muscle aches and his CK is 12 times the upper limit of normal. Which statin side effect is this, and what is the mechanism?",
+    "options": [
+      "Hepatotoxicity from CYP3A4 induction",
+      "Statin-induced myopathy from impaired CoQ10 and isoprenoid synthesis",
+      "Peripheral neuropathy from cholesterol depletion in nerve membranes",
+      "Rhabdomyolysis from direct mitochondrial calcium overload",
+      "Hyperglycaemia from HMGCR inhibition in pancreatic beta cells"
+    ],
+    "correct": 1,
+    "explanation": "Statin-induced myopathy results from inhibition of HMG-CoA reductase, which reduces not only cholesterol synthesis but also synthesis of isoprenoid intermediates including coenzyme Q10 (ubiquinone), essential for mitochondrial energy production in muscle cells; this impairs skeletal muscle metabolism and can progress from myalgia to myositis to rhabdomyolysis if the statin is continued. Risk is increased with higher doses, drug interactions (especially with CYP3A4 inhibitors that raise statin levels), hypothyroidism, and renal impairment. Hepatotoxicity is a separate, rarer adverse effect of statins.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 35",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519986/"
+  },
+  {
+    "id": 370,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 75-year-old man with atrial fibrillation and heart failure is on digoxin. He presents with nausea, visual disturbances (yellow-green halos), and ECG shows frequent premature ventricular contractions. His serum potassium is 2.9 mEq/L. What is the most likely explanation for his digoxin toxicity?",
+    "options": [
+      "Digoxin overdose causing direct sodium channel blockade",
+      "Hypokalaemia increasing digoxin binding to Na/K-ATPase",
+      "Hypokalaemia reducing digoxin renal clearance",
+      "Digoxin-induced thyroid dysfunction",
+      "Digoxin activating vagal tone excessively"
+    ],
+    "correct": 1,
+    "explanation": "Digoxin exerts its positive inotropic effect by inhibiting the Na/K-ATPase pump; hypokalaemia potentiates digoxin toxicity because potassium and digoxin compete for the same binding site on Na/K-ATPase — low extracellular potassium increases digoxin binding affinity and enhances its inhibitory effect. This produces cardiac arrhythmias (PVCs, AV block) and the classic non-cardiac symptoms of nausea and xanthopsia (yellow-green visual halos). Hypokalaemia is the most common precipitant of digoxin toxicity in clinical practice and is frequently caused by concurrent loop or thiazide diuretic use.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 13",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470554/"
+  },
+  {
+    "id": 371,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 52-year-old man presents with a hypertensive emergency (BP 220/130 mmHg) and acute aortic dissection. Which antihypertensive agent is most appropriate for immediate blood pressure reduction in this setting?",
+    "options": [
+      "Hydralazine IV bolus",
+      "Oral nifedipine",
+      "IV labetalol or esmolol",
+      "IV sodium nitroprusside alone",
+      "IV furosemide"
+    ],
+    "correct": 2,
+    "explanation": "In aortic dissection, beta-blockers (labetalol or esmolol IV) are the preferred first-line agents because they reduce both blood pressure and the rate of pressure rise (dP/dt), which is the key driver of dissection propagation. Pure vasodilators like hydralazine or nitroprusside without prior beta-blockade are contraindicated as they cause reflex tachycardia that worsens aortic wall stress. If vasodilation is needed for additional BP reduction, nitroprusside may be added only after adequate beta-blockade has been achieved.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 11",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441963/"
+  },
+  {
+    "id": 372,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 44-year-old woman with pulmonary arterial hypertension is started on a drug that inhibits phosphodiesterase type 5 (PDE5) in pulmonary vascular smooth muscle, increasing cGMP and causing vasodilation. Which drug was prescribed?",
+    "options": [
+      "Bosentan",
+      "Iloprost",
+      "Sildenafil",
+      "Ambrisentan",
+      "Epoprostenol"
+    ],
+    "correct": 2,
+    "explanation": "Sildenafil inhibits PDE5, the enzyme that degrades cGMP in pulmonary vascular smooth muscle; elevated cGMP activates protein kinase G, reducing intracellular calcium and causing pulmonary vasodilation, which decreases pulmonary vascular resistance. This is the same mechanism exploited in erectile dysfunction, where cGMP mediates penile smooth muscle relaxation. Bosentan and ambrisentan are endothelin receptor antagonists, while epoprostenol and iloprost are prostacyclin analogues — both different classes used in pulmonary arterial hypertension.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 12",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482457/"
+  },
+  {
+    "id": 373,
+    "subject": "Pharmacology",
+    "subtopic": "Cardiovascular Pharmacology",
+    "type": "clinical",
+    "question": "A 61-year-old man with a recent MI is started on clopidogrel in addition to aspirin. His cardiologist orders a CYP2C19 genotype test before prescribing. Why is this test clinically relevant for clopidogrel therapy?",
+    "options": [
+      "CYP2C19 poor metabolisers have higher clopidogrel levels and increased bleeding risk",
+      "CYP2C19 is required to convert clopidogrel from an active drug to an inactive metabolite",
+      "CYP2C19 poor metabolisers cannot convert clopidogrel to its active metabolite, reducing antiplatelet effect",
+      "CYP2C19 genotype determines clopidogrel renal excretion rate",
+      "CYP2C19 ultrarapid metabolisers are at risk of clopidogrel-induced agranulocytosis"
+    ],
+    "correct": 2,
+    "explanation": "Clopidogrel is a prodrug that requires hepatic bioactivation by CYP2C19 to generate the active thiol metabolite that irreversibly blocks platelet P2Y12 ADP receptors; patients who are CYP2C19 poor metabolisers (carrying loss-of-function alleles) produce less active metabolite, resulting in reduced platelet inhibition and increased risk of recurrent MI or stent thrombosis. This pharmacogenomic interaction has led to FDA black box warnings and guidelines recommending alternative agents (prasugrel, ticagrelor) in poor metabolisers. Omeprazole and other PPI interactions occur via CYP2C19 inhibition for the same reason.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537339/"
   }
 ]
