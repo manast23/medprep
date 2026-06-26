@@ -7740,5 +7740,275 @@
     "explanation": "Viridans streptococci (e.g. S. mutans, S. sanguinis, S. mitis) are alpha-haemolytic, optochin-resistant, and bile-insoluble — distinguishing them from S. pneumoniae which is optochin-sensitive and bile-soluble. They are normal oral flora that can enter the bloodstream during dental procedures or chemotherapy-related mucositis, causing bacteraemia and subacute bacterial endocarditis (SBE) in patients with underlying valvular disease. In neutropenic patients undergoing chemotherapy, oral mucositis provides a portal of entry and viridans streptococcal bacteraemia can be severe, even causing septic shock.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 14",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470571/"
+  },
+  {
+    "id": 452,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 19-year-old sexually active woman presents with purulent cervical discharge. Gram stain of the discharge shows Gram-negative diplococci inside neutrophils. The organism is oxidase-positive and ferments glucose but not maltose. Which organism is responsible, and how does it differ from a closely related species?",
+    "options": [
+      "Neisseria meningitidis — ferments both glucose and maltose, causes meningitis",
+      "Neisseria gonorrhoeae — ferments glucose only, causes urogenital infection",
+      "Moraxella catarrhalis — ferments neither glucose nor maltose, causes respiratory infections",
+      "Haemophilus ducreyi — Gram-negative rod, causes painful genital ulcer",
+      "Chlamydia trachomatis — obligate intracellular, not seen on Gram stain"
+    ],
+    "correct": 1,
+    "explanation": "Neisseria gonorrhoeae is an oxidase-positive Gram-negative diplococcus that ferments glucose only, distinguishing it from Neisseria meningitidis which ferments both glucose and maltose. Intracellular diplococci within neutrophils on urethral or cervical Gram stain is highly specific for gonococcal infection. Gonorrhoea is the most common bacterial STI and can cause pelvic inflammatory disease, ectopic pregnancy, and infertility if untreated; disseminated gonococcal infection presents with septic arthritis and skin pustules on an erythematous base.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482377/"
+  },
+  {
+    "id": 453,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 10-year-old unvaccinated child develops paroxysmal coughing fits followed by a characteristic inspiratory whoop and post-tussive vomiting. Nasopharyngeal swab culture on Bordet-Gengou agar grows small Gram-negative coccobacilli. Which virulence factor is responsible for the lymphocytosis seen on the full blood count?",
+    "options": [
+      "Tracheal cytotoxin — destroys ciliated epithelium preventing mucociliary clearance",
+      "Pertussis toxin — ADP-ribosylates Gi protein, increasing cAMP and causing lymphocytosis by blocking lymphocyte homing",
+      "Filamentous haemagglutinin — mediates attachment to respiratory epithelium",
+      "Adenylate cyclase toxin — enters phagocytes and impairs killing of the organism",
+      "Lipooligosaccharide — triggers inflammatory cytokine release causing systemic effects"
+    ],
+    "correct": 1,
+    "explanation": "Bordetella pertussis pertussis toxin ADP-ribosylates the Gi alpha subunit of G-proteins in lymphocytes, disabling the chemokine receptor signalling needed for lymphocyte homing from blood into lymph nodes; this traps lymphocytes in the circulation, producing the striking lymphocytosis (often >20 × 10⁹/L) that is a diagnostic clue to whooping cough. Pertussis toxin also increases cAMP in respiratory epithelial cells. Tracheal cytotoxin and adenylate cyclase toxin are other important virulence factors but do not cause lymphocytosis.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519590/"
+  },
+  {
+    "id": 454,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 35-year-old man presents with bloody diarrhoea, severe abdominal cramps, and low-grade fever after eating undercooked hamburger at a barbecue. Stool culture grows sorbitol-negative E. coli on MacConkey-sorbitol agar. Three days later he develops oliguria and his blood tests show microangiopathic haemolytic anaemia and thrombocytopenia. Which toxin is responsible for this complication?",
+    "options": [
+      "Heat-labile enterotoxin activating adenylate cyclase causing secretory diarrhoea",
+      "Shiga toxin cleaving 28S rRNA in endothelial cells of glomeruli, causing haemolytic uraemic syndrome",
+      "Haemolysin disrupting red blood cell membranes causing haemolysis",
+      "Cytotoxin necrotising factor inducing actin polymerisation in glomerular cells",
+      "Intimin mediating intimate attachment to renal endothelium causing thrombosis"
+    ],
+    "correct": 1,
+    "explanation": "Enterohaemorragic E. coli O157:H7 produces Shiga toxin (Stx1 and Stx2), an A-B toxin whose A subunit is an N-glycosidase that cleaves a single adenine from the 28S rRNA of the 60S ribosomal subunit, halting protein synthesis and killing endothelial cells — particularly in glomerular capillaries. The resulting endothelial injury triggers microangiopathic haemolytic anaemia, thrombocytopenia, and acute kidney injury — the triad of haemolytic uraemic syndrome (HUS). Antibiotics are avoided as they increase Shiga toxin release. Sorbitol-negative colonies on MacConkey-sorbitol agar selectively identify E. coli O157:H7.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562295/"
+  },
+  {
+    "id": 455,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 50-year-old man with alcoholic liver disease develops spontaneous bacterial peritonitis. Ascitic fluid culture grows a Gram-negative rod that is lactose-fermenting, urease-positive, and produces very mucoid colonies with a 'string test' positive result. Chest X-ray shows a cavitating right upper lobe infiltrate. Which organism is responsible?",
+    "options": [
+      "Escherichia coli — most common cause of spontaneous bacterial peritonitis",
+      "Klebsiella pneumoniae — mucoid capsule, causes pneumonia and SBP in alcoholics",
+      "Proteus mirabilis — urease-positive, associated with struvite kidney stones",
+      "Pseudomonas aeruginosa — non-lactose fermenter, oxidase-positive",
+      "Serratia marcescens — produces red pigment, nosocomial infections"
+    ],
+    "correct": 1,
+    "explanation": "Klebsiella pneumoniae produces a thick hypermucoviscous polysaccharide capsule (positive string test — colony stretching >5mm on wire loop), ferments lactose, is urease-positive, and causes a characteristic 'currant jelly' sputum pneumonia in alcoholics due to the necrotic, blood-tinged mucoid nature of the exudate. It is an increasingly recognised cause of spontaneous bacterial peritonitis in cirrhotic patients alongside E. coli. The cavitating right upper lobe pneumonia in an alcoholic strongly points to Klebsiella; E. coli is the most common cause of SBP overall but does not typically cause cavitating pneumonia.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562295/"
+  },
+  {
+    "id": 456,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 30-year-old woman develops a painless, indurated genital ulcer that is clean-based with raised, rolled edges. Dark-field microscopy is negative. She reports a sexual contact in an endemic region. Biopsy of the lesion shows 'Donovan bodies' — intracellular Gram-negative rods inside macrophages. Which organism is responsible?",
+    "options": [
+      "Treponema pallidum — primary syphilis chancre",
+      "Haemophilus ducreyi — chancroid, painful ulcer with ragged edges",
+      "Klebsiella granulomatis — donovanosis (granuloma inguinale)",
+      "Chlamydia trachomatis L1-L3 — lymphogranuloma venereum",
+      "Calymmatobacterium granulomatis — a different name for the same organism causing donovanosis"
+    ],
+    "correct": 2,
+    "explanation": "Donovanosis (granuloma inguinale) is caused by Klebsiella granulomatis (formerly Calymmatobacterium granulomatis), a Gram-negative intracellular rod that presents as a painless, progressive, beefy-red genital ulcer with clean raised edges — distinct from the painful ulcer of chancroid and the clean-based but less indurated chancre of syphilis. The pathognomonic finding is Donovan bodies — encapsulated intracellular Gram-negative rods within large mononuclear cells on tissue smear or biopsy. Dark-field microscopy would be positive in primary syphilis but is negative here, pointing away from Treponema pallidum.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534780/"
+  },
+  {
+    "id": 457,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 45-year-old man returns from a trip to South America with profuse watery diarrhoea described as 'rice-water stool,' severe dehydration, and sunken eyes. Stool culture on TCBS agar shows yellow colonies. Which virulence mechanism explains the massive fluid loss in this condition?",
+    "options": [
+      "Invasion of colonic mucosa causing bloody inflammatory diarrhoea",
+      "Shiga toxin cleaving ribosomal RNA in enterocytes causing cell death",
+      "Cholera toxin ADP-ribosylating Gs alpha, constitutively activating adenylate cyclase and causing massive chloride and water secretion",
+      "Heat-stable enterotoxin activating guanylate cyclase increasing cGMP",
+      "Cytotoxin disrupting tight junctions increasing paracellular fluid leak"
+    ],
+    "correct": 2,
+    "explanation": "Vibrio cholerae produces cholera toxin (CT), an A-B toxin where the A subunit irreversibly ADP-ribosylates the Gs alpha subunit of adenylate cyclase, causing constitutive cAMP production in intestinal epithelial cells; elevated cAMP activates CFTR chloride channels and inhibits Na/Cl absorption, producing voluminous isotonic secretory diarrhoea (up to 20 L/day) — the rice-water stool of cholera. Treatment is aggressive oral or IV rehydration; antibiotics shorten illness duration but fluid replacement is lifesaving. TCBS agar is selective for Vibrio species, with V. cholerae producing yellow sucrose-fermenting colonies.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430780/"
+  },
+  {
+    "id": 458,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 7-year-old child develops right iliac fossa pain mimicking appendicitis. At laparotomy the appendix is normal but mesenteric lymph nodes are enlarged and inflamed. Lymph node culture grows a Gram-negative coccobacillus that is urease-positive, oxidase-positive, and grows at 4°C. Which organism is responsible, and what is the typical exposure?",
+    "options": [
+      "Salmonella enteritidis — poultry and egg exposure",
+      "Yersinia enterocolitica — contaminated pork or unpasteurised milk, cold-enrichment growth",
+      "Campylobacter jejuni — undercooked poultry, causes mesenteric adenitis and reactive arthritis",
+      "Enteropathogenic E. coli — contaminated water in developing countries",
+      "Brucella species — exposure to infected livestock causing granulomatous lymphadenitis"
+    ],
+    "correct": 1,
+    "explanation": "Yersinia enterocolitica infects via contaminated pork products or unpasteurised milk and has a tropism for Peyer's patches and mesenteric lymph nodes, producing mesenteric adenitis that mimics appendicitis clinically — a presentation sometimes called pseudoappendicitis. It is urease-positive and oxidase-positive, and uniquely grows at refrigerator temperatures (4°C, cold-enrichment), which is used in the laboratory to select for the organism. Reactive arthritis and erythema nodosum are post-infectious complications. Campylobacter also causes mesenteric adenitis but is urease-negative and oxidase-positive.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557513/"
+  },
+  {
+    "id": 459,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 55-year-old man develops fever, rigors, and a rapidly expanding, exquisitely painful erythematous leg wound 24 hours after a saltwater fish bite. The wound has a haemorrhagic bulla. Blood cultures grow a curved, oxidase-positive Gram-negative rod. Which organism is responsible, and which patient group is at highest risk of fatal infection?",
+    "options": [
+      "Aeromonas hydrophila — freshwater exposure, causes gastroenteritis and wound infection",
+      "Vibrio vulnificus — saltwater exposure, primary septicaemia in patients with liver disease or iron overload",
+      "Pseudomonas aeruginosa — ecthyma gangrenosum in neutropenic patients",
+      "Vibrio parahaemolyticus — raw seafood ingestion causing acute gastroenteritis",
+      "Erysipelothrix rhusiopathiae — fish handler's disease, erysipeloid skin lesion"
+    ],
+    "correct": 1,
+    "explanation": "Vibrio vulnificus is a curved, oxidase-positive Gram-negative rod found in warm saltwater and raw shellfish that causes rapidly progressive necrotising wound infections and primary septicaemia with a mortality rate exceeding 50%. Patients with liver disease (cirrhosis, hepatitis), haemochromatosis, or other conditions causing iron overload are at dramatically increased risk because V. vulnificus requires iron for growth and the elevated free iron in these conditions fuels explosive bacterial proliferation. The haemorrhagic bullae are a hallmark of the necrotising wound infection. Vibrio parahaemolyticus typically causes self-limited gastroenteritis rather than severe wound infection.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430780/"
+  },
+  {
+    "id": 460,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 40-year-old veterinarian develops undulant fever with night sweats, arthralgia, and hepatosplenomegaly after assisting with the delivery of a calf on a dairy farm. Blood cultures incubated for three weeks in enriched broth grow small Gram-negative coccobacilli. Which organism is responsible, and what is the mechanism of its intracellular survival?",
+    "options": [
+      "Coxiella burnetii — obligate intracellular, Q fever, acquired via inhalation of aerosols",
+      "Brucella species — facultative intracellular, survives in macrophages by inhibiting phagolysosome fusion",
+      "Francisella tularensis — obligate intracellular, tularaemia, acquired via rabbit contact or tick bite",
+      "Bartonella henselae — facultative intracellular, cat scratch disease, acquired via cat scratch",
+      "Leptospira interrogans — spirochaete, leptospirosis, acquired via water contaminated with animal urine"
+    ],
+    "correct": 1,
+    "explanation": "Brucella species (B. melitensis from goats/sheep, B. abortus from cattle) cause brucellosis — a zoonotic infection characterised by undulant (relapsing) fever, night sweats, arthralgia, and hepatosplenomegaly. Brucella are facultative intracellular organisms that survive within macrophage phagosomes by inhibiting phagolysosome fusion (via lipopolysaccharide modifications and the BvrR/BvrS regulatory system), enabling chronic persistent infection. Blood cultures require prolonged incubation (up to 3 weeks) in enriched broth due to slow growth. Coxiella burnetii also causes culture-negative fever but is obligate intracellular and acquired via aerosol inhalation, not animal contact.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 20",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430783/"
+  },
+  {
+    "id": 461,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 65-year-old man on chemotherapy develops ecthyma gangrenosum — a black necrotic skin lesion with surrounding erythema — and bacteraemia. His absolute neutrophil count is 200/μL. Blood cultures grow an oxidase-positive, non-lactose fermenting Gram-negative rod with blue-green pigment. What is the pathophysiology of the skin lesion?",
+    "options": [
+      "Direct haematogenous seeding of the dermis with subsequent bacterial proliferation",
+      "Vascular invasion by the organism causing ischaemic necrosis without bacteraemia required",
+      "Haematogenous seeding of dermal vessels with bacterial invasion of vessel walls, causing occlusive vasculitis and ischaemic necrosis",
+      "Exotoxin-mediated cleavage of dermal desmoglein causing skin detachment",
+      "Immune complex deposition in dermal capillaries causing vasculitis"
+    ],
+    "correct": 2,
+    "explanation": "Ecthyma gangrenosum is pathognomonic of Pseudomonas aeruginosa septicaemia in neutropenic patients; the organism seeds dermal blood vessels haematogenously and invades vessel walls, causing thrombosis, ischaemic necrosis, and the characteristic black eschar with erythematous rim. Bacterial invasion of the vessel wall — not just perivascular infection — is the key pathological feature, explaining why the lesion can occur without direct inoculation. In neutropenic patients, the absence of functional phagocytes allows explosive bacterial multiplication; ecthyma gangrenosum is a clinical emergency requiring immediate antipseudomonal therapy.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430714/"
+  },
+  {
+    "id": 462,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 25-year-old man develops dysuria, urethral discharge, and an inflamed, tender right knee with a pustular skin rash on the trunk. Blood cultures are negative. Gram stain of the joint aspirate shows Gram-negative diplococci. Which feature distinguishes disseminated gonococcal infection from septic arthritis caused by other organisms?",
+    "options": [
+      "Disseminated gonococcal infection always produces purulent joint fluid with >50,000 WBC/μL",
+      "Joint fluid cultures are typically negative in disseminated gonococcal infection despite joint inflammation",
+      "Disseminated gonococcal infection exclusively affects weight-bearing joints",
+      "The skin rash in DGI consists of vesicles rather than pustules on an erythematous base",
+      "DGI is distinguished by fever above 40°C and systemic sepsis"
+    ],
+    "correct": 1,
+    "explanation": "Disseminated gonococcal infection (DGI) characteristically produces a triad of polyarthritis/tenosynovitis, skin pustules on an erythematous base, and urogenital infection; joint fluid cultures are frequently negative because the organism is present in very low numbers in the joint and is fastidious, making blood and urogenital cultures more likely to be positive. This stands in contrast to non-gonococcal septic arthritis (e.g. S. aureus) where joint fluid cultures are almost always positive and WBC counts are very high. The diagnosis of DGI often relies on clinical presentation and culture of the primary site.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482377/"
+  },
+  {
+    "id": 463,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 60-year-old man with chronic obstructive pulmonary disease is admitted with an acute exacerbation and purulent sputum. Culture grows a Gram-negative diplococcus that is oxidase-positive, DNase-positive, and beta-lactamase positive. It does not ferment any sugars. Which organism is responsible?",
+    "options": [
+      "Neisseria meningitidis — ferments glucose and maltose",
+      "Neisseria gonorrhoeae — ferments glucose only",
+      "Moraxella catarrhalis — oxidase-positive, DNase-positive, no sugar fermentation, common respiratory pathogen",
+      "Haemophilus influenzae — requires X and V factors, ferments glucose",
+      "Streptococcus pneumoniae — Gram-positive, alpha-haemolytic"
+    ],
+    "correct": 2,
+    "explanation": "Moraxella catarrhalis is an oxidase-positive, DNase-positive Gram-negative diplococcus that does not ferment any sugars, distinguishing it from Neisseria species. It is the third most common bacterial cause of acute exacerbations of COPD after H. influenzae and S. pneumoniae. Nearly all strains produce beta-lactamase, making amoxicillin ineffective; amoxicillin-clavulanate, macrolides, or respiratory fluoroquinolones are appropriate alternatives. Its 'hockey puck' colony appearance (colonies can be slid intact across the agar surface) is a distinguishing laboratory feature.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 15",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482377/"
+  },
+  {
+    "id": 464,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 35-year-old woman presents with dysuria and foul-smelling urine. Urine culture grows a Gram-negative rod that is urease-positive, produces a 'swarming' pattern across the agar plate, and forms struvite (triple phosphate) kidney stones. Which organism is responsible?",
+    "options": [
+      "Escherichia coli — most common UTI pathogen, urease-negative",
+      "Proteus mirabilis — urease-positive, swarming motility, associated with struvite stones",
+      "Klebsiella pneumoniae — urease-positive, mucoid, non-swarming",
+      "Pseudomonas aeruginosa — oxidase-positive, non-fermenter",
+      "Enterococcus faecalis — Gram-positive, catalase-negative"
+    ],
+    "correct": 1,
+    "explanation": "Proteus mirabilis is a Gram-negative rod with characteristic swarming motility across agar and potent urease production; urease hydrolyses urea to ammonia, alkalinising the urine, which precipitates magnesium ammonium phosphate (struvite) stones — sometimes forming large 'staghorn calculi' that fill the renal pelvis. These stones can harbour bacteria within their matrix, perpetuating chronic UTI. P. mirabilis is a common UTI pathogen in patients with urinary catheters and structural urinary tract abnormalities. The combination of swarming motility and urease distinguishes it from other Gram-negative UTI pathogens.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562295/"
+  },
+  {
+    "id": 465,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 28-year-old pregnant woman at 38 weeks develops fever, uterine tenderness, and foul-smelling amniotic fluid. She gives birth to a premature infant who rapidly develops sepsis. Blood cultures from both mother and infant grow a curved, microaerophilic Gram-negative rod. Oxidase and catalase are both positive. Which organism is responsible?",
+    "options": [
+      "Escherichia coli — straight rod, aerobic, common neonatal sepsis pathogen",
+      "Campylobacter fetus — curved Gram-negative rod, causes bacteraemia and perinatal infection",
+      "Listeria monocytogenes — Gram-positive rod, tumbling motility, causes neonatal meningitis",
+      "Group B Streptococcus — Gram-positive cocci, CAMP test positive, most common neonatal sepsis",
+      "Bacteroides fragilis — obligate anaerobe, associated with intra-abdominal abscess"
+    ],
+    "correct": 1,
+    "explanation": "Campylobacter fetus (as opposed to C. jejuni) is a curved, microaerophilic, oxidase- and catalase-positive Gram-negative rod with a tropism for vascular endothelium and the placenta, making it a cause of bacteraemia, thrombophlebitis, and perinatal infection including chorioamnionitis, premature delivery, and neonatal sepsis. C. jejuni more commonly causes self-limited enterocolitis; C. fetus is the Campylobacter species associated with systemic and perinatal infections, particularly in immunocompromised and pregnant patients. Listeria is the key distractor as it also causes neonatal infection via transplacental transmission but is Gram-positive.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430780/"
+  },
+  {
+    "id": 466,
+    "subject": "Microbiology",
+    "subtopic": "Gram-negative Bacteria",
+    "type": "clinical",
+    "question": "A 55-year-old immunocompromised man develops a chronic granulomatous pneumonia with hilar lymphadenopathy after cleaning a chicken coop. Sputum culture requires weeks to grow a small Gram-negative coccobacillus. Serology confirms the diagnosis. Which organism is responsible, and what is its classification?",
+    "options": [
+      "Histoplasma capsulatum — dimorphic fungus, not a bacterium, endemic to Ohio/Mississippi River valley",
+      "Francisella tularensis — obligate intracellular Gram-negative coccobacillus, tularaemia via tick or rabbit contact",
+      "Coxiella burnetii — obligate intracellular organism, Q fever, acquired via aerosol from livestock",
+      "Chlamydophila psittaci — obligate intracellular, psittacosis from bird exposure, Gram-negative-like",
+      "Legionella pneumophila — facultative intracellular Gram-negative rod, Pontiac fever and Legionnaires' disease"
+    ],
+    "correct": 3,
+    "explanation": "Chlamydophila psittaci (psittacosis) causes atypical pneumonia with hilar lymphadenopathy acquired from exposure to infected birds — especially parrots, pigeons, and poultry. It is an obligate intracellular organism that cannot be cultured on standard media, has a Gram-negative-like cell wall without peptidoglycan, and requires special containment due to its infectivity. Diagnosis is serological. Histoplasma capsulatum is the important differential — it is a dimorphic fungus (not a bacterium) also associated with bird and bat droppings that causes a similar granulomatous pneumonia, but it is identified on culture as a mould at 25°C and yeast at 37°C, not by serology for Chlamydophila.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 27",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430783/"
   }
 ]
