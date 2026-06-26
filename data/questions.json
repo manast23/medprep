@@ -6930,5 +6930,95 @@
     "explanation": "Insulin glargine is a long-acting insulin analogue modified to be soluble at acidic pH but precipitate at physiological pH after subcutaneous injection, forming micro-crystals that dissolve slowly to provide a steady, peakless release over 20–24 hours — mimicking physiological basal insulin secretion. This flat pharmacokinetic profile reduces the risk of nocturnal hypoglycaemia compared to NPH insulin, which has a pronounced peak at 6–8 hours. Rapid-acting analogues like insulin aspart have a quick onset and short duration to control postprandial glucose excursions.",
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 41",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430900/"
+  },
+  {
+    "id": 407,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "clinical",
+    "question": "A 45-year-old man with a peptic ulcer caused by H. pylori is started on triple therapy. One week later he reports a metallic taste and cannot tolerate alcohol without flushing and nausea. Which drug in his regimen is responsible?",
+    "options": [
+      "Omeprazole — inhibits gastric acid secretion causing taste disturbance",
+      "Amoxicillin — disrupts oral flora producing metallic taste",
+      "Metronidazole — produces metallic taste and disulfiram-like alcohol reaction",
+      "Clarithromycin — inhibits CYP3A4 altering taste receptor signalling",
+      "Bismuth subsalicylate — blackens the tongue and stool causing taste changes"
+    ],
+    "correct": 2,
+    "explanation": "Metronidazole causes a characteristic metallic taste and produces a disulfiram-like reaction with alcohol (flushing, nausea, tachycardia) by inhibiting acetaldehyde dehydrogenase, leading to acetaldehyde accumulation. In H. pylori triple therapy, metronidazole is combined with a proton pump inhibitor and amoxicillin or clarithromycin for 7–14 days. Clarithromycin can also cause taste disturbance but does not cause the alcohol interaction, making metronidazole the best answer here.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537092/"
+  },
+  {
+    "id": 408,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "clinical",
+    "question": "A 55-year-old woman with GERD is on long-term omeprazole. Recent bone density scanning shows osteoporosis. Her physician also notes she has hypomagnesaemia on her blood tests. Which mechanism best explains these complications of long-term proton pump inhibitor use?",
+    "options": [
+      "Omeprazole inhibits osteoblast CYP enzymes reducing bone matrix synthesis",
+      "Chronic acid suppression impairs calcium and magnesium absorption from the gut, reducing bone mineral density",
+      "Omeprazole induces CYP3A4, accelerating vitamin D catabolism",
+      "Hypergastrinaemia from PPI use stimulates parathyroid hormone release causing bone resorption",
+      "PPIs directly block intestinal calcium channels causing malabsorption"
+    ],
+    "correct": 1,
+    "explanation": "Long-term PPI use reduces gastric acid secretion, which impairs the solubilisation and absorption of calcium (particularly calcium carbonate) and magnesium from the gut; this leads to reduced bone mineral density and an increased fracture risk with prolonged use, as well as hypomagnesaemia which can cause muscle cramps, tetany, and cardiac arrhythmias. PPIs irreversibly inhibit H⁺/K⁺-ATPase on parietal cells; since adequate luminal acidity is required to convert insoluble calcium salts to the absorbable calcium chloride form, acid suppression directly impairs mineral absorption. Calcium citrate (unlike calcium carbonate) does not require acid for absorption and is preferred in PPI users.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541133/"
+  },
+  {
+    "id": 409,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "clinical",
+    "question": "A 30-year-old woman with chemotherapy-induced nausea is prescribed ondansetron. A colleague asks how this antiemetic works. What is its mechanism of action?",
+    "options": [
+      "Dopamine D2 receptor antagonism in the chemoreceptor trigger zone",
+      "Histamine H1 receptor antagonism in the vestibular nucleus",
+      "Selective 5-HT3 receptor antagonism in the gut and chemoreceptor trigger zone",
+      "Neurokinin-1 (NK1) receptor antagonism blocking substance P",
+      "Muscarinic M1 receptor antagonism reducing vagal afferent signalling"
+    ],
+    "correct": 2,
+    "explanation": "Ondansetron is a selective 5-HT3 receptor antagonist that blocks serotonin signalling at vagal afferents in the gut (where enterochromaffin cells release serotonin in response to cytotoxic drugs) and at the chemoreceptor trigger zone in the area postrema, preventing the afferent signals that trigger vomiting. It is the cornerstone of antiemetic prophylaxis for moderately and highly emetogenic chemotherapy regimens. NK1 antagonists (aprepitant) and dopamine antagonists (metoclopramide) act by different mechanisms and are often combined with ondansetron for highly emetogenic regimens.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554579/"
+  },
+  {
+    "id": 410,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "clinical",
+    "question": "A 38-year-old woman with gastroparesis secondary to diabetes is prescribed metoclopramide for nausea and delayed gastric emptying. After three months of continuous use she develops involuntary repetitive movements of her face, lips, and tongue. What is this adverse effect and its mechanism?",
+    "options": [
+      "Acute dystonia from rapid D2 blockade in the basal ganglia, reversed by anticholinergics",
+      "Tardive dyskinesia from prolonged dopamine D2 receptor blockade and receptor upregulation",
+      "Akathisia from nigrostriatal dopamine depletion causing restlessness",
+      "Neuroleptic malignant syndrome from excessive central dopamine blockade",
+      "Serotonin syndrome from metoclopramide's partial 5-HT4 agonism"
+    ],
+    "correct": 1,
+    "explanation": "Tardive dyskinesia is a delayed-onset movement disorder caused by prolonged dopamine D2 receptor blockade; chronic blockade leads to receptor supersensitivity and upregulation in the nigrostriatal pathway, producing involuntary repetitive oro-facial and limb movements that may be irreversible even after stopping the drug. Metoclopramide's FDA black box warning limits continuous use to 12 weeks precisely because of this risk. Acute dystonia occurs within hours to days of starting a D2 blocker and is reversible with anticholinergics (benztropine), making it distinct from this case of three months' use.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430800/"
+  },
+  {
+    "id": 411,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "clinical",
+    "question": "A 68-year-old man with chronic constipation is advised to use a bulk-forming laxative. He asks how it differs from stimulant laxatives. Which mechanism correctly describes bulk-forming laxatives?",
+    "options": [
+      "Stimulate myenteric plexus directly, increasing colonic peristalsis",
+      "Inhibit colonic Na⁺/K⁺-ATPase, causing fluid and electrolyte secretion into the lumen",
+      "Absorb water in the intestine to form a viscous gel, increasing stool bulk and softness",
+      "Inhibit aquaporins in the colonic epithelium, retaining luminal water",
+      "Activate guanylate cyclase-C receptors on enterocytes, increasing chloride and fluid secretion"
+    ],
+    "correct": 2,
+    "explanation": "Bulk-forming laxatives (psyllium, methylcellulose, ispaghula husk) are non-digestible polysaccharides that absorb water in the intestinal lumen to form a viscous gel, increasing stool bulk and water content, which stimulates peristalsis mechanically. They are the safest laxatives for long-term use and are recommended as first-line in most guidelines. Stimulant laxatives (senna, bisacodyl) directly activate the myenteric plexus and inhibit colonic water absorption; while effective, they cause cramping and are not suitable for prolonged daily use due to risk of electrolyte disturbance and possible melanosis coli.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537409/"
   }
 ]
