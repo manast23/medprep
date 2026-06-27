@@ -44,9 +44,16 @@ const SUBJECTS = [
     description: 'Drug mechanisms, receptor pharmacology, autonomic, CNS, cardiovascular, antimicrobials, and clinical toxicology.',
     image: '/pharmacology.jpg',
   },
+  {
+    key: 'Microbiology',
+    title: 'Microbiology',
+    references: "Jawetz, Melnick & Adelberg's Medical Microbiology",
+    description: 'Bacteriology, virology, mycology, parasitology, and immunology — from microbial pathogenesis to clinical infectious disease.',
+    image: '/microbiology.jpg',
+  },
 ]
 
-const COMING_SOON = ['Microbiology']
+const COMING_SOON = []
 const QUESTION_TYPES = [
   { key: 'All', label: 'All Types' },
   { key: 'factual', label: 'Factual' },
