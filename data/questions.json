@@ -8910,5 +8910,257 @@
     "explanation": "Acute cellular rejection is mediated by recipient T cells that recognise donor MHC molecules as foreign (direct allorecognition) or as self-MHC presenting donor-derived peptides (indirect allorecognition), activating CD4+ helper and CD8+ cytotoxic T cells that infiltrate the graft and destroy parenchymal cells. The biopsy finding of mononuclear (lymphocytic) interstitial infiltrate with tubulitis is pathognomonic of acute cellular rejection and reflects T cell-mediated attack on the tubular epithelium. Hyperacute rejection occurs within minutes to hours due to preformed recipient antibodies against donor HLA activating complement, causing thrombosis and graft loss immediately post-transplant, not 2 weeks later.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 8",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535411/"
+  },
+  {
+    "id": 517,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 45-year-old man presents with progressive muscle weakness and myoglobinuria after strenuous exercise. Serum electrophoresis reveals an abnormal band in the gamma region. His physician orders serum protein electrophoresis which shows a monoclonal spike. Which principle underlies protein electrophoresis in separating proteins?",
+    "options": [
+      "Proteins migrate based on their molecular weight alone through a sieve-like gel",
+      "Proteins separate based on their charge-to-mass ratio in an electric field at a given pH",
+      "Proteins are separated by their affinity for specific antibody-coated beads",
+      "Proteins migrate based on their three-dimensional folding pattern",
+      "Proteins are separated by their solubility in solutions of increasing salt concentration"
+    ],
+    "correct": 1,
+    "explanation": "Electrophoresis separates proteins based on their charge-to-mass ratio when placed in an electric field at a defined pH; at pH 8.6 (standard serum electrophoresis), most proteins are negatively charged and migrate toward the anode at rates determined by their net charge and size. A monoclonal spike in the gamma region indicates a single clone of plasma cells producing identical immunoglobulins, as seen in multiple myeloma or monoclonal gammopathy. Molecular sieving (SDS-PAGE) separates by size only after denaturing proteins with SDS, which is a different technique from routine serum protein electrophoresis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 4",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459119/"
+  },
+  {
+    "id": 518,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 62-year-old woman with rheumatoid arthritis has chronically low serum albumin despite adequate dietary intake. Her physician explains that albumin is the most abundant plasma protein. Which of the following best describes the primary clinical significance of hypoalbuminaemia in this patient?",
+    "options": [
+      "Reduced buffering capacity of blood leading to metabolic acidosis",
+      "Decreased oncotic pressure causing fluid shift from intravascular to interstitial space",
+      "Impaired coagulation due to loss of clotting factor precursors",
+      "Reduced oxygen-carrying capacity of the blood",
+      "Decreased complement activation leading to recurrent infections"
+    ],
+    "correct": 1,
+    "explanation": "Albumin is the principal determinant of plasma oncotic pressure; hypoalbuminaemia reduces oncotic pressure, allowing fluid to shift from the intravascular compartment into the interstitial space, resulting in peripheral oedema and ascites. Albumin also serves as a carrier protein for fatty acids, bilirubin, calcium, drugs, and hormones, so hypoalbuminaemia has wide-ranging effects beyond oedema. Coagulation factors are separate proteins synthesised by the liver independently of albumin, so isolated hypoalbuminaemia does not directly impair clotting.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 4",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459054/"
+  },
+  {
+    "id": 519,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 35-year-old man presents with recurrent painful crises, anaemia, and splenomegaly since childhood. Haemoglobin electrophoresis shows predominantly HbS. The underlying defect involves substitution of glutamate by valine at position 6 of the beta-globin chain. Which structural level of protein organisation is directly altered by this single amino acid substitution?",
+    "options": [
+      "Tertiary structure \u2014 disruption of the overall 3D folding of the globin chain",
+      "Quaternary structure \u2014 disruption of haem-haem interaction between subunits",
+      "Primary structure \u2014 alteration of the amino acid sequence of the polypeptide chain",
+      "Secondary structure \u2014 disruption of alpha-helical content of the globin chain",
+      "Post-translational modification \u2014 failure of haem incorporation into the globin"
+    ],
+    "correct": 2,
+    "explanation": "The sickle cell mutation is a point mutation causing a single amino acid substitution (Glu\u2192Val at position 6 of the beta-globin chain), which directly alters the primary structure \u2014 the linear sequence of amino acids \u2014 of the protein. This seemingly minor primary structure change has profound downstream consequences: the valine residue creates a hydrophobic patch that causes deoxygenated HbS molecules to polymerise into rigid fibres, distorting red cells into the characteristic sickle shape. Tertiary and quaternary structure are consequently altered, but the direct molecular defect is at the primary sequence level.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 3",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537001/"
+  },
+  {
+    "id": 520,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 55-year-old man presents with acute chest pain. His troponin is elevated. His physician also orders serum LDH and CK-MB. The laboratory reports LDH1 > LDH2 (flipped LDH ratio). Which of the following best explains the clinical utility of measuring isoenzymes rather than total enzyme activity?",
+    "options": [
+      "Isoenzymes have higher catalytic activity than their parent enzymes, making them more sensitive markers",
+      "Isoenzymes are tissue-specific forms of an enzyme that allow identification of the organ of injury",
+      "Isoenzymes are more stable in serum and remain elevated for longer periods than total enzyme",
+      "Isoenzymes can distinguish between acute and chronic injury by their different molecular weights",
+      "Isoenzymes are activated only during cell death, making them specific for necrosis"
+    ],
+    "correct": 1,
+    "explanation": "Isoenzymes are multiple forms of an enzyme that catalyse the same reaction but differ in their amino acid composition, physical properties, and tissue distribution; measuring specific isoenzymes allows localisation of the source of enzyme elevation to a particular organ. LDH exists as five isoenzymes formed from different combinations of H and M subunits \u2014 LDH1 predominates in the heart, so a flipped ratio (LDH1 > LDH2) indicates myocardial injury. Total LDH elevation is non-specific as it rises in haemolysis, liver disease, and muscle injury, whereas isoenzyme analysis provides organ specificity.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557536/"
+  },
+  {
+    "id": 521,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 28-year-old woman with systemic lupus erythematosus has elevated serum immunoglobulins. Immunoelectrophoresis shows a polyclonal increase in IgG. Which of the following correctly describes the structural basis of IgG?",
+    "options": [
+      "Two heavy chains and two light chains linked by disulfide bonds, with antigen-binding sites on the Fc region",
+      "Two heavy chains and two light chains linked by disulfide bonds, with antigen-binding sites formed by variable regions of both chains",
+      "Four identical heavy chains forming a pentameric structure with ten antigen-binding sites",
+      "One heavy chain and one light chain with a single antigen-binding site per molecule",
+      "Two light chains only, with antigen binding determined entirely by the constant region"
+    ],
+    "correct": 1,
+    "explanation": "IgG is a monomer composed of two identical heavy chains and two identical light chains held together by disulfide bonds; the antigen-binding sites (Fab regions) are formed by the variable domains of both the heavy and light chains, giving each IgG molecule two identical antigen-binding sites. The Fc region (constant portion of the heavy chains) mediates effector functions such as complement activation, opsonisation, and placental transfer. A polyclonal IgG increase, as seen in autoimmune conditions like SLE, reflects activation of multiple B cell clones, unlike the single monoclonal spike of a plasma cell dyscrasia.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 4",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459143/"
+  },
+  {
+    "id": 522,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 40-year-old man with type 2 diabetes is started on an ACE inhibitor. ACE inhibitors competitively inhibit angiotensin-converting enzyme by binding to its active site. On a Michaelis-Menten kinetics graph, which of the following changes would be expected with competitive inhibition?",
+    "options": [
+      "Decreased Vmax, unchanged Km",
+      "Unchanged Vmax, increased Km",
+      "Decreased Vmax, decreased Km",
+      "Increased Vmax, unchanged Km",
+      "Unchanged Vmax, unchanged Km but reduced reaction rate at all substrate concentrations"
+    ],
+    "correct": 1,
+    "explanation": "Competitive inhibitors compete with the substrate for the enzyme's active site; they increase the apparent Km (more substrate is needed to achieve half-maximal velocity) but leave Vmax unchanged, because at sufficiently high substrate concentrations the inhibitor can be outcompeted and maximum velocity is still achievable. On a Lineweaver-Burk plot, competitive inhibition shows lines intersecting on the y-axis (same Vmax) with a different x-intercept (different Km). Non-competitive inhibitors, by contrast, decrease Vmax without changing Km, as they bind at an allosteric site regardless of substrate occupancy.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK22475/"
+  },
+  {
+    "id": 523,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 3-year-old boy is brought with developmental delay, fair skin, and a musty odour to his urine. Serum phenylalanine is markedly elevated. Newborn screening had been missed. The enzyme phenylalanine hydroxylase is absent. This enzyme requires tetrahydrobiopterin (BH4) as a cofactor. Which general term describes cofactors that are tightly and permanently bound to the enzyme?",
+    "options": [
+      "Cosubstrate",
+      "Apoenzyme",
+      "Prosthetic group",
+      "Holoenzyme",
+      "Coenzyme"
+    ],
+    "correct": 2,
+    "explanation": "A prosthetic group is a cofactor that is tightly and permanently bound to the enzyme (covalently or very tightly non-covalently), forming an integral part of the enzyme's structure and function \u2014 examples include haem in cytochrome oxidase and FAD in succinate dehydrogenase. A coenzyme, by contrast, is a loosely associated organic cofactor that can dissociate from the enzyme and often acts as a co-substrate (e.g. NAD+, CoA). The holoenzyme is the complete, catalytically active enzyme consisting of the apoenzyme (protein part) plus its cofactor.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK22475/"
+  },
+  {
+    "id": 524,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 50-year-old man with known alcoholic liver disease presents with jaundice and ascites. Serum ALT and AST are markedly elevated, with AST:ALT ratio > 2. Which of the following best explains the therapeutic application of measuring serum transaminases in liver disease?",
+    "options": [
+      "Transaminases catalyse the rate-limiting step of gluconeogenesis, so their elevation reflects impaired glucose production",
+      "Transaminases are released from damaged hepatocytes into the bloodstream, serving as markers of hepatocellular injury",
+      "Elevated transaminases directly cause hepatocyte necrosis by depleting intracellular amino acid pools",
+      "Transaminases activate coagulation factors, so their elevation predicts bleeding risk",
+      "Transaminase levels reflect synthetic function of the liver and predict albumin production capacity"
+    ],
+    "correct": 1,
+    "explanation": "Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) are intracellular enzymes released into the circulation when hepatocytes are damaged or necrotic; their serum levels serve as sensitive markers of hepatocellular injury rather than liver synthetic function. An AST:ALT ratio > 2 in an alcoholic patient suggests alcoholic hepatitis, because alcohol preferentially damages mitochondria (source of AST) and depletes pyridoxal phosphate needed for ALT synthesis. Liver synthetic function is better assessed by serum albumin and prothrombin time, not by transaminase levels.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482375/"
+  },
+  {
+    "id": 525,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "factual",
+    "question": "A student is reviewing allosteric regulation of enzymes. Phosphofructokinase-1 (PFK-1), the key regulatory enzyme of glycolysis, is allosterically inhibited by ATP and activated by AMP. Which of the following best describes the mechanism of allosteric enzyme regulation?",
+    "options": [
+      "An inhibitor binds to the active site and directly blocks substrate binding in a concentration-dependent manner",
+      "A regulatory molecule binds to a site distinct from the active site, causing conformational change that alters catalytic activity",
+      "Phosphorylation of a serine residue in the active site directly increases or decreases substrate affinity",
+      "Covalent modification of the enzyme by ubiquitin targets it for proteasomal degradation",
+      "The regulatory molecule competes with the cofactor for binding to the enzyme's prosthetic group"
+    ],
+    "correct": 1,
+    "explanation": "Allosteric regulation occurs when a regulatory molecule (activator or inhibitor) binds to a site on the enzyme distinct from the active site, inducing a conformational change that alters the enzyme's affinity for its substrate (Km) or its maximal catalytic rate (Vmax). PFK-1 is the committed step of glycolysis and is a key metabolic sensor \u2014 ATP inhibition signals energy sufficiency, slowing glycolysis, while AMP activation signals low energy status, accelerating glucose breakdown. Unlike competitive inhibition, allosteric inhibition is not overcome simply by increasing substrate concentration.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK26815/"
+  },
+  {
+    "id": 526,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 68-year-old man with metastatic prostate cancer has an elevated serum acid phosphatase and PSA. His bone scan shows multiple osteoblastic lesions. PSA (prostate-specific antigen) is a serine protease used as a tumour marker. Which of the following best describes the ideal characteristics of an enzyme used as a tumour marker?",
+    "options": [
+      "It should be present in all tissues at equal concentrations so that elevation is easy to detect",
+      "It should be tissue-specific or tumour-specific, measurable in serum, and correlate with tumour burden",
+      "It should have a very long half-life in serum so that a single measurement is sufficient for monitoring",
+      "It should be an intracellular enzyme only, released exclusively during apoptosis",
+      "It should activate a prodrug so that its measurement also reflects therapeutic response"
+    ],
+    "correct": 1,
+    "explanation": "An ideal tumour marker enzyme should be tissue- or tumour-specific (minimising false positives from other conditions), detectable and quantifiable in serum or other body fluids, and its levels should correlate with tumour burden and treatment response to allow monitoring. PSA is produced almost exclusively by prostate epithelial cells, making it relatively organ-specific, though it is not cancer-specific as it rises in benign prostatic hyperplasia and prostatitis. The clinical utility of enzyme tumour markers lies in monitoring disease progression and treatment response rather than primary screening due to limitations in specificity.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557536/"
+  },
+  {
+    "id": 527,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 72-year-old woman is admitted with an acute myocardial infarction. Serum CK-MB is elevated at 6 hours. Troponin I is also elevated. CK exists as three isoenzymes: CK-MM (muscle), CK-MB (heart), and CK-BB (brain). Which of the following correctly explains why CK-MB is more specific for myocardial injury than total CK?",
+    "options": [
+      "CK-MB has higher catalytic activity than CK-MM so a small amount produces a larger measurable signal",
+      "CK-MB is found almost exclusively in cardiac muscle, so its elevation in serum specifically indicates myocardial damage",
+      "CK-MB is released more rapidly than total CK after myocardial injury, making it a better early marker",
+      "CK-MB remains elevated for longer than total CK, providing a wider diagnostic window",
+      "CK-MB is not affected by skeletal muscle injury, unlike total CK which rises with any muscle damage"
+    ],
+    "correct": 1,
+    "explanation": "CK-MB is present in high concentrations in cardiac muscle and constitutes approximately 20\u201325% of total CK in the myocardium, while skeletal muscle contains predominantly CK-MM; therefore, elevation of CK-MB in serum specifically points to myocardial injury rather than skeletal muscle damage. Total CK rises non-specifically with any skeletal muscle injury, vigorous exercise, or intramuscular injections, making it poorly specific for MI without isoenzyme fractionation. However, troponin has now largely replaced CK-MB as the preferred cardiac biomarker due to its superior sensitivity and specificity for myocardial necrosis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557536/"
+  },
+  {
+    "id": 528,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 25-year-old woman presents with fatigue, pallor, and splenomegaly. Her blood film shows target cells and her haemoglobin is 7.2 g/dL. Haemoglobin electrophoresis reveals HbA2 4.8% (elevated) and HbF 2%. She is diagnosed with beta-thalassaemia trait. At what level of protein structure does the defect in beta-thalassaemia primarily manifest compared to sickle cell disease?",
+    "options": [
+      "Primary structure \u2014 a specific amino acid substitution in the beta-globin chain",
+      "Quaternary structure \u2014 failure of alpha and beta chains to assemble into functional tetramers",
+      "Gene expression level \u2014 reduced or absent synthesis of structurally normal beta-globin chains",
+      "Post-translational modification \u2014 failure of haem incorporation into normally synthesised beta-globin",
+      "Secondary structure \u2014 disruption of alpha-helical regions of the beta-globin chain"
+    ],
+    "correct": 2,
+    "explanation": "Beta-thalassaemia results from mutations that reduce (beta+) or abolish (beta0) the synthesis of structurally normal beta-globin chains at the gene expression level \u2014 through defects in transcription, splicing, or translation \u2014 rather than a structural alteration of the protein itself as in sickle cell disease. The beta-globin chains that are produced are structurally normal; the problem is quantitative, not qualitative, leading to an imbalance of alpha and beta chains with excess alpha chains precipitating and causing haemolysis. This contrasts with sickle cell disease, where the primary structure of beta-globin is directly altered by a point mutation.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 3",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545151/"
+  },
+  {
+    "id": 529,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "factual",
+    "question": "A medical student is studying protein folding disorders. Prion diseases (e.g. Creutzfeldt-Jakob disease) involve misfolding of the normal PrPc protein into an abnormal PrPsc conformation. Which level of protein structure is primarily abnormal in prion diseases?",
+    "options": [
+      "Primary structure \u2014 the amino acid sequence of PrPsc differs from PrPc due to somatic mutation",
+      "Secondary and tertiary structure \u2014 PrPc alpha-helices are converted to beta-sheet-rich PrPsc",
+      "Quaternary structure \u2014 PrPsc forms abnormal dimers that cannot be dissociated",
+      "Post-translational glycosylation \u2014 abnormal sugar attachment alters protein routing to lysosomes",
+      "Primary structure \u2014 a single amino acid substitution destabilises the protein causing aggregation"
+    ],
+    "correct": 1,
+    "explanation": "Prion diseases involve a conformational change in the normal cellular prion protein (PrPc), which is rich in alpha-helices, to the pathological scrapie form (PrPsc), which is rich in beta-sheets \u2014 the primary amino acid sequence is identical in both forms, so the defect is entirely at the secondary and tertiary structural level. The beta-sheet-rich PrPsc is protease-resistant, tends to aggregate into amyloid-like fibrils, and can template the misfolding of normal PrPc, explaining the infectious nature of prion diseases without any nucleic acid involvement. Primary structure mutations (e.g. codon 129 polymorphism) can influence susceptibility but the disease mechanism itself is conformational.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 3",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507812/"
+  },
+  {
+    "id": 530,
+    "subject": "Biochemistry",
+    "subtopic": "Proteins & Enzymes",
+    "type": "clinical",
+    "question": "A 58-year-old man with type 2 diabetes is being treated with metformin. His physician checks his serum amylase and lipase after he develops acute epigastric pain radiating to the back with nausea and vomiting. Serum lipase is 4 times the upper limit of normal. Which of the following best explains why serum lipase is preferred over serum amylase in diagnosing acute pancreatitis?",
+    "options": [
+      "Lipase rises earlier than amylase after the onset of pancreatitis, making it a better acute marker",
+      "Lipase is more pancreas-specific and remains elevated longer than amylase, giving a wider diagnostic window",
+      "Lipase directly causes pancreatic necrosis, so its elevation correlates with disease severity",
+      "Amylase is present in saliva and intestine so it rises in any abdominal condition, while lipase does not",
+      "Lipase measurement is technically simpler and less affected by haemolysis than amylase measurement"
+    ],
+    "correct": 1,
+    "explanation": "Serum lipase is preferred over amylase for diagnosing acute pancreatitis because it is more specific to the pancreas (amylase is also produced by salivary glands and the small intestine, causing elevation in non-pancreatic conditions) and it remains elevated for 7\u201314 days compared to amylase which returns to normal within 3\u20135 days, providing a longer diagnostic window. Both enzymes are released from damaged acinar cells into the bloodstream, but lipase's superior organ specificity reduces false-positive results from parotitis, intestinal ischaemia, or renal failure. A lipase level more than three times the upper limit of normal has the highest diagnostic accuracy for acute pancreatitis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
   }
 ]
