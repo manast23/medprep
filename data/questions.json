@@ -9360,5 +9360,185 @@
     "explanation": "Apolipoproteins are the protein components of lipoproteins that serve three main functions: structural (maintaining lipoprotein particle integrity), receptor recognition (e.g. ApoB-100 and ApoE bind LDL receptors for hepatic uptake), and enzymatic regulation (e.g. ApoCII activates lipoprotein lipase; ApoAI activates LCAT). ApoE4, compared to ApoE3 and ApoE2, has reduced receptor-binding efficiency and impairs cholesterol clearance, increasing circulating LDL and Alzheimer's disease risk through mechanisms including impaired amyloid clearance. The hydrophobic core of lipoprotein particles consists of triglycerides and cholesterol esters, surrounded by a monolayer of phospholipids, free cholesterol, and apolipoproteins.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557445/"
+  },
+  {
+    "id": 542,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 35-year-old man presents with episodic severe abdominal pain, peripheral neuropathy, and port-wine coloured urine that darkens on exposure to light. He takes no medications. Urine porphobilinogen (PBG) is markedly elevated. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Porphyria cutanea tarda due to deficient uroporphyrinogen decarboxylase",
+      "Acute intermittent porphyria due to deficient porphobilinogen deaminase",
+      "Lead poisoning causing inhibition of ALA dehydratase and ferrochelatase",
+      "Erythropoietic protoporphyria due to deficient ferrochelatase",
+      "Congenital erythropoietic porphyria due to deficient uroporphyrinogen III synthase"
+    ],
+    "correct": 1,
+    "explanation": "Acute intermittent porphyria (AIP) is caused by a deficiency of porphobilinogen deaminase (hydroxymethylbilane synthase), the third enzyme of the haem biosynthetic pathway, leading to accumulation of ALA and PBG; the classic triad is acute abdominal pain, neuropsychiatric features (peripheral neuropathy, psychosis), and dark urine (from PBG oxidation) without skin photosensitivity. AIP is precipitated by drugs that induce CYP450 enzymes (barbiturates, rifampicin), fasting, and infections, which upregulate ALA synthase and overwhelm the deficient enzyme. Porphyria cutanea tarda, the most common porphyria, presents with skin blistering on sun-exposed areas without acute neurovisceral attacks, making it distinct from this presentation.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544305/"
+  },
+  {
+    "id": 543,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 4-year-old boy is brought by his parents with irritability, abdominal pain, constipation, and a microcytic anaemia. His blood lead level is 65 \u00b5g/dL. He lives in an old house with peeling paint. Which of the following best explains the haematological findings in lead poisoning?",
+    "options": [
+      "Lead inhibits ferrochelatase and ALA dehydratase, impairing haem synthesis and causing microcytic anaemia with basophilic stippling",
+      "Lead destroys red cell membranes by lipid peroxidation, causing haemolytic anaemia with spherocytes",
+      "Lead inhibits erythropoietin synthesis in the kidney, causing normocytic anaemia of chronic disease",
+      "Lead competes with iron for absorption in the gut, causing pure iron deficiency anaemia",
+      "Lead inhibits vitamin B12 absorption, causing megaloblastic anaemia with hypersegmented neutrophils"
+    ],
+    "correct": 0,
+    "explanation": "Lead inhibits two key enzymes in haem biosynthesis \u2014 ALA dehydratase (early step) and ferrochelatase (final step that inserts iron into protoporphyrin IX) \u2014 causing accumulation of ALA, coproporphyrin, and protoporphyrin, and resulting in a microcytic hypochromic anaemia with characteristic basophilic stippling of red cells (due to aggregated ribosomes from inhibition of ribosomal RNA degradation). The anaemia is both from impaired haem synthesis and from increased red cell fragility. Basophilic stippling on a blood film in a child with a history of pica or old house exposure is a classic clue to lead poisoning.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499972/"
+  },
+  {
+    "id": 544,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 50-year-old woman with a history of alcohol use disorder and hepatitis C presents with blistering skin lesions on the dorsum of her hands and hyperpigmentation. Urine shows markedly elevated uroporphyrin. Which of the following is the most likely diagnosis and its enzymatic defect?",
+    "options": [
+      "Acute intermittent porphyria \u2014 deficient porphobilinogen deaminase",
+      "Porphyria cutanea tarda \u2014 deficient uroporphyrinogen decarboxylase",
+      "Variegate porphyria \u2014 deficient protoporphyrinogen oxidase",
+      "Hereditary coproporphyria \u2014 deficient coproporphyrinogen oxidase",
+      "Erythropoietic protoporphyria \u2014 deficient ferrochelatase"
+    ],
+    "correct": 1,
+    "explanation": "Porphyria cutanea tarda (PCT) is the most common porphyria, caused by deficiency of uroporphyrinogen decarboxylase in the liver, leading to accumulation of uroporphyrins that cause photosensitivity, blistering on sun-exposed skin, hyperpigmentation, and hypertrichosis \u2014 without acute neurovisceral attacks. Alcohol, hepatitis C, oestrogens, and iron overload are classic precipitants that inhibit the enzyme or increase haem demand. Elevated urinary uroporphyrin (giving urine a pink-red fluorescence under Wood's lamp) is the diagnostic hallmark, distinguishing it from AIP which shows elevated PBG without skin involvement.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537010/"
+  },
+  {
+    "id": 545,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "factual",
+    "question": "A student is reviewing haem biosynthesis. The rate-limiting enzyme of this pathway is ALA synthase, which requires pyridoxal phosphate (vitamin B6) as a cofactor. Where does haem biosynthesis begin and where is it completed?",
+    "options": [
+      "Begins and is completed entirely in the mitochondria of erythroid precursors",
+      "Begins in the mitochondria (ALA synthesis), continues in the cytosol (steps 2\u20135), and is completed in the mitochondria (final steps including ferrochelatase)",
+      "Begins in the cytosol with glycine and succinyl-CoA condensation and is completed in the smooth ER",
+      "Begins in the nucleus with porphobilinogen synthesis and is completed in the cytosol",
+      "Begins and is completed entirely in the cytosol, with mitochondrial import only for iron insertion"
+    ],
+    "correct": 1,
+    "explanation": "Haem biosynthesis is a compartmentalised pathway: it begins in the mitochondria where ALA synthase condenses glycine and succinyl-CoA to form delta-aminolevulinic acid (ALA); ALA then moves to the cytosol for steps 2\u20135 (formation of porphobilinogen, hydroxymethylbilane, uroporphyrinogen III, and coproporphyrinogen III); the pathway then returns to the mitochondria for the final steps \u2014 oxidation of coproporphyrinogen III to protoporphyrinogen IX, oxidation to protoporphyrin IX, and finally insertion of ferrous iron by ferrochelatase to form haem. ALA synthase activity is feedback-inhibited by haem and induced by drugs that increase CYP450 demand.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544305/"
+  },
+  {
+    "id": 546,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 3-day-old neonate develops jaundice. Serum bilirubin is 18 mg/dL, predominantly unconjugated. The paediatrician explains the pathway of haem degradation. Which of the following correctly describes the sequential steps of haem catabolism?",
+    "options": [
+      "Haem \u2192 biliverdin (by haem oxygenase) \u2192 bilirubin (by biliverdin reductase) \u2192 conjugated bilirubin (by UDP-glucuronosyltransferase in the liver) \u2192 excreted in bile",
+      "Haem \u2192 bilirubin (by haem oxygenase) \u2192 biliverdin (by biliverdin reductase) \u2192 conjugated bilirubin (in the kidney) \u2192 excreted in urine",
+      "Haem \u2192 protoporphyrin IX \u2192 bilirubin (by protoporphyrinogen oxidase) \u2192 excreted directly in bile",
+      "Haem \u2192 unconjugated bilirubin (by ferrochelatase) \u2192 conjugated bilirubin (by albumin binding) \u2192 excreted in bile",
+      "Haem \u2192 biliverdin \u2192 stercobilin (in the liver) \u2192 urobilinogen (in the gut) \u2192 excreted in faeces"
+    ],
+    "correct": 0,
+    "explanation": "Haem catabolism proceeds as follows: haem oxygenase in macrophages opens the porphyrin ring to release biliverdin (green) plus CO and Fe2+; biliverdin reductase then reduces biliverdin to bilirubin (yellow); bilirubin is transported bound to albumin to the liver, where UDP-glucuronosyltransferase conjugates it with glucuronic acid to form water-soluble conjugated (direct) bilirubin for excretion in bile. In the gut, bacterial enzymes deconjugate and reduce bilirubin to urobilinogen, which is partly reabsorbed and excreted in urine (urobilin) and partly oxidised to stercobilin giving faeces their brown colour. In neonates, immature UDP-glucuronosyltransferase activity causes unconjugated hyperbilirubinaemia that can deposit in the basal ganglia (kernicterus) if severe.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537065/"
+  },
+  {
+    "id": 547,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 25-year-old man of West African origin presents with haemolytic anaemia, jaundice, and dark urine after taking primaquine for malaria prophylaxis. His blood film shows Heinz bodies. Which of the following best explains the pathophysiology of G6PD deficiency?",
+    "options": [
+      "G6PD deficiency impairs haem synthesis, causing microcytic anaemia that worsens with oxidant drug exposure",
+      "G6PD deficiency reduces NADPH production via the HMP shunt, impairing glutathione regeneration and leaving red cells vulnerable to oxidative haemolysis",
+      "G6PD deficiency causes defective spectrin cross-linking, making red cell membranes fragile under oxidant stress",
+      "G6PD deficiency blocks glycolysis at the glucose-6-phosphate step, reducing ATP and causing red cell membrane pump failure",
+      "G6PD deficiency impairs iron absorption from the gut, causing iron deficiency that is unmasked by oxidant drugs"
+    ],
+    "correct": 1,
+    "explanation": "G6PD is the first enzyme of the hexose monophosphate (HMP) shunt \u2014 the only pathway in mature red cells that generates NADPH; NADPH is required to reduce glutathione (via glutathione reductase), which neutralises reactive oxygen species (H2O2) generated by oxidant drugs, infections, and fava beans. Without adequate NADPH, oxidised haemoglobin precipitates as Heinz bodies that damage the membrane and cause intravascular and extravascular haemolysis. G6PD deficiency is X-linked and one of the most common enzyme deficiencies worldwide, providing a survival advantage against falciparum malaria in heterozygous females.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 13",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470302/"
+  },
+  {
+    "id": 548,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 30-year-old woman with Gilbert's syndrome presents with mild unconjugated jaundice after a 24-hour fast. Liver enzymes and CBC are normal. Which of the following best explains the biochemical basis of Gilbert's syndrome?",
+    "options": [
+      "Deficient haem oxygenase causing reduced conversion of haem to biliverdin and accumulation of haem",
+      "Mildly reduced UDP-glucuronosyltransferase activity causing impaired hepatic conjugation of bilirubin",
+      "Deficient biliverdin reductase causing accumulation of biliverdin and mild jaundice",
+      "Deficient albumin binding of unconjugated bilirubin causing increased free bilirubin in plasma",
+      "Impaired hepatocyte uptake of unconjugated bilirubin due to deficient ligandin (Y protein)"
+    ],
+    "correct": 1,
+    "explanation": "Gilbert's syndrome is a benign autosomal recessive condition caused by a mildly reduced activity (approximately 30% of normal) of UDP-glucuronosyltransferase 1A1 (UGT1A1) due to a promoter region polymorphism, impairing hepatic conjugation of bilirubin and causing mild unconjugated hyperbilirubinaemia that is exacerbated by fasting, stress, or illness. It affects approximately 5\u201310% of the population and is clinically significant only for ruling out more serious liver disease and for predicting adverse drug reactions with medications that require UGT1A1 for metabolism (e.g. irinotecan). Conjugated bilirubin, liver enzymes, and haemoglobin are all normal, distinguishing it from haemolysis and hepatocellular disease.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470200/"
+  },
+  {
+    "id": 549,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 2-year-old child from a consanguineous family has severe haemolytic anaemia requiring regular transfusions, splenomegaly, and reddish-brown teeth that fluoresce under Wood's lamp. Urine is pink-red. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Acute intermittent porphyria presenting unusually early in life",
+      "Congenital erythropoietic porphyria due to deficient uroporphyrinogen III synthase",
+      "Porphyria cutanea tarda precipitated by neonatal iron overload from transfusions",
+      "Erythropoietic protoporphyria causing haemolysis and photosensitivity",
+      "Lead poisoning causing porphyrin accumulation and haemolytic anaemia"
+    ],
+    "correct": 1,
+    "explanation": "Congenital erythropoietic porphyria (G\u00fcnther's disease) is a rare autosomal recessive disorder caused by deficiency of uroporphyrinogen III synthase, leading to massive accumulation of uroporphyrin I (a non-functional isomer) in erythrocytes, causing severe photosensitivity, haemolytic anaemia, splenomegaly, and the pathognomonic erythrodontia (reddish-brown teeth that fluoresce pink-red under Wood's lamp due to porphyrin deposition). It presents in early infancy or childhood, distinguishing it from porphyria cutanea tarda which presents in adults. The condition is also associated with hypertrichosis and mutilating skin lesions from photodamage.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 21",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544305/"
+  },
+  {
+    "id": 550,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 22-year-old man is found unconscious in a car with the engine running. He is brought to the emergency department. His skin is cherry-red. SpO2 reads 99% on pulse oximetry but he is profoundly hypoxic. COHb is 45%. Which of the following best explains the mechanism of carbon monoxide toxicity at the molecular level?",
+    "options": [
+      "CO irreversibly oxidises the iron in haemoglobin from Fe2+ to Fe3+, forming methaemoglobin that cannot carry oxygen",
+      "CO binds to haemoglobin with 250 times the affinity of oxygen and shifts the oxygen-dissociation curve to the left, impairing oxygen delivery to tissues",
+      "CO inhibits cytochrome c oxidase in the mitochondria, directly blocking electron transport without affecting haemoglobin",
+      "CO competes with CO2 for carbamino binding on haemoglobin, impairing CO2 transport and causing respiratory acidosis",
+      "CO causes lipid peroxidation of red cell membranes, reducing their oxygen-carrying capacity"
+    ],
+    "correct": 1,
+    "explanation": "Carbon monoxide binds to the ferrous iron (Fe2+) of haemoglobin with approximately 250 times the affinity of oxygen, forming carboxyhaemoglobin (COHb); it also causes allosteric changes that shift the oxygen-haemoglobin dissociation curve to the left, reducing oxygen unloading at tissues even from the remaining unoccupied haem groups. Pulse oximetry cannot distinguish oxyhaemoglobin from COHb (both absorb light similarly at 660 nm), so SpO2 reads falsely normal despite severe tissue hypoxia. CO also inhibits mitochondrial cytochrome c oxidase, adding a cellular-level block to oxidative phosphorylation that contributes to the severity of poisoning.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 3",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430740/"
+  },
+  {
+    "id": 551,
+    "subject": "Biochemistry",
+    "subtopic": "Porphyrins & Haemoglobin",
+    "type": "clinical",
+    "question": "A 28-year-old man presents with cyanosis unresponsive to supplemental oxygen. His blood appears chocolate-brown. MetHb level is 28%. He had eaten a large quantity of spinach and had been applying dapsone cream. Which of the following correctly explains methaemoglobinaemia?",
+    "options": [
+      "Oxidation of haemoglobin's iron from Fe2+ to Fe3+ forming methaemoglobin, which cannot bind or release oxygen",
+      "Reduction of haemoglobin's iron from Fe3+ to Fe2+ forming a permanently deoxygenated state",
+      "Substitution of iron by copper in the haem group, reducing oxygen-binding affinity",
+      "Crosslinking of globin chains by oxidants, causing conformational change that locks haemoglobin in the T-state",
+      "Denaturation of the globin chains by oxidant drugs, exposing the haem group and causing iron loss"
+    ],
+    "correct": 0,
+    "explanation": "Methaemoglobinaemia occurs when haemoglobin iron is oxidised from the normal ferrous (Fe2+) to the ferric (Fe3+) state, forming methaemoglobin (MetHb) which cannot bind oxygen; it also causes a leftward shift in the oxygen-dissociation curve of the remaining normal haemoglobin, further impairing oxygen delivery. Normally, MetHb reductase (cytochrome b5 reductase) using NADH maintains MetHb levels below 1%; oxidant drugs (dapsone, nitrites, prilocaine) and dietary nitrates overwhelm this system. Treatment is methylene blue, which acts as a cofactor for NADPH-MetHb reductase (the G6PD-dependent pathway), providing an alternative reduction route \u2014 which is why it is ineffective in G6PD deficiency.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 3",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537317/"
   }
 ]
