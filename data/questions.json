@@ -9162,5 +9162,203 @@
     "explanation": "Serum lipase is preferred over amylase for diagnosing acute pancreatitis because it is more specific to the pancreas (amylase is also produced by salivary glands and the small intestine, causing elevation in non-pancreatic conditions) and it remains elevated for 7\u201314 days compared to amylase which returns to normal within 3\u20135 days, providing a longer diagnostic window. Both enzymes are released from damaged acinar cells into the bloodstream, but lipase's superior organ specificity reduces false-positive results from parotitis, intestinal ischaemia, or renal failure. A lipase level more than three times the upper limit of normal has the highest diagnostic accuracy for acute pancreatitis.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 5",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+  },
+  {
+    "id": 531,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 45-year-old man with poorly controlled type 2 diabetes presents with severe abdominal pain and creamy plasma on blood draw. Serum triglycerides are 2800 mg/dL. He is diagnosed with hypertriglyceridaemia-induced pancreatitis. Chylomicrons are the lipoprotein class most elevated in this condition after a fatty meal. Which of the following best describes the primary function of chylomicrons?",
+    "options": [
+      "Transport endogenous cholesterol synthesised in the liver to peripheral tissues",
+      "Transport dietary triglycerides and cholesterol absorbed from the intestine to peripheral tissues",
+      "Return excess cholesterol from peripheral tissues back to the liver for excretion",
+      "Transport free fatty acids released from adipose tissue to the liver during fasting",
+      "Deliver cholesterol esters to the adrenal glands for steroid hormone synthesis"
+    ],
+    "correct": 1,
+    "explanation": "Chylomicrons are the largest lipoproteins, synthesised by intestinal enterocytes to transport dietary (exogenous) triglycerides and cholesterol absorbed from the gut via the lymphatics into the bloodstream, delivering triglycerides to peripheral tissues via lipoprotein lipase. In severe hypertriglyceridaemia, chylomicron remnants and VLDL accumulate, and triglyceride levels above 1000 mg/dL substantially increase the risk of acute pancreatitis, likely due to toxic free fatty acids released by pancreatic lipase acting on chylomicrons within pancreatic capillaries. VLDL, not chylomicrons, transports endogenously synthesised triglycerides from the liver to peripheral tissues.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557445/"
+  },
+  {
+    "id": 532,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 52-year-old woman with a family history of early coronary artery disease has LDL 210 mg/dL and HDL 38 mg/dL. She is started on a statin. Which of the following best describes the role of HDL in lipid metabolism and why low HDL is an independent cardiovascular risk factor?",
+    "options": [
+      "HDL delivers cholesterol from the liver to peripheral tissues, so low HDL means less cholesterol reaches cells",
+      "HDL mediates reverse cholesterol transport, removing excess cholesterol from peripheral tissues to the liver, so low HDL impairs this protective mechanism",
+      "HDL activates lipoprotein lipase in capillaries, so low HDL reduces triglyceride clearance from blood",
+      "HDL inhibits LDL oxidation by carrying antioxidant enzymes, so low HDL increases foam cell formation",
+      "HDL is the primary carrier of dietary cholesterol, so low HDL reduces cholesterol absorption"
+    ],
+    "correct": 1,
+    "explanation": "HDL mediates reverse cholesterol transport \u2014 the process by which excess cholesterol is collected from peripheral tissues, including arterial walls, and returned to the liver for excretion in bile; this anti-atherogenic function explains why low HDL is an independent cardiovascular risk factor even when LDL is normal. HDL acquires cholesterol via ABCA1 transporters on peripheral cells and esterifies it using LCAT (lecithin-cholesterol acyltransferase), forming mature HDL particles that deliver cholesterol esters to the liver via SR-B1 receptors. Statins primarily lower LDL by upregulating hepatic LDL receptors and only modestly raise HDL levels.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557445/"
+  },
+  {
+    "id": 533,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 38-year-old man presents with tendon xanthomas, corneal arcus, and LDL of 420 mg/dL. His father died of a myocardial infarction at age 42. Genetic testing confirms familial hypercholesterolaemia due to a loss-of-function mutation in the LDL receptor gene. Which of the following best explains the metabolic consequence of absent LDL receptors?",
+    "options": [
+      "LDL cannot be synthesised in the liver, causing compensatory overproduction of VLDL",
+      "LDL cannot be taken up by hepatocytes and peripheral cells, causing accumulation of LDL in plasma",
+      "LDL is converted directly to oxidised LDL in the absence of receptors, accelerating foam cell formation",
+      "HDL cannot transfer cholesterol to LDL without functional LDL receptors, causing HDL accumulation",
+      "Chylomicron remnants accumulate because they compete with LDL for the same receptor"
+    ],
+    "correct": 1,
+    "explanation": "LDL receptors on hepatocytes and peripheral cells internalise LDL particles via receptor-mediated endocytosis, removing LDL cholesterol from the circulation; loss-of-function mutations in the LDL receptor gene prevent this uptake, causing LDL to accumulate in plasma to very high levels and deposit in tendons (xanthomas), corneas (arcus), and arterial walls (atherosclerosis). Intracellular cholesterol accumulation normally suppresses HMG-CoA reductase (the rate-limiting enzyme of cholesterol synthesis) and downregulates LDL receptor expression \u2014 without functional receptors, this feedback is lost, and hepatic cholesterol synthesis continues unchecked. Statins upregulate the remaining functional LDL receptors in heterozygous patients, providing partial therapeutic benefit.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559182/"
+  },
+  {
+    "id": 534,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "factual",
+    "question": "A student is studying eicosanoids. Aspirin irreversibly inhibits cyclooxygenase (COX), blocking the synthesis of prostaglandins and thromboxanes. Which of the following correctly describes the precursor of eicosanoids and their principal physiological roles?",
+    "options": [
+      "Cholesterol is the precursor; eicosanoids regulate steroid hormone synthesis and bile acid production",
+      "Arachidonic acid (a 20-carbon polyunsaturated fatty acid) is the precursor; eicosanoids regulate inflammation, fever, pain, platelet aggregation, and vascular tone",
+      "Linoleic acid is the direct precursor; eicosanoids function primarily as intracellular second messengers",
+      "Sphingomyelin is the precursor; eicosanoids regulate cell membrane fluidity and apoptosis",
+      "Palmitic acid is the precursor; eicosanoids are the primary energy substrate for cardiac muscle"
+    ],
+    "correct": 1,
+    "explanation": "Eicosanoids (prostaglandins, thromboxanes, leukotrienes, and lipoxins) are derived from arachidonic acid, a 20-carbon omega-6 polyunsaturated fatty acid released from membrane phospholipids by phospholipase A2; they act as local paracrine and autocrine mediators regulating inflammation, fever, pain, platelet aggregation, vascular tone, and uterine contraction. Aspirin's irreversible acetylation of COX-1 in platelets permanently abolishes thromboxane A2 synthesis for the platelet's lifetime (7\u201310 days), providing its antiplatelet effect. Arachidonic acid is synthesised from the essential fatty acid linoleic acid, making dietary linoleic acid indirectly essential for eicosanoid production.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537171/"
+  },
+  {
+    "id": 535,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 55-year-old man with metabolic syndrome has elevated LDL, low HDL, and high triglycerides. His physician discusses the role of cholesterol in atherosclerosis. Cholesterol is a steroid with multiple biomedical functions. Which of the following best describes the physiological roles of cholesterol in the human body?",
+    "options": [
+      "Cholesterol is the primary energy storage molecule, providing 9 kcal/g on oxidation",
+      "Cholesterol is a structural component of cell membranes, a precursor of steroid hormones, bile acids, and vitamin D",
+      "Cholesterol functions as an enzyme cofactor in fatty acid synthesis and beta-oxidation",
+      "Cholesterol is the major carrier of fat-soluble vitamins in the bloodstream",
+      "Cholesterol regulates gene expression by acting as a nuclear transcription factor"
+    ],
+    "correct": 1,
+    "explanation": "Cholesterol serves multiple essential physiological roles: it is a critical structural component of cell membranes (modulating fluidity), the precursor for all steroid hormones (cortisol, aldosterone, sex hormones), bile acids (required for fat digestion and absorption), and vitamin D (synthesised in the skin from 7-dehydrocholesterol). Despite these essential functions, excess cholesterol \u2014 particularly oxidised LDL \u2014 is deposited in arterial walls and taken up by macrophages to form foam cells, initiating atherosclerotic plaques. Unlike triglycerides and fatty acids, cholesterol cannot be used as an energy substrate since it has no beta-oxidation pathway.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526067/"
+  },
+  {
+    "id": 536,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 60-year-old smoker with hypertension has a carotid ultrasound showing significant plaque. His LDL is 185 mg/dL. His physician explains the role of lipid peroxidation in atherosclerosis. Which of the following best describes lipid peroxidation and its pathological significance?",
+    "options": [
+      "Lipid peroxidation is the enzymatic breakdown of triglycerides by lipase, producing free fatty acids that damage endothelium",
+      "Lipid peroxidation is the oxidative degradation of polyunsaturated fatty acids by free radicals, producing reactive aldehydes that damage proteins, DNA, and cell membranes",
+      "Lipid peroxidation is the conversion of cholesterol to oxysterols by hepatic enzymes, reducing bile acid synthesis",
+      "Lipid peroxidation is the esterification of fatty acids with glycerol, producing triglycerides that accumulate in macrophages",
+      "Lipid peroxidation describes the oxidation of saturated fatty acids in the mitochondria to generate ATP"
+    ],
+    "correct": 1,
+    "explanation": "Lipid peroxidation is the free radical-mediated oxidative degradation of polyunsaturated fatty acids in cell membranes and lipoproteins; the chain reaction generates reactive lipid peroxides and aldehydes (e.g. malondialdehyde, 4-hydroxynonenal) that crosslink proteins, damage DNA, and disrupt membrane integrity. In atherosclerosis, oxidised LDL (formed via lipid peroxidation) is taken up by macrophage scavenger receptors in an unregulated fashion, forming cholesterol-laden foam cells \u2014 the hallmark of early atheromatous plaques. Antioxidants such as vitamin E (alpha-tocopherol) protect cell membranes by scavenging lipid peroxy radicals and interrupting the chain reaction.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541064/"
+  },
+  {
+    "id": 537,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "factual",
+    "question": "A nutrition student is studying essential fatty acids. Linoleic acid (omega-6) and alpha-linolenic acid (omega-3) cannot be synthesised by humans and must be obtained from the diet. Which of the following best explains why these fatty acids are considered essential and what deficiency produces?",
+    "options": [
+      "They are essential because they are the only fatty acids used for energy production via beta-oxidation",
+      "They are essential because humans lack the desaturase enzymes to introduce double bonds beyond carbon 9, and deficiency causes scaly dermatitis, poor wound healing, and impaired growth",
+      "They are essential because they form the backbone of all phospholipids and deficiency causes cell membrane dissolution",
+      "They are essential because they are the direct precursors of cholesterol and deficiency causes hypocholesterolaemia",
+      "They are essential because they are required for myelin synthesis and deficiency causes peripheral neuropathy"
+    ],
+    "correct": 1,
+    "explanation": "Humans possess delta-9 desaturase but lack delta-12 and delta-15 desaturases, meaning they cannot introduce double bonds beyond carbon 9 of a fatty acid chain; linoleic (18:2, omega-6) and alpha-linolenic acid (18:3, omega-3) must therefore be obtained from dietary sources. Deficiency of essential fatty acids manifests as scaly dermatitis, alopecia, poor wound healing, increased susceptibility to infection, and impaired growth \u2014 features explained by the role of arachidonic acid (derived from linoleic acid) in membrane structure and eicosanoid synthesis. These fatty acids also serve as precursors for longer-chain polyunsaturated fatty acids including arachidonic acid (omega-6) and EPA/DHA (omega-3).",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 17",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537171/"
+  },
+  {
+    "id": 538,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 48-year-old woman is started on a statin for elevated LDL. Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol biosynthesis. Which of the following correctly identifies the subcellular location and the immediate product of HMG-CoA reductase?",
+    "options": [
+      "Mitochondria; acetyl-CoA, which enters the TCA cycle for energy production",
+      "Smooth endoplasmic reticulum; mevalonate, which is the first committed intermediate of cholesterol synthesis",
+      "Peroxisomes; farnesyl pyrophosphate, which is the direct precursor of cholesterol",
+      "Cytosol; squalene, which is cyclised to form the steroid nucleus",
+      "Nucleus; cholesterol, which directly regulates SREBP transcription factors"
+    ],
+    "correct": 1,
+    "explanation": "HMG-CoA reductase is located in the smooth endoplasmic reticulum and catalyses the conversion of HMG-CoA to mevalonate using NADPH \u2014 this is the rate-limiting, committed step of cholesterol biosynthesis and the target of statin drugs. Mevalonate is subsequently converted through a series of steps to isoprene units, farnesyl pyrophosphate, squalene, and finally cholesterol. Statins also reduce the production of non-sterol isoprenoids (farnesyl and geranylgeranyl pyrophosphate) that are important for post-translational modification of signalling proteins, which may contribute to their pleiotropic cardiovascular benefits beyond LDL lowering.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526067/"
+  },
+  {
+    "id": 539,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 32-year-old pregnant woman at 34 weeks gestation is found to have elevated liver enzymes and low platelets. She is diagnosed with acute fatty liver of pregnancy, a condition associated with impaired mitochondrial beta-oxidation of fatty acids. Which of the following correctly describes the process of beta-oxidation?",
+    "options": [
+      "Beta-oxidation occurs in the cytosol and sequentially adds two-carbon units to a growing fatty acid chain",
+      "Beta-oxidation occurs in the mitochondrial matrix and sequentially removes two-carbon acetyl-CoA units from the fatty acid chain, generating NADH and FADH2",
+      "Beta-oxidation occurs in peroxisomes exclusively and produces hydrogen peroxide as a byproduct used for ATP synthesis",
+      "Beta-oxidation occurs in the smooth ER and converts fatty acids to ketone bodies for brain utilisation",
+      "Beta-oxidation requires biotin as a cofactor to activate fatty acids before entry into the mitochondria"
+    ],
+    "correct": 1,
+    "explanation": "Beta-oxidation occurs in the mitochondrial matrix (and peroxisomes for very long chain fatty acids) and involves the sequential removal of two-carbon acetyl-CoA units from the fatty acyl chain through repeated cycles of oxidation, hydration, oxidation, and thiolysis, generating NADH and FADH2 (which feed the electron transport chain) and acetyl-CoA (which enters the TCA cycle). Fatty acids must first be activated to acyl-CoA in the cytosol and then transported into the mitochondrial matrix via carnitine (as acylcarnitine), which is the rate-limiting transport step. In contrast, fatty acid synthesis (the reverse process) occurs in the cytosol and requires NADPH and the sequential addition of two-carbon units from malonyl-CoA.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556002/"
+  },
+  {
+    "id": 540,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 19-year-old woman with anorexia nervosa presents with amenorrhoea, dry skin, and lanugo hair. Her BMI is 14. Oestrogen levels are markedly reduced. Which of the following best explains the relationship between body fat and sex hormone production?",
+    "options": [
+      "Adipose tissue synthesises oestrogen de novo from glucose, so reduced fat mass directly lowers oestrogen production",
+      "Adipose tissue converts adrenal androgens (androstenedione) to oestrone via aromatase, contributing significantly to oestrogen levels especially in pre-menopausal women",
+      "Adipose tissue stores cholesterol required for all steroid hormone synthesis, so fat loss depletes the cholesterol precursor pool",
+      "Adipose tissue secretes leptin which directly stimulates ovarian oestrogen production, so low leptin from fat loss suppresses synthesis",
+      "Adipose tissue is the primary site of progesterone synthesis, and its loss abolishes the progesterone-oestrogen balance"
+    ],
+    "correct": 1,
+    "explanation": "Adipose tissue expresses aromatase (CYP19A1), which converts adrenal androgens \u2014 primarily androstenedione \u2014 to oestrone, a weak oestrogen; this peripheral conversion is a significant source of oestrogen, particularly important in post-menopausal women but also relevant in severe malnutrition. In anorexia nervosa, both markedly reduced adipose aromatase activity and hypothalamic suppression of GnRH (due to energy deficit and low leptin) contribute to hypo-oestrogenism and amenorrhoea. All steroid hormones are synthesised from cholesterol as the precursor, which is produced hepatically and is not dependent on adipose mass.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 19",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441982/"
+  },
+  {
+    "id": 541,
+    "subject": "Biochemistry",
+    "subtopic": "Lipids & Fatty Acids",
+    "type": "clinical",
+    "question": "A 70-year-old man with Alzheimer's disease carries the ApoE4 allele. ApoE is a structural protein of VLDL, IDL, and HDL that serves as a ligand for LDL receptors. Which of the following best describes the general role of apolipoproteins in lipoprotein function?",
+    "options": [
+      "Apolipoproteins form the hydrophobic core of lipoprotein particles where triglycerides and cholesterol esters are stored",
+      "Apolipoproteins serve as structural components, receptor ligands, and enzyme activators or inhibitors that direct lipoprotein metabolism",
+      "Apolipoproteins function exclusively as transport proteins for fat-soluble vitamins within lipoprotein particles",
+      "Apolipoproteins catalyse the esterification of free cholesterol on the surface of HDL particles",
+      "Apolipoproteins act as receptors on hepatocytes that internalise lipoprotein particles by endocytosis"
+    ],
+    "correct": 1,
+    "explanation": "Apolipoproteins are the protein components of lipoproteins that serve three main functions: structural (maintaining lipoprotein particle integrity), receptor recognition (e.g. ApoB-100 and ApoE bind LDL receptors for hepatic uptake), and enzymatic regulation (e.g. ApoCII activates lipoprotein lipase; ApoAI activates LCAT). ApoE4, compared to ApoE3 and ApoE2, has reduced receptor-binding efficiency and impairs cholesterol clearance, increasing circulating LDL and Alzheimer's disease risk through mechanisms including impaired amyloid clearance. The hydrophobic core of lipoprotein particles consists of triglycerides and cholesterol esters, surrounded by a monolayer of phospholipids, free cholesterol, and apolipoproteins.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557445/"
   }
 ]
