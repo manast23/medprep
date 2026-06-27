@@ -8190,5 +8190,365 @@
     "explanation": "The tuberculin skin test elicits a Type IV (delayed-type) hypersensitivity reaction mediated by previously sensitised CD4+ T helper 1 cells; upon intradermal injection of purified protein derivative (PPD), sensitised T cells recognise mycobacterial antigens, release IFN-γ and other cytokines, and recruit macrophages to the site, producing the characteristic indurated (firm, raised) reaction 48–72 hours later. The induration (not erythema) is measured and interpreted based on the patient's risk profile. A positive result indicates prior sensitisation (infection or BCG vaccination) but does not distinguish active from latent disease.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559023/"
+  },
+  {
+    "id": 477,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 28-year-old man presents with fever, malaise, and a painful vesicular rash distributed along the right T5 dermatome. He had chickenpox as a child. Which mechanism explains reactivation of the causative virus in this dermatomal distribution?",
+    "options": [
+      "Re-infection with varicella-zoster virus via respiratory droplets from an infected contact",
+      "Reactivation of latent varicella-zoster virus from sensory nerve ganglia, travelling anterograde along the dermatome",
+      "Haematogenous spread of reactivated virus from lymph nodes to skin",
+      "Reactivation of herpes simplex virus type 2 from sacral ganglia",
+      "Autoimmune reactivation of viral antigen deposits in dorsal root ganglia"
+    ],
+    "correct": 1,
+    "explanation": "After primary varicella (chickenpox), varicella-zoster virus (VZV) establishes lifelong latency in dorsal root ganglia and cranial nerve ganglia. Reactivation — triggered by immunosuppression, stress, or aging — causes viral particles to travel anterograde along the sensory nerve axon to the corresponding dermatome, producing the painful unilateral vesicular rash of herpes zoster (shingles). The dermatomal distribution directly reflects the sensory nerve territory of the affected ganglion. Antiviral therapy (aciclovir, valaciclovir) is most effective when started within 72 hours of rash onset.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 33",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441824/"
+  },
+  {
+    "id": 478,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 22-year-old woman presents with fever, severe pharyngitis, cervical lymphadenopathy, and splenomegaly. A monospot test is positive. Full blood count shows atypical lymphocytes. Her physician warns her to avoid contact sports. Which complication is the physician most concerned about?",
+    "options": [
+      "Airway obstruction from massive tonsillar hypertrophy",
+      "Splenic rupture from splenomegaly caused by EBV-infected lymphocyte infiltration",
+      "Myocarditis from EBV tropism for cardiac myocytes",
+      "Haemolytic anaemia from cold agglutinins cross-reacting with red cell antigens",
+      "Meningitis from EBV dissemination to the CNS"
+    ],
+    "correct": 1,
+    "explanation": "Infectious mononucleosis caused by Epstein-Barr virus (EBV) produces splenomegaly in up to 50% of patients due to infiltration of the spleen by EBV-infected B lymphocytes and reactive T lymphocytes. Splenic rupture — though rare (0.1–0.5%) — is the most feared complication and can be spontaneous or precipitated by blunt abdominal trauma, which is why contact sports and strenuous activity are restricted for at least 3–4 weeks. The atypical lymphocytes on blood film represent reactive CD8+ cytotoxic T cells responding to EBV-infected B cells, not the infected B cells themselves.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 33",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534785/"
+  },
+  {
+    "id": 479,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 35-year-old HIV-positive man with a CD4 count of 30 cells/μL develops painless, progressive visual loss in his right eye. Fundoscopy shows 'pizza pie' retinopathy with haemorrhages and exudates along the vessels. Which organism is responsible, and what is the treatment?",
+    "options": [
+      "Toxoplasma gondii — causes necrotising retinitis, treated with pyrimethamine and sulfadiazine",
+      "Cytomegalovirus — causes CMV retinitis in severe immunosuppression, treated with ganciclovir or valganciclovir",
+      "Herpes simplex virus — causes acute retinal necrosis, treated with aciclovir",
+      "Varicella-zoster virus — causes progressive outer retinal necrosis, treated with ganciclovir",
+      "Candida albicans — causes endogenous endophthalmitis, treated with fluconazole"
+    ],
+    "correct": 1,
+    "explanation": "CMV retinitis is the most common serious ocular opportunistic infection in AIDS, occurring when CD4 count falls below 50 cells/μL; it presents with painless progressive visual loss and the characteristic 'pizza pie' or 'brushfire' fundoscopic appearance of white retinal necrosis with haemorrhage along the vascular arcades. Ganciclovir (or oral valganciclovir) is the treatment of choice; foscarnet or cidofovir are used for ganciclovir-resistant CMV. Immune reconstitution with antiretroviral therapy is essential for long-term control. Toxoplasma retinitis is typically painful and bilateral with a 'headlight in fog' appearance.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 33",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534781/"
+  },
+  {
+    "id": 480,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 3-year-old child develops high fever followed by a diffuse maculopapular rash that appears as the fever breaks. There is no cough, conjunctivitis, or Koplik spots. Which virus is responsible for this clinical pattern?",
+    "options": [
+      "Measles virus — preceded by cough, coryza, conjunctivitis, and Koplik spots",
+      "Human herpesvirus 6 (HHV-6) — causes roseola infantum, rash appears as fever defervesces",
+      "Rubella virus — causes a milder rash with post-auricular lymphadenopathy",
+      "Parvovirus B19 — causes 'slapped cheek' rash with reticular pattern on limbs",
+      "Enterovirus — causes hand, foot, and mouth disease with oral ulcers"
+    ],
+    "correct": 1,
+    "explanation": "Roseola infantum (exanthem subitum) is caused by Human herpesvirus 6 (HHV-6) and is characterised by three to five days of high fever that abruptly defervesces, immediately followed by a blanching maculopapular rash spreading from trunk to periphery — the rash appearing as the fever breaks is pathognomonic. It is the most common exanthem in infants under 2 years. Measles is distinguished by the prodrome of the three Cs (cough, coryza, conjunctivitis) and Koplik spots before the rash, while parvovirus B19 causes the 'slapped cheek' appearance of erythema infectiosum.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 33",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441824/"
+  },
+  {
+    "id": 481,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 6-year-old unvaccinated child develops fever, cough, coryza, and conjunctivitis. Two days later, white spots on an erythematous base appear on the buccal mucosa opposite the lower molars. A maculopapular rash subsequently appears behind the ears and spreads downward. Which serious complication is most feared in malnourished children?",
+    "options": [
+      "Subacute sclerosing panencephalitis — late progressive fatal encephalitis",
+      "Giant cell pneumonia and measles inclusion body encephalitis in immunocompromised hosts",
+      "Vitamin A deficiency-associated blindness potentiated by measles infection",
+      "Secondary bacterial pneumonia from Staphylococcus aureus or Streptococcus pneumoniae",
+      "Febrile seizures from the high fever during the prodromal phase"
+    ],
+    "correct": 2,
+    "explanation": "Measles causes profound but transient immunosuppression lasting weeks to months, and in malnourished children with pre-existing vitamin A deficiency, measles infection dramatically worsens vitamin A depletion, causing corneal xerosis, keratomalacia, and permanent blindness. WHO recommends high-dose vitamin A supplementation for all children with measles, particularly in developing countries, as it reduces both blindness and measles mortality. Koplik spots (white spots on buccal mucosa) are the pathognomonic early sign. Subacute sclerosing panencephalitis (SSPE) is a very late complication (7–10 years post-infection) caused by persistent defective measles virus in the CNS.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 35",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 482,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 25-year-old pregnant woman at 10 weeks gestation contracts rubella from an unvaccinated child. She is counselled about the risks to her fetus. Which fetal abnormalities constitute the classic congenital rubella syndrome?",
+    "options": [
+      "Neural tube defects, cleft palate, and limb reduction anomalies",
+      "Cataracts, sensorineural deafness, and congenital heart defects (patent ductus arteriosus)",
+      "Microcephaly, periventricular calcifications, and chorioretinitis",
+      "Hydrops fetalis, hepatosplenomegaly, and thrombocytopenia",
+      "Limb hypoplasia, skin scarring, and microphthalmia"
+    ],
+    "correct": 1,
+    "explanation": "Congenital rubella syndrome (CRS) results from maternal rubella infection in the first trimester, when organogenesis is occurring; the classic triad is cataracts (rubella virus infects the lens epithelium), sensorineural deafness (the most common single defect), and congenital heart defects (patent ductus arteriosus and pulmonary artery stenosis being most characteristic). Risk of CRS is highest (>80%) with infection in the first 8 weeks and falls sharply after 16 weeks. Microcephaly with periventricular calcifications describes congenital CMV or toxoplasmosis, not rubella.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 35",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 483,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 40-year-old man presents with ascending flaccid paralysis that began in his legs and is progressing toward his trunk. He received a live oral polio vaccine as a child in a developing country. Which mechanism explains vaccine-associated paralytic poliomyelitis (VAPP)?",
+    "options": [
+      "Reversion of attenuated vaccine virus to neurovirulent phenotype through mutation during replication",
+      "Contamination of the vaccine batch with wild-type poliovirus",
+      "Immune complex deposition in the spinal cord anterior horn cells",
+      "Molecular mimicry between vaccine antigen and anterior horn cell proteins",
+      "Reactivation of latent wild-type poliovirus from dorsal root ganglia"
+    ],
+    "correct": 0,
+    "explanation": "The oral polio vaccine (OPV) contains live attenuated poliovirus strains; during replication in the gut, the attenuated virus can accumulate point mutations that partially restore neurovirulence, rarely causing vaccine-associated paralytic poliomyelitis (VAPP) at a rate of approximately 1 per 2.4 million doses. The virus can also spread to unvaccinated, immunocompromised contacts. This risk led to replacement of OPV with inactivated polio vaccine (IPV) in many countries, though OPV remains important for outbreak control due to its ability to induce mucosal immunity and spread protectively in communities. Poliovirus destroys anterior horn motor neurons, causing irreversible flaccid paralysis.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 36",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459183/"
+  },
+  {
+    "id": 484,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 30-year-old man presents with painless genital warts (condylomata acuminata). He is concerned about cancer risk. Which human papillomavirus types are responsible for genital warts, and how do they differ from the high-risk oncogenic types?",
+    "options": [
+      "HPV types 16 and 18 cause genital warts; HPV types 6 and 11 cause cervical cancer",
+      "HPV types 6 and 11 cause genital warts (low-risk, non-oncogenic); HPV types 16 and 18 cause cervical and oropharyngeal cancers (high-risk)",
+      "All HPV types carry equal cancer risk; genital warts simply represent an earlier stage of malignant progression",
+      "HPV types 31 and 33 cause genital warts; types 6 and 11 cause cervical cancer",
+      "HPV types 6 and 11 are high-risk oncogenic types responsible for both warts and cancer"
+    ],
+    "correct": 1,
+    "explanation": "HPV types 6 and 11 are low-risk types that cause benign condylomata acuminata (genital warts) and laryngeal papillomatosis; their E6 and E7 oncoproteins are weak and do not efficiently degrade p53 or pRb. High-risk HPV types 16 and 18 produce potent E6 (targets p53 for degradation) and E7 (inactivates pRb) oncoproteins, disrupting cell cycle control and causing cervical, oropharyngeal, anal, and vulvar cancers. The quadrivalent and nonavalent HPV vaccines protect against types 6, 11, 16, and 18 (among others), preventing both genital warts and HPV-related cancers.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 43",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 485,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 45-year-old man with chronic hepatitis B infection has HBeAg-negative disease with persistently elevated HBV DNA and ALT. His serological profile shows HBsAg positive, anti-HBs negative, anti-HBc IgG positive, HBeAg negative, anti-HBe positive. What does this serological pattern indicate?",
+    "options": [
+      "Resolved hepatitis B infection with immunity",
+      "Active chronic hepatitis B with precore mutant virus replicating despite HBeAg negativity",
+      "Acute hepatitis B infection in the window period",
+      "Vaccinated individual with immunity from HBsAb alone",
+      "Occult hepatitis B infection with undetectable HBsAg"
+    ],
+    "correct": 1,
+    "explanation": "HBeAg-negative chronic hepatitis B is caused by precore or core promoter mutant HBV strains that cannot produce HBeAg despite active viral replication — demonstrated by elevated HBV DNA levels. The positive HBsAg confirms ongoing infection, anti-HBc IgG confirms chronic exposure, and anti-HBe positivity develops as HBeAg is lost. This is a clinically important pattern because HBV DNA and ALT (not HBeAg status) must be used to assess disease activity and treatment need. Resolved infection would show HBsAg negative with anti-HBs and anti-HBc positive.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 37",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554776/"
+  },
+  {
+    "id": 486,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 35-year-old intravenous drug user known to have hepatitis B develops acute deterioration in liver function with worsening jaundice. Testing reveals superinfection with another virus that requires HBsAg for its own envelope. Which virus is responsible, and why can it only infect hepatitis B patients?",
+    "options": [
+      "Hepatitis C virus — shares the same route of transmission but is independent of HBV",
+      "Hepatitis D virus (delta agent) — a defective RNA virus that requires HBsAg to form its envelope and infect hepatocytes",
+      "Hepatitis E virus — enteric transmission, causes fulminant hepatitis in pregnancy",
+      "Hepatitis A virus — superinfection in chronic HBV patients causes acute-on-chronic liver failure",
+      "Epstein-Barr virus — causes hepatitis in immunocompromised HBV patients"
+    ],
+    "correct": 1,
+    "explanation": "Hepatitis D virus (HDV) is a defective, single-stranded negative-sense RNA virus (the only human virusoid) that cannot produce its own envelope; it hijacks HBsAg from HBV to coat its own virion, making it absolutely dependent on HBV for assembly and transmission. HDV can occur as co-infection (simultaneous HBV+HDV acquisition, usually self-limited) or superinfection (HDV in a chronic HBV carrier, which causes more severe disease and accelerates progression to cirrhosis). HBV vaccination prevents both HBV and HDV infection.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 37",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554776/"
+  },
+  {
+    "id": 487,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 50-year-old woman is found to have anti-HCV antibodies on routine screening. She is asymptomatic. Confirmatory HCV RNA PCR is positive with a viral load of 2 × 10⁶ IU/mL. Her genotype is 1a. What is the natural history of untreated chronic HCV infection?",
+    "options": [
+      "HCV always causes fulminant hepatitis within 5 years if untreated",
+      "Approximately 75–85% of infected individuals develop chronic infection; 20–30% progress to cirrhosis over 20–30 years with risk of hepatocellular carcinoma",
+      "Most HCV infections spontaneously resolve within 6 months without treatment",
+      "Chronic HCV exclusively causes extrahepatic disease without hepatic fibrosis",
+      "HCV genotype 1a is associated with spontaneous clearance in >50% of cases"
+    ],
+    "correct": 1,
+    "explanation": "Hepatitis C virus establishes chronic infection in 75–85% of exposed individuals (unlike HAV and HBV which have higher rates of clearance); of those with chronic HCV, approximately 20–30% develop cirrhosis over 20–30 years, with annual hepatocellular carcinoma risk of 1–4% per year once cirrhosis is established. HCV is the leading indication for liver transplantation in many countries. Direct-acting antiviral regimens (NS5A, NS5B, NS3 protease inhibitors) now achieve >95% sustained virological response (cure) regardless of genotype, revolutionising HCV treatment.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 37",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554776/"
+  },
+  {
+    "id": 488,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 5-year-old child develops bilateral parotid gland swelling. One week later his father, aged 35, develops orchitis. Which serious complication in adult males is associated with the causative virus?",
+    "options": [
+      "Encephalitis from direct viral invasion of hypothalamic nuclei",
+      "Infertility from bilateral orchitis causing testicular atrophy",
+      "Sensorineural deafness from cochlear nerve inflammation",
+      "Pancreatitis causing type 1 diabetes mellitus",
+      "Myocarditis causing permanent cardiac dysfunction"
+    ],
+    "correct": 1,
+    "explanation": "Mumps virus (paramyxovirus) causes parotitis in children but in post-pubertal males causes orchitis in up to 30% of cases; when orchitis is bilateral (approximately 10–30% of cases of mumps orchitis), it can lead to testicular atrophy and subfertility or infertility. Orchitis typically presents one week after parotitis with fever, scrotal pain, and swelling. Mumps is also associated with aseptic meningitis and sensorineural deafness (the most common cause of acquired unilateral deafness in children pre-vaccine era), but bilateral orchitis causing infertility is the most feared complication in adult males specifically.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 35",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 489,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 30-year-old pregnant woman at 20 weeks presents with a pruritic vesicular rash affecting her trunk, face, and scalp in crops of different stages simultaneously. She has never had chickenpox. What is the most serious risk to her neonate if she develops varicella within 5 days before or 2 days after delivery?",
+    "options": [
+      "Congenital varicella syndrome with limb hypoplasia and scarring if infection occurs in first trimester",
+      "Neonatal varicella with disseminated disease and up to 30% mortality if maternal rash occurs peripartum",
+      "Fetal hydrops from VZV-mediated erythroid suppression",
+      "Neonatal herpes simplex from reactivation of VZV as HSV in the neonate",
+      "Premature labour from VZV placentitis causing placental insufficiency"
+    ],
+    "correct": 1,
+    "explanation": "Peripartum maternal varicella (rash within 5 days before to 2 days after delivery) is the highest-risk scenario for neonatal varicella because the neonate is exposed to the virus without having received protective maternal IgG antibodies (which require 5–7 days to develop after maternal rash onset). Neonatal varicella in this setting is severe, with disseminated disease affecting lungs, liver, and brain, and carries a mortality rate of up to 30% without treatment. Neonatal exposure is managed with varicella-zoster immune globulin (VZIG) and aciclovir. Congenital varicella syndrome (limb scarring, microcephaly) occurs with first-trimester infection, which is a different clinical scenario.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 33",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441824/"
+  },
+  {
+    "id": 490,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 60-year-old man is started on oseltamivir for influenza. His daughter asks how this drug works. What is the mechanism of action of neuraminidase inhibitors in influenza treatment?",
+    "options": [
+      "Block the M2 ion channel, preventing viral uncoating and release of viral RNA into the host cell",
+      "Inhibit neuraminidase, preventing cleavage of sialic acid from host cell receptors and trapping newly formed virions on the cell surface",
+      "Prevent haemagglutinin from binding sialic acid receptors on respiratory epithelium",
+      "Inhibit viral RNA-dependent RNA polymerase, blocking genome replication",
+      "Block nuclear export of viral ribonucleoprotein complexes"
+    ],
+    "correct": 1,
+    "explanation": "Oseltamivir and zanamivir inhibit influenza neuraminidase, the viral enzyme that cleaves sialic acid linkages between newly formed virions and host cell surface receptors; without neuraminidase activity, progeny virions remain tethered to the infected cell and aggregate with each other rather than spreading to infect new cells, thereby limiting viral dissemination. They are effective against both influenza A and B and reduce illness duration by 1–2 days when started within 48 hours of symptom onset. M2 ion channel blockers (amantadine, rimantadine) are the class that prevents viral uncoating — active only against influenza A.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 35",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 491,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 25-year-old man presents with a 2-week history of painless, flesh-coloured, umbilicated papules on his trunk and inner thighs. He is HIV-positive with a CD4 count of 90 cells/μL. Which virus causes this condition and what does the distribution suggest in this patient?",
+    "options": [
+      "HPV types 6 and 11 — genital warts spreading to the trunk",
+      "Molluscum contagiosum virus (MCV) — disseminated and treatment-resistant infection in severe immunosuppression",
+      "Varicella-zoster virus — chronic atypical presentations in HIV with low CD4",
+      "Herpes simplex virus type 1 — disseminated cutaneous HSV in immunocompromised",
+      "Orf virus — acquired from sheep contact, causes nodular lesions"
+    ],
+    "correct": 1,
+    "explanation": "Molluscum contagiosum virus (MCV), a poxvirus, causes the characteristic flesh-coloured umbilicated papules of molluscum contagiosum; in immunocompetent individuals it is self-limited, but in severely immunocompromised patients (HIV with CD4 <200) it becomes disseminated, treatment-resistant, and may produce hundreds of lesions across the face, trunk, and genitalia. The widespread distribution and refractory course in this HIV patient with a very low CD4 count is the clinical clue to underlying immunosuppression. Treatment requires immune reconstitution with ART as the most effective approach; topical treatments (cantharidin, imiquimod) are adjuncts.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441824/"
+  },
+  {
+    "id": 492,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 2-year-old child is brought to the emergency department with severe bronchiolitis, hypoxia, and wheeze during winter. Nasopharyngeal aspirate rapid antigen test is positive. This is the most common cause of bronchiolitis requiring hospitalisation in infants under 1 year. Which virus is responsible?",
+    "options": [
+      "Influenza A virus — seasonal respiratory illness with rapid antigen test available",
+      "Respiratory syncytial virus (RSV) — most common cause of bronchiolitis in infants",
+      "Parainfluenza virus type 1 — causes croup more commonly than bronchiolitis",
+      "Human metapneumovirus — clinically similar to RSV but less common",
+      "Rhinovirus — most common cause of the common cold, rarely causes bronchiolitis"
+    ],
+    "correct": 1,
+    "explanation": "Respiratory syncytial virus (RSV) is the leading cause of bronchiolitis and viral pneumonia in infants and young children, responsible for the majority of hospitalisations for lower respiratory tract infection in children under 1 year. It causes syncytium formation in respiratory epithelium (fusion of infected cells), producing the characteristic wheeze and hyperinflation of bronchiolitis. High-risk infants (premature, congenital heart disease, immunocompromised) may receive prophylactic palivizumab (anti-RSV monoclonal antibody) during RSV season. Nirsevimab, a longer-acting monoclonal antibody, is now available for broader infant prophylaxis.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 35",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 493,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 32-year-old woman presents with a first episode of painful genital ulcers, inguinal lymphadenopathy, and fever. Viral culture of the ulcer confirms HSV-2. She asks about the risk of recurrence. Which statement about HSV-2 latency and recurrence is correct?",
+    "options": [
+      "HSV-2 establishes latency in the trigeminal ganglion and recurs as orolabial herpes",
+      "HSV-2 establishes latency in sacral dorsal root ganglia (S2-S4) and recurs in the genital region, often triggered by stress, menstruation, or UV exposure",
+      "Once latency is established, HSV-2 recurrences decrease in frequency with each episode",
+      "HSV-2 can be permanently eradicated from sacral ganglia with prolonged aciclovir therapy",
+      "Asymptomatic shedding of HSV-2 does not occur between clinical recurrences"
+    ],
+    "correct": 1,
+    "explanation": "HSV-2 establishes latency in the sacral dorsal root ganglia (S2–S4) after primary genital infection; reactivation causes virus to travel anterograde to the genital skin and mucosa, producing recurrent painful ulcers — typically shorter and milder than the primary episode. Triggers include psychological stress, menstruation, fever, and immunosuppression. Critically, asymptomatic viral shedding occurs frequently between clinical episodes and is responsible for most sexual transmission. Aciclovir and valaciclovir suppress recurrences and reduce (but do not eliminate) asymptomatic shedding but cannot eradicate latent virus from ganglia.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 33",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441824/"
+  },
+  {
+    "id": 494,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 70-year-old man who received a kidney transplant 6 months ago develops haematuria and is found to have BK virus nephropathy on renal biopsy. BK virus is a polyomavirus that was latent in his urinary tract. Which factor most directly precipitated reactivation?",
+    "options": [
+      "Advanced age causing physiological immune senescence",
+      "Immunosuppressive therapy (calcineurin inhibitors and mycophenolate) reducing T-cell surveillance of latent virus",
+      "Surgical disruption of the ureteric anastomosis allowing viral translocation",
+      "The donor kidney introducing a new BK virus strain more pathogenic than the recipient's latent strain",
+      "CMV co-infection suppressing NK cell activity and allowing BK reactivation"
+    ],
+    "correct": 1,
+    "explanation": "BK virus establishes lifelong latency in the urothelium and renal tubular epithelium after primary childhood infection; in immunocompetent hosts it causes no disease, but in renal transplant recipients on intensive immunosuppression (particularly combinations of tacrolimus and mycophenolate mofetil), reduced T-cell surveillance allows viral reactivation, replication in the transplanted kidney's urothelium, and BK nephropathy — a major cause of allograft loss. Management involves reducing immunosuppression to allow T-cell reconstitution; there is no specific antiviral therapy proven effective for BK nephropathy.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 43",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 495,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 28-year-old woman is diagnosed with HIV infection. Her CD4 count is 420 cells/μL and viral load is 85,000 copies/mL. She is started on a three-drug antiretroviral regimen. Why is combination therapy with at least three drugs essential in HIV treatment?",
+    "options": [
+      "Single drugs are insufficient to penetrate the blood-brain barrier and target CNS reservoirs",
+      "Three drugs are required to cover all HIV subtypes simultaneously",
+      "Combination therapy targets multiple stages of the HIV life cycle, preventing selection of drug-resistant mutants that would emerge rapidly with monotherapy",
+      "Single-drug therapy causes immune reconstitution inflammatory syndrome requiring two additional drugs to suppress",
+      "Three drugs are needed to simultaneously achieve therapeutic levels in blood, lymph nodes, and gut mucosa"
+    ],
+    "correct": 2,
+    "explanation": "HIV has an extremely high replication rate (~10¹⁰ virions/day) and a highly error-prone reverse transcriptase (no proofreading activity), generating enormous genetic diversity daily; resistance mutations to any single drug arise spontaneously and are rapidly selected under monotherapy. Combination antiretroviral therapy (cART) simultaneously targets multiple enzymes in the HIV life cycle (reverse transcriptase, protease, integrase), making it statistically extremely unlikely for a single virion to carry resistance mutations to all three drugs simultaneously. This prevents resistance selection, achieves undetectable viral load, and preserves CD4 count and immune function.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 44",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541126/"
+  },
+  {
+    "id": 496,
+    "subject": "Microbiology",
+    "subtopic": "Virology",
+    "type": "clinical",
+    "question": "A 35-year-old man with no prior vaccination history is bitten by a stray dog. The wound is washed thoroughly. He is started on post-exposure prophylaxis. What is the rationale for administering both rabies immune globulin (RIG) and rabies vaccine simultaneously?",
+    "options": [
+      "RIG neutralises pre-existing anti-rabies antibodies that would interfere with vaccine efficacy",
+      "RIG provides immediate passive antibody protection while the vaccine stimulates active immunity that takes 7–14 days to develop",
+      "The vaccine alone is ineffective in unvaccinated individuals and requires RIG to prime antigen-presenting cells",
+      "RIG prevents vaccine-associated encephalitis by neutralising attenuated vaccine virus",
+      "Simultaneous administration is required to achieve adequate CNS penetration of antibodies"
+    ],
+    "correct": 1,
+    "explanation": "Rabies post-exposure prophylaxis requires both immediate passive immunisation with rabies immune globulin (RIG) infiltrated into and around the wound to provide immediate virus-neutralising antibodies, and active immunisation with rabies vaccine (given on days 0, 3, 7, and 14) to stimulate the patient's own durable immune response. The rationale is the temporal gap: active immunity takes 7–14 days to develop after vaccination, leaving a window during which the virus could reach the CNS — RIG bridges this gap. RIG should be given only once (at the initial visit) as repeat administration could neutralise the vaccine response.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 39",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
   }
 ]
