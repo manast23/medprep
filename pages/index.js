@@ -45,11 +45,11 @@ const SUBJECTS = [
     image: '/pharmacology.jpg',
   },
   {
-    key: 'Microbiology',
-    title: 'Microbiology',
-    references: "Jawetz, Melnick & Adelberg's Medical Microbiology",
-    description: 'Bacteriology, virology, mycology, parasitology, and immunology — from microbial pathogenesis to clinical infectious disease.',
-    image: '/microbiology.jpg',
+    key: 'Biochemistry',
+    title: 'Biochemistry',
+    references: "Lippincott's Illustrated Reviews: Biochemistry · Harper's Illustrated Biochemistry",
+    description: 'Metabolism, molecular biology, genetics, and clinical correlations — from enzyme kinetics to inborn errors of metabolism.',
+    image: '/biochemistry.jpg',
   },
 ]
 
