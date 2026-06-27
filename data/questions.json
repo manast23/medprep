@@ -8550,5 +8550,185 @@
     "explanation": "Rabies post-exposure prophylaxis requires both immediate passive immunisation with rabies immune globulin (RIG) infiltrated into and around the wound to provide immediate virus-neutralising antibodies, and active immunisation with rabies vaccine (given on days 0, 3, 7, and 14) to stimulate the patient's own durable immune response. The rationale is the temporal gap: active immunity takes 7–14 days to develop after vaccination, leaving a window during which the virus could reach the CNS — RIG bridges this gap. RIG should be given only once (at the initial visit) as repeat administration could neutralise the vaccine response.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 39",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "id": 497,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 35-year-old HIV-positive man with a CD4 count of 55 cells/μL develops headache, fever, and neck stiffness. CSF analysis shows low glucose, elevated protein, and India ink staining reveals encapsulated yeast. Cryptococcal antigen is positive. Which virulence factor most directly contributes to CNS tropism and immune evasion in this organism?",
+    "options": [
+      "Melanin production in the cell wall protecting against oxidative killing",
+      "Large polysaccharide capsule (glucuronoxylomannan) inhibiting phagocytosis, complement, and T-cell activation",
+      "Thermotolerance at 37°C allowing survival in host tissues",
+      "Urease production alkalinising the CSF and impairing neutrophil function",
+      "Phospholipase B disrupting blood-brain barrier tight junctions"
+    ],
+    "correct": 1,
+    "explanation": "Cryptococcus neoformans possesses a large polysaccharide capsule composed primarily of glucuronoxylomannan (GXM) that is its dominant virulence factor; GXM inhibits phagocytosis by masking surface ligands, impairs complement activation, suppresses T-cell proliferation, and sheds shed antigen into blood and CSF (detected by the cryptococcal antigen test). The capsule is the basis of the India ink halo appearance and the latex agglutination antigen test. CNS tropism is enhanced by CSF dopamine serving as a substrate for cryptococcal melanin synthesis, which protects the organism from oxidative killing — making this a multifactorial mechanism, though the capsule is the primary immune evasion factor.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 45",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545171/"
+  },
+  {
+    "id": 498,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 45-year-old immunocompromised patient on prolonged broad-spectrum antibiotics and corticosteroids develops fever unresponsive to antibacterials. Blood cultures grow yeast. A germ tube test at 37°C in serum is positive after 2 hours. Which organism is responsible, and what does the germ tube test demonstrate?",
+    "options": [
+      "Cryptococcus neoformans — encapsulated yeast, germ tube negative",
+      "Candida albicans — germ tube positive, indicating early hyphal formation and distinguishing it from other Candida species",
+      "Aspergillus fumigatus — filamentous mould, not identified by germ tube test",
+      "Candida glabrata — most common non-albicans Candida, germ tube negative",
+      "Histoplasma capsulatum — dimorphic fungus, germ tube positive at room temperature"
+    ],
+    "correct": 1,
+    "explanation": "The germ tube test (Reynolds-Braude phenomenon) is performed by incubating yeast in human serum at 37°C for 2–3 hours; Candida albicans (and C. dubliniensis) produce germ tubes — elongated hyphal projections without a constriction at the point of origin — which represent early pseudohyphal formation and serve as a rapid presumptive identification of C. albicans. Other Candida species (C. glabrata, C. tropicalis, C. parapsilosis) are germ tube negative. C. albicans is the most common cause of invasive candidiasis in immunocompromised and ICU patients, and its ability to switch between yeast and hyphal forms is a key virulence property.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 45",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545171/"
+  },
+  {
+    "id": 499,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 55-year-old man with acute myeloid leukaemia on chemotherapy develops persistent fever with a chest CT showing a pulmonary nodule with a 'halo sign' (ground-glass opacity surrounding a central nodule). Bronchoalveolar lavage shows septate hyphae branching at 45-degree angles. Which organism is responsible, and what is first-line treatment?",
+    "options": [
+      "Mucor species — broad aseptate hyphae branching at 90 degrees, treated with amphotericin B",
+      "Aspergillus fumigatus — septate hyphae at 45-degree angles, halo sign, treated with voriconazole",
+      "Candida albicans — pseudohyphae, treated with fluconazole",
+      "Cryptococcus neoformans — encapsulated yeast, India ink positive, treated with amphotericin B + flucytosine",
+      "Pneumocystis jirovecii — cysts on silver stain, treated with trimethoprim-sulfamethoxazole"
+    ],
+    "correct": 1,
+    "explanation": "Invasive pulmonary aspergillosis (IPA) caused by Aspergillus fumigatus is the leading fungal infection in profoundly neutropenic patients; the halo sign on CT (ground-glass haemorrhagic infarction surrounding a central fungal nodule) represents angioinvasion and is an early radiological marker. Aspergillus produces septate hyphae with dichotomous branching at 45-degree angles — distinguishing it from Mucor/Rhizopus species which have broad, ribbon-like, pauci-septate hyphae branching at 90 degrees. Voriconazole is first-line treatment for IPA. The galactomannan antigen assay is a useful non-invasive diagnostic test for Aspergillus in high-risk patients.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 45",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545171/"
+  },
+  {
+    "id": 500,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 60-year-old diabetic man with poorly controlled blood sugar develops rapidly progressive facial pain, blackened nasal mucosa, and proptosis. CT shows invasion of the orbital and paranasal sinuses. Biopsy shows broad pauci-septate hyphae branching at right angles with vessel invasion. Which organism is responsible, and why are diabetics particularly susceptible?",
+    "options": [
+      "Aspergillus fumigatus — septate hyphae at 45 degrees, affects neutropenic patients",
+      "Mucor/Rhizopus species — causes rhinocerebral mucormycosis; diabetics susceptible due to iron availability and impaired phagocyte function in acidosis",
+      "Candida albicans — pseudohyphae, causes oral and oesophageal candidiasis in diabetics",
+      "Fusarium species — hyaline mould causing disseminated infection in neutropenic patients",
+      "Scedosporium — resistant mould causing CNS infection in near-drowning victims"
+    ],
+    "correct": 1,
+    "explanation": "Rhinocerebral mucormycosis is caused by Mucorales (Mucor, Rhizopus, Lichtheimia) and presents with rapidly progressive sinonasal infection that invades the orbit and brain, characterised by black eschar (vascular thrombosis and necrosis) and broad pauci-septate hyphae branching at 90 degrees on histology. Diabetics — especially during ketoacidosis — are highly susceptible because acidosis impairs phagocyte function, elevated glucose promotes fungal growth, and elevated free iron (reduced transferrin binding in acidosis) fuels rapid fungal replication. Treatment requires urgent surgical debridement and amphotericin B; voriconazole has no activity against Mucorales.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 45",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545171/"
+  },
+  {
+    "id": 501,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 30-year-old man from sub-Saharan Africa presents with fever, rigors, anaemia, splenomegaly, and a blood film showing ring-form trophozoites within red blood cells, with some cells containing multiple rings. No enlarged red cells are seen. Which Plasmodium species is most likely, and what makes it the most lethal form of malaria?",
+    "options": [
+      "Plasmodium vivax — enlarges red cells, Schüffner's dots, relapsing malaria from hypnozoites",
+      "Plasmodium falciparum — does not enlarge red cells, infects all RBC ages, causes cytoadherence and sequestration in deep capillaries",
+      "Plasmodium malariae — quartan fever (72-hour cycle), associated with nephrotic syndrome",
+      "Plasmodium ovale — enlarged oval red cells, Schüffner's dots, mild disease",
+      "Plasmodium knowlesi — zoonotic simian malaria, daily fever cycle"
+    ],
+    "correct": 1,
+    "explanation": "Plasmodium falciparum is the most lethal malaria species because it infects red blood cells of all ages (unlike P. vivax which infects only reticulocytes), achieving high parasitaemia; crucially, its PfEMP1 surface protein mediates cytoadherence of infected RBCs to vascular endothelium in deep capillaries (especially brain, lung, and placenta), causing sequestration that leads to cerebral malaria, pulmonary oedema, and placental malaria. Multiple rings per cell and absence of RBC enlargement distinguish P. falciparum from P. vivax (enlarged RBCs with Schüffner's dots). Artemisinin-based combination therapy (ACT) is first-line treatment.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
+  },
+  {
+    "id": 502,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 25-year-old man presents with profuse watery diarrhoea for three weeks after a camping trip where he drank unfiltered stream water. Stool microscopy shows pear-shaped flagellated trophozoites and oval cysts with four nuclei. What is the mechanism by which this organism causes malabsorptive diarrhoea?",
+    "options": [
+      "Invasion of intestinal epithelial cells causing inflammatory colitis",
+      "Production of enterotoxin activating adenylate cyclase causing secretory diarrhoea",
+      "Attachment to duodenal and jejunal epithelium via ventral disc, causing mechanical disruption of the brush border and malabsorption",
+      "Formation of cysts in the intestinal wall causing obstructive enteropathy",
+      "IgA protease cleavage disrupting mucosal immunity and allowing bacterial superinfection"
+    ],
+    "correct": 2,
+    "explanation": "Giardia lamblia (intestinalis) trophozoites attach to the duodenal and jejunal epithelium via a ventral sucking disc, physically disrupting the brush border microvilli and reducing the absorptive surface area; this, combined with villous atrophy and altered enzyme expression, causes malabsorption of fats and fat-soluble vitamins, producing the characteristic fatty, foul-smelling, floating stools. Giardia does not invade the mucosa and causes no blood or pus in stool. The quadrinucleate cyst is the infective form transmitted via the faecal-oral route in contaminated water; treatment is metronidazole or tinidazole.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
+  },
+  {
+    "id": 503,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 40-year-old immunocompromised patient develops watery, voluminous diarrhoea. Stool examination with modified acid-fast stain shows small (4–6 μm) pink oocysts. Which organism is responsible, and why is it particularly difficult to treat in immunocompromised patients?",
+    "options": [
+      "Giardia lamblia — trophozoites and quadrinucleate cysts, treated with metronidazole",
+      "Cryptosporidium parvum — acid-fast oocysts, self-limited in immunocompetent but chronic and life-threatening in AIDS; nitazoxanide has limited efficacy without immune reconstitution",
+      "Isospora belli (Cystoisospora) — larger acid-fast oocysts, treated with TMP-SMX",
+      "Cyclospora cayetanensis — acid-fast oocysts, associated with imported raspberries",
+      "Microsporidia — spores stained with modified trichrome, causes chronic diarrhoea in AIDS"
+    ],
+    "correct": 1,
+    "explanation": "Cryptosporidium parvum causes self-limited watery diarrhoea in immunocompetent hosts but profuse, life-threatening cholera-like diarrhoea in severely immunocompromised patients (AIDS with CD4 <100). Its oocysts are small (4–6 μm), resist standard chlorination and most disinfectants (including many water treatment processes), and are detected by modified acid-fast staining. Nitazoxanide is the only approved antiparasitic but has minimal efficacy without immune reconstitution via ART. The organism completes its entire life cycle within a single host cell, residing in an intracellular but extracytoplasmic location that limits drug access.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
+  },
+  {
+    "id": 504,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 28-year-old woman returning from East Africa develops fever, hepatosplenomegaly, weight loss, and pancytopenia. Bone marrow biopsy shows amastigotes within macrophages. Which organism is responsible, and what is the vector?",
+    "options": [
+      "Trypanosoma brucei — causes sleeping sickness, transmitted by the tsetse fly",
+      "Leishmania donovani — causes visceral leishmaniasis (kala-azar), transmitted by the sandfly",
+      "Plasmodium falciparum — causes malaria with bone marrow suppression, transmitted by Anopheles mosquito",
+      "Trypanosoma cruzi — causes Chagas disease, transmitted by the reduviid (kissing) bug",
+      "Toxoplasma gondii — causes disseminated toxoplasmosis, transmitted via cat faeces"
+    ],
+    "correct": 1,
+    "explanation": "Visceral leishmaniasis (kala-azar) is caused by Leishmania donovani (or L. infantum/chagasi in other regions), transmitted by the bite of female Phlebotomus sandflies; the amastigote form resides and multiplies within macrophages of the reticuloendothelial system (liver, spleen, bone marrow), causing progressive hepatosplenomegaly, fever, weight loss, and pancytopenia from bone marrow infiltration. Diagnosis is by bone marrow, splenic, or liver aspirate showing intracellular amastigotes (Leishman-Donovan bodies). Treatment is liposomal amphotericin B or miltefosine in endemic regions.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
+  },
+  {
+    "id": 505,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 35-year-old man from South America develops progressive dysphagia and constipation over several years. Barium swallow shows a massively dilated oesophagus (megaoesophagus) and barium enema shows megacolon. ECG shows right bundle branch block. Which organism caused this, and what is the pathophysiological mechanism?",
+    "options": [
+      "Leishmania donovani — amastigotes destroying enteric neurons in the myenteric plexus",
+      "Trypanosoma cruzi — trypomastigotes and amastigotes destroying the myenteric plexus (Auerbach's plexus) and cardiac conduction system",
+      "Ascaris lumbricoides — heavy worm burden causing mechanical obstruction of the oesophagus and colon",
+      "Entamoeba histolytica — colonic perforation causing secondary megacolon",
+      "Strongyloides stercoralis — hyperinfection syndrome destroying enteric mucosa"
+    ],
+    "correct": 1,
+    "explanation": "Chagas disease (American trypanosomiasis) caused by Trypanosoma cruzi is transmitted by the reduviid (kissing) bug; in the chronic phase, the immune response to amastigotes residing in cardiac and smooth muscle cells destroys the myenteric plexus (Auerbach's plexus), causing denervation of the oesophagus and colon (megaoesophagus, megacolon) and the cardiac conduction system (right bundle branch block, arrhythmias, dilated cardiomyopathy). These manifestations appear 10–30 years after acute infection. Benznidazole or nifurtimox can treat the acute phase but have limited efficacy once chronic organ damage is established.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
+  },
+  {
+    "id": 506,
+    "subject": "Microbiology",
+    "subtopic": "Mycology & Parasitology",
+    "type": "clinical",
+    "question": "A 30-year-old woman presents with bloody diarrhoea, abdominal pain, and right upper quadrant tenderness. Ultrasound shows a single large liver abscess. Stool microscopy shows trophozoites with ingested red blood cells. Serology is positive. Which organism is responsible, and how does it cause liver abscess?",
+    "options": [
+      "Giardia lamblia — non-invasive, does not cause liver abscess",
+      "Entamoeba histolytica — invasive trophozoites penetrate the colonic mucosa, enter portal circulation, and form liver abscesses containing 'anchovy paste' material",
+      "Cryptosporidium parvum — intracellular organism causing diarrhoea but not liver abscess",
+      "Balantidium coli — ciliated protozoan causing colitis but not hepatic involvement",
+      "Toxoplasma gondii — causes disseminated infection but not amoebic liver abscess"
+    ],
+    "correct": 1,
+    "explanation": "Entamoeba histolytica trophozoites invade the colonic mucosa using proteases (cysteine proteases and amoebapores) to lyse epithelial cells, forming the characteristic flask-shaped ulcers; they enter the portal circulation and travel to the liver, where they destroy hepatocytes and form amoebic liver abscesses containing liquefied necrotic tissue with an 'anchovy paste' or 'chocolate sauce' appearance (sterile pus without neutrophils). Trophozoites containing ingested red blood cells (erythrophagocytosis) on stool microscopy are pathognomonic of E. histolytica. Treatment is metronidazole followed by a luminal agent (paromomycin or diloxanide furoate) to eliminate intestinal cysts.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
   }
 ]
