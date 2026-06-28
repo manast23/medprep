@@ -9540,5 +9540,221 @@
     "explanation": "Methaemoglobinaemia occurs when haemoglobin iron is oxidised from the normal ferrous (Fe2+) to the ferric (Fe3+) state, forming methaemoglobin (MetHb) which cannot bind oxygen; it also causes a leftward shift in the oxygen-dissociation curve of the remaining normal haemoglobin, further impairing oxygen delivery. Normally, MetHb reductase (cytochrome b5 reductase) using NADH maintains MetHb levels below 1%; oxidant drugs (dapsone, nitrites, prilocaine) and dietary nitrates overwhelm this system. Treatment is methylene blue, which acts as a cofactor for NADPH-MetHb reductase (the G6PD-dependent pathway), providing an alternative reduction route \u2014 which is why it is ineffective in G6PD deficiency.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 3",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537317/"
+  },
+  {
+    "id": 552,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 2-year-old child in a rural low-income setting presents with bowed legs, widened wrists, and a rachitic rosary on chest examination. Serum calcium is low-normal, phosphate is low, and alkaline phosphatase is markedly elevated. Which of the following best explains the pathophysiology of nutritional rickets?",
+    "options": [
+      "Vitamin D deficiency impairs intestinal calcium and phosphate absorption, reducing mineralisation of the osteoid matrix",
+      "Calcium deficiency alone prevents hydroxyapatite crystal deposition regardless of vitamin D status",
+      "Vitamin D deficiency impairs parathyroid hormone synthesis, reducing calcium mobilisation from bone",
+      "Phosphate deficiency causes defective collagen synthesis in the osteoid matrix preventing bone formation",
+      "Vitamin D deficiency activates osteoclasts directly, causing bone resorption and cortical thinning"
+    ],
+    "correct": 0,
+    "explanation": "Vitamin D (as 1,25-dihydroxycholecalciferol/calcitriol) is essential for intestinal absorption of calcium and phosphate; deficiency reduces both, impairing mineralisation of the cartilaginous growth plate and osteoid matrix, producing the soft, deformable bones and characteristic skeletal changes of rickets. Compensatory secondary hyperparathyroidism mobilises calcium from bone (maintaining serum calcium at the cost of phosphate wasting), which is why serum calcium is often low-normal rather than frankly low. Elevated alkaline phosphatase reflects increased osteoblastic activity as the body attempts to mineralise the unmineralised osteoid.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532970/"
+  },
+  {
+    "id": 553,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 65-year-old chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia. He is malnourished and has been eating mainly white bread and beer. Which vitamin deficiency explains this presentation and what is its biochemical role?",
+    "options": [
+      "Vitamin B12 deficiency \u2014 required for myelin synthesis; deficiency causes subacute combined degeneration",
+      "Thiamine (vitamin B1) deficiency \u2014 required as a cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase; deficiency causes Wernicke's encephalopathy",
+      "Niacin (vitamin B3) deficiency \u2014 required for NAD+ synthesis; deficiency causes pellagra with dementia",
+      "Pyridoxine (vitamin B6) deficiency \u2014 required for neurotransmitter synthesis; deficiency causes peripheral neuropathy and seizures",
+      "Folate deficiency \u2014 required for DNA synthesis; deficiency impairs neuronal repair causing encephalopathy"
+    ],
+    "correct": 1,
+    "explanation": "The triad of confusion, ataxia, and ophthalmoplegia is Wernicke's encephalopathy, caused by thiamine (vitamin B1) deficiency; thiamine pyrophosphate (TPP) is an essential cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase (TCA cycle), and transketolase (HMP shunt), and its deficiency impairs oxidative metabolism particularly in high-energy-demand brain regions such as the mammillary bodies and periaqueductal grey. Alcoholics are at risk due to poor intake, impaired intestinal absorption, and reduced hepatic storage of thiamine. If untreated, Wernicke's encephalopathy can progress to Korsakoff's psychosis (irreversible amnesia with confabulation), so IV thiamine must be given before glucose in any suspected case.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537282/"
+  },
+  {
+    "id": 554,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 70-year-old strict vegan woman presents with fatigue, macrocytic anaemia, and a burning sensation in her feet. Serum B12 is undetectable. Serum homocysteine and methylmalonic acid are both elevated. Which of the following correctly explains the dual biochemical roles of vitamin B12?",
+    "options": [
+      "B12 is required for fatty acid synthesis as a cofactor for acetyl-CoA carboxylase and for purine synthesis",
+      "B12 is required as a cofactor for methionine synthase (converting homocysteine to methionine) and methylmalonyl-CoA mutase (converting methylmalonyl-CoA to succinyl-CoA)",
+      "B12 is required for collagen hydroxylation and iron absorption from the intestine",
+      "B12 is required for the conversion of folate to its active form and for haem iron incorporation",
+      "B12 is required as a cofactor for thymidylate synthase and dihydrofolate reductase in DNA synthesis"
+    ],
+    "correct": 1,
+    "explanation": "Vitamin B12 serves as a cofactor for two enzymes: methionine synthase, which converts homocysteine to methionine using methyltetrahydrofolate as the methyl donor (explaining elevated homocysteine in deficiency), and methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to succinyl-CoA in the catabolism of odd-chain fatty acids and branched-chain amino acids (explaining elevated methylmalonic acid). Elevated methylmalonic acid distinguishes B12 deficiency from folate deficiency (which also raises homocysteine but not methylmalonic acid). The neurological features (subacute combined degeneration of the spinal cord) result from impaired myelin synthesis due to defective methylation reactions and toxic accumulation of methylmalonyl-CoA.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441923/"
+  },
+  {
+    "id": 555,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 35-year-old woman presents with a symmetrical dermatitis on sun-exposed skin, diarrhoea, and dementia. She has been living on a maize-based diet with minimal protein intake. Which vitamin deficiency causes this triad and what is its biochemical basis?",
+    "options": [
+      "Vitamin B6 (pyridoxine) deficiency \u2014 impairs transamination and neurotransmitter synthesis",
+      "Niacin (vitamin B3) deficiency \u2014 impairs NAD+ and NADP+ synthesis causing pellagra with the 3 Ds: dermatitis, diarrhoea, dementia",
+      "Riboflavin (B2) deficiency \u2014 impairs FAD synthesis causing glossitis and angular stomatitis",
+      "Tryptophan deficiency alone \u2014 maize lacks tryptophan which is the sole precursor for serotonin",
+      "Folate deficiency \u2014 impairs single-carbon transfer causing megaloblastic changes in gut mucosa and skin"
+    ],
+    "correct": 1,
+    "explanation": "Pellagra is caused by niacin (vitamin B3) deficiency, presenting with the classic 3 Ds \u2014 dermatitis (photosensitive, symmetrical rash on sun-exposed skin), diarrhoea, and dementia (encephalopathy); niacin is required for NAD+ and NADP+ synthesis, which are essential electron carriers in energy metabolism, fatty acid synthesis, and DNA repair. Maize (corn) is deficient in both niacin and tryptophan (which can be converted to niacin at 60:1 ratio), and maize proteins bind niacin in an unavailable form; traditional alkali processing (nixtamalisation) releases bound niacin, explaining why pellagra was historically common in populations that adopted maize without this process. A 4th D \u2014 death \u2014 occurs if untreated.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557728/"
+  },
+  {
+    "id": 556,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 6-month-old exclusively breastfed infant presents with irritability, subcutaneous haemorrhages, and swollen tender legs. X-ray shows periosteal elevation and Tr\u00fcmmerfeld zone at metaphyses. Which vitamin deficiency is responsible and what is its biochemical function?",
+    "options": [
+      "Vitamin K deficiency \u2014 required for gamma-carboxylation of clotting factors causing bleeding diathesis",
+      "Vitamin C (ascorbic acid) deficiency \u2014 required as a cofactor for prolyl and lysyl hydroxylase in collagen synthesis; deficiency impairs collagen crosslinking causing vascular fragility and scurvy",
+      "Vitamin D deficiency \u2014 impairs bone mineralisation causing rickets with periosteal haemorrhages",
+      "Vitamin A deficiency \u2014 required for epithelial integrity; deficiency causes mucosal bleeding and bone changes",
+      "Vitamin E deficiency \u2014 required for antioxidant protection of cell membranes; deficiency causes haemolysis and periosteal bleeding"
+    ],
+    "correct": 1,
+    "explanation": "Scurvy results from vitamin C (ascorbic acid) deficiency; ascorbic acid is an essential cofactor for prolyl hydroxylase and lysyl hydroxylase, the enzymes that hydroxylate proline and lysine residues in procollagen, a step required for triple-helix formation and collagen crosslinking. Without stable collagen, blood vessel walls, periosteum, and connective tissues are structurally weak, leading to perifollicular haemorrhages, gum bleeding, periosteal haemorrhages (causing the characteristic subperiosteal haematomas and pseudoparalysis in infants), and impaired wound healing. Infants fed exclusively breast milk beyond 4\u20136 months without vitamin C supplementation are at risk as breast milk is a poor source of ascorbic acid.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493187/"
+  },
+  {
+    "id": 557,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 28-year-old woman in her first trimester of pregnancy is prescribed folic acid supplementation. She is told it reduces the risk of neural tube defects. Which of the following best describes the biochemical role of folate in the context of neural tube development?",
+    "options": [
+      "Folate is required for vitamin B12 absorption in the terminal ileum, so deficiency indirectly causes B12-related neural tube defects",
+      "Folate, as tetrahydrofolate (THF), carries one-carbon units required for purine and thymidylate (dTMP) synthesis and methylation reactions; deficiency impairs rapid cell division needed for neural tube closure",
+      "Folate is required for collagen synthesis in the neural tube mesenchyme, and deficiency causes structural failure of closure",
+      "Folate directly stimulates neural crest cell migration, and deficiency prevents neural tube fusion",
+      "Folate is required for acetylcholine synthesis in developing neurons, and deficiency impairs neuroectoderm signalling"
+    ],
+    "correct": 1,
+    "explanation": "Tetrahydrofolate (THF) and its derivatives are essential one-carbon carriers required for de novo synthesis of purines and thymidylate (dTMP), which are building blocks for DNA; during neural tube closure (days 21\u201328 of gestation), extremely rapid cell proliferation creates a high demand for DNA synthesis that cannot be met when folate is deficient, leading to failure of neural tube closure. Folate also donates methyl groups for homocysteine remethylation to methionine; elevated homocysteine in folate deficiency may independently contribute to neural tube defects. Periconceptional supplementation with 400 \u00b5g/day reduces neural tube defect risk by approximately 70%.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535377/"
+  },
+  {
+    "id": 558,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 55-year-old man on long-term isoniazid therapy for tuberculosis develops a peripheral neuropathy with burning paraesthesias. Which vitamin does isoniazid deplete and what is the consequence of its deficiency?",
+    "options": [
+      "Thiamine (B1) \u2014 isoniazid inhibits TPP synthesis causing Wernicke-like encephalopathy",
+      "Pyridoxine (vitamin B6) \u2014 isoniazid is a structural analogue that inhibits pyridoxal kinase and forms hydrazones with B6, depleting pyridoxal phosphate required for aminotransferases and neurotransmitter synthesis",
+      "Niacin (B3) \u2014 isoniazid inhibits tryptophan conversion to niacin causing pellagra-like neuropathy",
+      "Riboflavin (B2) \u2014 isoniazid inhibits FAD synthesis causing peripheral neuropathy and glossitis",
+      "Biotin (B7) \u2014 isoniazid depletes biotin required for fatty acid carboxylation causing axonal degeneration"
+    ],
+    "correct": 1,
+    "explanation": "Isoniazid (INH) is a structural analogue of pyridoxine that competitively inhibits pyridoxal kinase (preventing B6 phosphorylation to its active form, pyridoxal phosphate) and also forms inactive hydrazones with pyridoxal; the resulting PLP deficiency impairs PLP-dependent enzymes including aminotransferases, decarboxylases involved in neurotransmitter synthesis (GABA, serotonin, dopamine), and sphingolipid metabolism, producing peripheral neuropathy. Pyridoxine 25\u201350 mg/day is routinely co-prescribed with isoniazid to prevent this complication, especially in patients at higher risk such as diabetics, alcoholics, and the malnourished. PLP also serves as the cofactor for ALA synthase, so severe B6 deficiency can cause a sideroblastic-like anaemia.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557618/"
+  },
+  {
+    "id": 559,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 3-year-old child from a low-income family presents with night blindness, dry eyes (xerophthalmia), and a Bitot's spot on the conjunctiva. Which vitamin is deficient and what are its key biochemical functions?",
+    "options": [
+      "Vitamin E \u2014 required for antioxidant protection of photoreceptor membranes; deficiency causes retinal degeneration",
+      "Vitamin A (retinol) \u2014 required for synthesis of rhodopsin in rod cells, maintenance of epithelial integrity, and immune function; deficiency causes night blindness and xerophthalmia",
+      "Vitamin D \u2014 required for calcium-dependent photoreceptor signalling; deficiency impairs dark adaptation",
+      "Zinc \u2014 required as a cofactor for retinol dehydrogenase; deficiency causes functional vitamin A deficiency despite normal serum retinol",
+      "Vitamin C \u2014 required for maintenance of corneal collagen; deficiency causes corneal thinning and dry eyes"
+    ],
+    "correct": 1,
+    "explanation": "Vitamin A (retinol) deficiency is the most common cause of preventable blindness in children worldwide; retinal (the aldehyde form) combines with opsin to form rhodopsin in rod cells \u2014 the photopigment for dim-light vision \u2014 so deficiency causes night blindness (nyctalopia) as the earliest symptom. Vitamin A also maintains epithelial integrity by promoting differentiation of mucus-secreting columnar epithelium; without it, epithelium undergoes squamous metaplasia (keratinisation), producing dry eyes (xerophthalmia) and Bitot's spots (foamy keratinised plaques on the conjunctiva). Vitamin A also supports immune function, and deficiency significantly increases mortality from measles and diarrhoeal illness in children.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532969/"
+  },
+  {
+    "id": 560,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 72-year-old man on warfarin for atrial fibrillation presents with an INR of 6.2 after eating large amounts of leafy green vegetables. He has no active bleeding. Which of the following correctly explains the role of vitamin K in coagulation?",
+    "options": [
+      "Vitamin K is a cofactor for factor XIII (fibrin-stabilising factor) that crosslinks fibrin clots",
+      "Vitamin K is required as a cofactor for gamma-glutamyl carboxylase, which carboxylates glutamate residues on clotting factors II, VII, IX, and X enabling them to bind calcium and phospholipid surfaces",
+      "Vitamin K activates thrombin directly by proteolytic cleavage of prothrombin in the liver",
+      "Vitamin K promotes platelet aggregation by upregulating thromboxane A2 synthesis",
+      "Vitamin K is required for von Willebrand factor synthesis in endothelial cells"
+    ],
+    "correct": 1,
+    "explanation": "Vitamin K is an essential cofactor for gamma-glutamyl carboxylase, which post-translationally carboxylates specific glutamate residues on the vitamin K-dependent clotting factors (II, VII, IX, X) and anticoagulant proteins (C and S); this gamma-carboxylation enables these proteins to bind calcium ions and phospholipid surfaces (via their Gla domains), a step essential for their assembly into active coagulation complexes. Warfarin inhibits vitamin K epoxide reductase, preventing regeneration of reduced vitamin K and thus blocking synthesis of functional clotting factors; dietary vitamin K from leafy greens competes with warfarin's effect, raising the INR unpredictably when intake varies. Fat malabsorption (biliary obstruction, pancreatic insufficiency) also causes vitamin K deficiency as it is fat-soluble.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536983/"
+  },
+  {
+    "id": 561,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 45-year-old woman with Crohn's disease involving the terminal ileum has been suffering from diarrhoea, weight loss, and fatigue for years. Her serum zinc is low. She develops acrodermatitis enteropathica-like features \u2014 perioral and perianal rash. Which of the following best describes the clinical significance of zinc deficiency?",
+    "options": [
+      "Zinc deficiency impairs haemoglobin synthesis by competing with iron for incorporation into the haem ring",
+      "Zinc deficiency impairs immune function, wound healing, growth, taste, and smell due to its role as a cofactor in over 300 enzymes including DNA polymerase, carbonic anhydrase, and alkaline phosphatase",
+      "Zinc deficiency specifically impairs thyroid hormone synthesis by inhibiting thyroid peroxidase activity",
+      "Zinc deficiency causes peripheral neuropathy by impairing myelin basic protein synthesis",
+      "Zinc deficiency causes night blindness by competing with vitamin A for retinol-binding protein"
+    ],
+    "correct": 1,
+    "explanation": "Zinc is a cofactor for over 300 enzymes spanning virtually all metabolic pathways \u2014 including DNA and RNA polymerases, carbonic anhydrase, alkaline phosphatase, superoxide dismutase, and matrix metalloproteinases \u2014 and is also a structural component of zinc-finger transcription factors; deficiency impairs cell-mediated immunity (lymphocyte function), wound healing, growth retardation, hypogonadism, anosmia, ageusia (loss of taste), and causes the characteristic perioral, perianal, and acral dermatitis. Terminal ileal Crohn's disease impairs zinc absorption and causes excessive losses in diarrhoea. Acrodermatitis enteropathica is the genetic form due to defective intestinal zinc transporter ZIP4, presenting identically to severe acquired zinc deficiency.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493231/"
+  },
+  {
+    "id": 562,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 40-year-old woman with autoimmune thyroiditis lives in an iodine-deficient region. She presents with a large goitre but is clinically euthyroid. Which of the following correctly explains the biochemical consequence of iodine deficiency on thyroid hormone synthesis?",
+    "options": [
+      "Iodine deficiency prevents coupling of iodotyrosines, so MIT and DIT accumulate but T3 and T4 cannot be formed, causing TSH-driven goitre",
+      "Iodine deficiency inhibits thyroglobulin synthesis, so the thyroid cannot store precursors for T3 and T4",
+      "Iodine deficiency inhibits thyroid peroxidase activity, causing hypothyroidism without goitre formation",
+      "Iodine deficiency causes direct thyrocyte apoptosis, reducing thyroid mass and T4 output",
+      "Iodine deficiency inhibits deiodinase in peripheral tissues, reducing conversion of T4 to active T3"
+    ],
+    "correct": 0,
+    "explanation": "Iodine is an essential micronutrient required for synthesis of thyroid hormones: thyroid peroxidase oxidises iodide to iodine, which is then incorporated into tyrosine residues on thyroglobulin to form monoiodotyrosine (MIT) and diiodotyrosine (DIT); coupling of DIT+DIT forms T4 and DIT+MIT forms T3. In iodine deficiency, inadequate iodination means insufficient T3 and T4 are produced, causing low negative feedback on the pituitary; the resulting TSH elevation drives thyroid follicular cell hypertrophy and hyperplasia, producing a goitre. Iodised salt programmes have largely eliminated endemic goitre in developed countries, but iodine deficiency remains the most common preventable cause of intellectual disability worldwide.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK285558/"
+  },
+  {
+    "id": 563,
+    "subject": "Biochemistry",
+    "subtopic": "Vitamins, Minerals & Nutrition",
+    "type": "clinical",
+    "question": "A 50-year-old man with hereditary haemochromatosis has transferrin saturation of 92% and elevated serum ferritin. He develops cirrhosis, diabetes, and bronze skin discolouration \u2014 the classic 'bronze diabetes'. Which of the following correctly describes iron metabolism and the defect in haemochromatosis?",
+    "options": [
+      "Haemochromatosis is caused by excessive dietary iron intake that overwhelms normal intestinal absorption limits",
+      "Haemochromatosis is caused by mutations in HFE gene reducing hepcidin production, leading to unregulated intestinal iron absorption and iron overload in liver, pancreas, heart, and joints",
+      "Haemochromatosis results from deficient transferrin synthesis, causing free iron accumulation in plasma",
+      "Haemochromatosis results from deficient ferritin synthesis, preventing safe iron storage and causing free radical damage",
+      "Haemochromatosis is caused by excess haem catabolism overwhelming the liver's capacity to excrete iron in bile"
+    ],
+    "correct": 1,
+    "explanation": "Hereditary haemochromatosis is most commonly caused by mutations in the HFE gene (C282Y and H63D) that reduce hepatic hepcidin production; hepcidin normally inhibits ferroportin on intestinal enterocytes and macrophages, so reduced hepcidin leads to unregulated iron absorption and release, causing progressive iron overload in the liver (cirrhosis), pancreas (diabetes), heart (cardiomyopathy), pituitary (hypogonadism), skin (bronze discolouration from melanin and haemosiderin), and joints (chondrocalcinosis). Iron causes tissue damage via Fenton chemistry, generating hydroxyl radicals that cause lipid peroxidation and DNA damage. Treatment is regular venesection to deplete iron stores.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430862/"
   }
 ]
