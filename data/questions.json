@@ -9756,5 +9756,257 @@
     "explanation": "Hereditary haemochromatosis is most commonly caused by mutations in the HFE gene (C282Y and H63D) that reduce hepatic hepcidin production; hepcidin normally inhibits ferroportin on intestinal enterocytes and macrophages, so reduced hepcidin leads to unregulated iron absorption and release, causing progressive iron overload in the liver (cirrhosis), pancreas (diabetes), heart (cardiomyopathy), pituitary (hypogonadism), skin (bronze discolouration from melanin and haemosiderin), and joints (chondrocalcinosis). Iron causes tissue damage via Fenton chemistry, generating hydroxyl radicals that cause lipid peroxidation and DNA damage. Treatment is regular venesection to deplete iron stores.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 28",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430862/"
+  },
+  {
+    "id": 564,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 45-year-old obese man with type 2 diabetes has a fasting glucose of 9.2 mmol/L and HbA1c of 9.4%. His physician explains that chronically elevated glucose causes glycation of haemoglobin. Which of the following best describes the clinical significance of measuring HbA1c?",
+    "options": [
+      "HbA1c reflects average blood glucose over the previous 2 weeks and is used to adjust insulin doses acutely",
+      "HbA1c reflects average blood glucose over the preceding 2\u20133 months (the lifespan of red cells) and is used to assess long-term glycaemic control",
+      "HbA1c measures the peak postprandial glucose concentration and predicts risk of hypoglycaemic episodes",
+      "HbA1c measures the rate of non-enzymatic glycation of all serum proteins and reflects hepatic glucose output",
+      "HbA1c directly measures insulin resistance by reflecting the ratio of glycated to non-glycated haemoglobin"
+    ],
+    "correct": 1,
+    "explanation": "HbA1c is formed by the non-enzymatic, irreversible glycation of the N-terminal valine of haemoglobin beta chains; since red blood cells have a lifespan of approximately 120 days, HbA1c reflects the average blood glucose concentration over the preceding 2\u20133 months, making it a reliable index of long-term glycaemic control rather than acute fluctuations. A target HbA1c of less than 7% (53 mmol/mol) is associated with reduced risk of microvascular complications (retinopathy, nephropathy, neuropathy) in type 1 and type 2 diabetes. HbA1c may be falsely low in conditions that shorten red cell lifespan (haemolytic anaemia, sickle cell disease) and falsely high in iron deficiency anaemia.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549816/"
+  },
+  {
+    "id": 565,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 2-year-old child presents with hypoglycaemia, hepatomegaly, and lactic acidosis after a short fast. Liver biopsy shows massive glycogen accumulation. Enzyme analysis reveals absent glucose-6-phosphatase activity. Which glycogen storage disease is this and why does hypoglycaemia occur?",
+    "options": [
+      "Pompe disease (type II) \u2014 lysosomal acid alpha-glucosidase deficiency causing glycogen accumulation in lysosomes",
+      "Von Gierke disease (type Ia) \u2014 glucose-6-phosphatase deficiency preventing release of free glucose from both glycogenolysis and gluconeogenesis",
+      "McArdle disease (type V) \u2014 muscle phosphorylase deficiency causing glycogen accumulation in muscle",
+      "Cori disease (type III) \u2014 debranching enzyme deficiency causing accumulation of limit dextrin",
+      "Hers disease (type VI) \u2014 liver phosphorylase deficiency causing mild hypoglycaemia and hepatomegaly"
+    ],
+    "correct": 1,
+    "explanation": "Von Gierke disease (GSD type Ia) is caused by deficiency of glucose-6-phosphatase, the enzyme required to hydrolyse glucose-6-phosphate to free glucose in the final step of both glycogenolysis and gluconeogenesis; without it, glucose cannot be exported from hepatocytes, causing severe fasting hypoglycaemia, massive hepatomegaly from glycogen and fat accumulation, lactic acidosis (from diversion of glucose-6-phosphate to glycolysis), hyperuricaemia, and hyperlipidaemia. The hypoglycaemia is particularly severe because both major glucose-producing pathways are blocked simultaneously. Treatment involves frequent feeds and uncooked cornstarch to maintain glucose levels.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 11",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1312/"
+  },
+  {
+    "id": 566,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 30-year-old man develops painful muscle cramps, exercise intolerance, and myoglobinuria after vigorous exercise. His venous lactate fails to rise after a forearm ischaemic exercise test. Muscle biopsy shows glycogen accumulation. Which enzyme is deficient?",
+    "options": [
+      "Glucose-6-phosphatase \u2014 preventing muscle glucose release during exercise",
+      "Muscle glycogen phosphorylase (myophosphorylase) \u2014 preventing glycogenolysis in muscle during exercise",
+      "Phosphofructokinase-1 \u2014 preventing glycolysis at the committed step in muscle",
+      "Acid alpha-glucosidase \u2014 preventing lysosomal glycogen degradation in muscle",
+      "Branching enzyme \u2014 preventing normal glycogen structure formation in muscle"
+    ],
+    "correct": 1,
+    "explanation": "McArdle disease (GSD type V) is caused by deficiency of muscle glycogen phosphorylase (myophosphorylase), the enzyme that initiates glycogenolysis in skeletal muscle; during exercise, muscle cannot break down its glycogen stores to provide glucose-1-phosphate for glycolysis, causing exercise intolerance, painful cramps, and myoglobinuria from rhabdomyolysis. The forearm ischaemic exercise test is diagnostic: normal individuals show a rise in venous lactate (from glycolysis) with no rise in ammonia if the effort is adequate, but McArdle patients show no lactate rise with a normal ammonia rise (confirming the effort was genuine but glycolysis is blocked). A 'second wind' phenomenon \u2014 improvement in exercise tolerance after 10 minutes \u2014 reflects switching to fatty acid oxidation and glucose from the circulation.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 11",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1516/"
+  },
+  {
+    "id": 567,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 6-month-old infant presents with progressive muscle weakness, cardiomegaly, and hypotonia. Echocardiogram shows hypertrophic cardiomyopathy. Enzyme analysis of a muscle biopsy reveals absent acid alpha-glucosidase (acid maltase). Which of the following correctly identifies this condition and its mechanism?",
+    "options": [
+      "McArdle disease \u2014 cytoplasmic glycogen phosphorylase deficiency causing glycogen accumulation in muscle",
+      "Pompe disease (GSD type II) \u2014 lysosomal acid alpha-glucosidase deficiency causing intralysosomal glycogen accumulation in heart and skeletal muscle",
+      "Von Gierke disease \u2014 glucose-6-phosphatase deficiency causing glycogen accumulation primarily in the liver",
+      "Andersen disease \u2014 branching enzyme deficiency causing abnormal glycogen with long outer chains",
+      "Forbes disease \u2014 debranching enzyme deficiency causing limit dextrin accumulation in liver and muscle"
+    ],
+    "correct": 1,
+    "explanation": "Pompe disease (GSD type II) is caused by deficiency of lysosomal acid alpha-glucosidase (acid maltase), the enzyme responsible for degrading glycogen within lysosomes; without it, glycogen accumulates progressively inside lysosomes of all tissues but most devastatingly in cardiac and skeletal muscle, causing hypertrophic cardiomyopathy, progressive muscle weakness, and respiratory failure. The infantile-onset form is rapidly fatal without treatment; enzyme replacement therapy with alglucosidase alfa has transformed outcomes. Pompe disease is unique among glycogen storage diseases in being a lysosomal storage disorder rather than a cytoplasmic enzyme deficiency.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 11",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1261/"
+  },
+  {
+    "id": 568,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 32-year-old woman with type 1 diabetes is admitted with blood glucose of 28 mmol/L, pH 7.08, bicarbonate 8 mmol/L, and ketones 4+ in urine. She omitted her insulin. Which of the following best explains why insulin deficiency leads to diabetic ketoacidosis?",
+    "options": [
+      "Insulin deficiency activates hepatic glycogen synthase, causing glucose to be stored as glycogen rather than released, paradoxically raising blood glucose",
+      "Insulin deficiency causes unrestrained lipolysis, flooding the liver with free fatty acids that are converted to ketone bodies; simultaneously, glucagon excess drives gluconeogenesis and ketogenesis",
+      "Insulin deficiency impairs glucose entry into all cells equally, forcing all tissues to oxidise fatty acids and generate ketones",
+      "Insulin deficiency reduces renal glucose reabsorption, causing osmotic diuresis and metabolic acidosis from urinary bicarbonate loss",
+      "Insulin deficiency activates muscle proteolysis, releasing amino acids that are converted to ketogenic substrates in the liver"
+    ],
+    "correct": 1,
+    "explanation": "In DKA, insulin deficiency combined with glucagon excess creates a catabolic state: absence of insulin's inhibitory effect on hormone-sensitive lipase causes unrestrained adipose lipolysis, flooding the liver with free fatty acids; in the liver, high glucagon:insulin ratio activates CPT-I (carnitine palmitoyltransferase I), channelling fatty acyl-CoA into mitochondria for beta-oxidation, overwhelming the TCA cycle and diverting acetyl-CoA to ketogenesis (acetoacetate and beta-hydroxybutyrate). Simultaneously, glucagon drives hepatic gluconeogenesis and glycogenolysis, raising blood glucose further; the ketone bodies (strong acids) consume bicarbonate buffer, causing the high anion gap metabolic acidosis. Insulin deficiency alone (not starvation) produces this severity because glucagon is also elevated.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 23",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534775/"
+  },
+  {
+    "id": 569,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "factual",
+    "question": "A student is studying glycolysis regulation. Phosphofructokinase-1 (PFK-1) is the key regulated enzyme of glycolysis. Which of the following correctly describes the allosteric regulators of PFK-1 and their physiological logic?",
+    "options": [
+      "Activated by ATP and citrate (high energy signals); inhibited by AMP and fructose-2,6-bisphosphate (low energy signals)",
+      "Inhibited by ATP and citrate (high energy signals); activated by AMP and fructose-2,6-bisphosphate (low energy and fed state signals)",
+      "Activated by glucose-6-phosphate and inhibited by pyruvate regardless of energy status",
+      "Inhibited by insulin and activated by glucagon to coordinate glycolysis with hormonal signals",
+      "Activated by NADH and inhibited by NAD+ to coordinate glycolysis with the redox state of the cell"
+    ],
+    "correct": 1,
+    "explanation": "PFK-1, the committed and rate-limiting step of glycolysis, is allosterically inhibited by high-energy signals \u2014 ATP (indicating energy sufficiency) and citrate (indicating abundant TCA cycle intermediates and fatty acid synthesis) \u2014 and activated by low-energy signals \u2014 AMP (indicating energy deficit) and fructose-2,6-bisphosphate (F-2,6-BP, produced by PFK-2 in response to insulin/fed state). This elegant regulation ensures glycolysis accelerates when energy is needed and slows when energy is abundant. Fructose-2,6-bisphosphate is the most potent activator of PFK-1 and is the key signal by which insulin promotes glycolysis in the fed state; glucagon activates PKA which phosphorylates PFK-2 to its kinase-inactive/phosphatase-active form, reducing F-2,6-BP and slowing glycolysis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK26818/"
+  },
+  {
+    "id": 570,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 1-year-old infant presents with jaundice, vomiting, and hypoglycaemia upon introduction of fruit juice. Reducing substances are present in urine but glucose oxidase strip is negative. Liver function tests show elevated transaminases. Which inborn error of metabolism best explains this picture?",
+    "options": [
+      "Galactokinase deficiency causing accumulation of galactose and cataracts without liver involvement",
+      "Classic galactosaemia due to galactose-1-phosphate uridylyltransferase deficiency causing galactose-1-phosphate accumulation in liver, brain, and kidneys",
+      "Hereditary fructose intolerance due to aldolase B deficiency causing fructose-1-phosphate accumulation",
+      "Glucose-6-phosphate dehydrogenase deficiency causing haemolysis triggered by fructose oxidation",
+      "Fructokinase deficiency causing benign fructosuria with no organ damage"
+    ],
+    "correct": 2,
+    "explanation": "Hereditary fructose intolerance (HFI) is caused by deficiency of aldolase B in the liver, kidney, and intestine; after fructose ingestion, fructokinase rapidly phosphorylates fructose to fructose-1-phosphate, which accumulates because aldolase B cannot cleave it, causing inhibition of glycogenolysis and gluconeogenesis (severe hypoglycaemia) and direct hepatotoxicity. Symptoms occur only after fructose or sucrose exposure (fruit juice, table sugar) \u2014 the infant was fine on breast milk or lactose-based formula. Reducing substances in urine reflect fructosuria (fructose is a reducing sugar), but glucose oxidase strips are negative because the reducing substance is fructose not glucose. Strict fructose avoidance prevents progression to cirrhosis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 12",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK542243/"
+  },
+  {
+    "id": 571,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 10-day-old neonate screened for metabolic disorders is found to have elevated blood galactose and galactose-1-phosphate. He develops jaundice, cataracts, and Escherichia coli sepsis. Which enzyme is deficient in classic galactosaemia?",
+    "options": [
+      "Galactokinase \u2014 causing galactose accumulation and cataracts without systemic toxicity",
+      "Galactose-1-phosphate uridylyltransferase (GALT) \u2014 causing galactose-1-phosphate and galactitol accumulation with liver, brain, and renal toxicity",
+      "UDP-galactose-4-epimerase \u2014 causing mild galactosaemia with no clinical significance",
+      "Lactase \u2014 causing inability to cleave lactose with secondary galactose accumulation",
+      "Phosphoglucomutase \u2014 causing impaired interconversion of glucose-1-phosphate and glucose-6-phosphate"
+    ],
+    "correct": 1,
+    "explanation": "Classic galactosaemia is caused by deficiency of galactose-1-phosphate uridylyltransferase (GALT), which normally transfers the uridyl group from UDP-glucose to galactose-1-phosphate; without it, galactose-1-phosphate accumulates in liver (causing jaundice, cirrhosis), brain (intellectual disability), kidneys (Fanconi syndrome), and eyes (cataracts from galactitol accumulation via aldose reductase). The susceptibility to E. coli sepsis in the neonatal period is a classic association, thought to result from impaired neutrophil function from galactose-1-phosphate toxicity. Newborn screening and prompt lactose-free formula prevent most complications if started immediately.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 12",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1518/"
+  },
+  {
+    "id": 572,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "factual",
+    "question": "A student is reviewing the TCA cycle. Which of the following correctly identifies the net products of one complete turn of the TCA cycle starting from acetyl-CoA, and identifies the rate-limiting enzyme?",
+    "options": [
+      "2 CO2, 3 NADH, 1 FADH2, 1 GTP; rate-limiting enzyme is citrate synthase",
+      "2 CO2, 3 NADH, 1 FADH2, 1 GTP; rate-limiting enzyme is isocitrate dehydrogenase",
+      "2 CO2, 2 NADH, 2 FADH2, 2 ATP; rate-limiting enzyme is alpha-ketoglutarate dehydrogenase",
+      "3 CO2, 4 NADH, 1 FADH2, 1 GTP; rate-limiting enzyme is succinate dehydrogenase",
+      "2 CO2, 3 NADH, 1 FADH2, 1 ATP; rate-limiting enzyme is malate dehydrogenase"
+    ],
+    "correct": 1,
+    "explanation": "One complete turn of the TCA cycle from acetyl-CoA produces: 2 CO2 (released at isocitrate dehydrogenase and alpha-ketoglutarate dehydrogenase steps), 3 NADH (at isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase), 1 FADH2 (at succinate dehydrogenase), and 1 GTP (at succinyl-CoA synthetase). The rate-limiting enzyme is isocitrate dehydrogenase, which is allosterically activated by ADP and Ca2+ (low energy signals) and inhibited by ATP and NADH (high energy signals). The NADH and FADH2 generated feed the electron transport chain to produce approximately 10 ATP per turn of the cycle.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 9",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK22448/"
+  },
+  {
+    "id": 573,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 55-year-old woman with type 2 diabetes is started on metformin. Her physician explains it reduces hepatic glucose output primarily by inhibiting gluconeogenesis. Which of the following correctly identifies the key regulatory enzymes of gluconeogenesis and how they differ from glycolysis?",
+    "options": [
+      "Gluconeogenesis uses the same enzymes as glycolysis but in reverse; it is regulated purely by substrate availability",
+      "Gluconeogenesis bypasses the three irreversible steps of glycolysis using four unique enzymes: pyruvate carboxylase, PEPCK, fructose-1,6-bisphosphatase, and glucose-6-phosphatase",
+      "Gluconeogenesis is regulated by a single enzyme, PEPCK, which is activated by insulin and inhibited by glucagon",
+      "Gluconeogenesis uses mitochondrial enzymes exclusively and is inhibited by cytosolic NADH accumulation",
+      "Gluconeogenesis bypasses only the pyruvate kinase step using PEPCK, with all other glycolytic enzymes running in reverse"
+    ],
+    "correct": 1,
+    "explanation": "Glycolysis has three irreversible steps (hexokinase/glucokinase, PFK-1, pyruvate kinase) that cannot be simply reversed; gluconeogenesis bypasses these using four unique enzymes \u2014 pyruvate carboxylase (pyruvate \u2192 oxaloacetate, in mitochondria), PEPCK (oxaloacetate \u2192 PEP), fructose-1,6-bisphosphatase (fructose-1,6-bisphosphate \u2192 fructose-6-phosphate), and glucose-6-phosphatase (glucose-6-phosphate \u2192 glucose, in ER). Gluconeogenesis is activated by glucagon (via cAMP/PKA) and cortisol, and inhibited by insulin; metformin activates AMPK which phosphorylates and inhibits hepatic gluconeogenic enzymes, reducing fasting hyperglycaemia. The reciprocal regulation of PFK-1/FBPase-1 and pyruvate kinase/pyruvate carboxylase prevents futile cycling.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 10",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430687/"
+  },
+  {
+    "id": 574,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 25-year-old woman with untreated type 1 diabetes presents with confusion, fruity breath, and Kussmaul breathing. Arterial blood gas: pH 7.10, HCO3 6 mmol/L, PaCO2 18 mmHg. Urine ketones are strongly positive. Which of the following correctly identifies the two main ketone bodies produced in DKA and the organ that preferentially uses them?",
+    "options": [
+      "Acetone and acetoacetate; preferentially used by the liver during prolonged starvation",
+      "Acetoacetate and beta-hydroxybutyrate; preferentially used by the brain, heart, and skeletal muscle during starvation or insulin deficiency",
+      "Beta-hydroxybutyrate and malonyl-CoA; preferentially used by skeletal muscle during intense exercise",
+      "Acetyl-CoA and acetoacetate; preferentially used by red blood cells as an alternative to glucose",
+      "Acetone and beta-hydroxybutyrate; preferentially used by the kidney cortex as an alternative fuel"
+    ],
+    "correct": 1,
+    "explanation": "The two principal ketone bodies are acetoacetate and beta-hydroxybutyrate (produced in the liver from acetyl-CoA when oxaloacetate is depleted and fatty acid oxidation overwhelms the TCA cycle), along with trace amounts of spontaneously decarboxylated acetone (responsible for the fruity breath). Ketone bodies are water-soluble and exported from the liver to peripheral tissues \u2014 brain, heart, skeletal muscle, and renal cortex \u2014 where they are reconverted to acetyl-CoA for oxidation; during prolonged starvation, the brain adapts to use ketones as its primary fuel, reducing its glucose requirement. The liver cannot utilise its own ketone bodies because it lacks succinyl-CoA:acetoacetate-CoA transferase (thiophorase).",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493179/"
+  },
+  {
+    "id": 575,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 40-year-old man with poorly controlled diabetes develops peripheral neuropathy and cataracts. His ophthalmologist notes early lens opacification. These complications are attributed to the polyol pathway. Which of the following best explains the polyol pathway and its role in diabetic complications?",
+    "options": [
+      "Excess glucose is converted to sorbitol by aldose reductase (using NADPH), then to fructose by sorbitol dehydrogenase; sorbitol accumulation causes osmotic injury and depletes NADPH needed for glutathione regeneration",
+      "Excess glucose is directly converted to fructose by fructokinase, causing intracellular fructose-1-phosphate accumulation and ATP depletion",
+      "Excess glucose activates the hexosamine pathway, which depletes UDP-glucose needed for glycogen synthesis",
+      "Excess glucose is converted to glucuronic acid via the uronic acid pathway, depleting NADPH and causing oxidative stress",
+      "Excess glucose inhibits glycolysis at PFK-1, diverting glucose to the pentose phosphate pathway and generating excessive NADPH"
+    ],
+    "correct": 0,
+    "explanation": "In hyperglycaemia, excess glucose is reduced to sorbitol by aldose reductase (consuming NADPH) and then oxidised to fructose by sorbitol dehydrogenase (consuming NAD+); sorbitol does not cross cell membranes readily and accumulates intracellularly, causing osmotic swelling and water influx \u2014 particularly damaging in the lens (cataracts), Schwann cells (neuropathy), retinal pericytes (retinopathy), and mesangial cells (nephropathy). NADPH depletion simultaneously impairs glutathione regeneration, increasing oxidative stress. The polyol pathway is relatively minor under normoglycaemia but becomes pathologically significant when glucose concentrations are chronically elevated.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 12",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK279510/"
+  },
+  {
+    "id": 576,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "factual",
+    "question": "A student is reviewing the pentose phosphate pathway (HMP shunt). Which of the following correctly describes the primary products and clinical significance of the HMP shunt?",
+    "options": [
+      "Produces ATP and pyruvate; clinically significant in providing energy for rapidly dividing cells",
+      "Produces NADPH (for reductive biosynthesis and antioxidant defence) and ribose-5-phosphate (for nucleotide synthesis); clinically significant in red cells (G6PD deficiency) and rapidly proliferating tissues",
+      "Produces FADH2 and NADH; clinically significant in providing reducing equivalents for the electron transport chain",
+      "Produces UDP-glucose and glycogen; clinically significant in liver glucose storage after a meal",
+      "Produces malonyl-CoA and acetyl-CoA; clinically significant in fatty acid synthesis in adipose tissue"
+    ],
+    "correct": 1,
+    "explanation": "The pentose phosphate pathway (HMP shunt) operates in the cytosol and produces two key products: NADPH (essential for reductive biosynthesis \u2014 fatty acid and cholesterol synthesis \u2014 and for regenerating reduced glutathione to protect against oxidative stress) and ribose-5-phosphate (the sugar backbone required for synthesis of nucleotides and nucleic acids). The pathway is most active in tissues with high biosynthetic or antioxidant demand \u2014 liver, adipose tissue, adrenal cortex, red blood cells, and rapidly proliferating cells. In red cells, which lack mitochondria, the HMP shunt is the sole source of NADPH; G6PD deficiency therefore abolishes antioxidant defence in red cells, causing oxidative haemolysis when challenged by drugs or infections.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 13",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557412/"
+  },
+  {
+    "id": 577,
+    "subject": "Biochemistry",
+    "subtopic": "Carbohydrate Metabolism",
+    "type": "clinical",
+    "question": "A 3-month-old infant presents with recurrent hypoglycaemia, failure to thrive, and hepatomegaly. Fasting studies show hypoglycaemia with low insulin and elevated glucagon. Glucagon injection fails to raise blood glucose. Liver biopsy shows absent glycogen. Which diagnosis best fits this presentation?",
+    "options": [
+      "Von Gierke disease \u2014 glucose-6-phosphatase deficiency causing glucose trapping as glucose-6-phosphate",
+      "Glycogen synthase deficiency causing failure to store glycogen in the liver with hypoglycaemia on fasting",
+      "Hyperinsulinaemic hypoglycaemia causing excessive glucose uptake and absent glycogen mobilisation",
+      "Fatty acid oxidation defect causing hypoglycaemia from absent ketone production during fasting",
+      "Galactosaemia causing hepatic glycogen depletion through galactose-1-phosphate toxicity"
+    ],
+    "correct": 1,
+    "explanation": "Glycogen synthase deficiency (GSD type 0) is characterised by an inability to synthesise hepatic glycogen; the liver cannot store postprandial glucose as glycogen, so fasting hypoglycaemia develops rapidly as there is no glycogen reserve to mobilise \u2014 glucagon injection therefore fails to raise glucose because there is no substrate to break down. The absence of glycogen on liver biopsy and failure of glucagon to raise glucose distinguish this from Von Gierke disease, where glycogen is massively increased. Postprandial hyperglycaemia and glycosuria may occur paradoxically because ingested glucose cannot be stored, alternating with fasting hypoglycaemia.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 11",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1312/"
   }
 ]
