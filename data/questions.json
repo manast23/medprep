@@ -7115,14 +7115,14 @@
     "id": 417,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A medical student is reviewing bacterial cell wall structures. She notes that certain bacteria retain crystal violet dye after the Gram stain decolorisation step, appearing purple, while others lose it and appear pink after counterstaining. Which structural component is primarily responsible for retaining the crystal violet-iodine complex in Gram-positive bacteria?",
+    "type": "factual",
+    "question": "Which structural component of Gram-positive bacteria retains the crystal violet-iodine complex during Gram staining?",
     "options": [
-      "Lipopolysaccharide (LPS) in the outer membrane",
-      "Thick peptidoglycan layer that traps the crystal violet-iodine complex",
+      "Lipopolysaccharide in the outer membrane",
+      "Thick peptidoglycan layer trapping the crystal violet-iodine complex",
       "Teichoic acids anchoring the dye to the plasma membrane",
       "Porin proteins preventing solvent penetration",
-      "Mycolic acids in the cell wall resisting decolorisation"
+      "Mycolic acids in the cell wall"
     ],
     "correct": 1,
     "explanation": "Gram-positive bacteria have a thick peptidoglycan layer (20\u201380 nm) immediately external to the plasma membrane that physically traps the crystal violet-iodine complex during the decolorisation step with acetone-alcohol, retaining the purple colour. Gram-negative bacteria have a thin peptidoglycan layer (2\u20137 nm) sandwiched between the inner and outer membranes; the lipid-rich outer membrane is dissolved by the decolorising solvent, releasing the crystal violet-iodine complex and leaving cells colourless until counterstained pink with safranin. Mycolic acids are found in mycobacteria, which are neither Gram-positive nor Gram-negative.",
@@ -7656,13 +7656,13 @@
     "subject": "Microbiology",
     "subtopic": "Gram-positive Bacteria",
     "type": "clinical",
-    "question": "A 20-year-old man steps on a rusty nail through his shoe and presents five days later with trismus (lockjaw), risus sardonicus, and opisthotonos. He is unvaccinated. Which mechanism explains his spastic paralysis?",
+    "question": "A 20-year-old unvaccinated man steps on a rusty nail and presents five days later with trismus, risus sardonicus, and opisthotonos. What is the mechanism of his spastic paralysis?",
     "options": [
-      "Exotoxin blocks acetylcholine release at the neuromuscular junction causing flaccid paralysis",
-      "Exotoxin (tetanospasmin) is transported retrogradely to the spinal cord and cleaves synaptobrevin, blocking glycine and GABA release from inhibitory interneurons",
-      "Endotoxin triggers systemic inflammation causing CNS oedema and muscle rigidity",
-      "Organism invades the CNS directly via peripheral nerves causing encephalitis",
-      "Exotoxin activates motor neurons directly causing sustained depolarisation"
+      "Exotoxin blocks ACh release at the NMJ causing flaccid paralysis",
+      "Tetanospasmin cleaves synaptobrevin, blocking glycine and GABA release from inhibitory interneurons",
+      "Endotoxin triggers CNS oedema causing muscle rigidity",
+      "Organism invades the CNS directly via peripheral nerves",
+      "Exotoxin activates motor neurons causing sustained depolarisation"
     ],
     "correct": 1,
     "explanation": "Tetanospasmin (tetanus toxin) is produced by Clostridium tetani at the wound site, taken up by motor nerve terminals, and transported retrogradely to the spinal cord and brainstem where it cleaves synaptobrevin (VAMP) in inhibitory interneurons (Renshaw cells), blocking release of glycine and GABA. Loss of inhibitory tone produces unopposed motor neuron firing, causing the characteristic spastic paralysis \u2014 trismus, risus sardonicus (sardonic smile), and opisthotonos (arched back). This contrasts with botulinum toxin, which blocks ACh release at the neuromuscular junction, causing flaccid paralysis.",
@@ -7782,13 +7782,13 @@
     "subject": "Microbiology",
     "subtopic": "Gram-negative Bacteria",
     "type": "clinical",
-    "question": "A 35-year-old man presents with bloody diarrhoea, severe abdominal cramps, and low-grade fever after eating undercooked hamburger at a barbecue. Stool culture grows sorbitol-negative E. coli on MacConkey-sorbitol agar. Three days later he develops oliguria and his blood tests show microangiopathic haemolytic anaemia and thrombocytopenia. Which toxin is responsible for this complication?",
+    "question": "A 35-year-old man develops bloody diarrhoea after eating undercooked hamburger. Stool grows sorbitol-negative E. coli. He then develops oliguria, microangiopathic haemolytic anaemia, and thrombocytopenia. Which toxin causes this complication?",
     "options": [
-      "Heat-labile enterotoxin activating adenylate cyclase causing secretory diarrhoea",
-      "Shiga toxin cleaving 28S rRNA in endothelial cells of glomeruli, causing haemolytic uraemic syndrome",
-      "Haemolysin disrupting red blood cell membranes causing haemolysis",
-      "Cytotoxin necrotising factor inducing actin polymerisation in glomerular cells",
-      "Intimin mediating intimate attachment to renal endothelium causing thrombosis"
+      "Heat-labile enterotoxin activating adenylate cyclase",
+      "Shiga toxin cleaving 28S rRNA in glomerular endothelial cells causing HUS",
+      "Haemolysin disrupting red blood cell membranes",
+      "Cytotoxin necrotising factor inducing actin polymerisation",
+      "Intimin mediating intimate attachment to renal endothelium"
     ],
     "correct": 1,
     "explanation": "Enterohaemorragic E. coli O157:H7 produces Shiga toxin (Stx1 and Stx2), an A-B toxin whose A subunit is an N-glycosidase that cleaves a single adenine from the 28S rRNA of the 60S ribosomal subunit, halting protein synthesis and killing endothelial cells \u2014 particularly in glomerular capillaries. The resulting endothelial injury triggers microangiopathic haemolytic anaemia, thrombocytopenia, and acute kidney injury \u2014 the triad of haemolytic uraemic syndrome (HUS). Antibiotics are avoided as they increase Shiga toxin release. Sorbitol-negative colonies on MacConkey-sorbitol agar selectively identify E. coli O157:H7.",
@@ -7890,13 +7890,13 @@
     "subject": "Microbiology",
     "subtopic": "Gram-negative Bacteria",
     "type": "clinical",
-    "question": "A 40-year-old veterinarian develops undulant fever with night sweats, arthralgia, and hepatosplenomegaly after assisting with the delivery of a calf on a dairy farm. Blood cultures incubated for three weeks in enriched broth grow small Gram-negative coccobacilli. Which organism is responsible, and what is the mechanism of its intracellular survival?",
+    "question": "A 40-year-old veterinarian develops undulant fever, night sweats, arthralgia, and hepatosplenomegaly after assisting with a calf delivery. Blood cultures grow small Gram-negative coccobacilli after three weeks. Which organism is responsible and how does it survive intracellularly?",
     "options": [
-      "Coxiella burnetii \u2014 obligate intracellular, Q fever, acquired via inhalation of aerosols",
-      "Brucella species \u2014 facultative intracellular, survives in macrophages by inhibiting phagolysosome fusion",
-      "Francisella tularensis \u2014 obligate intracellular, tularaemia, acquired via rabbit contact or tick bite",
-      "Bartonella henselae \u2014 facultative intracellular, cat scratch disease, acquired via cat scratch",
-      "Leptospira interrogans \u2014 spirochaete, leptospirosis, acquired via water contaminated with animal urine"
+      "Coxiella burnetii \u2014 acquired via inhalation of aerosols from infected animals",
+      "Brucella species \u2014 survives in macrophages by inhibiting phagolysosome fusion",
+      "Francisella tularensis \u2014 tularaemia, associated with rabbit contact or tick bite",
+      "Bartonella henselae \u2014 cat scratch disease, acquired via cat scratch",
+      "Leptospira interrogans \u2014 acquired via water contaminated with animal urine"
     ],
     "correct": 1,
     "explanation": "Brucella species (B. melitensis from goats/sheep, B. abortus from cattle) cause brucellosis \u2014 a zoonotic infection characterised by undulant (relapsing) fever, night sweats, arthralgia, and hepatosplenomegaly. Brucella are facultative intracellular organisms that survive within macrophage phagosomes by inhibiting phagolysosome fusion (via lipopolysaccharide modifications and the BvrR/BvrS regulatory system), enabling chronic persistent infection. Blood cultures require prolonged incubation (up to 3 weeks) in enriched broth due to slow growth. Coxiella burnetii also causes culture-negative fever but is obligate intracellular and acquired via aerosol inhalation, not animal contact.",
@@ -8016,13 +8016,13 @@
     "subject": "Microbiology",
     "subtopic": "Mycobacteria & Atypical Organisms",
     "type": "clinical",
-    "question": "A 35-year-old HIV-positive man with a CD4 count of 180 cells/\u03bcL presents with three weeks of productive cough, night sweats, and weight loss. Chest X-ray shows upper lobe cavitating infiltrates. Sputum smear stained with Ziehl-Neelsen stain shows red bacilli against a blue background. Which cell wall component is responsible for acid-fastness in this organism?",
+    "question": "A 35-year-old HIV-positive man (CD4 180) presents with productive cough, night sweats, and upper lobe cavitating infiltrates. Ziehl-Neelsen stain shows red bacilli. Which cell wall component is responsible for acid-fastness?",
     "options": [
-      "Thick peptidoglycan layer trapping carbol fuchsin dye",
-      "Mycolic acids forming a waxy, lipid-rich outer layer that resists decolorisation with acid-alcohol",
+      "Thick peptidoglycan trapping carbol fuchsin dye",
+      "Mycolic acids forming a waxy outer layer that resists acid-alcohol decolorisation",
       "Lipopolysaccharide outer membrane retaining the primary stain",
       "Teichoic acids cross-linking carbol fuchsin to the cell wall",
-      "Arabinogalactan forming a hydrophobic barrier preventing acid-alcohol penetration"
+      "Arabinogalactan forming a hydrophobic barrier"
     ],
     "correct": 1,
     "explanation": "Mycobacteria are acid-fast because their cell walls contain very long-chain mycolic acids (C60\u2013C90 fatty acids) covalently linked to arabinogalactan and peptidoglycan, forming an extremely hydrophobic, waxy outer layer. This layer retains carbol fuchsin (the primary dye in Ziehl-Neelsen staining) even after decolorisation with 3% acid-alcohol \u2014 the defining feature of acid-fastness. This same lipid-rich wall confers resistance to many antibiotics, desiccation, and disinfectants, and slows bacterial growth (Mycobacterium tuberculosis divides every 15\u201320 hours compared to minutes for E. coli).",
@@ -8160,13 +8160,13 @@
     "subject": "Microbiology",
     "subtopic": "Mycobacteria & Atypical Organisms",
     "type": "clinical",
-    "question": "A 40-year-old farmer develops fever, severe headache, and myalgia two weeks after delivering lambs on his farm. His wife, who had no direct animal contact but washed his contaminated clothing, also becomes ill. Serology shows a fourfold rise in phase II IgG antibodies. Which organism is responsible, and what makes it uniquely resistant to environmental destruction?",
+    "question": "A farmer and his wife both develop fever, headache, and myalgia \u2014 she had only washed his contaminated clothing. Serology shows a fourfold rise in phase II IgG. Which organism is responsible and what makes it uniquely resistant to environmental destruction?",
     "options": [
-      "Brucella abortus \u2014 facultative intracellular, acquired via direct animal contact or raw milk",
-      "Coxiella burnetii \u2014 obligate intracellular, forms spore-like endospores surviving months in the environment",
-      "Chlamydophila psittaci \u2014 obligate intracellular, psittacosis, acquired from birds not livestock",
-      "Rickettsia rickettsii \u2014 obligate intracellular, tick-borne, not transmitted via fomites",
-      "Francisella tularensis \u2014 obligate intracellular, tularaemia, associated with rabbits not sheep"
+      "Brucella abortus \u2014 acquired via direct animal contact or raw milk",
+      "Coxiella burnetii \u2014 forms spore-like endospores surviving months in the environment",
+      "Chlamydophila psittaci \u2014 psittacosis acquired from birds",
+      "Rickettsia rickettsii \u2014 tick-borne, not transmitted via fomites",
+      "Francisella tularensis \u2014 associated with rabbits, not sheep"
     ],
     "correct": 1,
     "explanation": "Coxiella burnetii causes Q fever \u2014 an atypical pneumonia or flu-like illness acquired by inhalation of aerosols from infected animal placentas, amniotic fluid, and birth products (especially sheep, goats, and cattle). It forms spore-like structures (small cell variants) that are exceptionally resistant to desiccation, UV light, and many disinfectants, allowing survival in the environment for months and permitting infection without direct animal contact (e.g. via contaminated clothing or downwind aerosols). Phase II IgG serology (rather than phase I) is elevated in acute Q fever, while phase I IgG predominates in chronic Q fever endocarditis.",
@@ -8376,13 +8376,13 @@
     "subject": "Microbiology",
     "subtopic": "Virology",
     "type": "clinical",
-    "question": "A 50-year-old woman is found to have anti-HCV antibodies on routine screening. She is asymptomatic. Confirmatory HCV RNA PCR is positive with a viral load of 2 \u00d7 10\u2076 IU/mL. Her genotype is 1a. What is the natural history of untreated chronic HCV infection?",
+    "question": "A 50-year-old woman has positive anti-HCV antibodies confirmed by HCV RNA PCR. She is asymptomatic. What is the natural history of untreated chronic HCV infection?",
     "options": [
       "HCV always causes fulminant hepatitis within 5 years if untreated",
-      "Approximately 75\u201385% of infected individuals develop chronic infection; 20\u201330% progress to cirrhosis over 20\u201330 years with risk of hepatocellular carcinoma",
-      "Most HCV infections spontaneously resolve within 6 months without treatment",
-      "Chronic HCV exclusively causes extrahepatic disease without hepatic fibrosis",
-      "HCV genotype 1a is associated with spontaneous clearance in >50% of cases"
+      "75\u201385% develop chronic infection; 20\u201330% progress to cirrhosis over 20\u201330 years with HCC risk",
+      "Most HCV infections spontaneously resolve within 6 months",
+      "Chronic HCV causes only extrahepatic disease without hepatic fibrosis",
+      "Genotype 1a is associated with spontaneous clearance in over 50% of cases"
     ],
     "correct": 1,
     "explanation": "Hepatitis C virus establishes chronic infection in 75\u201385% of exposed individuals (unlike HAV and HBV which have higher rates of clearance); of those with chronic HCV, approximately 20\u201330% develop cirrhosis over 20\u201330 years, with annual hepatocellular carcinoma risk of 1\u20134% per year once cirrhosis is established. HCV is the leading indication for liver transplantation in many countries. Direct-acting antiviral regimens (NS5A, NS5B, NS3 protease inhibitors) now achieve >95% sustained virological response (cure) regardless of genotype, revolutionising HCV treatment.",
@@ -8484,13 +8484,13 @@
     "subject": "Microbiology",
     "subtopic": "Virology",
     "type": "clinical",
-    "question": "A 32-year-old woman presents with a first episode of painful genital ulcers, inguinal lymphadenopathy, and fever. Viral culture of the ulcer confirms HSV-2. She asks about the risk of recurrence. Which statement about HSV-2 latency and recurrence is correct?",
+    "question": "A 32-year-old woman has a first episode of painful genital ulcers and inguinal lymphadenopathy. HSV-2 is confirmed on viral culture. Where does HSV-2 establish latency and what triggers recurrence?",
     "options": [
-      "HSV-2 establishes latency in the trigeminal ganglion and recurs as orolabial herpes",
-      "HSV-2 establishes latency in sacral dorsal root ganglia (S2-S4) and recurs in the genital region, often triggered by stress, menstruation, or UV exposure",
-      "Once latency is established, HSV-2 recurrences decrease in frequency with each episode",
-      "HSV-2 can be permanently eradicated from sacral ganglia with prolonged aciclovir therapy",
-      "Asymptomatic shedding of HSV-2 does not occur between clinical recurrences"
+      "Trigeminal ganglion \u2014 recurs as orolabial herpes",
+      "Sacral dorsal root ganglia (S2\u2013S4) \u2014 recurs genitally, triggered by stress, menstruation, or illness",
+      "Latency in sacral ganglia with decreasing recurrence frequency over time",
+      "Sacral ganglia \u2014 permanently eradicable with prolonged aciclovir therapy",
+      "Latent infection does not permit asymptomatic viral shedding"
     ],
     "correct": 1,
     "explanation": "HSV-2 establishes latency in the sacral dorsal root ganglia (S2\u2013S4) after primary genital infection; reactivation causes virus to travel anterograde to the genital skin and mucosa, producing recurrent painful ulcers \u2014 typically shorter and milder than the primary episode. Triggers include psychological stress, menstruation, fever, and immunosuppression. Critically, asymptomatic viral shedding occurs frequently between clinical episodes and is responsible for most sexual transmission. Aciclovir and valaciclovir suppress recurrences and reduce (but do not eliminate) asymptomatic shedding but cannot eradicate latent virus from ganglia.",
@@ -8520,13 +8520,13 @@
     "subject": "Microbiology",
     "subtopic": "Virology",
     "type": "clinical",
-    "question": "A 28-year-old woman is diagnosed with HIV infection. Her CD4 count is 420 cells/\u03bcL and viral load is 85,000 copies/mL. She is started on a three-drug antiretroviral regimen. Why is combination therapy with at least three drugs essential in HIV treatment?",
+    "question": "A 28-year-old woman is started on triple antiretroviral therapy for newly diagnosed HIV. Why is combination therapy with at least three drugs essential?",
     "options": [
-      "Single drugs are insufficient to penetrate the blood-brain barrier and target CNS reservoirs",
+      "Single drugs cannot penetrate the blood-brain barrier to reach CNS reservoirs",
       "Three drugs are required to cover all HIV subtypes simultaneously",
-      "Combination therapy targets multiple stages of the HIV life cycle, preventing selection of drug-resistant mutants that would emerge rapidly with monotherapy",
-      "Single-drug therapy causes immune reconstitution inflammatory syndrome requiring two additional drugs to suppress",
-      "Three drugs are needed to simultaneously achieve therapeutic levels in blood, lymph nodes, and gut mucosa"
+      "Combination therapy targets multiple stages of the HIV life cycle, preventing emergence of resistant mutants",
+      "Monotherapy causes immune reconstitution syndrome requiring additional drugs to suppress",
+      "Three drugs are needed to achieve therapeutic levels in blood, lymph nodes, and gut simultaneously"
     ],
     "correct": 2,
     "explanation": "HIV has an extremely high replication rate (~10\u00b9\u2070 virions/day) and a highly error-prone reverse transcriptase (no proofreading activity), generating enormous genetic diversity daily; resistance mutations to any single drug arise spontaneously and are rapidly selected under monotherapy. Combination antiretroviral therapy (cART) simultaneously targets multiple enzymes in the HIV life cycle (reverse transcriptase, protease, integrase), making it statistically extremely unlikely for a single virion to carry resistance mutations to all three drugs simultaneously. This prevents resistance selection, achieves undetectable viral load, and preserves CD4 count and immune function.",
@@ -8610,13 +8610,13 @@
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
     "type": "clinical",
-    "question": "A 60-year-old diabetic man with poorly controlled blood sugar develops rapidly progressive facial pain, blackened nasal mucosa, and proptosis. CT shows invasion of the orbital and paranasal sinuses. Biopsy shows broad pauci-septate hyphae branching at right angles with vessel invasion. Which organism is responsible, and why are diabetics particularly susceptible?",
+    "question": "A 60-year-old diabetic develops rapidly progressive facial pain, blackened nasal mucosa, and proptosis. CT shows sinus and orbital invasion. Biopsy shows broad pauci-septate hyphae branching at right angles. Which organism is responsible and why are diabetics susceptible?",
     "options": [
-      "Aspergillus fumigatus \u2014 septate hyphae at 45 degrees, affects neutropenic patients",
-      "Mucor/Rhizopus species \u2014 causes rhinocerebral mucormycosis; diabetics susceptible due to iron availability and impaired phagocyte function in acidosis",
-      "Candida albicans \u2014 pseudohyphae, causes oral and oesophageal candidiasis in diabetics",
-      "Fusarium species \u2014 hyaline mould causing disseminated infection in neutropenic patients",
-      "Scedosporium \u2014 resistant mould causing CNS infection in near-drowning victims"
+      "Aspergillus fumigatus \u2014 septate hyphae at 45\u00b0, affects neutropenic patients",
+      "Mucor/Rhizopus \u2014 rhinocerebral mucormycosis; diabetics susceptible due to iron availability and impaired phagocyte function in acidosis",
+      "Candida albicans \u2014 pseudohyphae, causes mucosal candidiasis in diabetics",
+      "Fusarium species \u2014 disseminated infection in neutropenic patients",
+      "Scedosporium \u2014 CNS infection in near-drowning victims"
     ],
     "correct": 1,
     "explanation": "Rhinocerebral mucormycosis is caused by Mucorales (Mucor, Rhizopus, Lichtheimia) and presents with rapidly progressive sinonasal infection that invades the orbit and brain, characterised by black eschar (vascular thrombosis and necrosis) and broad pauci-septate hyphae branching at 90 degrees on histology. Diabetics \u2014 especially during ketoacidosis \u2014 are highly susceptible because acidosis impairs phagocyte function, elevated glucose promotes fungal growth, and elevated free iron (reduced transferrin binding in acidosis) fuels rapid fungal replication. Treatment requires urgent surgical debridement and amphotericin B; voriconazole has no activity against Mucorales.",
@@ -8664,13 +8664,13 @@
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
     "type": "clinical",
-    "question": "A 40-year-old immunocompromised patient develops watery, voluminous diarrhoea. Stool examination with modified acid-fast stain shows small (4\u20136 \u03bcm) pink oocysts. Which organism is responsible, and why is it particularly difficult to treat in immunocompromised patients?",
+    "question": "A 40-year-old immunocompromised patient has watery profuse diarrhoea. Modified acid-fast stain shows small (4\u20136 \u00b5m) pink oocysts. Why is this infection particularly difficult to treat in immunocompromised patients?",
     "options": [
-      "Giardia lamblia \u2014 trophozoites and quadrinucleate cysts, treated with metronidazole",
-      "Cryptosporidium parvum \u2014 acid-fast oocysts, self-limited in immunocompetent but chronic and life-threatening in AIDS; nitazoxanide has limited efficacy without immune reconstitution",
-      "Isospora belli (Cystoisospora) \u2014 larger acid-fast oocysts, treated with TMP-SMX",
-      "Cyclospora cayetanensis \u2014 acid-fast oocysts, associated with imported raspberries",
-      "Microsporidia \u2014 spores stained with modified trichrome, causes chronic diarrhoea in AIDS"
+      "Giardia lamblia \u2014 quadrinucleate cysts, treated with metronidazole",
+      "Cryptosporidium parvum \u2014 self-limited in immunocompetent; chronic and life-threatening in AIDS with no reliably effective treatment without immune reconstitution",
+      "Isospora belli \u2014 larger acid-fast oocysts, treated with TMP-SMX",
+      "Cyclospora cayetanensis \u2014 associated with imported raspberries",
+      "Microsporidia \u2014 modified trichrome stain, causes chronic diarrhoea in AIDS"
     ],
     "correct": 1,
     "explanation": "Cryptosporidium parvum causes self-limited watery diarrhoea in immunocompetent hosts but profuse, life-threatening cholera-like diarrhoea in severely immunocompromised patients (AIDS with CD4 <100). Its oocysts are small (4\u20136 \u03bcm), resist standard chlorination and most disinfectants (including many water treatment processes), and are detected by modified acid-fast staining. Nitazoxanide is the only approved antiparasitic but has minimal efficacy without immune reconstitution via ART. The organism completes its entire life cycle within a single host cell, residing in an intracellular but extracytoplasmic location that limits drug access.",
@@ -8718,12 +8718,12 @@
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
     "type": "clinical",
-    "question": "A 30-year-old woman presents with bloody diarrhoea, abdominal pain, and right upper quadrant tenderness. Ultrasound shows a single large liver abscess. Stool microscopy shows trophozoites with ingested red blood cells. Serology is positive. Which organism is responsible, and how does it cause liver abscess?",
+    "question": "A 30-year-old woman has bloody diarrhoea, abdominal pain, and a large liver abscess on ultrasound. Stool microscopy shows trophozoites with ingested red blood cells. How does this organism cause liver abscess?",
     "options": [
       "Giardia lamblia \u2014 non-invasive, does not cause liver abscess",
-      "Entamoeba histolytica \u2014 invasive trophozoites penetrate the colonic mucosa, enter portal circulation, and form liver abscesses containing 'anchovy paste' material",
-      "Cryptosporidium parvum \u2014 intracellular organism causing diarrhoea but not liver abscess",
-      "Balantidium coli \u2014 ciliated protozoan causing colitis but not hepatic involvement",
+      "Entamoeba histolytica \u2014 invasive trophozoites penetrate colonic mucosa, enter portal circulation, forming 'anchovy paste' liver abscesses",
+      "Cryptosporidium parvum \u2014 intracellular, causes diarrhoea but not liver abscess",
+      "Balantidium coli \u2014 causes colitis but not hepatic involvement",
       "Toxoplasma gondii \u2014 causes disseminated infection but not amoebic liver abscess"
     ],
     "correct": 1,
@@ -8790,13 +8790,13 @@
     "subject": "Microbiology",
     "subtopic": "Immunology",
     "type": "factual",
-    "question": "A medical student is reviewing mechanisms of antigen presentation. She notes that peptides derived from intracellular pathogens (e.g. viruses) are presented on MHC class I molecules to CD8+ T cells, while extracellular bacterial antigens are processed and presented on MHC class II to CD4+ T cells. Which of the following correctly describes the antigen processing pathway for MHC class I presentation?",
+    "question": "Which of the following correctly describes the antigen processing pathway for MHC class I presentation?",
     "options": [
       "Endosomal degradation \u2192 CLIP displacement \u2192 peptide loading in endosome",
       "Proteasomal degradation \u2192 TAP transport into ER \u2192 loading onto MHC I",
       "Lysosomal degradation \u2192 invariant chain cleavage \u2192 MHC II loading",
       "Phagocytic degradation \u2192 peptide recycling to cell surface",
-      "Ribosomally synthesised peptide \u2192 direct surface expression without MHC"
+      "Direct surface expression of ribosomal peptides without MHC"
     ],
     "correct": 1,
     "explanation": "MHC class I presents endogenous (intracellular) peptides via the cytosolic pathway: proteins are ubiquitinated and degraded by the proteasome, and the resulting peptides are transported into the endoplasmic reticulum by the TAP (transporter associated with antigen processing) heterodimer, where they are loaded onto nascent MHC I molecules before trafficking to the cell surface. This pathway allows cytotoxic CD8+ T cells to survey all nucleated cells for intracellular pathogens or neoplastic changes. MHC class II loading involves the endosomal pathway with invariant chain and HLA-DM, which is the mechanism for extracellular antigen presentation, not the class I pathway.",
@@ -8862,13 +8862,13 @@
     "subject": "Microbiology",
     "subtopic": "Immunology",
     "type": "factual",
-    "question": "During a vaccine development seminar, students discuss the mechanisms by which vaccines generate immunological memory. Which of the following best describes the role of follicular dendritic cells (FDCs) in the germinal centre reaction after vaccination?",
+    "question": "What is the role of follicular dendritic cells (FDCs) in the germinal centre reaction?",
     "options": [
-      "They present antigen on MHC class I to stimulate CD8+ cytotoxic T cell clonal expansion",
-      "They retain antigen on their surface as immune complexes to drive affinity maturation of B cells",
-      "They produce IL-12 to polarise naive T cells towards a Th1 effector phenotype",
-      "They undergo somatic hypermutation alongside B cells to diversify antibody repertoire",
-      "They secrete IgM as the first antibody class following primary antigen exposure"
+      "Present antigen on MHC class I to stimulate CD8+ cytotoxic T cell expansion",
+      "Retain antigen-antibody complexes on their surface to drive B cell affinity maturation",
+      "Produce IL-12 to polarise naive T cells towards Th1",
+      "Undergo somatic hypermutation alongside B cells to diversify the antibody repertoire",
+      "Secrete IgM as the first antibody class after antigen exposure"
     ],
     "correct": 1,
     "explanation": "Follicular dendritic cells retain antigen-antibody complexes on their surface for prolonged periods, presenting antigen to germinal centre B cells in a form that drives repeated rounds of somatic hypermutation and selection, a process called affinity maturation that progressively increases antibody specificity and binding strength. B cells that acquire higher-affinity B cell receptors through somatic hypermutation are positively selected by competing for FDC-displayed antigen, while lower-affinity clones undergo apoptosis. Somatic hypermutation occurs within B cells themselves, not within FDCs, which are stromal cells of lymphoid tissue and do not undergo mutation.",
