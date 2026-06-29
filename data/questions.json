@@ -8952,13 +8952,13 @@
     "subject": "Biochemistry",
     "subtopic": "Proteins & Enzymes",
     "type": "clinical",
-    "question": "A 35-year-old man presents with recurrent painful crises, anaemia, and splenomegaly since childhood. Haemoglobin electrophoresis shows predominantly HbS. The underlying defect involves substitution of glutamate by valine at position 6 of the beta-globin chain. Which structural level of protein organisation is directly altered by this single amino acid substitution?",
+    "question": "A 35-year-old man has recurrent painful crises, anaemia, and splenomegaly since childhood. HbS is confirmed on electrophoresis. The defect is a Glu\u2192Val substitution at position 6 of beta-globin. Which level of protein structure is directly altered?",
     "options": [
-      "Tertiary structure \u2014 disruption of the overall 3D folding of the globin chain",
-      "Quaternary structure \u2014 disruption of haem-haem interaction between subunits",
-      "Primary structure \u2014 alteration of the amino acid sequence of the polypeptide chain",
-      "Secondary structure \u2014 disruption of alpha-helical content of the globin chain",
-      "Post-translational modification \u2014 failure of haem incorporation into the globin"
+      "Tertiary structure \u2014 disruption of overall 3D folding",
+      "Quaternary structure \u2014 disruption of haem-haem interaction",
+      "Primary structure \u2014 alteration of the amino acid sequence",
+      "Secondary structure \u2014 disruption of alpha-helical content",
+      "Post-translational modification \u2014 failure of haem incorporation"
     ],
     "correct": 2,
     "explanation": "The sickle cell mutation is a point mutation causing a single amino acid substitution (Glu\u2192Val at position 6 of the beta-globin chain), which directly alters the primary structure \u2014 the linear sequence of amino acids \u2014 of the protein. This seemingly minor primary structure change has profound downstream consequences: the valine residue creates a hydrophobic patch that causes deoxygenated HbS molecules to polymerise into rigid fibres, distorting red cells into the characteristic sickle shape. Tertiary and quaternary structure are consequently altered, but the direct molecular defect is at the primary sequence level.",
@@ -9024,7 +9024,7 @@
     "subject": "Biochemistry",
     "subtopic": "Proteins & Enzymes",
     "type": "clinical",
-    "question": "A 3-year-old boy is brought with developmental delay, fair skin, and a musty odour to his urine. Serum phenylalanine is markedly elevated. Newborn screening had been missed. The enzyme phenylalanine hydroxylase is absent. This enzyme requires tetrahydrobiopterin (BH4) as a cofactor. Which general term describes cofactors that are tightly and permanently bound to the enzyme?",
+    "question": "A 3-year-old boy has developmental delay, fair skin, and musty-smelling urine. Phenylalanine hydroxylase is absent; it uses tetrahydrobiopterin (BH4) as a cofactor. Which term describes a cofactor that is tightly and permanently bound to an enzyme?",
     "options": [
       "Cosubstrate",
       "Apoenzyme",
@@ -9060,13 +9060,13 @@
     "subject": "Biochemistry",
     "subtopic": "Proteins & Enzymes",
     "type": "factual",
-    "question": "A student is reviewing allosteric regulation of enzymes. Phosphofructokinase-1 (PFK-1), the key regulatory enzyme of glycolysis, is allosterically inhibited by ATP and activated by AMP. Which of the following best describes the mechanism of allosteric enzyme regulation?",
+    "question": "Which of the following correctly describes the mechanism of allosteric enzyme regulation?",
     "options": [
-      "An inhibitor binds to the active site and directly blocks substrate binding in a concentration-dependent manner",
-      "A regulatory molecule binds to a site distinct from the active site, causing conformational change that alters catalytic activity",
-      "Phosphorylation of a serine residue in the active site directly increases or decreases substrate affinity",
-      "Covalent modification of the enzyme by ubiquitin targets it for proteasomal degradation",
-      "The regulatory molecule competes with the cofactor for binding to the enzyme's prosthetic group"
+      "Inhibitor binds the active site blocking substrate in a concentration-dependent manner",
+      "Regulatory molecule binds a site distinct from the active site, causing conformational change that alters catalytic activity",
+      "Phosphorylation of a serine in the active site alters substrate affinity",
+      "Covalent ubiquitin modification targets the enzyme for proteasomal degradation",
+      "Regulatory molecule competes with the cofactor for the prosthetic group"
     ],
     "correct": 1,
     "explanation": "Allosteric regulation occurs when a regulatory molecule (activator or inhibitor) binds to a site on the enzyme distinct from the active site, inducing a conformational change that alters the enzyme's affinity for its substrate (Km) or its maximal catalytic rate (Vmax). PFK-1 is the committed step of glycolysis and is a key metabolic sensor \u2014 ATP inhibition signals energy sufficiency, slowing glycolysis, while AMP activation signals low energy status, accelerating glucose breakdown. Unlike competitive inhibition, allosteric inhibition is not overcome simply by increasing substrate concentration.",
@@ -9114,13 +9114,13 @@
     "subject": "Biochemistry",
     "subtopic": "Proteins & Enzymes",
     "type": "clinical",
-    "question": "A 25-year-old woman presents with fatigue, pallor, and splenomegaly. Her blood film shows target cells and her haemoglobin is 7.2 g/dL. Haemoglobin electrophoresis reveals HbA2 4.8% (elevated) and HbF 2%. She is diagnosed with beta-thalassaemia trait. At what level of protein structure does the defect in beta-thalassaemia primarily manifest compared to sickle cell disease?",
+    "question": "A 25-year-old woman has fatigue, target cells on blood film, HbA2 4.8%, and HbF 2% \u2014 consistent with beta-thalassaemia trait. At which level does the primary defect in beta-thalassaemia manifest, compared to sickle cell disease?",
     "options": [
-      "Primary structure \u2014 a specific amino acid substitution in the beta-globin chain",
-      "Quaternary structure \u2014 failure of alpha and beta chains to assemble into functional tetramers",
-      "Gene expression level \u2014 reduced or absent synthesis of structurally normal beta-globin chains",
-      "Post-translational modification \u2014 failure of haem incorporation into normally synthesised beta-globin",
-      "Secondary structure \u2014 disruption of alpha-helical regions of the beta-globin chain"
+      "Primary structure \u2014 amino acid substitution in beta-globin",
+      "Quaternary structure \u2014 failure of alpha and beta chains to assemble",
+      "Gene expression \u2014 reduced or absent synthesis of structurally normal beta-globin chains",
+      "Post-translational modification \u2014 failure of haem incorporation into beta-globin",
+      "Secondary structure \u2014 disruption of alpha-helical regions of beta-globin"
     ],
     "correct": 2,
     "explanation": "Beta-thalassaemia results from mutations that reduce (beta+) or abolish (beta0) the synthesis of structurally normal beta-globin chains at the gene expression level \u2014 through defects in transcription, splicing, or translation \u2014 rather than a structural alteration of the protein itself as in sickle cell disease. The beta-globin chains that are produced are structurally normal; the problem is quantitative, not qualitative, leading to an imbalance of alpha and beta chains with excess alpha chains precipitating and causing haemolysis. This contrasts with sickle cell disease, where the primary structure of beta-globin is directly altered by a point mutation.",
@@ -9132,13 +9132,13 @@
     "subject": "Biochemistry",
     "subtopic": "Proteins & Enzymes",
     "type": "factual",
-    "question": "A medical student is studying protein folding disorders. Prion diseases (e.g. Creutzfeldt-Jakob disease) involve misfolding of the normal PrPc protein into an abnormal PrPsc conformation. Which level of protein structure is primarily abnormal in prion diseases?",
+    "question": "In prion diseases (e.g. CJD), normal PrPc misfolds into pathological PrPsc. Which level of protein structure is primarily abnormal?",
     "options": [
-      "Primary structure \u2014 the amino acid sequence of PrPsc differs from PrPc due to somatic mutation",
-      "Secondary and tertiary structure \u2014 PrPc alpha-helices are converted to beta-sheet-rich PrPsc",
-      "Quaternary structure \u2014 PrPsc forms abnormal dimers that cannot be dissociated",
-      "Post-translational glycosylation \u2014 abnormal sugar attachment alters protein routing to lysosomes",
-      "Primary structure \u2014 a single amino acid substitution destabilises the protein causing aggregation"
+      "Primary structure \u2014 PrPsc has a different amino acid sequence due to somatic mutation",
+      "Secondary and tertiary structure \u2014 alpha-helices of PrPc convert to beta-sheet-rich PrPsc",
+      "Quaternary structure \u2014 PrPsc forms abnormal dimers",
+      "Post-translational glycosylation \u2014 abnormal sugar attachment alters protein routing",
+      "Primary structure \u2014 a point mutation destabilises the protein causing aggregation"
     ],
     "correct": 1,
     "explanation": "Prion diseases involve a conformational change in the normal cellular prion protein (PrPc), which is rich in alpha-helices, to the pathological scrapie form (PrPsc), which is rich in beta-sheets \u2014 the primary amino acid sequence is identical in both forms, so the defect is entirely at the secondary and tertiary structural level. The beta-sheet-rich PrPsc is protease-resistant, tends to aggregate into amyloid-like fibrils, and can template the misfolding of normal PrPc, explaining the infectious nature of prion diseases without any nucleic acid involvement. Primary structure mutations (e.g. codon 129 polymorphism) can influence susceptibility but the disease mechanism itself is conformational.",
@@ -9150,13 +9150,13 @@
     "subject": "Biochemistry",
     "subtopic": "Proteins & Enzymes",
     "type": "clinical",
-    "question": "A 58-year-old man with type 2 diabetes is being treated with metformin. His physician checks his serum amylase and lipase after he develops acute epigastric pain radiating to the back with nausea and vomiting. Serum lipase is 4 times the upper limit of normal. Which of the following best explains why serum lipase is preferred over serum amylase in diagnosing acute pancreatitis?",
+    "question": "A 58-year-old develops acute epigastric pain radiating to the back. Serum lipase is 4\u00d7 the upper limit of normal. Why is serum lipase preferred over amylase for diagnosing acute pancreatitis?",
     "options": [
-      "Lipase rises earlier than amylase after the onset of pancreatitis, making it a better acute marker",
-      "Lipase is more pancreas-specific and remains elevated longer than amylase, giving a wider diagnostic window",
-      "Lipase directly causes pancreatic necrosis, so its elevation correlates with disease severity",
-      "Amylase is present in saliva and intestine so it rises in any abdominal condition, while lipase does not",
-      "Lipase measurement is technically simpler and less affected by haemolysis than amylase measurement"
+      "Lipase rises earlier than amylase after onset",
+      "Lipase is more pancreas-specific and remains elevated longer, giving a wider diagnostic window",
+      "Lipase elevation correlates directly with severity of necrosis",
+      "Amylase rises in any abdominal condition; lipase does not",
+      "Lipase is less affected by haemolysis than amylase"
     ],
     "correct": 1,
     "explanation": "Serum lipase is preferred over amylase for diagnosing acute pancreatitis because it is more specific to the pancreas (amylase is also produced by salivary glands and the small intestine, causing elevation in non-pancreatic conditions) and it remains elevated for 7\u201314 days compared to amylase which returns to normal within 3\u20135 days, providing a longer diagnostic window. Both enzymes are released from damaged acinar cells into the bloodstream, but lipase's superior organ specificity reduces false-positive results from parotitis, intestinal ischaemia, or renal failure. A lipase level more than three times the upper limit of normal has the highest diagnostic accuracy for acute pancreatitis.",
@@ -9168,13 +9168,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "clinical",
-    "question": "A 45-year-old man with poorly controlled type 2 diabetes presents with severe abdominal pain and creamy plasma on blood draw. Serum triglycerides are 2800 mg/dL. He is diagnosed with hypertriglyceridaemia-induced pancreatitis. Chylomicrons are the lipoprotein class most elevated in this condition after a fatty meal. Which of the following best describes the primary function of chylomicrons?",
+    "question": "A 45-year-old diabetic has triglycerides of 2800 mg/dL and is diagnosed with hypertriglyceridaemia-induced pancreatitis. What is the primary function of chylomicrons?",
     "options": [
-      "Transport endogenous cholesterol synthesised in the liver to peripheral tissues",
-      "Transport dietary triglycerides and cholesterol absorbed from the intestine to peripheral tissues",
-      "Return excess cholesterol from peripheral tissues back to the liver for excretion",
-      "Transport free fatty acids released from adipose tissue to the liver during fasting",
-      "Deliver cholesterol esters to the adrenal glands for steroid hormone synthesis"
+      "Transport endogenous cholesterol from the liver to peripheral tissues",
+      "Transport dietary triglycerides and cholesterol from the intestine to peripheral tissues",
+      "Return excess cholesterol from peripheral tissues to the liver",
+      "Transport free fatty acids from adipose tissue to the liver during fasting",
+      "Deliver cholesterol esters to the adrenal glands for steroid synthesis"
     ],
     "correct": 1,
     "explanation": "Chylomicrons are the largest lipoproteins, synthesised by intestinal enterocytes to transport dietary (exogenous) triglycerides and cholesterol absorbed from the gut via the lymphatics into the bloodstream, delivering triglycerides to peripheral tissues via lipoprotein lipase. In severe hypertriglyceridaemia, chylomicron remnants and VLDL accumulate, and triglyceride levels above 1000 mg/dL substantially increase the risk of acute pancreatitis, likely due to toxic free fatty acids released by pancreatic lipase acting on chylomicrons within pancreatic capillaries. VLDL, not chylomicrons, transports endogenously synthesised triglycerides from the liver to peripheral tissues.",
@@ -9186,13 +9186,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "clinical",
-    "question": "A 52-year-old woman with a family history of early coronary artery disease has LDL 210 mg/dL and HDL 38 mg/dL. She is started on a statin. Which of the following best describes the role of HDL in lipid metabolism and why low HDL is an independent cardiovascular risk factor?",
+    "question": "A 52-year-old woman has LDL 210 mg/dL and HDL 38 mg/dL. Why is low HDL an independent cardiovascular risk factor?",
     "options": [
-      "HDL delivers cholesterol from the liver to peripheral tissues, so low HDL means less cholesterol reaches cells",
-      "HDL mediates reverse cholesterol transport, removing excess cholesterol from peripheral tissues to the liver, so low HDL impairs this protective mechanism",
-      "HDL activates lipoprotein lipase in capillaries, so low HDL reduces triglyceride clearance from blood",
-      "HDL inhibits LDL oxidation by carrying antioxidant enzymes, so low HDL increases foam cell formation",
-      "HDL is the primary carrier of dietary cholesterol, so low HDL reduces cholesterol absorption"
+      "HDL delivers cholesterol from liver to periphery; low HDL reduces cellular cholesterol supply",
+      "HDL mediates reverse cholesterol transport from periphery to liver; low HDL impairs this protective mechanism",
+      "HDL activates lipoprotein lipase; low HDL reduces triglyceride clearance",
+      "HDL carries antioxidant enzymes; low HDL increases LDL oxidation and foam cell formation",
+      "HDL is the primary carrier of dietary cholesterol; low HDL reduces absorption"
     ],
     "correct": 1,
     "explanation": "HDL mediates reverse cholesterol transport \u2014 the process by which excess cholesterol is collected from peripheral tissues, including arterial walls, and returned to the liver for excretion in bile; this anti-atherogenic function explains why low HDL is an independent cardiovascular risk factor even when LDL is normal. HDL acquires cholesterol via ABCA1 transporters on peripheral cells and esterifies it using LCAT (lecithin-cholesterol acyltransferase), forming mature HDL particles that deliver cholesterol esters to the liver via SR-B1 receptors. Statins primarily lower LDL by upregulating hepatic LDL receptors and only modestly raise HDL levels.",
@@ -9222,13 +9222,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "factual",
-    "question": "A student is studying eicosanoids. Aspirin irreversibly inhibits cyclooxygenase (COX), blocking the synthesis of prostaglandins and thromboxanes. Which of the following correctly describes the precursor of eicosanoids and their principal physiological roles?",
+    "question": "What is the precursor of eicosanoids and what are their principal physiological roles?",
     "options": [
-      "Cholesterol is the precursor; eicosanoids regulate steroid hormone synthesis and bile acid production",
-      "Arachidonic acid (a 20-carbon polyunsaturated fatty acid) is the precursor; eicosanoids regulate inflammation, fever, pain, platelet aggregation, and vascular tone",
-      "Linoleic acid is the direct precursor; eicosanoids function primarily as intracellular second messengers",
-      "Sphingomyelin is the precursor; eicosanoids regulate cell membrane fluidity and apoptosis",
-      "Palmitic acid is the precursor; eicosanoids are the primary energy substrate for cardiac muscle"
+      "Cholesterol \u2014 regulates steroid hormone synthesis and bile acid production",
+      "Arachidonic acid (20-carbon PUFA) \u2014 regulates inflammation, fever, pain, platelet aggregation, and vascular tone",
+      "Linoleic acid \u2014 functions as an intracellular second messenger",
+      "Sphingomyelin \u2014 regulates membrane fluidity and apoptosis",
+      "Palmitic acid \u2014 primary energy substrate for cardiac muscle"
     ],
     "correct": 1,
     "explanation": "Eicosanoids (prostaglandins, thromboxanes, leukotrienes, and lipoxins) are derived from arachidonic acid, a 20-carbon omega-6 polyunsaturated fatty acid released from membrane phospholipids by phospholipase A2; they act as local paracrine and autocrine mediators regulating inflammation, fever, pain, platelet aggregation, vascular tone, and uterine contraction. Aspirin's irreversible acetylation of COX-1 in platelets permanently abolishes thromboxane A2 synthesis for the platelet's lifetime (7\u201310 days), providing its antiplatelet effect. Arachidonic acid is synthesised from the essential fatty acid linoleic acid, making dietary linoleic acid indirectly essential for eicosanoid production.",
@@ -9258,13 +9258,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "clinical",
-    "question": "A 60-year-old smoker with hypertension has a carotid ultrasound showing significant plaque. His LDL is 185 mg/dL. His physician explains the role of lipid peroxidation in atherosclerosis. Which of the following best describes lipid peroxidation and its pathological significance?",
+    "question": "A 60-year-old smoker has significant carotid plaque on ultrasound. What is lipid peroxidation and why is it relevant to atherosclerosis?",
     "options": [
-      "Lipid peroxidation is the enzymatic breakdown of triglycerides by lipase, producing free fatty acids that damage endothelium",
-      "Lipid peroxidation is the oxidative degradation of polyunsaturated fatty acids by free radicals, producing reactive aldehydes that damage proteins, DNA, and cell membranes",
-      "Lipid peroxidation is the conversion of cholesterol to oxysterols by hepatic enzymes, reducing bile acid synthesis",
-      "Lipid peroxidation is the esterification of fatty acids with glycerol, producing triglycerides that accumulate in macrophages",
-      "Lipid peroxidation describes the oxidation of saturated fatty acids in the mitochondria to generate ATP"
+      "Enzymatic triglyceride breakdown by lipase producing endothelium-damaging fatty acids",
+      "Free radical oxidative degradation of PUFAs producing reactive aldehydes that damage proteins, DNA, and membranes",
+      "Conversion of cholesterol to oxysterols by hepatic enzymes reducing bile acid synthesis",
+      "Esterification of fatty acids with glycerol producing triglycerides that accumulate in macrophages",
+      "Oxidation of saturated fatty acids in mitochondria to generate ATP"
     ],
     "correct": 1,
     "explanation": "Lipid peroxidation is the free radical-mediated oxidative degradation of polyunsaturated fatty acids in cell membranes and lipoproteins; the chain reaction generates reactive lipid peroxides and aldehydes (e.g. malondialdehyde, 4-hydroxynonenal) that crosslink proteins, damage DNA, and disrupt membrane integrity. In atherosclerosis, oxidised LDL (formed via lipid peroxidation) is taken up by macrophage scavenger receptors in an unregulated fashion, forming cholesterol-laden foam cells \u2014 the hallmark of early atheromatous plaques. Antioxidants such as vitamin E (alpha-tocopherol) protect cell membranes by scavenging lipid peroxy radicals and interrupting the chain reaction.",
@@ -9276,13 +9276,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "factual",
-    "question": "A nutrition student is studying essential fatty acids. Linoleic acid (omega-6) and alpha-linolenic acid (omega-3) cannot be synthesised by humans and must be obtained from the diet. Which of the following best explains why these fatty acids are considered essential and what deficiency produces?",
+    "question": "Why are linoleic acid (omega-6) and alpha-linolenic acid (omega-3) considered essential fatty acids, and what does deficiency cause?",
     "options": [
-      "They are essential because they are the only fatty acids used for energy production via beta-oxidation",
-      "They are essential because humans lack the desaturase enzymes to introduce double bonds beyond carbon 9, and deficiency causes scaly dermatitis, poor wound healing, and impaired growth",
-      "They are essential because they form the backbone of all phospholipids and deficiency causes cell membrane dissolution",
-      "They are essential because they are the direct precursors of cholesterol and deficiency causes hypocholesterolaemia",
-      "They are essential because they are required for myelin synthesis and deficiency causes peripheral neuropathy"
+      "They are the only fatty acids used for energy via beta-oxidation",
+      "Humans lack desaturases beyond carbon 9; deficiency causes scaly dermatitis, poor wound healing, and impaired growth",
+      "They form the backbone of all phospholipids; deficiency causes membrane dissolution",
+      "They are direct cholesterol precursors; deficiency causes hypocholesterolaemia",
+      "They are required for myelin synthesis; deficiency causes peripheral neuropathy"
     ],
     "correct": 1,
     "explanation": "Humans possess delta-9 desaturase but lack delta-12 and delta-15 desaturases, meaning they cannot introduce double bonds beyond carbon 9 of a fatty acid chain; linoleic (18:2, omega-6) and alpha-linolenic acid (18:3, omega-3) must therefore be obtained from dietary sources. Deficiency of essential fatty acids manifests as scaly dermatitis, alopecia, poor wound healing, increased susceptibility to infection, and impaired growth \u2014 features explained by the role of arachidonic acid (derived from linoleic acid) in membrane structure and eicosanoid synthesis. These fatty acids also serve as precursors for longer-chain polyunsaturated fatty acids including arachidonic acid (omega-6) and EPA/DHA (omega-3).",
@@ -9312,13 +9312,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "clinical",
-    "question": "A 32-year-old pregnant woman at 34 weeks gestation is found to have elevated liver enzymes and low platelets. She is diagnosed with acute fatty liver of pregnancy, a condition associated with impaired mitochondrial beta-oxidation of fatty acids. Which of the following correctly describes the process of beta-oxidation?",
+    "question": "A 32-year-old pregnant woman at 34 weeks develops elevated liver enzymes, low platelets, and is diagnosed with acute fatty liver of pregnancy due to impaired mitochondrial beta-oxidation. Which of the following correctly describes beta-oxidation?",
     "options": [
-      "Beta-oxidation occurs in the cytosol and sequentially adds two-carbon units to a growing fatty acid chain",
-      "Beta-oxidation occurs in the mitochondrial matrix and sequentially removes two-carbon acetyl-CoA units from the fatty acid chain, generating NADH and FADH2",
-      "Beta-oxidation occurs in peroxisomes exclusively and produces hydrogen peroxide as a byproduct used for ATP synthesis",
-      "Beta-oxidation occurs in the smooth ER and converts fatty acids to ketone bodies for brain utilisation",
-      "Beta-oxidation requires biotin as a cofactor to activate fatty acids before entry into the mitochondria"
+      "Occurs in the cytosol; sequentially adds two-carbon units to a growing fatty acid chain",
+      "Occurs in the mitochondrial matrix; sequentially removes two-carbon acetyl-CoA units generating NADH and FADH2",
+      "Occurs exclusively in peroxisomes; produces H2O2 as a byproduct used for ATP synthesis",
+      "Occurs in the smooth ER; converts fatty acids to ketone bodies",
+      "Requires biotin to activate fatty acids before mitochondrial entry"
     ],
     "correct": 1,
     "explanation": "Beta-oxidation occurs in the mitochondrial matrix (and peroxisomes for very long chain fatty acids) and involves the sequential removal of two-carbon acetyl-CoA units from the fatty acyl chain through repeated cycles of oxidation, hydration, oxidation, and thiolysis, generating NADH and FADH2 (which feed the electron transport chain) and acetyl-CoA (which enters the TCA cycle). Fatty acids must first be activated to acyl-CoA in the cytosol and then transported into the mitochondrial matrix via carnitine (as acylcarnitine), which is the rate-limiting transport step. In contrast, fatty acid synthesis (the reverse process) occurs in the cytosol and requires NADPH and the sequential addition of two-carbon units from malonyl-CoA.",
@@ -9330,13 +9330,13 @@
     "subject": "Biochemistry",
     "subtopic": "Lipids & Fatty Acids",
     "type": "clinical",
-    "question": "A 19-year-old woman with anorexia nervosa presents with amenorrhoea, dry skin, and lanugo hair. Her BMI is 14. Oestrogen levels are markedly reduced. Which of the following best explains the relationship between body fat and sex hormone production?",
+    "question": "A 19-year-old with anorexia nervosa (BMI 14) has markedly reduced oestrogen and amenorrhoea. What explains the link between low body fat and reduced oestrogen?",
     "options": [
-      "Adipose tissue synthesises oestrogen de novo from glucose, so reduced fat mass directly lowers oestrogen production",
-      "Adipose tissue converts adrenal androgens (androstenedione) to oestrone via aromatase, contributing significantly to oestrogen levels especially in pre-menopausal women",
-      "Adipose tissue stores cholesterol required for all steroid hormone synthesis, so fat loss depletes the cholesterol precursor pool",
-      "Adipose tissue secretes leptin which directly stimulates ovarian oestrogen production, so low leptin from fat loss suppresses synthesis",
-      "Adipose tissue is the primary site of progesterone synthesis, and its loss abolishes the progesterone-oestrogen balance"
+      "Adipose tissue synthesises oestrogen de novo from glucose",
+      "Adipose aromatase converts adrenal androstenedione to oestrone \u2014 a significant oestrogen source",
+      "Adipose tissue stores cholesterol needed for steroid synthesis; fat loss depletes the precursor",
+      "Adipose leptin directly stimulates ovarian oestrogen production; low leptin suppresses synthesis",
+      "Adipose tissue is the primary site of progesterone synthesis"
     ],
     "correct": 1,
     "explanation": "Adipose tissue expresses aromatase (CYP19A1), which converts adrenal androgens \u2014 primarily androstenedione \u2014 to oestrone, a weak oestrogen; this peripheral conversion is a significant source of oestrogen, particularly important in post-menopausal women but also relevant in severe malnutrition. In anorexia nervosa, both markedly reduced adipose aromatase activity and hypothalamic suppression of GnRH (due to energy deficit and low leptin) contribute to hypo-oestrogenism and amenorrhoea. All steroid hormones are synthesised from cholesterol as the precursor, which is produced hepatically and is not dependent on adipose mass.",
@@ -9420,13 +9420,13 @@
     "subject": "Biochemistry",
     "subtopic": "Porphyrins & Haemoglobin",
     "type": "factual",
-    "question": "A student is reviewing haem biosynthesis. The rate-limiting enzyme of this pathway is ALA synthase, which requires pyridoxal phosphate (vitamin B6) as a cofactor. Where does haem biosynthesis begin and where is it completed?",
+    "question": "Where does haem biosynthesis begin and where is it completed?",
     "options": [
-      "Begins and is completed entirely in the mitochondria of erythroid precursors",
-      "Begins in the mitochondria (ALA synthesis), continues in the cytosol (steps 2\u20135), and is completed in the mitochondria (final steps including ferrochelatase)",
-      "Begins in the cytosol with glycine and succinyl-CoA condensation and is completed in the smooth ER",
-      "Begins in the nucleus with porphobilinogen synthesis and is completed in the cytosol",
-      "Begins and is completed entirely in the cytosol, with mitochondrial import only for iron insertion"
+      "Begins and is completed entirely in the mitochondria",
+      "Begins in mitochondria (ALA synthesis) \u2192 cytosol (steps 2\u20135) \u2192 returns to mitochondria (final steps including ferrochelatase)",
+      "Begins in cytosol with glycine and succinyl-CoA condensation; completed in the smooth ER",
+      "Begins in the nucleus with porphobilinogen synthesis; completed in cytosol",
+      "Begins and is completed in the cytosol; mitochondria only provide iron for insertion"
     ],
     "correct": 1,
     "explanation": "Haem biosynthesis is a compartmentalised pathway: it begins in the mitochondria where ALA synthase condenses glycine and succinyl-CoA to form delta-aminolevulinic acid (ALA); ALA then moves to the cytosol for steps 2\u20135 (formation of porphobilinogen, hydroxymethylbilane, uroporphyrinogen III, and coproporphyrinogen III); the pathway then returns to the mitochondria for the final steps \u2014 oxidation of coproporphyrinogen III to protoporphyrinogen IX, oxidation to protoporphyrin IX, and finally insertion of ferrous iron by ferrochelatase to form haem. ALA synthase activity is feedback-inhibited by haem and induced by drugs that increase CYP450 demand.",
@@ -9438,13 +9438,13 @@
     "subject": "Biochemistry",
     "subtopic": "Porphyrins & Haemoglobin",
     "type": "clinical",
-    "question": "A 3-day-old neonate develops jaundice. Serum bilirubin is 18 mg/dL, predominantly unconjugated. The paediatrician explains the pathway of haem degradation. Which of the following correctly describes the sequential steps of haem catabolism?",
+    "question": "A 3-day-old neonate has unconjugated hyperbilirubinaemia. Which sequence correctly describes the steps of haem catabolism?",
     "options": [
-      "Haem \u2192 biliverdin (by haem oxygenase) \u2192 bilirubin (by biliverdin reductase) \u2192 conjugated bilirubin (by UDP-glucuronosyltransferase in the liver) \u2192 excreted in bile",
-      "Haem \u2192 bilirubin (by haem oxygenase) \u2192 biliverdin (by biliverdin reductase) \u2192 conjugated bilirubin (in the kidney) \u2192 excreted in urine",
-      "Haem \u2192 protoporphyrin IX \u2192 bilirubin (by protoporphyrinogen oxidase) \u2192 excreted directly in bile",
-      "Haem \u2192 unconjugated bilirubin (by ferrochelatase) \u2192 conjugated bilirubin (by albumin binding) \u2192 excreted in bile",
-      "Haem \u2192 biliverdin \u2192 stercobilin (in the liver) \u2192 urobilinogen (in the gut) \u2192 excreted in faeces"
+      "Haem \u2192 biliverdin (haem oxygenase) \u2192 bilirubin (biliverdin reductase) \u2192 conjugated bilirubin (UDP-GT in liver) \u2192 bile",
+      "Haem \u2192 bilirubin (haem oxygenase) \u2192 biliverdin (biliverdin reductase) \u2192 conjugated in kidney \u2192 urine",
+      "Haem \u2192 protoporphyrin IX \u2192 bilirubin (protoporphyrinogen oxidase) \u2192 bile",
+      "Haem \u2192 unconjugated bilirubin (ferrochelatase) \u2192 conjugated (albumin binding) \u2192 bile",
+      "Haem \u2192 biliverdin \u2192 stercobilin (liver) \u2192 urobilinogen (gut) \u2192 faeces"
     ],
     "correct": 0,
     "explanation": "Haem catabolism proceeds as follows: haem oxygenase in macrophages opens the porphyrin ring to release biliverdin (green) plus CO and Fe2+; biliverdin reductase then reduces biliverdin to bilirubin (yellow); bilirubin is transported bound to albumin to the liver, where UDP-glucuronosyltransferase conjugates it with glucuronic acid to form water-soluble conjugated (direct) bilirubin for excretion in bile. In the gut, bacterial enzymes deconjugate and reduce bilirubin to urobilinogen, which is partly reabsorbed and excreted in urine (urobilin) and partly oxidised to stercobilin giving faeces their brown colour. In neonates, immature UDP-glucuronosyltransferase activity causes unconjugated hyperbilirubinaemia that can deposit in the basal ganglia (kernicterus) if severe.",
@@ -9456,13 +9456,13 @@
     "subject": "Biochemistry",
     "subtopic": "Porphyrins & Haemoglobin",
     "type": "clinical",
-    "question": "A 25-year-old man of West African origin presents with haemolytic anaemia, jaundice, and dark urine after taking primaquine for malaria prophylaxis. His blood film shows Heinz bodies. Which of the following best explains the pathophysiology of G6PD deficiency?",
+    "question": "A 25-year-old West African man develops haemolytic anaemia and Heinz bodies after taking primaquine. What is the mechanism of G6PD deficiency?",
     "options": [
-      "G6PD deficiency impairs haem synthesis, causing microcytic anaemia that worsens with oxidant drug exposure",
-      "G6PD deficiency reduces NADPH production via the HMP shunt, impairing glutathione regeneration and leaving red cells vulnerable to oxidative haemolysis",
-      "G6PD deficiency causes defective spectrin cross-linking, making red cell membranes fragile under oxidant stress",
-      "G6PD deficiency blocks glycolysis at the glucose-6-phosphate step, reducing ATP and causing red cell membrane pump failure",
-      "G6PD deficiency impairs iron absorption from the gut, causing iron deficiency that is unmasked by oxidant drugs"
+      "Impairs haem synthesis causing microcytic anaemia worsened by oxidants",
+      "Reduces NADPH via the HMP shunt, impairing glutathione regeneration and leaving red cells vulnerable to oxidative haemolysis",
+      "Causes defective spectrin cross-linking making membranes fragile under oxidant stress",
+      "Blocks glycolysis at glucose-6-phosphate, reducing ATP and causing membrane pump failure",
+      "Impairs iron absorption, causing iron deficiency unmasked by oxidant drugs"
     ],
     "correct": 1,
     "explanation": "G6PD is the first enzyme of the hexose monophosphate (HMP) shunt \u2014 the only pathway in mature red cells that generates NADPH; NADPH is required to reduce glutathione (via glutathione reductase), which neutralises reactive oxygen species (H2O2) generated by oxidant drugs, infections, and fava beans. Without adequate NADPH, oxidised haemoglobin precipitates as Heinz bodies that damage the membrane and cause intravascular and extravascular haemolysis. G6PD deficiency is X-linked and one of the most common enzyme deficiencies worldwide, providing a survival advantage against falciparum malaria in heterozygous females.",
@@ -9510,13 +9510,13 @@
     "subject": "Biochemistry",
     "subtopic": "Porphyrins & Haemoglobin",
     "type": "clinical",
-    "question": "A 22-year-old man is found unconscious in a car with the engine running. He is brought to the emergency department. His skin is cherry-red. SpO2 reads 99% on pulse oximetry but he is profoundly hypoxic. COHb is 45%. Which of the following best explains the mechanism of carbon monoxide toxicity at the molecular level?",
+    "question": "A 22-year-old is found unconscious in a car with the engine running. SpO2 reads 99% but he is profoundly hypoxic; COHb is 45%. What is the molecular mechanism of CO toxicity?",
     "options": [
-      "CO irreversibly oxidises the iron in haemoglobin from Fe2+ to Fe3+, forming methaemoglobin that cannot carry oxygen",
-      "CO binds to haemoglobin with 250 times the affinity of oxygen and shifts the oxygen-dissociation curve to the left, impairing oxygen delivery to tissues",
-      "CO inhibits cytochrome c oxidase in the mitochondria, directly blocking electron transport without affecting haemoglobin",
-      "CO competes with CO2 for carbamino binding on haemoglobin, impairing CO2 transport and causing respiratory acidosis",
-      "CO causes lipid peroxidation of red cell membranes, reducing their oxygen-carrying capacity"
+      "CO oxidises haemoglobin iron from Fe2+ to Fe3+, forming methaemoglobin",
+      "CO binds haemoglobin with 250\u00d7 the affinity of oxygen and shifts the O2 dissociation curve left, impairing tissue oxygen delivery",
+      "CO inhibits cytochrome c oxidase, blocking electron transport directly",
+      "CO competes with CO2 for carbamino binding, causing respiratory acidosis",
+      "CO causes lipid peroxidation of red cell membranes reducing O2-carrying capacity"
     ],
     "correct": 1,
     "explanation": "Carbon monoxide binds to the ferrous iron (Fe2+) of haemoglobin with approximately 250 times the affinity of oxygen, forming carboxyhaemoglobin (COHb); it also causes allosteric changes that shift the oxygen-haemoglobin dissociation curve to the left, reducing oxygen unloading at tissues even from the remaining unoccupied haem groups. Pulse oximetry cannot distinguish oxyhaemoglobin from COHb (both absorb light similarly at 660 nm), so SpO2 reads falsely normal despite severe tissue hypoxia. CO also inhibits mitochondrial cytochrome c oxidase, adding a cellular-level block to oxidative phosphorylation that contributes to the severity of poisoning.",
@@ -9564,13 +9564,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 65-year-old chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia. He is malnourished and has been eating mainly white bread and beer. Which vitamin deficiency explains this presentation and what is its biochemical role?",
+    "question": "A malnourished 65-year-old alcoholic presents with confusion, ataxia, and ophthalmoplegia. Which vitamin deficiency explains this triad and what is its biochemical role?",
     "options": [
-      "Vitamin B12 deficiency \u2014 required for myelin synthesis; deficiency causes subacute combined degeneration",
-      "Thiamine (vitamin B1) deficiency \u2014 required as a cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase; deficiency causes Wernicke's encephalopathy",
-      "Niacin (vitamin B3) deficiency \u2014 required for NAD+ synthesis; deficiency causes pellagra with dementia",
-      "Pyridoxine (vitamin B6) deficiency \u2014 required for neurotransmitter synthesis; deficiency causes peripheral neuropathy and seizures",
-      "Folate deficiency \u2014 required for DNA synthesis; deficiency impairs neuronal repair causing encephalopathy"
+      "Vitamin B12 \u2014 required for myelin synthesis; causes subacute combined degeneration",
+      "Thiamine (B1) \u2014 cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase; deficiency causes Wernicke's encephalopathy",
+      "Niacin (B3) \u2014 required for NAD+ synthesis; causes pellagra with dementia",
+      "Pyridoxine (B6) \u2014 required for neurotransmitter synthesis; causes peripheral neuropathy",
+      "Folate \u2014 required for DNA synthesis; impairs neuronal repair causing encephalopathy"
     ],
     "correct": 1,
     "explanation": "The triad of confusion, ataxia, and ophthalmoplegia is Wernicke's encephalopathy, caused by thiamine (vitamin B1) deficiency; thiamine pyrophosphate (TPP) is an essential cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase (TCA cycle), and transketolase (HMP shunt), and its deficiency impairs oxidative metabolism particularly in high-energy-demand brain regions such as the mammillary bodies and periaqueductal grey. Alcoholics are at risk due to poor intake, impaired intestinal absorption, and reduced hepatic storage of thiamine. If untreated, Wernicke's encephalopathy can progress to Korsakoff's psychosis (irreversible amnesia with confabulation), so IV thiamine must be given before glucose in any suspected case.",
@@ -9582,13 +9582,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 70-year-old strict vegan woman presents with fatigue, macrocytic anaemia, and a burning sensation in her feet. Serum B12 is undetectable. Serum homocysteine and methylmalonic acid are both elevated. Which of the following correctly explains the dual biochemical roles of vitamin B12?",
+    "question": "A 70-year-old vegan has macrocytic anaemia, burning feet, undetectable B12, and elevated homocysteine and methylmalonic acid. What are the two enzymatic roles of vitamin B12?",
     "options": [
-      "B12 is required for fatty acid synthesis as a cofactor for acetyl-CoA carboxylase and for purine synthesis",
-      "B12 is required as a cofactor for methionine synthase (converting homocysteine to methionine) and methylmalonyl-CoA mutase (converting methylmalonyl-CoA to succinyl-CoA)",
-      "B12 is required for collagen hydroxylation and iron absorption from the intestine",
-      "B12 is required for the conversion of folate to its active form and for haem iron incorporation",
-      "B12 is required as a cofactor for thymidylate synthase and dihydrofolate reductase in DNA synthesis"
+      "Cofactor for acetyl-CoA carboxylase (fatty acid synthesis) and purine synthesis",
+      "Cofactor for methionine synthase (homocysteine \u2192 methionine) and methylmalonyl-CoA mutase (methylmalonyl-CoA \u2192 succinyl-CoA)",
+      "Required for collagen hydroxylation and intestinal iron absorption",
+      "Converts folate to its active form and incorporates haem iron",
+      "Cofactor for thymidylate synthase and dihydrofolate reductase"
     ],
     "correct": 1,
     "explanation": "Vitamin B12 serves as a cofactor for two enzymes: methionine synthase, which converts homocysteine to methionine using methyltetrahydrofolate as the methyl donor (explaining elevated homocysteine in deficiency), and methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to succinyl-CoA in the catabolism of odd-chain fatty acids and branched-chain amino acids (explaining elevated methylmalonic acid). Elevated methylmalonic acid distinguishes B12 deficiency from folate deficiency (which also raises homocysteine but not methylmalonic acid). The neurological features (subacute combined degeneration of the spinal cord) result from impaired myelin synthesis due to defective methylation reactions and toxic accumulation of methylmalonyl-CoA.",
@@ -9618,13 +9618,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 6-month-old exclusively breastfed infant presents with irritability, subcutaneous haemorrhages, and swollen tender legs. X-ray shows periosteal elevation and Tr\u00fcmmerfeld zone at metaphyses. Which vitamin deficiency is responsible and what is its biochemical function?",
+    "question": "A 6-month-old breastfed infant has irritability, subcutaneous haemorrhages, swollen tender legs, and periosteal elevation on X-ray. Which vitamin deficiency is responsible and what is its biochemical role?",
     "options": [
-      "Vitamin K deficiency \u2014 required for gamma-carboxylation of clotting factors causing bleeding diathesis",
-      "Vitamin C (ascorbic acid) deficiency \u2014 required as a cofactor for prolyl and lysyl hydroxylase in collagen synthesis; deficiency impairs collagen crosslinking causing vascular fragility and scurvy",
-      "Vitamin D deficiency \u2014 impairs bone mineralisation causing rickets with periosteal haemorrhages",
-      "Vitamin A deficiency \u2014 required for epithelial integrity; deficiency causes mucosal bleeding and bone changes",
-      "Vitamin E deficiency \u2014 required for antioxidant protection of cell membranes; deficiency causes haemolysis and periosteal bleeding"
+      "Vitamin K \u2014 gamma-carboxylation of clotting factors causing bleeding",
+      "Vitamin C \u2014 cofactor for prolyl and lysyl hydroxylase in collagen synthesis; deficiency impairs crosslinking causing vascular fragility",
+      "Vitamin D \u2014 impairs bone mineralisation causing rickets with periosteal haemorrhages",
+      "Vitamin A \u2014 required for epithelial integrity; causes mucosal bleeding",
+      "Vitamin E \u2014 antioxidant protection of membranes; causes haemolysis and bleeding"
     ],
     "correct": 1,
     "explanation": "Scurvy results from vitamin C (ascorbic acid) deficiency; ascorbic acid is an essential cofactor for prolyl hydroxylase and lysyl hydroxylase, the enzymes that hydroxylate proline and lysine residues in procollagen, a step required for triple-helix formation and collagen crosslinking. Without stable collagen, blood vessel walls, periosteum, and connective tissues are structurally weak, leading to perifollicular haemorrhages, gum bleeding, periosteal haemorrhages (causing the characteristic subperiosteal haematomas and pseudoparalysis in infants), and impaired wound healing. Infants fed exclusively breast milk beyond 4\u20136 months without vitamin C supplementation are at risk as breast milk is a poor source of ascorbic acid.",
@@ -9636,13 +9636,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 28-year-old woman in her first trimester of pregnancy is prescribed folic acid supplementation. She is told it reduces the risk of neural tube defects. Which of the following best describes the biochemical role of folate in the context of neural tube development?",
+    "question": "A 28-year-old woman in her first trimester is prescribed folic acid to reduce neural tube defect risk. What is the biochemical basis of this protection?",
     "options": [
-      "Folate is required for vitamin B12 absorption in the terminal ileum, so deficiency indirectly causes B12-related neural tube defects",
-      "Folate, as tetrahydrofolate (THF), carries one-carbon units required for purine and thymidylate (dTMP) synthesis and methylation reactions; deficiency impairs rapid cell division needed for neural tube closure",
-      "Folate is required for collagen synthesis in the neural tube mesenchyme, and deficiency causes structural failure of closure",
-      "Folate directly stimulates neural crest cell migration, and deficiency prevents neural tube fusion",
-      "Folate is required for acetylcholine synthesis in developing neurons, and deficiency impairs neuroectoderm signalling"
+      "Folate is required for B12 absorption in the terminal ileum",
+      "Folate as THF carries one-carbon units for purine and dTMP synthesis; deficiency impairs rapid cell division needed for neural tube closure",
+      "Folate is required for collagen synthesis in neural tube mesenchyme",
+      "Folate stimulates neural crest cell migration",
+      "Folate is required for acetylcholine synthesis in developing neurons"
     ],
     "correct": 1,
     "explanation": "Tetrahydrofolate (THF) and its derivatives are essential one-carbon carriers required for de novo synthesis of purines and thymidylate (dTMP), which are building blocks for DNA; during neural tube closure (days 21\u201328 of gestation), extremely rapid cell proliferation creates a high demand for DNA synthesis that cannot be met when folate is deficient, leading to failure of neural tube closure. Folate also donates methyl groups for homocysteine remethylation to methionine; elevated homocysteine in folate deficiency may independently contribute to neural tube defects. Periconceptional supplementation with 400 \u00b5g/day reduces neural tube defect risk by approximately 70%.",
@@ -9654,13 +9654,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 55-year-old man on long-term isoniazid therapy for tuberculosis develops a peripheral neuropathy with burning paraesthesias. Which vitamin does isoniazid deplete and what is the consequence of its deficiency?",
+    "question": "A 55-year-old on long-term isoniazid develops burning peripheral neuropathy. Which vitamin does isoniazid deplete and how?",
     "options": [
-      "Thiamine (B1) \u2014 isoniazid inhibits TPP synthesis causing Wernicke-like encephalopathy",
-      "Pyridoxine (vitamin B6) \u2014 isoniazid is a structural analogue that inhibits pyridoxal kinase and forms hydrazones with B6, depleting pyridoxal phosphate required for aminotransferases and neurotransmitter synthesis",
-      "Niacin (B3) \u2014 isoniazid inhibits tryptophan conversion to niacin causing pellagra-like neuropathy",
-      "Riboflavin (B2) \u2014 isoniazid inhibits FAD synthesis causing peripheral neuropathy and glossitis",
-      "Biotin (B7) \u2014 isoniazid depletes biotin required for fatty acid carboxylation causing axonal degeneration"
+      "Thiamine (B1) \u2014 inhibits TPP synthesis causing Wernicke-like encephalopathy",
+      "Pyridoxine (B6) \u2014 inhibits pyridoxal kinase and forms hydrazones with B6, depleting PLP required for aminotransferases and neurotransmitter synthesis",
+      "Niacin (B3) \u2014 inhibits tryptophan conversion to niacin causing pellagra-like neuropathy",
+      "Riboflavin (B2) \u2014 inhibits FAD synthesis causing glossitis and neuropathy",
+      "Biotin (B7) \u2014 depletes biotin required for fatty acid carboxylation"
     ],
     "correct": 1,
     "explanation": "Isoniazid (INH) is a structural analogue of pyridoxine that competitively inhibits pyridoxal kinase (preventing B6 phosphorylation to its active form, pyridoxal phosphate) and also forms inactive hydrazones with pyridoxal; the resulting PLP deficiency impairs PLP-dependent enzymes including aminotransferases, decarboxylases involved in neurotransmitter synthesis (GABA, serotonin, dopamine), and sphingolipid metabolism, producing peripheral neuropathy. Pyridoxine 25\u201350 mg/day is routinely co-prescribed with isoniazid to prevent this complication, especially in patients at higher risk such as diabetics, alcoholics, and the malnourished. PLP also serves as the cofactor for ALA synthase, so severe B6 deficiency can cause a sideroblastic-like anaemia.",
@@ -9672,13 +9672,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 3-year-old child from a low-income family presents with night blindness, dry eyes (xerophthalmia), and a Bitot's spot on the conjunctiva. Which vitamin is deficient and what are its key biochemical functions?",
+    "question": "A 3-year-old has night blindness, xerophthalmia, and a Bitot's spot. Which vitamin is deficient and what are its key biochemical functions?",
     "options": [
-      "Vitamin E \u2014 required for antioxidant protection of photoreceptor membranes; deficiency causes retinal degeneration",
-      "Vitamin A (retinol) \u2014 required for synthesis of rhodopsin in rod cells, maintenance of epithelial integrity, and immune function; deficiency causes night blindness and xerophthalmia",
-      "Vitamin D \u2014 required for calcium-dependent photoreceptor signalling; deficiency impairs dark adaptation",
-      "Zinc \u2014 required as a cofactor for retinol dehydrogenase; deficiency causes functional vitamin A deficiency despite normal serum retinol",
-      "Vitamin C \u2014 required for maintenance of corneal collagen; deficiency causes corneal thinning and dry eyes"
+      "Vitamin E \u2014 antioxidant protection of photoreceptors; deficiency causes retinal degeneration",
+      "Vitamin A \u2014 required for rhodopsin synthesis, epithelial integrity, and immune function; deficiency causes night blindness and xerophthalmia",
+      "Vitamin D \u2014 calcium-dependent photoreceptor signalling; deficiency impairs dark adaptation",
+      "Zinc \u2014 cofactor for retinol dehydrogenase; deficiency causes functional vitamin A deficiency",
+      "Vitamin C \u2014 maintains corneal collagen; deficiency causes corneal thinning"
     ],
     "correct": 1,
     "explanation": "Vitamin A (retinol) deficiency is the most common cause of preventable blindness in children worldwide; retinal (the aldehyde form) combines with opsin to form rhodopsin in rod cells \u2014 the photopigment for dim-light vision \u2014 so deficiency causes night blindness (nyctalopia) as the earliest symptom. Vitamin A also maintains epithelial integrity by promoting differentiation of mucus-secreting columnar epithelium; without it, epithelium undergoes squamous metaplasia (keratinisation), producing dry eyes (xerophthalmia) and Bitot's spots (foamy keratinised plaques on the conjunctiva). Vitamin A also supports immune function, and deficiency significantly increases mortality from measles and diarrhoeal illness in children.",
@@ -9690,13 +9690,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 72-year-old man on warfarin for atrial fibrillation presents with an INR of 6.2 after eating large amounts of leafy green vegetables. He has no active bleeding. Which of the following correctly explains the role of vitamin K in coagulation?",
+    "question": "A 72-year-old on warfarin has INR 6.2 after eating leafy greens. What is the role of vitamin K in coagulation?",
     "options": [
-      "Vitamin K is a cofactor for factor XIII (fibrin-stabilising factor) that crosslinks fibrin clots",
-      "Vitamin K is required as a cofactor for gamma-glutamyl carboxylase, which carboxylates glutamate residues on clotting factors II, VII, IX, and X enabling them to bind calcium and phospholipid surfaces",
-      "Vitamin K activates thrombin directly by proteolytic cleavage of prothrombin in the liver",
-      "Vitamin K promotes platelet aggregation by upregulating thromboxane A2 synthesis",
-      "Vitamin K is required for von Willebrand factor synthesis in endothelial cells"
+      "Cofactor for factor XIII crosslinking fibrin",
+      "Cofactor for gamma-glutamyl carboxylase, which carboxylates factors II, VII, IX, and X enabling calcium and phospholipid binding",
+      "Directly activates thrombin by proteolytic cleavage of prothrombin",
+      "Promotes platelet aggregation by upregulating thromboxane A2",
+      "Required for von Willebrand factor synthesis in endothelial cells"
     ],
     "correct": 1,
     "explanation": "Vitamin K is an essential cofactor for gamma-glutamyl carboxylase, which post-translationally carboxylates specific glutamate residues on the vitamin K-dependent clotting factors (II, VII, IX, X) and anticoagulant proteins (C and S); this gamma-carboxylation enables these proteins to bind calcium ions and phospholipid surfaces (via their Gla domains), a step essential for their assembly into active coagulation complexes. Warfarin inhibits vitamin K epoxide reductase, preventing regeneration of reduced vitamin K and thus blocking synthesis of functional clotting factors; dietary vitamin K from leafy greens competes with warfarin's effect, raising the INR unpredictably when intake varies. Fat malabsorption (biliary obstruction, pancreatic insufficiency) also causes vitamin K deficiency as it is fat-soluble.",
@@ -9708,13 +9708,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 45-year-old woman with Crohn's disease involving the terminal ileum has been suffering from diarrhoea, weight loss, and fatigue for years. Her serum zinc is low. She develops acrodermatitis enteropathica-like features \u2014 perioral and perianal rash. Which of the following best describes the clinical significance of zinc deficiency?",
+    "question": "A 45-year-old with terminal ileal Crohn's disease has low serum zinc and perioral/perianal rash. What is the clinical significance of zinc deficiency?",
     "options": [
-      "Zinc deficiency impairs haemoglobin synthesis by competing with iron for incorporation into the haem ring",
-      "Zinc deficiency impairs immune function, wound healing, growth, taste, and smell due to its role as a cofactor in over 300 enzymes including DNA polymerase, carbonic anhydrase, and alkaline phosphatase",
-      "Zinc deficiency specifically impairs thyroid hormone synthesis by inhibiting thyroid peroxidase activity",
-      "Zinc deficiency causes peripheral neuropathy by impairing myelin basic protein synthesis",
-      "Zinc deficiency causes night blindness by competing with vitamin A for retinol-binding protein"
+      "Impairs haemoglobin synthesis by competing with iron for haem incorporation",
+      "Impairs immune function, wound healing, growth, taste, and smell \u2014 cofactor for over 300 enzymes including DNA polymerase and alkaline phosphatase",
+      "Specifically impairs thyroid hormone synthesis by inhibiting thyroid peroxidase",
+      "Causes peripheral neuropathy by impairing myelin basic protein synthesis",
+      "Causes night blindness by competing with vitamin A for retinol-binding protein"
     ],
     "correct": 1,
     "explanation": "Zinc is a cofactor for over 300 enzymes spanning virtually all metabolic pathways \u2014 including DNA and RNA polymerases, carbonic anhydrase, alkaline phosphatase, superoxide dismutase, and matrix metalloproteinases \u2014 and is also a structural component of zinc-finger transcription factors; deficiency impairs cell-mediated immunity (lymphocyte function), wound healing, growth retardation, hypogonadism, anosmia, ageusia (loss of taste), and causes the characteristic perioral, perianal, and acral dermatitis. Terminal ileal Crohn's disease impairs zinc absorption and causes excessive losses in diarrhoea. Acrodermatitis enteropathica is the genetic form due to defective intestinal zinc transporter ZIP4, presenting identically to severe acquired zinc deficiency.",
@@ -9744,13 +9744,13 @@
     "subject": "Biochemistry",
     "subtopic": "Vitamins, Minerals & Nutrition",
     "type": "clinical",
-    "question": "A 50-year-old man with hereditary haemochromatosis has transferrin saturation of 92% and elevated serum ferritin. He develops cirrhosis, diabetes, and bronze skin discolouration \u2014 the classic 'bronze diabetes'. Which of the following correctly describes iron metabolism and the defect in haemochromatosis?",
+    "question": "A 50-year-old man has transferrin saturation 92%, elevated ferritin, cirrhosis, diabetes, and bronze skin \u2014 hereditary haemochromatosis. What is the underlying defect?",
     "options": [
-      "Haemochromatosis is caused by excessive dietary iron intake that overwhelms normal intestinal absorption limits",
-      "Haemochromatosis is caused by mutations in HFE gene reducing hepcidin production, leading to unregulated intestinal iron absorption and iron overload in liver, pancreas, heart, and joints",
-      "Haemochromatosis results from deficient transferrin synthesis, causing free iron accumulation in plasma",
-      "Haemochromatosis results from deficient ferritin synthesis, preventing safe iron storage and causing free radical damage",
-      "Haemochromatosis is caused by excess haem catabolism overwhelming the liver's capacity to excrete iron in bile"
+      "Excessive dietary iron intake overwhelming normal absorption limits",
+      "HFE gene mutations reduce hepcidin production, causing unregulated intestinal iron absorption and organ iron overload",
+      "Deficient transferrin synthesis causing free iron accumulation in plasma",
+      "Deficient ferritin synthesis preventing safe iron storage",
+      "Excess haem catabolism overwhelming hepatic iron excretion capacity"
     ],
     "correct": 1,
     "explanation": "Hereditary haemochromatosis is most commonly caused by mutations in the HFE gene (C282Y and H63D) that reduce hepatic hepcidin production; hepcidin normally inhibits ferroportin on intestinal enterocytes and macrophages, so reduced hepcidin leads to unregulated iron absorption and release, causing progressive iron overload in the liver (cirrhosis), pancreas (diabetes), heart (cardiomyopathy), pituitary (hypogonadism), skin (bronze discolouration from melanin and haemosiderin), and joints (chondrocalcinosis). Iron causes tissue damage via Fenton chemistry, generating hydroxyl radicals that cause lipid peroxidation and DNA damage. Treatment is regular venesection to deplete iron stores.",
@@ -9834,13 +9834,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "clinical",
-    "question": "A 32-year-old woman with type 1 diabetes is admitted with blood glucose of 28 mmol/L, pH 7.08, bicarbonate 8 mmol/L, and ketones 4+ in urine. She omitted her insulin. Which of the following best explains why insulin deficiency leads to diabetic ketoacidosis?",
+    "question": "A 32-year-old with type 1 diabetes is admitted in DKA \u2014 glucose 28 mmol/L, pH 7.08, bicarbonate 8 mmol/L, urine ketones 4+. She omitted her insulin. What is the mechanism by which insulin deficiency leads to DKA?",
     "options": [
-      "Insulin deficiency activates hepatic glycogen synthase, causing glucose to be stored as glycogen rather than released, paradoxically raising blood glucose",
-      "Insulin deficiency causes unrestrained lipolysis, flooding the liver with free fatty acids that are converted to ketone bodies; simultaneously, glucagon excess drives gluconeogenesis and ketogenesis",
-      "Insulin deficiency impairs glucose entry into all cells equally, forcing all tissues to oxidise fatty acids and generate ketones",
-      "Insulin deficiency reduces renal glucose reabsorption, causing osmotic diuresis and metabolic acidosis from urinary bicarbonate loss",
-      "Insulin deficiency activates muscle proteolysis, releasing amino acids that are converted to ketogenic substrates in the liver"
+      "Insulin deficiency activates glycogen synthase, trapping glucose in hepatocytes",
+      "Insulin deficiency causes unrestrained lipolysis, flooding the liver with FFAs converted to ketones; glucagon excess simultaneously drives gluconeogenesis",
+      "Insulin deficiency impairs glucose entry into all cells equally, forcing universal fatty acid oxidation",
+      "Insulin deficiency reduces renal glucose reabsorption causing osmotic diuresis and bicarbonate loss",
+      "Insulin deficiency activates muscle proteolysis, releasing ketogenic amino acid substrates"
     ],
     "correct": 1,
     "explanation": "In DKA, insulin deficiency combined with glucagon excess creates a catabolic state: absence of insulin's inhibitory effect on hormone-sensitive lipase causes unrestrained adipose lipolysis, flooding the liver with free fatty acids; in the liver, high glucagon:insulin ratio activates CPT-I (carnitine palmitoyltransferase I), channelling fatty acyl-CoA into mitochondria for beta-oxidation, overwhelming the TCA cycle and diverting acetyl-CoA to ketogenesis (acetoacetate and beta-hydroxybutyrate). Simultaneously, glucagon drives hepatic gluconeogenesis and glycogenolysis, raising blood glucose further; the ketone bodies (strong acids) consume bicarbonate buffer, causing the high anion gap metabolic acidosis. Insulin deficiency alone (not starvation) produces this severity because glucagon is also elevated.",
@@ -9852,13 +9852,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "factual",
-    "question": "A student is studying glycolysis regulation. Phosphofructokinase-1 (PFK-1) is the key regulated enzyme of glycolysis. Which of the following correctly describes the allosteric regulators of PFK-1 and their physiological logic?",
+    "question": "Which of the following correctly describes the allosteric regulation of PFK-1?",
     "options": [
-      "Activated by ATP and citrate (high energy signals); inhibited by AMP and fructose-2,6-bisphosphate (low energy signals)",
-      "Inhibited by ATP and citrate (high energy signals); activated by AMP and fructose-2,6-bisphosphate (low energy and fed state signals)",
-      "Activated by glucose-6-phosphate and inhibited by pyruvate regardless of energy status",
-      "Inhibited by insulin and activated by glucagon to coordinate glycolysis with hormonal signals",
-      "Activated by NADH and inhibited by NAD+ to coordinate glycolysis with the redox state of the cell"
+      "Activated by ATP and citrate; inhibited by AMP and fructose-2,6-bisphosphate",
+      "Inhibited by ATP and citrate (high energy); activated by AMP and fructose-2,6-bisphosphate (low energy/fed state)",
+      "Activated by glucose-6-phosphate; inhibited by pyruvate",
+      "Inhibited by insulin; activated by glucagon",
+      "Activated by NADH; inhibited by NAD+"
     ],
     "correct": 1,
     "explanation": "PFK-1, the committed and rate-limiting step of glycolysis, is allosterically inhibited by high-energy signals \u2014 ATP (indicating energy sufficiency) and citrate (indicating abundant TCA cycle intermediates and fatty acid synthesis) \u2014 and activated by low-energy signals \u2014 AMP (indicating energy deficit) and fructose-2,6-bisphosphate (F-2,6-BP, produced by PFK-2 in response to insulin/fed state). This elegant regulation ensures glycolysis accelerates when energy is needed and slows when energy is abundant. Fructose-2,6-bisphosphate is the most potent activator of PFK-1 and is the key signal by which insulin promotes glycolysis in the fed state; glucagon activates PKA which phosphorylates PFK-2 to its kinase-inactive/phosphatase-active form, reducing F-2,6-BP and slowing glycolysis.",
@@ -9870,13 +9870,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "clinical",
-    "question": "A 1-year-old infant presents with jaundice, vomiting, and hypoglycaemia upon introduction of fruit juice. Reducing substances are present in urine but glucose oxidase strip is negative. Liver function tests show elevated transaminases. Which inborn error of metabolism best explains this picture?",
+    "question": "A 1-year-old develops jaundice, vomiting, and hypoglycaemia after introduction of fruit juice. Urine has reducing substances but glucose oxidase strip is negative. Which diagnosis fits?",
     "options": [
-      "Galactokinase deficiency causing accumulation of galactose and cataracts without liver involvement",
-      "Classic galactosaemia due to galactose-1-phosphate uridylyltransferase deficiency causing galactose-1-phosphate accumulation in liver, brain, and kidneys",
-      "Hereditary fructose intolerance due to aldolase B deficiency causing fructose-1-phosphate accumulation",
-      "Glucose-6-phosphate dehydrogenase deficiency causing haemolysis triggered by fructose oxidation",
-      "Fructokinase deficiency causing benign fructosuria with no organ damage"
+      "Galactokinase deficiency \u2014 galactose accumulation causing cataracts without liver involvement",
+      "Classic galactosaemia \u2014 GALT deficiency causing galactose-1-phosphate accumulation in liver, brain, and kidneys",
+      "Hereditary fructose intolerance \u2014 aldolase B deficiency causing fructose-1-phosphate accumulation",
+      "G6PD deficiency \u2014 haemolysis triggered by fructose oxidation",
+      "Fructokinase deficiency \u2014 benign fructosuria with no organ damage"
     ],
     "correct": 2,
     "explanation": "Hereditary fructose intolerance (HFI) is caused by deficiency of aldolase B in the liver, kidney, and intestine; after fructose ingestion, fructokinase rapidly phosphorylates fructose to fructose-1-phosphate, which accumulates because aldolase B cannot cleave it, causing inhibition of glycogenolysis and gluconeogenesis (severe hypoglycaemia) and direct hepatotoxicity. Symptoms occur only after fructose or sucrose exposure (fruit juice, table sugar) \u2014 the infant was fine on breast milk or lactose-based formula. Reducing substances in urine reflect fructosuria (fructose is a reducing sugar), but glucose oxidase strips are negative because the reducing substance is fructose not glucose. Strict fructose avoidance prevents progression to cirrhosis.",
@@ -9906,13 +9906,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "factual",
-    "question": "A student is reviewing the TCA cycle. Which of the following correctly identifies the net products of one complete turn of the TCA cycle starting from acetyl-CoA, and identifies the rate-limiting enzyme?",
+    "question": "What are the net products of one complete turn of the TCA cycle, and which is the rate-limiting enzyme?",
     "options": [
-      "2 CO2, 3 NADH, 1 FADH2, 1 GTP; rate-limiting enzyme is citrate synthase",
-      "2 CO2, 3 NADH, 1 FADH2, 1 GTP; rate-limiting enzyme is isocitrate dehydrogenase",
-      "2 CO2, 2 NADH, 2 FADH2, 2 ATP; rate-limiting enzyme is alpha-ketoglutarate dehydrogenase",
-      "3 CO2, 4 NADH, 1 FADH2, 1 GTP; rate-limiting enzyme is succinate dehydrogenase",
-      "2 CO2, 3 NADH, 1 FADH2, 1 ATP; rate-limiting enzyme is malate dehydrogenase"
+      "2 CO2, 3 NADH, 1 FADH2, 1 GTP \u2014 rate-limiting: citrate synthase",
+      "2 CO2, 3 NADH, 1 FADH2, 1 GTP \u2014 rate-limiting: isocitrate dehydrogenase",
+      "2 CO2, 2 NADH, 2 FADH2, 2 ATP \u2014 rate-limiting: alpha-ketoglutarate dehydrogenase",
+      "3 CO2, 4 NADH, 1 FADH2, 1 GTP \u2014 rate-limiting: succinate dehydrogenase",
+      "2 CO2, 3 NADH, 1 FADH2, 1 ATP \u2014 rate-limiting: malate dehydrogenase"
     ],
     "correct": 1,
     "explanation": "One complete turn of the TCA cycle from acetyl-CoA produces: 2 CO2 (released at isocitrate dehydrogenase and alpha-ketoglutarate dehydrogenase steps), 3 NADH (at isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase), 1 FADH2 (at succinate dehydrogenase), and 1 GTP (at succinyl-CoA synthetase). The rate-limiting enzyme is isocitrate dehydrogenase, which is allosterically activated by ADP and Ca2+ (low energy signals) and inhibited by ATP and NADH (high energy signals). The NADH and FADH2 generated feed the electron transport chain to produce approximately 10 ATP per turn of the cycle.",
@@ -9924,13 +9924,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "clinical",
-    "question": "A 55-year-old woman with type 2 diabetes is started on metformin. Her physician explains it reduces hepatic glucose output primarily by inhibiting gluconeogenesis. Which of the following correctly identifies the key regulatory enzymes of gluconeogenesis and how they differ from glycolysis?",
+    "question": "A 55-year-old with type 2 diabetes is started on metformin to reduce hepatic glucose output. Which four enzymes allow gluconeogenesis to bypass the irreversible steps of glycolysis?",
     "options": [
-      "Gluconeogenesis uses the same enzymes as glycolysis but in reverse; it is regulated purely by substrate availability",
-      "Gluconeogenesis bypasses the three irreversible steps of glycolysis using four unique enzymes: pyruvate carboxylase, PEPCK, fructose-1,6-bisphosphatase, and glucose-6-phosphatase",
-      "Gluconeogenesis is regulated by a single enzyme, PEPCK, which is activated by insulin and inhibited by glucagon",
-      "Gluconeogenesis uses mitochondrial enzymes exclusively and is inhibited by cytosolic NADH accumulation",
-      "Gluconeogenesis bypasses only the pyruvate kinase step using PEPCK, with all other glycolytic enzymes running in reverse"
+      "Gluconeogenesis uses the same enzymes as glycolysis in reverse",
+      "Pyruvate carboxylase, PEPCK, fructose-1,6-bisphosphatase, and glucose-6-phosphatase",
+      "PEPCK alone bypasses glycolysis; all other enzymes run in reverse",
+      "Gluconeogenesis uses mitochondrial enzymes exclusively",
+      "Only the pyruvate kinase step is bypassed using PEPCK"
     ],
     "correct": 1,
     "explanation": "Glycolysis has three irreversible steps (hexokinase/glucokinase, PFK-1, pyruvate kinase) that cannot be simply reversed; gluconeogenesis bypasses these using four unique enzymes \u2014 pyruvate carboxylase (pyruvate \u2192 oxaloacetate, in mitochondria), PEPCK (oxaloacetate \u2192 PEP), fructose-1,6-bisphosphatase (fructose-1,6-bisphosphate \u2192 fructose-6-phosphate), and glucose-6-phosphatase (glucose-6-phosphate \u2192 glucose, in ER). Gluconeogenesis is activated by glucagon (via cAMP/PKA) and cortisol, and inhibited by insulin; metformin activates AMPK which phosphorylates and inhibits hepatic gluconeogenic enzymes, reducing fasting hyperglycaemia. The reciprocal regulation of PFK-1/FBPase-1 and pyruvate kinase/pyruvate carboxylase prevents futile cycling.",
@@ -9960,13 +9960,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "clinical",
-    "question": "A 40-year-old man with poorly controlled diabetes develops peripheral neuropathy and cataracts. His ophthalmologist notes early lens opacification. These complications are attributed to the polyol pathway. Which of the following best explains the polyol pathway and its role in diabetic complications?",
+    "question": "A 40-year-old with poorly controlled diabetes develops peripheral neuropathy and cataracts attributed to the polyol pathway. What is the polyol pathway and how does it cause diabetic complications?",
     "options": [
-      "Excess glucose is converted to sorbitol by aldose reductase (using NADPH), then to fructose by sorbitol dehydrogenase; sorbitol accumulation causes osmotic injury and depletes NADPH needed for glutathione regeneration",
-      "Excess glucose is directly converted to fructose by fructokinase, causing intracellular fructose-1-phosphate accumulation and ATP depletion",
-      "Excess glucose activates the hexosamine pathway, which depletes UDP-glucose needed for glycogen synthesis",
-      "Excess glucose is converted to glucuronic acid via the uronic acid pathway, depleting NADPH and causing oxidative stress",
-      "Excess glucose inhibits glycolysis at PFK-1, diverting glucose to the pentose phosphate pathway and generating excessive NADPH"
+      "Glucose \u2192 sorbitol (aldose reductase, NADPH) \u2192 fructose (sorbitol dehydrogenase); sorbitol accumulation causes osmotic injury and depletes NADPH for glutathione regeneration",
+      "Glucose \u2192 fructose (fructokinase) causing fructose-1-phosphate accumulation and ATP depletion",
+      "Glucose activates the hexosamine pathway depleting UDP-glucose for glycogen synthesis",
+      "Glucose \u2192 glucuronic acid (uronic acid pathway) depleting NADPH",
+      "Glucose inhibits PFK-1, diverting to the pentose phosphate pathway generating excess NADPH"
     ],
     "correct": 0,
     "explanation": "In hyperglycaemia, excess glucose is reduced to sorbitol by aldose reductase (consuming NADPH) and then oxidised to fructose by sorbitol dehydrogenase (consuming NAD+); sorbitol does not cross cell membranes readily and accumulates intracellularly, causing osmotic swelling and water influx \u2014 particularly damaging in the lens (cataracts), Schwann cells (neuropathy), retinal pericytes (retinopathy), and mesangial cells (nephropathy). NADPH depletion simultaneously impairs glutathione regeneration, increasing oxidative stress. The polyol pathway is relatively minor under normoglycaemia but becomes pathologically significant when glucose concentrations are chronically elevated.",
@@ -9978,13 +9978,13 @@
     "subject": "Biochemistry",
     "subtopic": "Carbohydrate Metabolism",
     "type": "factual",
-    "question": "A student is reviewing the pentose phosphate pathway (HMP shunt). Which of the following correctly describes the primary products and clinical significance of the HMP shunt?",
+    "question": "What are the primary products of the pentose phosphate pathway (HMP shunt) and what is its clinical significance?",
     "options": [
-      "Produces ATP and pyruvate; clinically significant in providing energy for rapidly dividing cells",
-      "Produces NADPH (for reductive biosynthesis and antioxidant defence) and ribose-5-phosphate (for nucleotide synthesis); clinically significant in red cells (G6PD deficiency) and rapidly proliferating tissues",
-      "Produces FADH2 and NADH; clinically significant in providing reducing equivalents for the electron transport chain",
-      "Produces UDP-glucose and glycogen; clinically significant in liver glucose storage after a meal",
-      "Produces malonyl-CoA and acetyl-CoA; clinically significant in fatty acid synthesis in adipose tissue"
+      "ATP and pyruvate \u2014 energy for rapidly dividing cells",
+      "NADPH (reductive biosynthesis and antioxidant defence) and ribose-5-phosphate (nucleotide synthesis) \u2014 critical in red cells (G6PD) and proliferating tissues",
+      "FADH2 and NADH \u2014 reducing equivalents for the electron transport chain",
+      "UDP-glucose and glycogen \u2014 hepatic glucose storage after a meal",
+      "Malonyl-CoA and acetyl-CoA \u2014 fatty acid synthesis in adipose tissue"
     ],
     "correct": 1,
     "explanation": "The pentose phosphate pathway (HMP shunt) operates in the cytosol and produces two key products: NADPH (essential for reductive biosynthesis \u2014 fatty acid and cholesterol synthesis \u2014 and for regenerating reduced glutathione to protect against oxidative stress) and ribose-5-phosphate (the sugar backbone required for synthesis of nucleotides and nucleic acids). The pathway is most active in tissues with high biosynthetic or antioxidant demand \u2014 liver, adipose tissue, adrenal cortex, red blood cells, and rapidly proliferating cells. In red cells, which lack mitochondria, the HMP shunt is the sole source of NADPH; G6PD deficiency therefore abolishes antioxidant defence in red cells, causing oxidative haemolysis when challenged by drugs or infections.",
