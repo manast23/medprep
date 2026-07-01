@@ -10188,5 +10188,221 @@
     "explanation": "Statins lower LDL primarily by inhibiting HMG-CoA reductase, reducing intracellular cholesterol, which triggers upregulation of LDL receptors via SREBP-2 activation \u2014 this mechanism requires at least some functional LDL receptor protein. In homozygous FH, both LDL receptor alleles are non-functional, so even maximal statin-induced upregulation produces no additional functional receptors, rendering statins largely ineffective. Treatment requires LDL apheresis, lomitapide (MTP inhibitor blocking VLDL/chylomicron assembly), or inclisiran/evolocumab if residual receptor activity exists.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559182/"
+  },
+  {
+    "id": 588,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "factual",
+    "question": "Which vitamin-derived cofactor is required for transamination reactions catalyzed by ALT and AST?",
+    "options": [
+      "Pyridoxal phosphate",
+      "Thiamine pyrophosphate",
+      "Tetrahydrofolate",
+      "Biotin",
+      "Cobalamin"
+    ],
+    "correct": 0,
+    "explanation": "Pyridoxal phosphate (PLP), derived from vitamin B6, is the essential cofactor for all transaminase enzymes. It forms a Schiff base with the amino acid substrate to shuttle the amino group onto the enzyme before transfer to an alpha-keto acid acceptor. Thiamine pyrophosphate instead serves oxidative decarboxylation reactions such as pyruvate dehydrogenase, not transamination.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 19",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538510/"
+  },
+  {
+    "id": 589,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "factual",
+    "question": "Which enzyme catalyzes the rate-limiting step of the urea cycle?",
+    "options": [
+      "Carbamoyl phosphate synthetase I",
+      "Ornithine transcarbamylase",
+      "Argininosuccinate synthetase",
+      "Arginase",
+      "Argininosuccinate lyase"
+    ],
+    "correct": 0,
+    "explanation": "Carbamoyl phosphate synthetase I (CPS I) catalyzes the first and rate-limiting step of the urea cycle, condensing ammonia and bicarbonate into carbamoyl phosphate. The reaction requires two ATP molecules and is allosterically activated by N-acetylglutamate. Ornithine transcarbamylase catalyzes the second step and is not rate-limiting, though it is the most commonly deficient urea cycle enzyme.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513323/"
+  },
+  {
+    "id": 590,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "A male neonate develops lethargy, vomiting, and respiratory alkalosis on day 2 of life. Labs show markedly elevated ammonia and orotic acid, with low blood urea nitrogen and normal anion gap. Which enzyme is deficient?",
+    "options": [
+      "Ornithine transcarbamylase",
+      "Carbamoyl phosphate synthetase I",
+      "Argininosuccinate synthetase",
+      "N-acetylglutamate synthase",
+      "Arginase"
+    ],
+    "correct": 0,
+    "explanation": "Ornithine transcarbamylase (OTC) deficiency is the only X-linked urea cycle disorder and the most common overall, presenting in neonatal males with hyperammonemia and respiratory alkalosis. Deficient OTC causes carbamoyl phosphate to accumulate and divert into the pyrimidine synthesis pathway, raising urinary and blood orotic acid. CPS I deficiency also causes hyperammonemia but does not raise orotic acid, since carbamoyl phosphate is never formed in that disorder.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537257/"
+  },
+  {
+    "id": 591,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "A 3-month-old infant has fair skin, a musty body odor, and severe developmental delay. Newborn screening had shown markedly elevated phenylalanine. Which enzyme is most likely deficient?",
+    "options": [
+      "Phenylalanine hydroxylase",
+      "Tyrosine hydroxylase",
+      "Homogentisate oxidase",
+      "Tyrosine aminotransferase",
+      "Fumarylacetoacetate hydrolase"
+    ],
+    "correct": 0,
+    "explanation": "Phenylketonuria results from phenylalanine hydroxylase deficiency, preventing conversion of phenylalanine to tyrosine and causing phenylalanine accumulation with a relative tyrosine deficit. Excess phenylalanine is diverted to phenylketones that impart the characteristic musty odor, while reduced tyrosine limits melanin synthesis, producing fair skin and hair. Fumarylacetoacetate hydrolase deficiency instead causes tyrosinemia type 1, which presents with liver and kidney damage rather than this phenotype.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 20",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535378/"
+  },
+  {
+    "id": 592,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "A tall, thin teenager with downward lens dislocation and a history of stroke is found to have elevated plasma homocysteine and methionine. Which enzyme deficiency best explains this presentation?",
+    "options": [
+      "Cystathionine beta-synthase",
+      "Methionine synthase",
+      "Cystathionine gamma-lyase",
+      "Methylenetetrahydrofolate reductase",
+      "Homogentisate oxidase"
+    ],
+    "correct": 0,
+    "explanation": "Cystathionine beta-synthase deficiency is the classic cause of homocystinuria, producing a Marfanoid habitus, downward lens dislocation, thromboembolic events, and developmental delay. Because the enzyme normally condenses homocysteine with serine to form cystathionine, its absence raises both homocysteine and its precursor methionine. Methylenetetrahydrofolate reductase deficiency also raises homocysteine but lowers methionine rather than raising it, since it is needed to regenerate methionine from homocysteine.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 27",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1524/"
+  },
+  {
+    "id": 593,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "A neonate develops poor feeding, lethargy, and a sweet caramel-like odor of the urine within the first week of life. Which enzyme complex is deficient?",
+    "options": [
+      "Branched-chain alpha-ketoacid dehydrogenase",
+      "Pyruvate dehydrogenase",
+      "Propionyl-CoA carboxylase",
+      "Methylmalonyl-CoA mutase",
+      "Medium-chain acyl-CoA dehydrogenase"
+    ],
+    "correct": 0,
+    "explanation": "Maple syrup urine disease is caused by deficient branched-chain alpha-ketoacid dehydrogenase, blocking oxidative decarboxylation of leucine, isoleucine, and valine. The accumulated branched-chain amino acids and ketoacids give the urine, sweat, and cerumen their characteristic sweet odor and cause severe neurotoxicity if untreated. Pyruvate dehydrogenase deficiency instead causes lactic acidosis and neurologic impairment without this distinctive smell.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 20",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557773/"
+  },
+  {
+    "id": 594,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "A 45-year-old man has dark urine that turns black on standing and bluish-black discoloration of the ears and sclera, along with early degenerative arthritis. Which enzyme is deficient?",
+    "options": [
+      "Homogentisate 1,2-dioxygenase",
+      "Tyrosine aminotransferase",
+      "Fumarylacetoacetate hydrolase",
+      "Phenylalanine hydroxylase",
+      "4-hydroxyphenylpyruvate dioxygenase"
+    ],
+    "correct": 0,
+    "explanation": "Alkaptonuria results from homogentisate 1,2-dioxygenase deficiency, causing homogentisic acid to accumulate and oxidize into a dark pigment that deposits in cartilage and connective tissue, a process called ochronosis. This pigment darkens urine on standing and produces bluish-black discoloration of the ears, sclera, and joints, eventually leading to degenerative arthritis. Fumarylacetoacetate hydrolase deficiency instead causes tyrosinemia type 1, which presents with liver and kidney failure rather than ochronosis.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 27",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560571/"
+  },
+  {
+    "id": 595,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "An infant presents with failure to thrive, jaundice, and a boiled-cabbage odor, with markedly elevated succinylacetone in the urine. Which enzyme is deficient?",
+    "options": [
+      "Fumarylacetoacetate hydrolase",
+      "Homogentisate 1,2-dioxygenase",
+      "Tyrosine aminotransferase",
+      "Phenylalanine hydroxylase",
+      "Alpha-ketoglutarate dehydrogenase"
+    ],
+    "correct": 0,
+    "explanation": "Hereditary tyrosinemia type 1 is caused by fumarylacetoacetate hydrolase deficiency, the terminal enzyme in tyrosine catabolism, leading to accumulation of the toxic intermediate succinylacetone. Succinylacetone damages the liver and kidneys and inhibits heme synthesis, explaining the hepatic dysfunction and characteristic odor. Homogentisate 1,2-dioxygenase deficiency instead causes alkaptonuria, a comparatively benign condition without liver failure or elevated succinylacetone.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 20",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1515/"
+  },
+  {
+    "id": 596,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "factual",
+    "question": "Which enzyme allows skeletal muscle to safely export excess nitrogen as glutamine for transport to the liver and kidney?",
+    "options": [
+      "Glutamine synthetase",
+      "Glutaminase",
+      "Glutamate dehydrogenase",
+      "Carbamoyl phosphate synthetase II",
+      "Aspartate transaminase"
+    ],
+    "correct": 0,
+    "explanation": "Glutamine synthetase incorporates a second ammonia molecule onto glutamate to form glutamine, a nontoxic carrier that transports nitrogen from peripheral tissues to the liver and kidney. In the liver, glutaminase releases the ammonia for urea synthesis, while in the kidney it is excreted directly to buffer acid. Glutamate dehydrogenase instead runs in the opposite direction, releasing free ammonia from glutamate rather than sequestering it.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 28",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513323/"
+  },
+  {
+    "id": 597,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "factual",
+    "question": "Which activated compound serves as the universal methyl donor in methionine metabolism?",
+    "options": [
+      "S-adenosylmethionine",
+      "Tetrahydrofolate",
+      "Methylcobalamin",
+      "Acetyl-CoA",
+      "Biotin"
+    ],
+    "correct": 0,
+    "explanation": "S-adenosylmethionine (SAM) is formed when methionine reacts with ATP and serves as the universal methyl donor for reactions such as creatine, epinephrine, and phosphatidylcholine synthesis. After donating its methyl group, SAM becomes S-adenosylhomocysteine, which is hydrolyzed to homocysteine and can be remethylated back to methionine. Tetrahydrofolate instead carries one-carbon units for reactions like purine and thymidylate synthesis rather than acting as the direct methyl donor for these methylation reactions.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 19",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559250/"
+  },
+  {
+    "id": 598,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "factual",
+    "question": "Decarboxylation of histidine produces which biologically active amine?",
+    "options": [
+      "Histamine",
+      "Serotonin",
+      "Dopamine",
+      "GABA",
+      "Tyramine"
+    ],
+    "correct": 0,
+    "explanation": "Histidine decarboxylase removes the carboxyl group from histidine to produce histamine, a mediator of allergic and inflammatory responses stored in mast cell and basophil granules. This reaction, like most amino acid decarboxylations, requires pyridoxal phosphate as a cofactor. Serotonin instead arises from decarboxylation of 5-hydroxytryptophan, a derivative of tryptophan, not histidine.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 27",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557790/"
+  },
+  {
+    "id": 599,
+    "subject": "Biochemistry",
+    "subtopic": "Protein & Amino Acid Metabolism",
+    "type": "clinical",
+    "question": "A newborn presents with progressive lethargy, hypotonia, and intractable seizures. Plasma and CSF glycine are markedly elevated with a high CSF-to-plasma glycine ratio, and no ketosis or acidosis is present. Which process is defective?",
+    "options": [
+      "Glycine cleavage enzyme system",
+      "Branched-chain alpha-ketoacid dehydrogenase",
+      "Propionyl-CoA carboxylase",
+      "Ornithine transcarbamylase",
+      "Fatty acid beta-oxidation"
+    ],
+    "correct": 0,
+    "explanation": "Nonketotic hyperglycinemia results from a defect in the mitochondrial glycine cleavage enzyme system, which normally degrades glycine and prevents its accumulation. Glycine functions as an excitatory neurotransmitter at NMDA receptors in the brain, and its buildup produces the encephalopathy, hypotonia, and seizures seen in this disorder. The absence of ketosis or acidosis distinguishes it from organic acidemias like propionyl-CoA carboxylase deficiency, which typically present with a significant metabolic acidosis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 20",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556140/"
   }
 ]
