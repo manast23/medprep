@@ -10008,5 +10008,185 @@
     "explanation": "Glycogen synthase deficiency (GSD type 0) is characterised by an inability to synthesise hepatic glycogen; the liver cannot store postprandial glucose as glycogen, so fasting hypoglycaemia develops rapidly as there is no glycogen reserve to mobilise \u2014 glucagon injection therefore fails to raise glucose because there is no substrate to break down. The absence of glycogen on liver biopsy and failure of glucagon to raise glucose distinguish this from Von Gierke disease, where glycogen is massively increased. Postprandial hyperglycaemia and glycosuria may occur paradoxically because ingested glucose cannot be stored, alternating with fasting hypoglycaemia.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 11",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK1312/"
+  },
+  {
+    "id": 578,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 45-year-old woman on a high-carbohydrate diet has elevated serum triglycerides. Fatty acid synthesis is upregulated in her liver. Which enzyme catalyses the rate-limiting, committed step of fatty acid synthesis and where does it occur?",
+    "options": [
+      "Fatty acid synthase \u2014 smooth endoplasmic reticulum",
+      "Acetyl-CoA carboxylase \u2014 cytosol, converting acetyl-CoA to malonyl-CoA",
+      "ATP-citrate lyase \u2014 mitochondria, converting citrate to acetyl-CoA",
+      "Malonyl-CoA decarboxylase \u2014 cytosol, regenerating acetyl-CoA",
+      "HMG-CoA synthase \u2014 mitochondria, first step of ketogenesis"
+    ],
+    "correct": 1,
+    "explanation": "Acetyl-CoA carboxylase (ACC) catalyses the carboxylation of acetyl-CoA to malonyl-CoA in the cytosol \u2014 the rate-limiting committed step of fatty acid synthesis; it requires biotin as a cofactor and is activated by citrate (high-energy fed state) and inhibited by palmitoyl-CoA (end-product feedback) and glucagon/AMPK-mediated phosphorylation. Malonyl-CoA is the two-carbon donor for chain elongation by fatty acid synthase (FAS) and also inhibits CPT-I, preventing simultaneous fatty acid oxidation and synthesis. Fatty acid synthesis occurs entirely in the cytosol, in contrast to beta-oxidation which occurs in the mitochondrial matrix.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556002/"
+  },
+  {
+    "id": 579,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 38-year-old man with obesity and type 2 diabetes has fasting hypertriglyceridaemia. Lipoprotein lipase activity in his adipose tissue is reduced due to insulin deficiency. What is the role of lipoprotein lipase in lipid metabolism?",
+    "options": [
+      "Hydrolyses cholesterol esters in LDL particles to release free cholesterol",
+      "Hydrolyses triglycerides in circulating VLDL and chylomicrons to release free fatty acids for tissue uptake",
+      "Synthesises triglycerides in the liver from glycerol-3-phosphate and fatty acyl-CoA",
+      "Transfers cholesterol from HDL to VLDL in exchange for triglycerides",
+      "Activates hepatic lipase to complete VLDL remnant processing"
+    ],
+    "correct": 1,
+    "explanation": "Lipoprotein lipase (LPL) is located on capillary endothelial surfaces of adipose tissue, muscle, and the heart; it hydrolyses triglycerides in circulating VLDL and chylomicrons, releasing free fatty acids and glycerol for uptake by surrounding tissues. Insulin activates LPL in adipose tissue, promoting fat storage \u2014 its deficiency in type 2 diabetes reduces LPL activity, impairing triglyceride clearance and causing hypertriglyceridaemia. ApoCII on the lipoprotein surface is an essential activator of LPL; its absence (familial ApoCII deficiency) causes a similar presentation to LPL deficiency.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557445/"
+  },
+  {
+    "id": 580,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 50-year-old man fasts for 24 hours. Glucagon is elevated and insulin is low. His adipose tissue releases free fatty acids into the circulation. Which enzyme is responsible for mobilising stored triglycerides from adipocytes and how is it regulated?",
+    "options": [
+      "Lipoprotein lipase \u2014 activated by insulin, inhibited by glucagon",
+      "Hormone-sensitive lipase \u2014 activated by glucagon/adrenaline via cAMP-PKA, inhibited by insulin",
+      "Pancreatic lipase \u2014 secreted into the gut to hydrolyse dietary triglycerides",
+      "Hepatic lipase \u2014 hydrolyses IDL surface phospholipids during VLDL remnant processing",
+      "Monoacylglycerol lipase \u2014 final step in complete triglyceride breakdown"
+    ],
+    "correct": 1,
+    "explanation": "Hormone-sensitive lipase (HSL) in adipocytes is activated by glucagon and adrenaline via cAMP-PKA phosphorylation, mobilising stored triglycerides to release free fatty acids (FFAs) and glycerol during fasting, exercise, and stress. Insulin inhibits HSL by activating phosphodiesterase (reducing cAMP) and by activating protein phosphatase, which dephosphorylates and inactivates HSL \u2014 this is why uncontrolled diabetes causes massive lipolysis. FFAs released are bound by albumin and transported to the liver and muscle for beta-oxidation or, in excess, to the liver for VLDL synthesis and ketogenesis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556002/"
+  },
+  {
+    "id": 581,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 32-year-old man with carnitine deficiency presents with muscle weakness and hypoglycaemia during fasting. Which step of fatty acid oxidation does carnitine enable?",
+    "options": [
+      "Activation of fatty acids to acyl-CoA in the cytosol",
+      "Transport of long-chain fatty acyl groups across the inner mitochondrial membrane",
+      "Initial dehydrogenation of acyl-CoA in the mitochondrial matrix",
+      "Thiolytic cleavage releasing acetyl-CoA in each cycle of beta-oxidation",
+      "Transfer of electrons from FADH2 to the electron transport chain"
+    ],
+    "correct": 1,
+    "explanation": "Long-chain fatty acids (>12 carbons) cannot cross the inner mitochondrial membrane as free acyl-CoA; carnitine is required to shuttle them as acylcarnitine via the CPT-I/translocase/CPT-II system \u2014 CPT-I (on the outer mitochondrial membrane) transfers the acyl group from CoA to carnitine, and CPT-II (inner membrane) transfers it back to CoA inside the matrix. CPT-I is inhibited by malonyl-CoA, ensuring fatty acid synthesis and oxidation are not active simultaneously. Carnitine deficiency or CPT-I/II defects impair beta-oxidation of long-chain fatty acids, causing energy deficiency, hypoketotic hypoglycaemia, and lipid accumulation in muscle.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556002/"
+  },
+  {
+    "id": 582,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 55-year-old woman with non-alcoholic fatty liver disease (NAFLD) has increased de novo lipogenesis in the liver. Excess acetyl-CoA is being diverted to fat synthesis. How does acetyl-CoA exit the mitochondria to reach the cytosol for fatty acid synthesis?",
+    "options": [
+      "Directly via acetyl-CoA translocase on the inner mitochondrial membrane",
+      "As citrate via the citrate shuttle \u2014 citrate is exported, cleaved by ATP-citrate lyase to acetyl-CoA and oxaloacetate in the cytosol",
+      "As acetylcarnitine via the carnitine shuttle in reverse",
+      "As acetoacetate (ketone body) that is reconverted to acetyl-CoA in the cytosol",
+      "As malate via the malate-aspartate shuttle providing cytosolic NADH"
+    ],
+    "correct": 1,
+    "explanation": "Acetyl-CoA cannot cross the inner mitochondrial membrane directly; instead, it condenses with oxaloacetate to form citrate (catalysed by citrate synthase), which is exported to the cytosol via the citrate transporter. In the cytosol, ATP-citrate lyase cleaves citrate back to acetyl-CoA and oxaloacetate, making acetyl-CoA available for fatty acid and cholesterol synthesis. This citrate shuttle is most active in the fed state when the TCA cycle is saturated with substrates and mitochondrial citrate accumulates, signalling energy sufficiency and promoting lipogenesis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556002/"
+  },
+  {
+    "id": 583,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "factual",
+    "question": "What is the net ATP yield from complete oxidation of one molecule of palmitic acid (16-carbon saturated fatty acid)?",
+    "options": [
+      "36 ATP",
+      "106 ATP",
+      "129 ATP",
+      "38 ATP",
+      "80 ATP"
+    ],
+    "correct": 1,
+    "explanation": "Palmitate (16C) undergoes 7 cycles of beta-oxidation producing 7 FADH2, 7 NADH, and 8 acetyl-CoA; each acetyl-CoA entering the TCA cycle yields 10 ATP (3 NADH \u00d7 2.5 + 1 FADH2 \u00d7 1.5 + 1 GTP = 10), giving 80 ATP from 8 acetyl-CoA, plus 7 \u00d7 1.5 = 10.5 from FADH2 and 7 \u00d7 2.5 = 17.5 from NADH in beta-oxidation, totalling 108 ATP, minus 2 for initial activation (acyl-CoA synthetase uses 2 ATP equivalents) = approximately 106 ATP. This high yield compared to glucose (30\u201332 ATP per 6-carbon unit equivalent) reflects the more reduced state of carbon atoms in fatty acids. Fats yield approximately 9 kcal/g versus 4 kcal/g for carbohydrates, explained by this greater degree of reduction.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556002/"
+  },
+  {
+    "id": 584,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 7-year-old boy presents with progressive muscle weakness, cardiomyopathy, and hypoglycaemia triggered by fasting. Tandem mass spectrometry shows elevated C8-acylcarnitine. Which enzyme defect is most likely?",
+    "options": [
+      "Very long-chain acyl-CoA dehydrogenase (VLCAD) deficiency",
+      "Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency",
+      "Short-chain acyl-CoA dehydrogenase (SCAD) deficiency",
+      "Carnitine palmitoyltransferase II (CPT-II) deficiency",
+      "Mitochondrial trifunctional protein deficiency"
+    ],
+    "correct": 1,
+    "explanation": "Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency is the most common fatty acid oxidation disorder; it causes accumulation of medium-chain (C6\u2013C10) acylcarnitines \u2014 particularly C8 (octanoylcarnitine) \u2014 which are diagnostic on tandem MS newborn screening. During fasting, when glucose is depleted and fatty acid oxidation is critical, affected children develop hypoketotic hypoglycaemia (cannot produce ketones from medium-chain fats), encephalopathy, and hepatomegaly. MCAD deficiency is treatable by avoiding prolonged fasting; carnitine supplementation and emergency glucose during illness prevent crises.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 16",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK525963/"
+  },
+  {
+    "id": 585,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 60-year-old man with metabolic syndrome has elevated VLDL and reduced HDL. His physician discusses hepatic VLDL secretion. What are the primary components of VLDL and what determines its secretion rate?",
+    "options": [
+      "Primarily cholesterol esters with ApoB-48; secretion driven by dietary fat absorption",
+      "Primarily endogenous triglycerides with ApoB-100; secretion driven by hepatic fatty acid availability and insulin signalling",
+      "Primarily phospholipids with ApoAI; secretion driven by reverse cholesterol transport",
+      "Primarily free cholesterol with ApoE; secretion driven by LDL receptor downregulation",
+      "Primarily dietary triglycerides with ApoCII; secretion driven by chylomicron remnant uptake"
+    ],
+    "correct": 1,
+    "explanation": "VLDL is assembled in the liver from endogenously synthesised triglycerides, cholesterol esters, phospholipids, and ApoB-100 (the structural apolipoprotein unique to hepatic lipoproteins); its secretion is driven by hepatic fatty acid flux \u2014 increased in insulin resistance, obesity, and high carbohydrate intake where excess acetyl-CoA is diverted to triglyceride synthesis. Insulin normally suppresses VLDL secretion by reducing ApoB-100 synthesis and increasing its degradation; insulin resistance removes this brake, causing the elevated VLDL and consequent low HDL (triglyceride-rich VLDL exchanges triglycerides for cholesterol esters in HDL via CETP, forming small dense HDL that is rapidly catabolised). Intestinal chylomicrons contain ApoB-48, not ApoB-100.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557445/"
+  },
+  {
+    "id": 586,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 48-year-old woman with hypothyroidism has elevated LDL despite a low-fat diet. Her physician explains that thyroid hormone regulates LDL receptor expression. What is the mechanism linking hypothyroidism to hypercholesterolaemia?",
+    "options": [
+      "Hypothyroidism increases HMG-CoA reductase activity, directly increasing cholesterol synthesis",
+      "Hypothyroidism reduces LDL receptor expression in the liver, impairing LDL clearance from plasma",
+      "Hypothyroidism activates PCSK9, increasing LDL receptor degradation",
+      "Hypothyroidism reduces bile acid synthesis, decreasing cholesterol excretion",
+      "Hypothyroidism increases VLDL secretion, which is converted to excess LDL"
+    ],
+    "correct": 1,
+    "explanation": "Thyroid hormone upregulates hepatic LDL receptor expression; in hypothyroidism, reduced T3 levels decrease LDL receptor synthesis, impairing receptor-mediated clearance of LDL from the circulation and causing hypercholesterolaemia. Thyroid hormone also stimulates bile acid synthesis from cholesterol (via CYP7A1), providing an additional cholesterol-lowering mechanism that is lost in hypothyroidism. Treating hypothyroidism with levothyroxine often significantly lowers LDL, and undiagnosed hypothyroidism should be excluded before starting statins in a patient with unexplained hypercholesterolaemia.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526067/"
+  },
+  {
+    "id": 587,
+    "subject": "Biochemistry",
+    "subtopic": "Lipid Metabolism",
+    "type": "clinical",
+    "question": "A 5-year-old boy has xanthomas, corneal arcus, and LDL > 500 mg/dL. Both parents have elevated LDL. He is diagnosed with homozygous familial hypercholesterolaemia. Statins provide minimal benefit. Which alternative mechanism explains why statins are less effective in the homozygous form?",
+    "options": [
+      "Homozygous patients have mutations in HMG-CoA reductase making it statin-resistant",
+      "Statins work by upregulating LDL receptors; with no functional LDL receptors in homozygous FH, this mechanism is absent",
+      "Statins are hepatotoxic at doses needed in homozygous FH, limiting their use",
+      "Homozygous FH patients have constitutively active PCSK9 that degrades any new LDL receptors",
+      "Homozygous FH involves a defect in ApoB-100, so LDL receptors are present but cannot bind LDL"
+    ],
+    "correct": 1,
+    "explanation": "Statins lower LDL primarily by inhibiting HMG-CoA reductase, reducing intracellular cholesterol, which triggers upregulation of LDL receptors via SREBP-2 activation \u2014 this mechanism requires at least some functional LDL receptor protein. In homozygous FH, both LDL receptor alleles are non-functional, so even maximal statin-induced upregulation produces no additional functional receptors, rendering statins largely ineffective. Treatment requires LDL apheresis, lomitapide (MTP inhibitor blocking VLDL/chylomicron assembly), or inclisiran/evolocumab if residual receptor activity exists.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 18",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559182/"
   }
 ]
