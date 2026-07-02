@@ -10404,5 +10404,185 @@
     "explanation": "Nonketotic hyperglycinemia results from a defect in the mitochondrial glycine cleavage enzyme system, which normally degrades glycine and prevents its accumulation. Glycine functions as an excitatory neurotransmitter at NMDA receptors in the brain, and its buildup produces the encephalopathy, hypotonia, and seizures seen in this disorder. The absence of ketosis or acidosis distinguishes it from organic acidemias like propionyl-CoA carboxylase deficiency, which typically present with a significant metabolic acidosis.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 20",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556140/"
+  },
+  {
+    "id": 600,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "factual",
+    "question": "Which enzyme is primarily responsible for proofreading and removing mismatched nucleotides during DNA replication?",
+    "options": [
+      "DNA polymerase (3' to 5' exonuclease activity)",
+      "DNA ligase",
+      "Helicase",
+      "Topoisomerase",
+      "Primase"
+    ],
+    "correct": 0,
+    "explanation": "DNA polymerase possesses intrinsic 3' to 5' exonuclease activity that proofreads each newly added nucleotide and excises mismatches before synthesis continues. This proofreading function greatly increases the fidelity of replication beyond what base pairing alone would provide. DNA ligase instead seals nicks between Okazaki fragments and plays no role in detecting replication errors.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 30",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK540152/"
+  },
+  {
+    "id": 601,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "factual",
+    "question": "Which laboratory technique uses repeated cycles of denaturation, annealing, and extension to amplify a specific DNA sequence?",
+    "options": [
+      "Polymerase chain reaction",
+      "Southern blotting",
+      "Sanger sequencing",
+      "Northern blotting",
+      "ELISA"
+    ],
+    "correct": 0,
+    "explanation": "Polymerase chain reaction (PCR) amplifies a targeted DNA sequence exponentially through repeated cycles of thermal denaturation, primer annealing, and extension by a heat-stable DNA polymerase. This billion-fold amplification enables applications ranging from pathogen detection to prenatal genetic testing. Southern blotting instead detects a specific DNA sequence within a larger sample using probe hybridization rather than amplifying it.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 39",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535453/"
+  },
+  {
+    "id": 602,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A 6-year-old child develops severe sunburn-like blistering after brief sun exposure, along with early freckling and a markedly increased risk of skin cancer. Which DNA repair pathway is defective?",
+    "options": [
+      "Nucleotide excision repair",
+      "Base excision repair",
+      "Mismatch repair",
+      "Homologous recombination",
+      "Nonhomologous end joining"
+    ],
+    "correct": 0,
+    "explanation": "Xeroderma pigmentosum results from a defect in nucleotide excision repair, the pathway responsible for removing bulky UV-induced pyrimidine dimers from DNA. Without this repair mechanism, unrepaired UV damage accumulates and drives extreme photosensitivity and a markedly elevated risk of skin malignancies at a young age. Mismatch repair defects instead cause Lynch syndrome, which predisposes to colorectal and endometrial cancer rather than UV-induced skin damage.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 31",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551563/"
+  },
+  {
+    "id": 603,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A 45-year-old woman is diagnosed with colorectal cancer, and her family history reveals endometrial and colorectal cancers in first-degree relatives across two generations, with onset before age 50. Which DNA repair pathway is most likely defective?",
+    "options": [
+      "Mismatch repair",
+      "Nucleotide excision repair",
+      "Base excision repair",
+      "Homologous recombination",
+      "Nonhomologous end joining"
+    ],
+    "correct": 0,
+    "explanation": "This presentation is characteristic of Lynch syndrome, caused by autosomal dominant germline mutations in DNA mismatch repair genes such as MLH1 and MSH2. Loss of mismatch repair produces microsatellite instability, allowing replication errors to persist and driving early-onset colorectal and endometrial cancers. Nucleotide excision repair defects instead cause xeroderma pigmentosum, which presents with UV-induced skin cancers rather than this pattern of visceral malignancy.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK564511/"
+  },
+  {
+    "id": 604,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A 40-year-old man develops progressive chorea, personality changes, and cognitive decline. His father had similar symptoms that began at a later age than his own. Which genetic mechanism best explains the earlier onset in the son?",
+    "options": [
+      "Anticipation due to CAG trinucleotide repeat expansion",
+      "X-linked recessive inheritance",
+      "Genomic imprinting",
+      "Mitochondrial heteroplasmy",
+      "Chromosomal nondisjunction"
+    ],
+    "correct": 0,
+    "explanation": "This presentation is consistent with Huntington disease, caused by CAG trinucleotide repeat expansion in the HTT gene, which shows anticipation with earlier onset and increased severity in successive generations. Expansion of the repeat is especially unstable during spermatogenesis, so paternal transmission tends to produce more pronounced anticipation. Genomic imprinting instead refers to differential gene expression based on parental origin and does not explain progressive worsening of repeat-driven disease across generations.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559166/"
+  },
+  {
+    "id": 605,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A 5-year-old boy has intellectual disability, a long narrow face with a prominent jaw, large ears, and macroorchidism after puberty. Genetic testing shows expansion of a CGG trinucleotide repeat beyond 200 copies. Which mechanism silences the responsible gene?",
+    "options": [
+      "Hypermethylation of the expanded repeat region",
+      "Nonsense-mediated mRNA decay",
+      "Loss of heterozygosity",
+      "Deletion of the entire gene",
+      "Premature stop codon formation"
+    ],
+    "correct": 0,
+    "explanation": "This presentation is characteristic of Fragile X syndrome, caused by expansion of a CGG repeat in the 5' untranslated region of the FMR1 gene beyond 200 copies. This full mutation triggers hypermethylation of the repeat region, which silences FMR1 transcription and eliminates production of the FMRP protein needed for normal neurodevelopment. Unlike Huntington disease, where the expanded repeat lies within the coding sequence and produces a toxic protein, the Fragile X repeat expansion causes disease through loss of gene expression rather than a toxic gain of function.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459243/"
+  },
+  {
+    "id": 606,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A 12-year-old girl develops recurrent stroke-like episodes, seizures, and lactic acidosis. Her mother and maternal aunt have milder versions of the same symptoms, but her father is unaffected. Which inheritance pattern explains this distribution?",
+    "options": [
+      "Mitochondrial inheritance",
+      "Autosomal dominant inheritance",
+      "X-linked recessive inheritance",
+      "Autosomal recessive inheritance",
+      "Genomic imprinting"
+    ],
+    "correct": 0,
+    "explanation": "This presentation is consistent with MELAS syndrome, a mitochondrial disorder most commonly caused by a point mutation in mitochondrial tRNA that impairs mitochondrial protein synthesis. Because mitochondria are inherited almost exclusively from the oocyte cytoplasm, mitochondrial disorders are transmitted only through the maternal line, explaining why the father is unaffected while the mother and her sister carry the trait. Autosomal dominant inheritance would instead be expected to affect offspring of an affected father as well, which is not seen here.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532959/"
+  },
+  {
+    "id": 607,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A newborn has hypotonia, a flat facial profile, upslanting palpebral fissures, and a single transverse palmar crease. Karyotyping shows three copies of chromosome 21. Which event most commonly produces this abnormality?",
+    "options": [
+      "Meiotic nondisjunction",
+      "Robertsonian translocation",
+      "Chromosomal deletion",
+      "Mitotic mosaicism",
+      "Balanced reciprocal translocation"
+    ],
+    "correct": 0,
+    "explanation": "The great majority of Down syndrome cases result from meiotic nondisjunction, in which homologous chromosomes or sister chromatids fail to separate properly during gamete formation, producing a gamete with an extra chromosome 21. This risk rises sharply with increasing maternal age due to age-related weakening of the meiotic spindle apparatus. Robertsonian translocation accounts for a much smaller minority of cases and is notable because it can be inherited from a phenotypically normal carrier parent.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526016/"
+  },
+  {
+    "id": 608,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "factual",
+    "question": "Which enzyme used in PCR allows the reaction to withstand the high temperatures required for DNA strand denaturation?",
+    "options": [
+      "Taq polymerase",
+      "DNA polymerase I",
+      "Reverse transcriptase",
+      "RNA polymerase II",
+      "Telomerase"
+    ],
+    "correct": 0,
+    "explanation": "Taq polymerase is a thermostable DNA polymerase isolated from the bacterium Thermus aquaticus, which allows it to remain active despite the repeated heating to about 95 degrees Celsius needed to denature DNA strands during each PCR cycle. This heat stability eliminated the need to add fresh enzyme after every cycle, making automated PCR practical. Standard DNA polymerase I from E. coli would instead denature and lose activity at these temperatures.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 30",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535453/"
+  },
+  {
+    "id": 609,
+    "subject": "Biochemistry",
+    "subtopic": "Biochemical Genetics & Molecular Biology",
+    "type": "clinical",
+    "question": "A 55-year-old man presents with fatigue and marked leukocytosis with a full spectrum of maturing granulocytes on peripheral smear. Cytogenetic testing reveals a reciprocal translocation between chromosomes 9 and 22. Which molecular consequence drives this disease?",
+    "options": [
+      "Formation of the BCR-ABL1 fusion gene with constitutive tyrosine kinase activity",
+      "Loss of function of the RB1 tumor suppressor gene",
+      "Amplification of the MYC oncogene",
+      "Silencing of the FMR1 gene by hypermethylation",
+      "Expansion of a CAG trinucleotide repeat"
+    ],
+    "correct": 0,
+    "explanation": "This presentation describes chronic myeloid leukemia, caused by the t(9;22) translocation that creates the Philadelphia chromosome and fuses the BCR and ABL1 genes. The resulting BCR-ABL1 fusion protein has constitutively active tyrosine kinase activity, driving uncontrolled proliferation of the granulocytic cell line seen on peripheral smear. This fusion is the direct target of tyrosine kinase inhibitors such as imatinib, unlike MYC amplification, which drives different malignancies through a distinct oncogenic mechanism.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK531459/"
   }
 ]
