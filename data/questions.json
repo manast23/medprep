@@ -10410,7 +10410,7 @@
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
     "type": "factual",
-    "question": "Which enzyme is primarily responsible for proofreading and removing mismatched nucleotides during DNA replication?",
+    "question": "Which enzyme is responsible for proofreading and removing mismatched nucleotides during DNA replication?",
     "options": [
       "DNA polymerase (3' to 5' exonuclease activity)",
       "DNA ligase",
@@ -10419,7 +10419,7 @@
       "Primase"
     ],
     "correct": 0,
-    "explanation": "DNA polymerase possesses intrinsic 3' to 5' exonuclease activity that proofreads each newly added nucleotide and excises mismatches before synthesis continues. This proofreading function greatly increases the fidelity of replication beyond what base pairing alone would provide. DNA ligase instead seals nicks between Okazaki fragments and plays no role in detecting replication errors.",
+    "explanation": "DNA polymerase has intrinsic 3' to 5' exonuclease activity that checks each newly added nucleotide and removes mismatches before synthesis continues. This proofreading function greatly increases replication fidelity beyond base pairing alone. DNA ligase instead seals nicks between Okazaki fragments and plays no role in detecting replication errors.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 30",
     "reference_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK540152/"
   },
@@ -10428,7 +10428,7 @@
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
     "type": "factual",
-    "question": "Which laboratory technique uses repeated cycles of denaturation, annealing, and extension to amplify a specific DNA sequence?",
+    "question": "Which technique amplifies a specific DNA sequence through repeated cycles of denaturation, annealing, and extension?",
     "options": [
       "Polymerase chain reaction",
       "Southern blotting",
@@ -10437,7 +10437,7 @@
       "ELISA"
     ],
     "correct": 0,
-    "explanation": "Polymerase chain reaction (PCR) amplifies a targeted DNA sequence exponentially through repeated cycles of thermal denaturation, primer annealing, and extension by a heat-stable DNA polymerase. This billion-fold amplification enables applications ranging from pathogen detection to prenatal genetic testing. Southern blotting instead detects a specific DNA sequence within a larger sample using probe hybridization rather than amplifying it.",
+    "explanation": "Polymerase chain reaction amplifies a targeted DNA sequence exponentially through repeated cycles of thermal denaturation, primer annealing, and extension by a heat-stable polymerase. This amplification underlies applications such as pathogen detection and genetic testing. Southern blotting instead detects a specific sequence within a sample using probe hybridization rather than amplifying it.",
     "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 39",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535453/"
   },
@@ -10446,7 +10446,7 @@
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
     "type": "clinical",
-    "question": "A 6-year-old child develops severe sunburn-like blistering after brief sun exposure, along with early freckling and a markedly increased risk of skin cancer. Which DNA repair pathway is defective?",
+    "question": "A child with extreme sun sensitivity, early freckling, and multiple skin cancers is found to have a defect in removing UV-induced pyrimidine dimers from DNA. Which repair pathway is affected?",
     "options": [
       "Nucleotide excision repair",
       "Base excision repair",
@@ -10455,7 +10455,7 @@
       "Nonhomologous end joining"
     ],
     "correct": 0,
-    "explanation": "Xeroderma pigmentosum results from a defect in nucleotide excision repair, the pathway responsible for removing bulky UV-induced pyrimidine dimers from DNA. Without this repair mechanism, unrepaired UV damage accumulates and drives extreme photosensitivity and a markedly elevated risk of skin malignancies at a young age. Mismatch repair defects instead cause Lynch syndrome, which predisposes to colorectal and endometrial cancer rather than UV-induced skin damage.",
+    "explanation": "Xeroderma pigmentosum results from a defect in nucleotide excision repair, the pathway that removes bulky UV-induced pyrimidine dimers from DNA. Without this repair, unrepaired UV damage accumulates and drives extreme photosensitivity and early skin cancer. Mismatch repair defects instead cause Lynch syndrome, which predisposes to colorectal cancer rather than UV-induced skin damage.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 31",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551563/"
   },
@@ -10463,8 +10463,8 @@
     "id": 603,
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
-    "type": "clinical",
-    "question": "A 45-year-old woman is diagnosed with colorectal cancer, and her family history reveals endometrial and colorectal cancers in first-degree relatives across two generations, with onset before age 50. Which DNA repair pathway is most likely defective?",
+    "type": "factual",
+    "question": "A defect in which DNA repair pathway is responsible for the microsatellite instability seen in Lynch syndrome?",
     "options": [
       "Mismatch repair",
       "Nucleotide excision repair",
@@ -10473,7 +10473,7 @@
       "Nonhomologous end joining"
     ],
     "correct": 0,
-    "explanation": "This presentation is characteristic of Lynch syndrome, caused by autosomal dominant germline mutations in DNA mismatch repair genes such as MLH1 and MSH2. Loss of mismatch repair produces microsatellite instability, allowing replication errors to persist and driving early-onset colorectal and endometrial cancers. Nucleotide excision repair defects instead cause xeroderma pigmentosum, which presents with UV-induced skin cancers rather than this pattern of visceral malignancy.",
+    "explanation": "Lynch syndrome is caused by germline mutations in DNA mismatch repair genes such as MLH1 and MSH2. Loss of mismatch repair allows replication errors in repetitive sequences to persist, producing microsatellite instability and predisposing to early-onset colorectal and endometrial cancer. Nucleotide excision repair defects instead cause xeroderma pigmentosum, a distinct condition driven by UV damage.",
     "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK564511/"
   },
@@ -10481,17 +10481,17 @@
     "id": 604,
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
-    "type": "clinical",
-    "question": "A 40-year-old man develops progressive chorea, personality changes, and cognitive decline. His father had similar symptoms that began at a later age than his own. Which genetic mechanism best explains the earlier onset in the son?",
+    "type": "factual",
+    "question": "Which trinucleotide repeat expansion, located within the coding region of its gene, causes Huntington disease?",
     "options": [
-      "Anticipation due to CAG trinucleotide repeat expansion",
-      "X-linked recessive inheritance",
-      "Genomic imprinting",
-      "Mitochondrial heteroplasmy",
-      "Chromosomal nondisjunction"
+      "CAG repeat in the HTT gene",
+      "CGG repeat in the FMR1 gene",
+      "GAA repeat in the FXN gene",
+      "CTG repeat in the DMPK gene",
+      "CAG repeat in the AR gene"
     ],
     "correct": 0,
-    "explanation": "This presentation is consistent with Huntington disease, caused by CAG trinucleotide repeat expansion in the HTT gene, which shows anticipation with earlier onset and increased severity in successive generations. Expansion of the repeat is especially unstable during spermatogenesis, so paternal transmission tends to produce more pronounced anticipation. Genomic imprinting instead refers to differential gene expression based on parental origin and does not explain progressive worsening of repeat-driven disease across generations.",
+    "explanation": "Huntington disease is caused by expansion of a CAG trinucleotide repeat within the coding region of the HTT gene, producing a mutant huntingtin protein with an expanded polyglutamine tract. Because the repeat lies in the coding sequence, the disease results from a toxic gain of function rather than loss of gene expression. The condition also shows anticipation, with the repeat tending to expand further and cause earlier onset in successive generations.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 34",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559166/"
   },
@@ -10500,7 +10500,7 @@
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
     "type": "clinical",
-    "question": "A 5-year-old boy has intellectual disability, a long narrow face with a prominent jaw, large ears, and macroorchidism after puberty. Genetic testing shows expansion of a CGG trinucleotide repeat beyond 200 copies. Which mechanism silences the responsible gene?",
+    "question": "A boy with intellectual disability, a long face, large ears, and macroorchidism is found to have a CGG repeat expansion beyond 200 copies in FMR1. Which mechanism silences the gene?",
     "options": [
       "Hypermethylation of the expanded repeat region",
       "Nonsense-mediated mRNA decay",
@@ -10509,7 +10509,7 @@
       "Premature stop codon formation"
     ],
     "correct": 0,
-    "explanation": "This presentation is characteristic of Fragile X syndrome, caused by expansion of a CGG repeat in the 5' untranslated region of the FMR1 gene beyond 200 copies. This full mutation triggers hypermethylation of the repeat region, which silences FMR1 transcription and eliminates production of the FMRP protein needed for normal neurodevelopment. Unlike Huntington disease, where the expanded repeat lies within the coding sequence and produces a toxic protein, the Fragile X repeat expansion causes disease through loss of gene expression rather than a toxic gain of function.",
+    "explanation": "This presentation is characteristic of Fragile X syndrome, in which the full CGG repeat expansion in the 5' untranslated region of FMR1 triggers hypermethylation and silencing of the gene. Loss of FMR1 transcription eliminates the FMRP protein needed for normal neurodevelopment. This loss-of-expression mechanism differs from Huntington disease, where the repeat lies in the coding region and produces disease through a toxic gain of function instead.",
     "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459243/"
   },
@@ -10517,17 +10517,17 @@
     "id": 606,
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
-    "type": "clinical",
-    "question": "A 12-year-old girl develops recurrent stroke-like episodes, seizures, and lactic acidosis. Her mother and maternal aunt have milder versions of the same symptoms, but her father is unaffected. Which inheritance pattern explains this distribution?",
+    "type": "factual",
+    "question": "Mitochondrial DNA disorders such as MELAS are inherited through which pattern?",
     "options": [
-      "Mitochondrial inheritance",
+      "Maternal (mitochondrial) inheritance",
       "Autosomal dominant inheritance",
       "X-linked recessive inheritance",
       "Autosomal recessive inheritance",
       "Genomic imprinting"
     ],
     "correct": 0,
-    "explanation": "This presentation is consistent with MELAS syndrome, a mitochondrial disorder most commonly caused by a point mutation in mitochondrial tRNA that impairs mitochondrial protein synthesis. Because mitochondria are inherited almost exclusively from the oocyte cytoplasm, mitochondrial disorders are transmitted only through the maternal line, explaining why the father is unaffected while the mother and her sister carry the trait. Autosomal dominant inheritance would instead be expected to affect offspring of an affected father as well, which is not seen here.",
+    "explanation": "Mitochondria, and the mitochondrial DNA they contain, are inherited almost exclusively from the oocyte cytoplasm, so mitochondrial disorders such as MELAS are passed only through the maternal line. An affected father cannot transmit the disorder to his offspring, while an affected mother can transmit it to all of her children. This maternal inheritance pattern distinguishes mitochondrial disorders from autosomal or X-linked conditions.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 34",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532959/"
   },
@@ -10535,8 +10535,8 @@
     "id": 607,
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
-    "type": "clinical",
-    "question": "A newborn has hypotonia, a flat facial profile, upslanting palpebral fissures, and a single transverse palmar crease. Karyotyping shows three copies of chromosome 21. Which event most commonly produces this abnormality?",
+    "type": "factual",
+    "question": "Which event is responsible for the great majority of Down syndrome cases?",
     "options": [
       "Meiotic nondisjunction",
       "Robertsonian translocation",
@@ -10545,7 +10545,7 @@
       "Balanced reciprocal translocation"
     ],
     "correct": 0,
-    "explanation": "The great majority of Down syndrome cases result from meiotic nondisjunction, in which homologous chromosomes or sister chromatids fail to separate properly during gamete formation, producing a gamete with an extra chromosome 21. This risk rises sharply with increasing maternal age due to age-related weakening of the meiotic spindle apparatus. Robertsonian translocation accounts for a much smaller minority of cases and is notable because it can be inherited from a phenotypically normal carrier parent.",
+    "explanation": "Most cases of Down syndrome result from meiotic nondisjunction, in which homologous chromosomes or sister chromatids fail to separate during gamete formation, producing a gamete with an extra chromosome 21. The risk of nondisjunction rises sharply with increasing maternal age. Robertsonian translocation accounts for a much smaller minority of cases and is notable for being inheritable from a phenotypically normal carrier parent.",
     "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526016/"
   },
@@ -10554,7 +10554,7 @@
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
     "type": "factual",
-    "question": "Which enzyme used in PCR allows the reaction to withstand the high temperatures required for DNA strand denaturation?",
+    "question": "Which enzyme used in PCR allows the reaction to withstand the high temperatures needed for DNA strand denaturation?",
     "options": [
       "Taq polymerase",
       "DNA polymerase I",
@@ -10563,7 +10563,7 @@
       "Telomerase"
     ],
     "correct": 0,
-    "explanation": "Taq polymerase is a thermostable DNA polymerase isolated from the bacterium Thermus aquaticus, which allows it to remain active despite the repeated heating to about 95 degrees Celsius needed to denature DNA strands during each PCR cycle. This heat stability eliminated the need to add fresh enzyme after every cycle, making automated PCR practical. Standard DNA polymerase I from E. coli would instead denature and lose activity at these temperatures.",
+    "explanation": "Taq polymerase is a thermostable DNA polymerase isolated from Thermus aquaticus, allowing it to remain active despite the repeated heating to about 95 degrees Celsius required to denature DNA in each PCR cycle. This heat stability removed the need to add fresh enzyme after every cycle. Standard DNA polymerase I from E. coli would instead denature and lose activity at these temperatures.",
     "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 30",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535453/"
   },
@@ -10571,18 +10571,144 @@
     "id": 609,
     "subject": "Biochemistry",
     "subtopic": "Biochemical Genetics & Molecular Biology",
-    "type": "clinical",
-    "question": "A 55-year-old man presents with fatigue and marked leukocytosis with a full spectrum of maturing granulocytes on peripheral smear. Cytogenetic testing reveals a reciprocal translocation between chromosomes 9 and 22. Which molecular consequence drives this disease?",
+    "type": "factual",
+    "question": "Nonketotic hyperglycinemia results from a defect in which enzyme system, leading to accumulation of glycine as an excitatory neurotransmitter?",
     "options": [
-      "Formation of the BCR-ABL1 fusion gene with constitutive tyrosine kinase activity",
-      "Loss of function of the RB1 tumor suppressor gene",
-      "Amplification of the MYC oncogene",
-      "Silencing of the FMR1 gene by hypermethylation",
-      "Expansion of a CAG trinucleotide repeat"
+      "Glycine cleavage enzyme system",
+      "Branched-chain alpha-ketoacid dehydrogenase",
+      "Propionyl-CoA carboxylase",
+      "Ornithine transcarbamylase",
+      "Fatty acid beta-oxidation enzymes"
     ],
     "correct": 0,
-    "explanation": "This presentation describes chronic myeloid leukemia, caused by the t(9;22) translocation that creates the Philadelphia chromosome and fuses the BCR and ABL1 genes. The resulting BCR-ABL1 fusion protein has constitutively active tyrosine kinase activity, driving uncontrolled proliferation of the granulocytic cell line seen on peripheral smear. This fusion is the direct target of tyrosine kinase inhibitors such as imatinib, unlike MYC amplification, which drives different malignancies through a distinct oncogenic mechanism.",
-    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 34",
-    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK531459/"
+    "explanation": "Nonketotic hyperglycinemia is caused by a defect in the mitochondrial glycine cleavage enzyme system, which normally degrades glycine and prevents its accumulation. Glycine acts as an excitatory neurotransmitter at NMDA receptors in the brain, so its buildup produces severe encephalopathy and seizures. Unlike organic acidemias such as propionyl-CoA carboxylase deficiency, this condition does not cause metabolic acidosis or ketosis.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 20",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556140/"
+  },
+  {
+    "id": 610,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Which enzyme catalyzes the oxidation and organification of iodide during thyroid hormone synthesis?",
+    "options": [
+      "Thyroid peroxidase",
+      "5'-deiodinase",
+      "Adenylate cyclase",
+      "Sodium-iodide symporter",
+      "Thyroglobulin protease"
+    ],
+    "correct": 0,
+    "explanation": "Thyroid peroxidase oxidizes iodide to iodine and attaches it to tyrosine residues on thyroglobulin, a step called organification, before coupling iodotyrosines to form T3 and T4. This enzyme requires hydrogen peroxide and is the target of antithyroid drugs such as methimazole. The sodium-iodide symporter instead acts earlier, actively transporting iodide into the thyrocyte rather than oxidizing it.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 41",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500006/"
+  },
+  {
+    "id": 611,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Deficiency of which hormone after accidental removal of the parathyroid glands during neck surgery causes hypocalcemia and hyperphosphatemia?",
+    "options": [
+      "Parathyroid hormone",
+      "Calcitonin",
+      "Thyroid-stimulating hormone",
+      "Vitamin D",
+      "Growth hormone"
+    ],
+    "correct": 0,
+    "explanation": "Loss of parathyroid hormone removes its normal actions of stimulating bone resorption and reducing renal phosphate reabsorption, producing hypocalcemia with hyperphosphatemia. The resulting neuromuscular irritability can present as paresthesias or tetany. Calcitonin deficiency would not produce this picture, since calcitonin plays only a minor role in day-to-day human calcium regulation compared to PTH.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 25",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441899/"
+  },
+  {
+    "id": 612,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "In which organ is 25-hydroxyvitamin D converted to its biologically active form, 1,25-dihydroxyvitamin D?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Skin",
+      "Small intestine",
+      "Parathyroid gland"
+    ],
+    "correct": 0,
+    "explanation": "The kidney converts 25-hydroxyvitamin D to the active hormone 1,25-dihydroxyvitamin D through 1-alpha-hydroxylase, a step stimulated by parathyroid hormone and low serum phosphate. This activation step is the final, rate-limiting stage of vitamin D metabolism. The liver instead performs the first hydroxylation, converting cholecalciferol to 25-hydroxyvitamin D, but cannot perform the activating second step.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 44",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441912/"
+  },
+  {
+    "id": 613,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "In primary hyperaldosteronism, excess aldosterone acting on the renal collecting duct produces hypokalemia through which mechanism?",
+    "options": [
+      "Increased potassium secretion in exchange for sodium reabsorption",
+      "Decreased potassium reabsorption in the proximal tubule",
+      "Impaired potassium uptake by skeletal muscle",
+      "Increased gastrointestinal potassium loss",
+      "Reduced potassium filtration at the glomerulus"
+    ],
+    "correct": 0,
+    "explanation": "Aldosterone acts on principal cells of the collecting duct to increase sodium reabsorption in exchange for potassium and hydrogen ion secretion. In primary hyperaldosteronism, this drives excess urinary potassium loss, producing hypokalemia, while the accompanying hydrogen ion loss contributes to metabolic alkalosis. Renin is characteristically suppressed in primary disease, distinguishing it from secondary hyperaldosteronism, where renin is instead elevated.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 25",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK499983/"
+  },
+  {
+    "id": 614,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "In central diabetes insipidus, why does urine osmolality rise sharply after administration of desmopressin?",
+    "options": [
+      "Renal tubules remain responsive to ADH despite its hypothalamic deficiency",
+      "The kidneys are resistant to ADH and desmopressin bypasses this resistance",
+      "Desmopressin corrects an underlying aquaporin gene mutation",
+      "Desmopressin increases glomerular filtration rate directly",
+      "Desmopressin stimulates aldosterone release"
+    ],
+    "correct": 0,
+    "explanation": "Central diabetes insipidus results from inadequate hypothalamic or posterior pituitary secretion of ADH, but the renal collecting duct itself remains fully responsive to the hormone. Administering exogenous desmopressin therefore restores water reabsorption and sharply raises urine osmolality. In nephrogenic diabetes insipidus, by contrast, the kidneys are resistant to ADH, so urine osmolality fails to rise significantly after desmopressin.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 42",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
+  },
+  {
+    "id": 615,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Which buffer system provides the majority of extracellular fluid buffering capacity in the human body?",
+    "options": [
+      "Bicarbonate-carbonic acid buffer",
+      "Phosphate buffer",
+      "Protein buffer",
+      "Hemoglobin buffer",
+      "Ammonia buffer"
+    ],
+    "correct": 0,
+    "explanation": "The bicarbonate-carbonic acid buffer system accounts for the majority of extracellular buffering capacity, described by the Henderson-Hasselbalch equation relating pH to the ratio of bicarbonate to dissolved carbon dioxide. Its effectiveness as an open system comes from the lungs adjusting carbon dioxide excretion and the kidneys regulating bicarbonate reabsorption independently. The phosphate buffer instead plays its most significant role intracellularly and in the renal tubular lumen rather than in extracellular fluid.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. \u2014 Chapter 2",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507807/"
+  },
+  {
+    "id": 616,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "In type 1 diabetes mellitus, absolute insulin deficiency most severely impairs the function of which glucose transporter in muscle and adipose tissue?",
+    "options": [
+      "GLUT4",
+      "GLUT1",
+      "GLUT2",
+      "SGLT2",
+      "GLUT5"
+    ],
+    "correct": 0,
+    "explanation": "GLUT4 is the primary insulin-dependent glucose transporter in skeletal muscle and adipose tissue, and its translocation to the cell membrane depends on insulin signaling. In absolute insulin deficiency, as seen in type 1 diabetes, GLUT4 translocation is severely impaired, limiting glucose uptake into these tissues. GLUT2 instead mediates glucose transport in the liver, pancreatic beta cells, and kidney in an insulin-independent manner, so it is not the transporter primarily affected.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. \u2014 Chapter 19",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537322/"
   }
 ]
