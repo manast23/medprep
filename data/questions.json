@@ -7125,7 +7125,7 @@
       "Mycolic acids in the cell wall"
     ],
     "correct": 1,
-    "explanation": "Gram-positive bacteria have a thick peptidoglycan layer (20\u201380 nm) immediately external to the plasma membrane that physically traps the crystal violet-iodine complex during the decolorisation step with acetone-alcohol, retaining the purple colour. Gram-negative bacteria have a thin peptidoglycan layer (2\u20137 nm) sandwiched between the inner and outer membranes; the lipid-rich outer membrane is dissolved by the decolorising solvent, releasing the crystal violet-iodine complex and leaving cells colourless until counterstained pink with safranin. Mycolic acids are found in mycobacteria, which are neither Gram-positive nor Gram-negative.",
+    "explanation": "Gram-positive bacteria have a thick peptidoglycan layer immediately external to the plasma membrane that physically traps the crystal violet-iodine complex during decolorisation, retaining the purple colour. Gram-negative bacteria have a thin peptidoglycan layer sandwiched between inner and outer membranes; the lipid-rich outer membrane is dissolved by the decolorising solvent, releasing the dye complex. Mycolic acids are found in mycobacteria, which are neither Gram-positive nor Gram-negative.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 2",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562215/"
   },
@@ -7133,17 +7133,17 @@
     "id": 418,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 40-year-old farmer develops a systemic illness after handling animal hides. Blood cultures grow large, aerobic, spore-forming Gram-positive rods arranged in chains. The colonies on agar show a 'medusa head' appearance. Which virulence factor allows this organism to survive in the environment for decades?",
+    "type": "factual",
+    "question": "Which structure allows Bacillus anthracis to survive in soil for decades, resisting heat, desiccation, and disinfectants?",
     "options": [
-      "Lipopolysaccharide endotoxin resisting host defences",
-      "Poly-D-glutamic acid capsule preventing phagocytosis",
-      "Endospores with resistant coats surviving heat, desiccation, and disinfectants",
+      "Lipopolysaccharide endotoxin",
+      "Poly-D-glutamic acid capsule",
+      "Endospores with resistant multilayered coats",
       "Biofilm formation on soil particles",
-      "Exotoxin production inhibiting neutrophil chemotaxis"
+      "Exotoxin inhibiting neutrophil chemotaxis"
     ],
     "correct": 2,
-    "explanation": "Bacillus anthracis forms endospores \u2014 metabolically dormant structures with multilayered coats containing dipicolinic acid \u2014 that are extraordinarily resistant to heat, desiccation, UV radiation, and most disinfectants, allowing survival in soil for decades. When inhaled, ingested, or inoculated, spores germinate into vegetative bacilli that produce the anthrax toxin complex (protective antigen, lethal factor, oedema factor). The poly-D-glutamic acid capsule is a separate virulence factor that inhibits phagocytosis of the vegetative form, but it is the spore that enables environmental persistence.",
+    "explanation": "Bacillus anthracis forms endospores \u2014 metabolically dormant structures with multilayered coats containing dipicolinic acid \u2014 that are extraordinarily resistant to heat, desiccation, UV radiation, and most disinfectants, allowing survival in soil for decades. When inhaled, ingested, or inoculated, spores germinate into vegetative bacilli that produce the anthrax toxin complex. The poly-D-glutamic acid capsule is a separate virulence factor that inhibits phagocytosis of the vegetative form, but it is the spore that enables environmental persistence.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 13",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482251/"
   },
@@ -7151,8 +7151,8 @@
     "id": 419,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 25-year-old woman develops a urinary tract infection. Urine culture shows >10\u2075 colony-forming units/mL of a Gram-negative rod that is oxidase-negative, lactose-fermenting, and produces pink colonies on MacConkey agar. Which organism is most likely responsible?",
+    "type": "factual",
+    "question": "Which oxidase-negative, lactose-fermenting Gram-negative rod producing pink colonies on MacConkey agar is the most common cause of community-acquired urinary tract infection?",
     "options": [
       "Pseudomonas aeruginosa",
       "Escherichia coli",
@@ -7161,7 +7161,7 @@
       "Enterococcus faecalis"
     ],
     "correct": 1,
-    "explanation": "Escherichia coli is the most common cause of community-acquired UTI and grows as pink (lactose-fermenting) colonies on MacConkey agar, is oxidase-negative, and produces flat metallic green colonies with a sheen on EMB agar. MacConkey agar contains lactose and neutral red indicator; lactose-fermenting organisms produce acid, lowering pH and turning colonies pink/red. Pseudomonas aeruginosa is oxidase-positive and does not ferment lactose (colourless on MacConkey). Proteus mirabilis is a non-lactose fermenter and characteristically shows swarming motility.",
+    "explanation": "Escherichia coli is the most common cause of community-acquired UTI and grows as pink, lactose-fermenting colonies on MacConkey agar while being oxidase-negative. MacConkey agar contains lactose and a neutral red indicator, so lactose fermentation lowers pH and turns colonies pink. Pseudomonas aeruginosa is oxidase-positive and does not ferment lactose, while Proteus mirabilis is a non-lactose fermenter with characteristic swarming motility.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 16",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562295/"
   },
@@ -7169,8 +7169,8 @@
     "id": 420,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "During a microbiology practical, students observe that a bacterial culture produces a zone of clearing around colonies on blood agar. The zone is greenish, indicating partial haemolysis. Which type of haemolysis is this, and which organism most characteristically produces it?",
+    "type": "factual",
+    "question": "A bacterial colony on blood agar produces a greenish zone of partial clearing. Which type of haemolysis is this, and which organism most classically produces it?",
     "options": [
       "Beta-haemolysis \u2014 Streptococcus pyogenes",
       "Alpha-haemolysis \u2014 Streptococcus pneumoniae",
@@ -7179,7 +7179,7 @@
       "Alpha-haemolysis \u2014 Streptococcus agalactiae"
     ],
     "correct": 1,
-    "explanation": "Alpha-haemolysis produces a greenish zone of partial haemolysis around colonies on blood agar due to partial oxidation of haemoglobin to methaemoglobin (biliverdin) by hydrogen peroxide. Streptococcus pneumoniae and viridans streptococci are classic alpha-haemolytic organisms. Beta-haemolysis produces complete, clear zones of haemolysis (no remaining red cells), characteristic of Streptococcus pyogenes (Group A) and Staphylococcus aureus. Gamma-haemolysis indicates no haemolysis at all.",
+    "explanation": "Alpha-haemolysis produces a greenish zone of partial haemolysis on blood agar due to partial oxidation of haemoglobin to methaemoglobin by hydrogen peroxide. Streptococcus pneumoniae and viridans streptococci are classic alpha-haemolytic organisms. Beta-haemolysis instead produces complete, clear zones of haemolysis, characteristic of Streptococcus pyogenes and Staphylococcus aureus, while gamma-haemolysis indicates no haemolysis at all.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 14",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470571/"
   },
@@ -7187,17 +7187,17 @@
     "id": 421,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 30-year-old laboratory technician accidentally ingests a culture of Salmonella typhi. The bacteria must survive the acidic stomach environment before reaching the small intestine. Which bacterial structure is most important for resisting intracellular killing once phagocytosed by macrophages?",
+    "type": "factual",
+    "question": "Which mechanism allows Salmonella typhi to survive and replicate within macrophages after being phagocytosed?",
     "options": [
       "Flagella enabling rapid escape from phagosomes",
-      "Vi antigen capsule inhibiting phagocytosis and complement activation",
-      "Ability to survive and replicate within macrophage phagosomes by inhibiting phagolysosome fusion",
+      "Vi capsular antigen inhibiting phagocytosis alone",
+      "Inhibition of phagolysosome fusion, allowing survival within the phagosome",
       "LPS endotoxin disrupting macrophage membrane integrity",
-      "Exotoxin production causing macrophage apoptosis before killing"
+      "Exotoxin causing macrophage apoptosis before killing"
     ],
     "correct": 2,
-    "explanation": "Salmonella typhi is a facultative intracellular pathogen that survives within macrophage phagosomes by inhibiting phagolysosome fusion, using a type III secretion system encoded on Salmonella pathogenicity islands to manipulate vesicle trafficking. This intracellular survival allows systemic dissemination via lymphatics and the bloodstream, producing typhoid fever. The Vi (virulence) capsular antigen also impairs phagocytosis and complement-mediated killing, but intraphagosomal survival is the key mechanism enabling systemic infection after phagocytosis.",
+    "explanation": "Salmonella typhi is a facultative intracellular pathogen that survives within macrophage phagosomes by inhibiting phagolysosome fusion, using a type III secretion system to manipulate vesicle trafficking. This intracellular survival allows systemic dissemination via lymphatics and the bloodstream, producing typhoid fever. The Vi capsular antigen also impairs phagocytosis and complement-mediated killing, but intraphagosomal survival is the key mechanism enabling systemic infection after phagocytosis.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 16",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557513/"
   },
@@ -7206,16 +7206,16 @@
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
     "type": "clinical",
-    "question": "A 22-year-old man develops fever, headache, and a non-blanching petechial rash that progresses to purpura within hours. He deteriorates rapidly and requires ICU admission. Blood cultures grow Gram-negative diplococci. Which component of this organism is primarily responsible for the septic shock and disseminated intravascular coagulation?",
+    "question": "In meningococcemia, which component of Neisseria meningitidis is primarily responsible for triggering septic shock and disseminated intravascular coagulation?",
     "options": [
       "Pili mediating bacterial adhesion to endothelial cells",
       "IgA protease cleaving mucosal antibodies",
-      "Lipopolysaccharide (LPS/endotoxin) triggering systemic inflammatory response",
+      "Lipopolysaccharide (endotoxin) triggering systemic inflammatory response",
       "Protein A binding IgG and preventing opsonisation",
       "Exotoxin A inhibiting protein synthesis in endothelial cells"
     ],
     "correct": 2,
-    "explanation": "Neisseria meningitidis releases large quantities of lipopolysaccharide (endotoxin) from its outer membrane during bacteraemia; LPS binds TLR4 on monocytes and macrophages, triggering massive release of TNF-\u03b1, IL-1, and IL-6, leading to systemic inflammatory response syndrome, septic shock, DIC, and the characteristic non-blanching purpuric rash (purpura fulminans). The severity of meningococcal disease correlates directly with circulating LPS levels. Protein A is a virulence factor of Staphylococcus aureus, not Neisseria.",
+    "explanation": "Neisseria meningitidis releases large quantities of lipopolysaccharide from its outer membrane during bacteraemia, which binds TLR4 on monocytes and macrophages and triggers massive release of TNF-alpha, IL-1, and IL-6. This drives systemic inflammatory response, septic shock, disseminated intravascular coagulation, and the characteristic non-blanching purpuric rash. Protein A is instead a virulence factor of Staphylococcus aureus, not Neisseria.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 15",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482377/"
   },
@@ -7223,17 +7223,17 @@
     "id": 423,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A researcher studying bacterial genetics observes that a non-pathogenic strain of bacteria acquires antibiotic resistance after being grown in a medium containing DNA released from a lysed resistant strain. No cell-to-cell contact or phagocytic vectors were involved. Which mechanism of horizontal gene transfer is occurring?",
+    "type": "factual",
+    "question": "Uptake of naked DNA from the environment by a competent bacterial cell, as first demonstrated in Griffith's experiment, describes which mechanism of horizontal gene transfer?",
     "options": [
-      "Conjugation \u2014 direct transfer via sex pilus",
-      "Transduction \u2014 bacteriophage-mediated DNA transfer",
-      "Transformation \u2014 uptake of naked DNA from the environment",
-      "Transposition \u2014 movement of transposable elements within the genome",
-      "Plasmid integration \u2014 incorporation of episomal resistance genes"
+      "Conjugation",
+      "Transduction",
+      "Transformation",
+      "Transposition",
+      "Plasmid integration"
     ],
     "correct": 2,
-    "explanation": "Transformation is the uptake of naked, exogenous DNA from the environment by competent bacteria; the DNA (here from lysed resistant bacteria) is incorporated into the recipient genome by homologous recombination, conferring new traits such as antibiotic resistance. This mechanism was first demonstrated by Griffith's experiment with Streptococcus pneumoniae and confirmed by Avery, MacLeod, and McCarty. Conjugation requires direct cell-to-cell contact via a sex pilus; transduction requires a bacteriophage vector \u2014 neither of which occurred in this scenario.",
+    "explanation": "Transformation is the uptake of naked, exogenous DNA from the environment by competent bacteria, which is then incorporated into the recipient genome by homologous recombination and can confer new traits such as antibiotic resistance. This mechanism was first demonstrated by Griffith's experiment with Streptococcus pneumoniae and later confirmed by Avery, MacLeod, and McCarty. Conjugation instead requires direct cell-to-cell contact via a sex pilus, and transduction requires a bacteriophage vector.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 7",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559023/"
   },
@@ -7241,17 +7241,17 @@
     "id": 424,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 65-year-old man in the ICU on broad-spectrum antibiotics develops watery diarrhoea. Stool PCR is positive for Clostridioides difficile toxins A and B. Which mechanism do these toxins use to cause colitis?",
+    "type": "factual",
+    "question": "Clostridioides difficile toxins A and B cause colitis primarily through which mechanism?",
     "options": [
-      "Inhibition of protein synthesis by ADP-ribosylation of elongation factor 2",
-      "Activation of adenylate cyclase increasing intracellular cAMP and causing secretory diarrhoea",
-      "Glucosylation and inactivation of Rho GTPases, disrupting actin cytoskeleton and tight junctions",
+      "ADP-ribosylation of elongation factor 2, halting protein synthesis",
+      "Activation of adenylate cyclase, increasing intracellular cAMP",
+      "Glucosylation and inactivation of Rho GTPases, disrupting the actin cytoskeleton",
       "Pore formation in colonocyte membranes causing osmotic lysis",
-      "Superantigen activity crosslinking MHC II and T-cell receptor causing massive cytokine release"
+      "Superantigen activity crosslinking MHC II and T-cell receptor"
     ],
     "correct": 2,
-    "explanation": "C. difficile toxins A (enterotoxin) and B (cytotoxin) glucosylate and inactivate Rho family GTPases (Rho, Rac, Cdc42) inside colonocytes, disrupting actin cytoskeleton organisation and tight junction integrity; this increases colonic permeability, triggers inflammation, and causes the pseudomembranous colitis characterised by exudative plaques on colonoscopy. Toxin B is approximately 1000-fold more potent than toxin A. The ADP-ribosylation mechanism describes diphtheria toxin and Pseudomonas exotoxin A, while adenylate cyclase activation describes cholera toxin.",
+    "explanation": "C. difficile toxins A and B glucosylate and inactivate Rho family GTPases inside colonocytes, disrupting actin cytoskeleton organisation and tight junction integrity. This increases colonic permeability and triggers the inflammation responsible for pseudomembranous colitis, with toxin B being roughly 1000-fold more potent than toxin A. The ADP-ribosylation mechanism instead describes diphtheria toxin, while adenylate cyclase activation describes cholera toxin.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 11",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459458/"
   },
@@ -7259,17 +7259,17 @@
     "id": 425,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 4-year-old unvaccinated child develops a grey pseudomembrane over the posterior pharynx, low-grade fever, and bull-neck appearance due to cervical lymphadenopathy. What is the mechanism by which the causative organism produces systemic toxicity?",
+    "type": "factual",
+    "question": "Corynebacterium diphtheriae produces systemic toxicity, including myocarditis and demyelinating neuropathy, through which mechanism?",
     "options": [
       "Endotoxin release from bacterial lysis triggering cytokine storm",
-      "ADP-ribosylation of elongation factor-2 (EF-2), halting protein synthesis in cardiac and neural cells",
-      "Superantigen crosslinking TCR and MHC II causing massive T-cell activation",
-      "Invasion of bloodstream causing direct bacteraemia and organ seeding",
+      "ADP-ribosylation of elongation factor-2, halting protein synthesis in host cells",
+      "Superantigen crosslinking TCR and MHC II causing T-cell activation",
+      "Direct bacteraemia with organ seeding",
       "Neurotoxin blocking acetylcholine release at the neuromuscular junction"
     ],
     "correct": 1,
-    "explanation": "Corynebacterium diphtheriae produces diphtheria toxin \u2014 a two-fragment (A-B) exotoxin encoded by a bacteriophage gene \u2014 in which the A subunit ADP-ribosylates elongation factor-2 (EF-2), irreversibly halting protein synthesis in all eukaryotic cells. This causes myocarditis (potentially fatal arrhythmias), demyelinating polyneuropathy, and local necrosis producing the pseudomembrane. The organism itself rarely invades the bloodstream; systemic damage is entirely toxin-mediated. Neurotoxin blocking acetylcholine release is the mechanism of botulinum toxin, not diphtheria toxin.",
+    "explanation": "Corynebacterium diphtheriae produces diphtheria toxin, an A-B exotoxin in which the A subunit ADP-ribosylates elongation factor-2, irreversibly halting protein synthesis in eukaryotic cells. This causes myocarditis, demyelinating polyneuropathy, and local tissue necrosis, while the organism itself rarely invades the bloodstream, making systemic damage entirely toxin-mediated. Blocking acetylcholine release at the neuromuscular junction is instead the mechanism of botulinum toxin.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 13",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559023/"
   },
@@ -7277,35 +7277,35 @@
     "id": 426,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A clinical microbiologist receives a blood culture positive for a Gram-negative rod. She performs an oxidase test, which is positive, and notes the organism grows at 42\u00b0C. It produces blue-green pigment on culture plates. Which organism is most likely, and what is its significance in hospital settings?",
+    "type": "factual",
+    "question": "Which oxidase-positive Gram-negative rod, capable of growth at 42\u00b0C and producing a blue-green pigment, is a leading cause of opportunistic infection with intrinsic multidrug resistance?",
     "options": [
-      "Escherichia coli \u2014 most common nosocomial Gram-negative bacteraemia",
-      "Pseudomonas aeruginosa \u2014 opportunistic pathogen with intrinsic multi-drug resistance",
-      "Klebsiella pneumoniae \u2014 associated with mucoid colonies and carbapenem resistance",
-      "Acinetobacter baumannii \u2014 pan-drug resistant nosocomial pathogen",
-      "Serratia marcescens \u2014 produces red pigment and causes hospital outbreaks"
+      "Escherichia coli",
+      "Pseudomonas aeruginosa",
+      "Klebsiella pneumoniae",
+      "Proteus mirabilis",
+      "Acinetobacter baumannii"
     ],
     "correct": 1,
-    "explanation": "Pseudomonas aeruginosa is characterised by oxidase positivity, growth at 42\u00b0C, and production of pyocyanin (blue) and pyoverdine (green-yellow) pigments giving cultures a blue-green colour with a grape-like odour. It is a major nosocomial pathogen in immunocompromised patients, burns, and ICU settings, with intrinsic resistance to many antibiotics via constitutive AmpC beta-lactamase, efflux pumps, and outer membrane impermeability. Serratia marcescens produces a red pigment (prodigiosin) and is also a nosocomial pathogen but does not produce blue-green pigment.",
+    "explanation": "Pseudomonas aeruginosa is an oxidase-positive, non-lactose-fermenting Gram-negative rod that grows at 42 degrees Celsius and produces the blue-green pigment pyocyanin. It is a leading cause of hospital-acquired infections in immunocompromised and ventilated patients due to intrinsic resistance to many antibiotic classes and its ability to form protective biofilms. Escherichia coli, in contrast, is oxidase-negative and does not produce pigmented colonies.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 16",
-    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430714/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562311/"
   },
   {
     "id": 427,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 55-year-old man with poorly controlled diabetes develops a rapidly progressive, foul-smelling wound infection after a minor foot injury. Surgical exploration reveals gas in the soft tissues. Gram stain of wound exudate shows large Gram-positive rods with no white blood cells. Which organism is most likely responsible?",
+    "type": "factual",
+    "question": "Which anaerobic, spore-forming Gram-positive rod causes gas gangrene through production of alpha-toxin (lecithinase)?",
     "options": [
-      "Staphylococcus aureus producing toxic shock syndrome toxin",
-      "Streptococcus pyogenes causing necrotising fasciitis",
-      "Clostridium perfringens causing gas gangrene (clostridial myonecrosis)",
-      "Bacteroides fragilis causing polymicrobial anaerobic infection",
-      "Pseudomonas aeruginosa producing exotoxin A"
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Clostridium perfringens",
+      "Bacteroides fragilis",
+      "Pseudomonas aeruginosa"
     ],
     "correct": 2,
-    "explanation": "Clostridium perfringens is a large Gram-positive, spore-forming anaerobic rod that causes gas gangrene (clostridial myonecrosis) through production of alpha-toxin (phospholipase C/lecithinase), which hydrolyses cell membrane phospholipids causing myonecrosis, haemolysis, and gas production from fermentation. The absence of leukocytes on Gram stain reflects rapid tissue destruction and alpha-toxin-mediated leukocyte lysis. Diabetic patients are particularly susceptible due to impaired vascular supply and immune function. Immediate surgical debridement is lifesaving.",
+    "explanation": "Clostridium perfringens is a large, spore-forming anaerobic Gram-positive rod that causes gas gangrene through production of alpha-toxin, a phospholipase C that hydrolyses cell membrane phospholipids, causing myonecrosis, haemolysis, and gas production from tissue fermentation. Rapid alpha-toxin-mediated leukocyte lysis explains the striking absence of leukocytes seen on Gram stain of affected tissue. Immediate surgical debridement is essential, as antibiotics alone cannot penetrate necrotic, poorly perfused tissue.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 11",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482345/"
   },
@@ -7314,16 +7314,16 @@
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
     "type": "clinical",
-    "question": "A 3-year-old child presents with sudden high fever, severe sore throat, and drooling. She sits upright leaning forward and refuses to lie down. Lateral neck X-ray shows the 'thumbprint sign.' Which organism is the most common cause of this condition, and why is it now rare in vaccinated populations?",
+    "question": "Before widespread conjugate vaccination, which organism was the most common cause of acute epiglottitis in young children?",
     "options": [
-      "Streptococcus pyogenes \u2014 prevented by penicillin prophylaxis",
-      "Haemophilus influenzae type b \u2014 prevented by conjugate Hib vaccine",
-      "Staphylococcus aureus \u2014 prevented by improved hospital hygiene",
-      "Moraxella catarrhalis \u2014 prevented by pneumococcal vaccine cross-protection",
-      "Corynebacterium diphtheriae \u2014 prevented by DTaP vaccination"
+      "Streptococcus pyogenes",
+      "Haemophilus influenzae type b",
+      "Staphylococcus aureus",
+      "Moraxella catarrhalis",
+      "Corynebacterium diphtheriae"
     ],
     "correct": 1,
-    "explanation": "The clinical picture describes acute epiglottitis \u2014 a life-threatening airway emergency characterised by the tripod posture, drooling, dysphagia, and the thumbprint sign on lateral neck X-ray representing an oedematous epiglottis. Haemophilus influenzae type b (Hib) was historically the most common cause in children; universal Hib conjugate vaccination has dramatically reduced its incidence in vaccinated populations. Hib capsular polysaccharide (polyribitol phosphate) conjugated to a carrier protein generates T-cell dependent immunity, which is the key to its effectiveness in young children whose immature immune systems cannot respond to polysaccharide antigens alone.",
+    "explanation": "Haemophilus influenzae type b (Hib) was historically the most common cause of acute epiglottitis in children, presenting with the tripod posture, drooling, and the thumbprint sign on lateral neck X-ray. Universal Hib conjugate vaccination has dramatically reduced its incidence, because conjugating the capsular polysaccharide to a carrier protein generates T-cell dependent immunity that young children's immature immune systems can mount. Streptococcus pyogenes and Staphylococcus aureus are far less common causes of this specific presentation.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 17",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532938/"
   },
@@ -7332,16 +7332,16 @@
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
     "type": "clinical",
-    "question": "A food handler at a catering company develops sudden-onset vomiting 2 hours after eating reheated rice. No fever is present and the illness resolves within 12 hours. Which organism and toxin mechanism is responsible?",
+    "question": "Rapid-onset vomiting after eating reheated fried rice is classically caused by which organism and toxin?",
     "options": [
-      "Salmonella enteritidis \u2014 invasion of intestinal mucosa causing inflammatory diarrhoea",
-      "Bacillus cereus \u2014 preformed emetic toxin (cereulide) in reheated rice causing rapid-onset vomiting",
-      "Clostridium perfringens \u2014 spore germination in reheated food producing enterotoxin",
-      "Staphylococcus aureus \u2014 heat-stable preformed enterotoxin in rice causing vomiting",
-      "Vibrio cholerae \u2014 enterotoxin activating adenylate cyclase causing secretory diarrhoea"
+      "Salmonella enteritidis \u2014 mucosal invasion causing inflammatory diarrhoea",
+      "Bacillus cereus \u2014 preformed emetic toxin (cereulide)",
+      "Clostridium perfringens \u2014 enterotoxin from spore germination",
+      "Staphylococcus aureus \u2014 heat-stable enterotoxin in cream-based food",
+      "Vibrio cholerae \u2014 enterotoxin activating adenylate cyclase"
     ],
     "correct": 1,
-    "explanation": "Bacillus cereus causes two distinct food poisoning syndromes: the emetic form (short incubation 1\u20136 hours, vomiting predominant) associated with reheated rice, caused by the preformed heat-stable cereulide toxin produced during spore germination in warm cooked rice; and the diarrhoeal form (longer incubation 6\u201315 hours) caused by heat-labile enterotoxins. The short incubation and association with rice are the diagnostic clues. Staphylococcus aureus also produces preformed heat-stable enterotoxin but is more associated with cream-filled foods and cured meats, not rice.",
+    "explanation": "Bacillus cereus causes an emetic food poisoning syndrome with a short incubation period, classically linked to reheated rice, caused by the preformed heat-stable toxin cereulide produced during spore germination in warm cooked rice. A separate diarrhoeal form of B. cereus food poisoning has a longer incubation and is caused by distinct heat-labile enterotoxins. Staphylococcus aureus also produces a preformed heat-stable enterotoxin, but it is more classically linked to cream-filled foods and cured meats rather than rice.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 13",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459589/"
   },
@@ -7350,16 +7350,16 @@
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
     "type": "clinical",
-    "question": "A 45-year-old woman develops fever, myalgia, and right upper quadrant pain one week after handling a rabbit during a hunting trip. Blood cultures are negative but serology shows a rising titre of antibodies. Which organism causes this illness, and why do blood cultures fail to grow it?",
+    "question": "Tularaemia acquired from handling infected rabbits is caused by an organism that typically fails to grow on standard blood culture media. Which organism is this, and why does it fail to grow?",
     "options": [
-      "Brucella melitensis \u2014 requires prolonged incubation of blood cultures in enriched broth",
-      "Francisella tularensis \u2014 an obligate intracellular organism requiring cysteine-enriched media and biosafety level 3 handling",
-      "Coxiella burnetii \u2014 an obligate intracellular organism that cannot be cultured on standard media",
-      "Rickettsia rickettsii \u2014 obligate intracellular pathogen not recovered by standard blood cultures",
-      "Bartonella henselae \u2014 fastidious organism requiring special media and prolonged incubation"
+      "Brucella melitensis \u2014 requires prolonged incubation in enriched broth",
+      "Francisella tularensis \u2014 obligate intracellular organism requiring cysteine-enriched media",
+      "Coxiella burnetii \u2014 obligate intracellular organism, uncultivable on standard media",
+      "Rickettsia rickettsii \u2014 obligate intracellular pathogen",
+      "Bartonella henselae \u2014 fastidious organism requiring special media"
     ],
     "correct": 1,
-    "explanation": "Francisella tularensis causes tularaemia and is acquired via contact with infected animals (rabbits, rodents) or arthropod bites; it is a highly infectious, obligate intracellular pathogen requiring cysteine or cystine-enriched media (not standard blood culture media) and biosafety level 3 handling due to its potential for laboratory-acquired infection and bioterrorism use. Diagnosis is therefore primarily serological. Coxiella burnetii also causes culture-negative fever (Q fever) and is obligate intracellular, but is associated with livestock exposure rather than rabbits.",
+    "explanation": "Francisella tularensis causes tularaemia and is acquired through contact with infected rabbits or rodents, or via arthropod bites. It is a highly infectious, obligate intracellular pathogen requiring cysteine- or cystine-enriched media rather than standard blood culture media, and diagnosis is therefore primarily serological. Coxiella burnetii also causes culture-negative fever, but it is classically associated with livestock exposure rather than rabbits.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 20",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430783/"
   },
@@ -7367,17 +7367,17 @@
     "id": 431,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 70-year-old man with chronic obstructive pulmonary disease is admitted with acute exacerbation. Sputum culture grows Gram-negative coccobacilli in clusters. The organism is oxidase-negative and does not grow on MacConkey agar without X (haemin) and V (NAD) factors. Which organism is responsible?",
+    "type": "factual",
+    "question": "Which Gram-negative coccobacillus requires both X (haemin) and V (NAD) factors for growth and is a common cause of COPD exacerbations?",
     "options": [
-      "Moraxella catarrhalis \u2014 oxidase positive, DNase positive",
-      "Haemophilus influenzae \u2014 requires both X and V factors for growth",
-      "Klebsiella pneumoniae \u2014 mucoid colonies, lactose fermenter",
-      "Streptococcus pneumoniae \u2014 alpha-haemolytic, bile soluble",
-      "Pseudomonas aeruginosa \u2014 oxidase positive, non-fermenter"
+      "Moraxella catarrhalis",
+      "Haemophilus influenzae",
+      "Klebsiella pneumoniae",
+      "Streptococcus pneumoniae",
+      "Pseudomonas aeruginosa"
     ],
     "correct": 1,
-    "explanation": "Haemophilus influenzae is a Gram-negative coccobacillus that requires both X factor (haemin) and V factor (NAD) for aerobic growth, which distinguishes it from other Haemophilus species; it grows as 'satellite colonies' around Staphylococcus aureus on blood agar (which provides both factors) but fails to grow on MacConkey agar alone. It is a common cause of acute exacerbations of COPD, otitis media, and sinusitis, with non-typeable strains predominating in adults. The absence of a capsule in non-typeable strains allows mucosal colonisation and infection.",
+    "explanation": "Haemophilus influenzae requires both X factor (haemin) and V factor (NAD) for aerobic growth, growing as satellite colonies around Staphylococcus aureus on blood agar, which supplies both factors, but failing to grow on MacConkey agar alone. It is a common cause of acute exacerbations of COPD, otitis media, and sinusitis, with non-typeable (unencapsulated) strains predominating in adult respiratory disease. Moraxella catarrhalis, by contrast, is oxidase-positive and does not require these growth factors.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 17",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532938/"
   },
@@ -7385,17 +7385,17 @@
     "id": 432,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 60-year-old immunosuppressed patient develops a rapidly fatal pneumonia. Bronchoscopy lavage shows Gram-negative rods, and culture on selective media reveals a mucoid colony-forming organism producing a very large capsule on India ink stain. Which organism is this, and what makes it so virulent in immunocompromised hosts?",
+    "type": "factual",
+    "question": "Which Gram-negative rod produces a hypermucoviscous polysaccharide capsule that inhibits phagocytosis, making it particularly virulent as a cause of pneumonia in diabetics and alcoholics?",
     "options": [
-      "Klebsiella pneumoniae \u2014 hypermucoviscous capsule inhibiting phagocytosis in alcoholics and diabetics",
-      "Pseudomonas aeruginosa \u2014 alginate biofilm protecting against antibiotics and immune clearance",
-      "Haemophilus influenzae type b \u2014 polyribitol phosphate capsule evading complement",
-      "Streptococcus pneumoniae \u2014 polysaccharide capsule inhibiting opsonophagocytosis",
-      "Cryptococcus neoformans \u2014 polysaccharide capsule detected by India ink in CSF"
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa",
+      "Haemophilus influenzae type b",
+      "Streptococcus pneumoniae",
+      "Cryptococcus neoformans"
     ],
     "correct": 0,
-    "explanation": "Klebsiella pneumoniae, particularly the hypermucoviscous (hvKP) strains, produces an extremely thick polysaccharide capsule that inhibits phagocytosis, complement deposition, and neutrophil killing, making it especially virulent in immunocompromised patients, alcoholics, and diabetics. The 'string test' (mucoviscous colony stretching >5 mm) is a bedside identifier. Capsule detection by India ink is classically described for Cryptococcus neoformans in CSF, but Klebsiella also demonstrates a large capsule by this stain. The mucoid appearance on culture and rapid progression to necrotising pneumonia are characteristic features.",
+    "explanation": "Klebsiella pneumoniae, particularly hypermucoviscous strains, produces an extremely thick polysaccharide capsule that inhibits phagocytosis, complement deposition, and neutrophil killing, making it especially virulent in alcoholics, diabetics, and other immunocompromised patients. The bedside 'string test', in which a mucoid colony stretches more than 5 mm, helps identify these strains. Capsule detection by India ink stain is classically taught for Cryptococcus neoformans in CSF, but Klebsiella also demonstrates a prominent capsule by this method.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 16",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562295/"
   },
@@ -7403,17 +7403,17 @@
     "id": 433,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 35-year-old woman presents with painless genital ulceration with a clean base. Dark-field microscopy of the ulcer exudate shows motile spiral organisms. Serology with RPR is reactive and TPHA confirms the diagnosis. What structural feature of this organism makes it invisible on routine Gram staining?",
+    "type": "factual",
+    "question": "Which structural feature of Treponema pallidum makes it invisible on routine Gram staining, requiring dark-field microscopy for direct visualisation?",
     "options": [
-      "The organism lacks peptidoglycan and does not bind Gram stain reagents",
-      "The outer membrane is devoid of LPS, preventing crystal violet binding",
-      "The organism is too thin (0.1\u20130.2 \u03bcm wide) to be resolved by light microscopy using standard Gram stain",
-      "Mycolic acids in the cell wall resist Gram stain penetration",
-      "The organism is an obligate intracellular pathogen concealed within host cells"
+      "The organism lacks peptidoglycan entirely",
+      "Its outer membrane lacks LPS, preventing crystal violet binding",
+      "It is too thin (0.1\u20130.2 \u03bcm wide) to be resolved by standard light microscopy",
+      "Mycolic acids in its cell wall resist Gram stain penetration",
+      "It is an obligate intracellular pathogen concealed within host cells"
     ],
     "correct": 2,
-    "explanation": "Treponema pallidum, the causative agent of syphilis, has an extremely narrow cell width (0.1\u20130.2 \u03bcm) \u2014 below the resolution limit of standard light microscopy \u2014 and an outer membrane that is antigenically inert and poor in surface proteins, making it invisible by conventional Gram staining. Dark-field microscopy exploits oblique illumination to detect the characteristic corkscrew motility of live treponemes in exudate from primary chancres. The organism also cannot be cultured on artificial media, making serology (RPR for screening, TPHA/FTA-ABS for confirmation) the mainstay of diagnosis.",
+    "explanation": "Treponema pallidum has an extremely narrow cell width, below the resolution limit of standard light microscopy used for Gram staining, and an outer membrane that is antigenically inert and poor in surface proteins. Dark-field microscopy exploits oblique illumination to detect the characteristic corkscrew motility of live treponemes in exudate from primary chancres. The organism also cannot be cultured on artificial media, making serology the mainstay of diagnosis.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 24",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534780/"
   },
@@ -7421,17 +7421,17 @@
     "id": 434,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
-    "question": "A 28-year-old man returns from Southeast Asia with high fever, rigors, and diarrhoea. Blood culture grows a curved, comma-shaped, oxidase-positive Gram-negative rod. Stool culture on TCBS agar shows yellow colonies. Which organism and virulence mechanism is responsible for the watery diarrhoea in this condition?",
+    "type": "factual",
+    "question": "Cholera toxin produces massive secretory diarrhoea through which mechanism?",
     "options": [
-      "Campylobacter jejuni \u2014 invasion of intestinal epithelium causing inflammatory diarrhoea",
-      "Vibrio cholerae \u2014 cholera toxin activating Gs protein and adenylate cyclase causing massive chloride and water secretion",
-      "Helicobacter pylori \u2014 urease production causing gastric mucosal damage",
-      "Vibrio parahaemolyticus \u2014 thermostable direct haemolysin causing osmotic diarrhoea",
-      "Yersinia enterocolitica \u2014 mesenteric lymph node invasion causing pseudo-appendicitis"
+      "Invasion of intestinal epithelium causing inflammatory diarrhoea",
+      "Irreversible activation of the Gs protein and adenylate cyclase, raising intracellular cAMP",
+      "Urease production causing gastric mucosal damage",
+      "Thermostable direct haemolysin causing osmotic diarrhoea",
+      "Mesenteric lymph node invasion causing pseudo-appendicitis"
     ],
     "correct": 1,
-    "explanation": "Vibrio cholerae produces cholera toxin (CT), a classic A-B toxin in which the B subunit binds GM1 ganglioside on enterocytes and the A subunit irreversibly ADP-ribosylates the Gs alpha subunit, constitutively activating adenylate cyclase and massively elevating intracellular cAMP; this opens CFTR chloride channels and inhibits NaCl absorption, producing voluminous rice-water diarrhoea. TCBS (thiosulfate-citrate-bile salts-sucrose) agar is selective for Vibrio species, with V. cholerae producing yellow (sucrose-fermenting) colonies. Campylobacter causes an inflammatory diarrhoea by invasion, not secretory toxin.",
+    "explanation": "Vibrio cholerae produces cholera toxin, a classic A-B toxin in which the B subunit binds GM1 ganglioside on enterocytes while the A subunit irreversibly ADP-ribosylates the Gs alpha subunit, constitutively activating adenylate cyclase and massively raising intracellular cAMP. This opens CFTR chloride channels and inhibits NaCl absorption, producing the voluminous rice-water diarrhoea characteristic of cholera. Campylobacter jejuni, by contrast, causes an inflammatory diarrhoea through mucosal invasion rather than a secretory toxin.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 17",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430780/"
   },
@@ -7440,16 +7440,16 @@
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
     "type": "clinical",
-    "question": "A 50-year-old farmer in rural Pakistan develops abrupt fever to 40\u00b0C, severe headache, myalgia, and a maculopapular rash beginning at the wrists and ankles and spreading centrally. He recalls multiple tick bites. Which statement best describes the causative organism?",
+    "question": "A rash beginning at the wrists and ankles and spreading centripetally, following a Dermacentor tick bite, is characteristic of infection with which organism?",
     "options": [
-      "Gram-negative rod, transmitted by the Ixodes tick, causing erythema migrans",
-      "Obligate intracellular organism transmitted by the Dermacentor tick, targeting endothelial cells",
-      "Spirochaete transmitted by the Dermacentor tick, causing a vasculitic rash",
-      "Gram-negative coccobacillus transmitted by Ixodes tick, causing lymphadenopathy",
-      "Rickettsia-like organism transmitted by body lice, causing epidemic typhus"
+      "Borrelia burgdorferi",
+      "Rickettsia rickettsii",
+      "Ehrlichia chaffeensis",
+      "Francisella tularensis",
+      "Rickettsia prowazekii"
     ],
     "correct": 1,
-    "explanation": "Rocky Mountain spotted fever is caused by Rickettsia rickettsii, an obligate intracellular Gram-negative organism transmitted by Dermacentor ticks that infects and replicates within vascular endothelial cells, causing a vasculitis responsible for the centripetal rash (wrists and ankles spreading inward). As an obligate intracellular pathogen, Rickettsia cannot be grown on standard culture media and diagnosis relies on serology (Weil-Felix reaction) or PCR. Erythema migrans and Ixodes tick transmission describe Lyme disease caused by Borrelia burgdorferi, a spirochaete \u2014 the key distractor.",
+    "explanation": "Rocky Mountain spotted fever is caused by Rickettsia rickettsii, an obligate intracellular organism transmitted by Dermacentor ticks that infects vascular endothelial cells, producing a vasculitis responsible for the centripetal rash spreading from the wrists and ankles inward. As an obligate intracellular pathogen, it cannot be grown on standard culture media, so diagnosis relies on serology or PCR. Borrelia burgdorferi, by contrast, is transmitted by Ixodes ticks and causes the erythema migrans rash of Lyme disease.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 25",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430882/"
   },
@@ -7458,16 +7458,16 @@
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
     "type": "clinical",
-    "question": "A 25-year-old woman with sickle cell disease presents with acute osteomyelitis. Blood cultures grow a Gram-negative rod that is non-lactose fermenting on MacConkey agar, produces H2S on triple sugar iron agar, and is motile. Which organism is the most common cause of osteomyelitis in sickle cell disease patients?",
+    "question": "In patients with sickle cell disease, osteomyelitis is most commonly caused by which organism, in contrast to Staphylococcus aureus in the general population?",
     "options": [
-      "Staphylococcus aureus \u2014 most common cause of osteomyelitis overall",
-      "Salmonella species \u2014 particularly common in sickle cell disease due to functional asplenia",
-      "Pseudomonas aeruginosa \u2014 associated with puncture wound osteomyelitis",
-      "Streptococcus pneumoniae \u2014 polysaccharide-encapsulated organism favoured by asplenia",
-      "Escherichia coli \u2014 haematogenous seeding from urinary source"
+      "Streptococcus pneumoniae",
+      "Salmonella species",
+      "Pseudomonas aeruginosa",
+      "Escherichia coli",
+      "Haemophilus influenzae"
     ],
     "correct": 1,
-    "explanation": "Salmonella species are the most common cause of osteomyelitis in patients with sickle cell disease, in contrast to the general population where Staphylococcus aureus predominates. This occurs because repeated sickling causes infarction of the reticuloendothelial system (functional asplenia), impairing clearance of encapsulated and intracellular organisms including Salmonella; additionally, gut ischaemia from sickling allows Salmonella to translocate from the intestinal lumen into the bloodstream. The biochemical profile described \u2014 non-lactose fermenter, H2S positive, motile \u2014 is characteristic of Salmonella species.",
+    "explanation": "Salmonella species are the most common cause of osteomyelitis in patients with sickle cell disease, in contrast to the general population where Staphylococcus aureus predominates. Repeated sickling causes infarction of the reticuloendothelial system, producing functional asplenia that impairs clearance of Salmonella, while gut ischaemia from sickling also allows the organism to translocate from the intestinal lumen into the bloodstream. This distinctive susceptibility pattern is a well-recognised feature of sickle cell disease.",
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. \u2014 Chapter 16",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557513/"
   },
