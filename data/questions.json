@@ -882,7 +882,7 @@
     "topic": "Inguinal Hernia",
     "subtopic": "Abdomen & Pelvis",
     "type": "clinical",
-    "question": "A 35-year-old man presents with a swelling in the groin that descends into the scrotum. It is reducible and has a cough impulse. The swelling is medial to the inferior epigastric vessels on examination. What is the most likely diagnosis?",
+    "question": "A reducible groin swelling with a cough impulse descends into the scrotum and lies medial to the inferior epigastric vessels. What is the most likely diagnosis?",
     "options": [
       "Femoral hernia",
       "Direct inguinal hernia",
@@ -916,7 +916,7 @@
     "topic": "Femoral Hernia",
     "subtopic": "Abdomen & Pelvis",
     "type": "clinical",
-    "question": "A 60-year-old woman presents with a groin swelling below and lateral to the pubic tubercle. It is irreducible and tender. What is the most likely diagnosis and why is it more common in women?",
+    "question": "A groin swelling below and lateral to the pubic tubercle is irreducible and tender. What is the most likely diagnosis, and why is it more common in women?",
     "options": [
       "Direct inguinal hernia — wider inguinal canal",
       "Indirect inguinal hernia — patent processus vaginalis",
@@ -949,8 +949,8 @@
     "subject": "Anatomy",
     "topic": "Appendix Landmark",
     "subtopic": "Abdomen & Pelvis",
-    "type": "clinical",
-    "question": "A 45-year-old man undergoes an appendicectomy. The surgeon identifies the appendix by tracing which structure to its base?",
+    "type": "factual",
+    "question": "Which structure is traced to its base to locate the appendix during appendicectomy?",
     "options": [
       "Ileum",
       "Taenia coli",
@@ -984,7 +984,7 @@
     "topic": "Ascites",
     "subtopic": "Abdomen & Pelvis",
     "type": "clinical",
-    "question": "A 55-year-old man with chronic alcoholism presents with abdominal distension, shifting dullness, and a fluid thrill. Paracentesis reveals straw-coloured fluid with protein less than 25 g/L. What is the most likely cause?",
+    "question": "A patient with chronic alcoholism has ascites with shifting dullness and a paracentesis protein of less than 25 g/L. What is the most likely cause?",
     "options": [
       "Tuberculous peritonitis",
       "Malignant ascites",
@@ -1017,8 +1017,8 @@
     "subject": "Anatomy",
     "topic": "McBurney's Point",
     "subtopic": "Abdomen & Pelvis",
-    "type": "clinical",
-    "question": "A 28-year-old woman presents with right iliac fossa pain, nausea, and low-grade fever. On examination, Rovsing's sign is positive and there is guarding at McBurney's point. Where is McBurney's point?",
+    "type": "factual",
+    "question": "Where is McBurney's point located, and in which condition is tenderness classically elicited there?",
     "options": [
       "Midpoint between the umbilicus and the right anterior superior iliac spine",
       "One third of the way from the right anterior superior iliac spine to the umbilicus",
@@ -1120,7 +1120,7 @@
     "topic": "Pancreas Relations",
     "subtopic": "Abdomen & Pelvis",
     "type": "clinical",
-    "question": "A 50-year-old man presents with severe epigastric pain radiating to the back, relieved by leaning forward. Serum amylase is markedly elevated. CT shows peripancreatic fat stranding. Which part of the pancreas lies directly anterior to the aorta and superior mesenteric artery?",
+    "question": "In acute pancreatitis, CT shows peripancreatic fat stranding. Which part of the pancreas lies directly anterior to the aorta and superior mesenteric artery?",
     "options": [
       "Head",
       "Neck",
