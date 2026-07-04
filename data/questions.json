@@ -5,7 +5,7 @@
     "topic": "Brachial Plexus",
     "subtopic": "Upper Limb",
     "type": "clinical",
-    "question": "A 28-year-old motorcyclist is brought to the emergency department after a road traffic accident. He has weakness in shoulder abduction and elbow flexion, with the arm hanging limply at his side in adduction and the forearm pronated — the classic 'waiter's tip' posture. Sensation is lost over the lateral forearm. Which nerve roots are most likely injured?",
+    "question": "Excessive traction on an abducted arm during a difficult delivery produces claw hand with intact shoulder and elbow movement. Which nerve roots are injured?",
     "options": [
       "C5 and C6",
       "C7 and C8",
@@ -13,8 +13,8 @@
       "C5, C6, and C7",
       "C6, C7, and C8"
     ],
-    "correct": 0,
-    "explanation": "This is Erb's palsy — an upper brachial plexus injury at C5 and C6. The deltoid, biceps, and brachioradialis are paralysed, producing the characteristic posture. Lateral forearm sensation is carried by the musculocutaneous nerve (C5–C6). Lower root injuries (C8, T1) produce Klumpke's palsy with intrinsic hand weakness instead.",
+    "correct": 2,
+    "explanation": "This is Klumpke's palsy, resulting from injury to the C8 and T1 nerve roots, typically from excessive traction on an abducted arm during a difficult delivery or a fall with the arm outstretched overhead. The intrinsic hand muscles are paralysed, producing a claw hand, while shoulder and elbow movements are preserved because C5–C7 are unaffected. Klumpke's palsy may also present with Horner's syndrome if the T1 sympathetic fibres are involved.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb"
   },
   {
