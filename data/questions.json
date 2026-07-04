@@ -59,7 +59,7 @@
     "topic": "Thorax",
     "subtopic": "Thorax",
     "type": "clinical",
-    "question": "A 35-year-old man sustains a stab wound at the left 5th intercostal space, midclavicular line. He develops hypotension, distended neck veins, muffled heart sounds, and an enlarged cardiac silhouette on X-ray. Which structure was most directly punctured?",
+    "question": "A stab wound at the left 5th intercostal space causes hypotension, distended neck veins, and muffled heart sounds. Which structure was most directly punctured?",
     "options": [
       "Left ventricle",
       "Pericardial sac",
@@ -661,7 +661,7 @@
     "topic": "Tension Pneumothorax",
     "subtopic": "Thorax",
     "type": "clinical",
-    "question": "A 22-year-old man is stabbed in the left 2nd intercostal space, midclavicular line. He develops tracheal deviation to the right, absent breath sounds on the left, and hypotension. What is the most likely diagnosis?",
+    "question": "A stab wound to the left 2nd intercostal space causes tracheal deviation to the right, absent left breath sounds, and hypotension. What is the most likely diagnosis?",
     "options": [
       "Haemothorax",
       "Open pneumothorax",
@@ -695,7 +695,7 @@
     "topic": "Pancoast Tumour",
     "subtopic": "Thorax",
     "type": "clinical",
-    "question": "A 58-year-old smoker presents with hoarseness, miosis, partial ptosis, and anhidrosis on the right side of the face. Chest X-ray shows an apical lung mass. What is the most likely diagnosis?",
+    "question": "A smoker develops hoarseness with ipsilateral miosis, ptosis, and anhidrosis, and an apical lung mass on chest X-ray. What is the most likely diagnosis?",
     "options": [
       "Superior vena cava syndrome",
       "Pancoast tumour with Horner's syndrome",
@@ -729,7 +729,7 @@
     "topic": "Achalasia",
     "subtopic": "Thorax",
     "type": "clinical",
-    "question": "A 45-year-old man presents with progressive dysphagia to solids then liquids, weight loss, and regurgitation of undigested food. Barium swallow shows a smooth, tapering narrowing at the gastro-oesophageal junction with a dilated oesophagus above. What is the most likely diagnosis?",
+    "question": "A patient has progressive dysphagia to solids then liquids, with barium swallow showing smooth tapering narrowing at the gastro-oesophageal junction. What is the most likely diagnosis?",
     "options": [
       "Oesophageal carcinoma",
       "Achalasia",
@@ -763,7 +763,7 @@
     "topic": "Pleural Effusion",
     "subtopic": "Thorax",
     "type": "clinical",
-    "question": "A 70-year-old man presents with progressive dyspnoea, dull percussion note, and reduced breath sounds at the right base. Chest X-ray shows blunting of the right costophrenic angle. How much fluid must accumulate before this X-ray finding appears?",
+    "question": "Chest X-ray shows blunting of the costophrenic angle due to a pleural effusion. How much fluid must accumulate before this finding becomes visible?",
     "options": [
       "50 ml",
       "150 ml",
@@ -865,7 +865,7 @@
     "topic": "Spontaneous Pneumothorax",
     "subtopic": "Thorax",
     "type": "clinical",
-    "question": "A 35-year-old tall thin man develops sudden onset right-sided chest pain and breathlessness. He is afebrile and SpO2 is 96%. Chest X-ray shows a 2.5 cm rim of air at the right apex with a visible lung edge. What is the most appropriate management?",
+    "question": "A tall, thin young man develops sudden right-sided chest pain and breathlessness. Chest X-ray shows a 2.5 cm rim of air at the apex. What is the most appropriate management?",
     "options": [
       "Emergency needle decompression",
       "High-flow oxygen and observation",
