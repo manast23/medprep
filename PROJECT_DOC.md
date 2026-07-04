@@ -130,11 +130,11 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 | Gram-positive Bacteria | 437–451 | ✅ Rewritten (fixed #444 miscategorization — was testing a viral cause of croup under a bacteria subtopic) |
 | Gram-negative Bacteria | 452–466 | ✅ Rewritten (fixed #457 — was duplicate of cholera toxin mechanism already tested in #434; replaced with chancroid/H. ducreyi) |
 | Mycobacteria & Atypical Organisms | 467–476 | ✅ Rewritten |
-| Virology | 477–496 | ⏳ Next (20 questions) |
-| Mycology & Parasitology | 497–506 | ⏳ Pending (10 questions) |
+| Virology | 477–496 | ✅ Rewritten |
+| Mycology & Parasitology | 497–506 | ⏳ Next (10 questions) |
 | Immunology | 507–516 | ⏳ Pending (10 questions) |
 
-**Microbiology progress: 60/100 rewritten.**
+**Microbiology progress: 80/100 rewritten.**
 
 ### Anatomy (105 total) — NOT STARTED
 56/105 questions currently clinical, many staged as full trauma/ED cases (e.g. the original #1, a motorcyclist brachial plexus injury case, was literally the old doc's own template example). Needs full audit — expect most "clinical" questions to convert to direct structure-ID/relations questions, keeping only brief one-line correlations where genuinely testing a nerve/vessel injury concept.
