@@ -131,16 +131,16 @@
     "topic": "Respiratory",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 68-year-old smoker with COPD presents with respiratory distress. ABG: pH 7.32, PaCO2 68 mmHg, PaO2 54 mmHg, HCO3 34 mEq/L. You initiate oxygen therapy. What is the primary risk?",
+    "question": "A patient with COPD has an ABG showing pH 7.32, PaCO2 68 mmHg, PaO2 54 mmHg, and HCO3 34 mEq/L. What does this acid-base pattern represent?",
     "options": [
-      "Oxygen toxicity and direct lung damage",
-      "Abolition of hypoxic drive worsening hypercapnia",
-      "Bicarbonate excess causing metabolic alkalosis",
-      "Haldane effect displacing CO2 from haemoglobin",
-      "Oxygen correcting alkalosis and worsening acidosis"
+      "Acute, uncompensated respiratory acidosis",
+      "Partially compensated respiratory acidosis",
+      "Fully compensated respiratory acidosis",
+      "Mixed respiratory and metabolic acidosis",
+      "Metabolic alkalosis with respiratory compensation"
     ],
     "correct": 1,
-    "explanation": "Chronic hypercapnia in COPD blunts central chemoreceptor sensitivity to CO2. Some patients rely on hypoxic drive to maintain ventilation. Administering high-flow oxygen removes this stimulus, reducing respiratory drive and worsening CO2 retention. Controlled low-flow oxygen (24-28%) titrated to SpO2 88-92% is recommended in COPD exacerbations.",
+    "explanation": "The elevated HCO3 (34 mEq/L) shows renal compensation for chronic hypercapnia, but the pH remains below 7.35, so compensation is only partial rather than complete. If compensation were full, the pH would have returned to the normal range despite the persistently high PaCO2. This pattern is typical of a COPD patient with chronic CO2 retention who has decompensated further during an acute exacerbation.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency"
   },
   {
@@ -2428,7 +2428,7 @@
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 62-year-old smoker has FEV1/FVC of 0.58, increased TLC, and increased RV. He has a chronic productive cough. What is the primary physiological defect?",
+    "question": "A smoker has an FEV1/FVC of 0.58, increased TLC, increased RV, and a chronic productive cough. What is the primary physiological defect?",
     "options": [
       "Restrictive lung disease with reduced compliance",
       "Obstructive lung disease with air trapping",
@@ -2460,7 +2460,7 @@
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 35-year-old woman on oral contraceptives develops sudden pleuritic chest pain and dyspnea. ABG shows PaO₂ 68 mmHg and PaCO₂ 30 mmHg. What is the primary physiological consequence of her condition?",
+    "question": "A woman on oral contraceptives develops sudden pleuritic chest pain and dyspnoea, with an ABG showing PaO2 68 mmHg and PaCO2 30 mmHg. What is the primary physiological consequence of her condition?",
     "options": [
       "Increased shunt fraction due to alveolar flooding",
       "Increased physiological dead space due to ventilated but unperfused alveoli",
@@ -2492,7 +2492,7 @@
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 25-year-old man with acute severe asthma has the following ABG: pH 7.30, PaCO₂ 55 mmHg, PaO₂ 60 mmHg, HCO₃ 26 mEq/L. What does this ABG pattern indicate?",
+    "question": "A patient with acute severe asthma has an ABG showing pH 7.30, PaCO2 55 mmHg, PaO2 60 mmHg, and HCO3 26 mEq/L. What does this pattern indicate?",
     "options": [
       "Compensated metabolic acidosis",
       "Acute respiratory acidosis",
@@ -2524,7 +2524,7 @@
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 30-year-old tall thin man develops sudden onset right-sided chest pain and dyspnea. Breath sounds are absent on the right. Trachea is deviated to the left. What is the most likely diagnosis and its immediate physiological consequence?",
+    "question": "A tall, thin man develops sudden right-sided chest pain and dyspnoea, with absent breath sounds on the right and tracheal deviation to the left. What is the most likely diagnosis and its immediate physiological consequence?",
     "options": [
       "Pleural effusion causing compressive atelectasis",
       "Tension pneumothorax causing mediastinal shift and reduced venous return",
@@ -2588,7 +2588,7 @@
     "subject": "Physiology",
     "subtopic": "Respiratory",
     "type": "clinical",
-    "question": "A 70-year-old man with COPD is given high-flow oxygen. He subsequently becomes drowsy and his respiratory rate drops to 8/min. What is the most likely explanation?",
+    "question": "A patient with COPD is given high-flow oxygen and subsequently becomes drowsy, with respiratory rate dropping to 8/min. What is the most likely explanation?",
     "options": [
       "Oxygen toxicity causing CNS depression",
       "Removal of hypoxic drive in a patient dependent on low PaO₂ to breathe",
