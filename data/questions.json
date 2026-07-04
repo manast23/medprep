@@ -40,8 +40,8 @@
     "subject": "Anatomy",
     "topic": "Femoral Triangle",
     "subtopic": "Lower Limb",
-    "type": "clinical",
-    "question": "During femoral artery catheterisation, a student is asked to describe the arrangement of the femoral sheath contents from lateral to medial. Which of the following is correct?",
+    "type": "factual",
+    "question": "What is the arrangement of the femoral sheath contents from lateral to medial?",
     "options": [
       "Vein, Artery, Canal",
       "Nerve, Artery, Vein",
