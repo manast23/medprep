@@ -106,9 +106,9 @@ General medical knowledge practice app — not tied to any specific exam, countr
 | Subject | Count | Status |
 |---|---|---|
 | Anatomy | 105 | ✅ Retroactive rewrite COMPLETE (105/105) — see Section 8 |
-| Physiology | 111 | ✅ Complete — ⚠️ needs retroactive format rewrite + subtopic naming cleanup (3 stray subtopic labels: "Renal", "Endocrine", "Neurophysiology" outside the official 10-subtopic taxonomy — need reassignment) (NEXT UP) |
+| Physiology | 111 | ✅ Retroactive rewrite COMPLETE (111/111) + subtopic naming cleanup done — see Section 8 |
 | Pathology | 100 | ✅ Complete — ⚠️ needs partial rewrite (least affected, ~31 clinical questions to review) |
-| Pharmacology | 100 | ✅ Complete — ⚠️ needs partial rewrite (~78 clinical questions to review) |
+| Pharmacology | 100 | ✅ Complete — ⚠️ needs partial rewrite (~78 clinical questions to review) (NEXT UP) |
 | Microbiology | 100 | ✅ Retroactive rewrite COMPLETE (100/100) — see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 
@@ -151,10 +151,25 @@ Rewritten across all 7 subtopics. Approach: pre-clinical subject standard applie
 
 **Anatomy progress: 105/105 rewritten. Subject fully complete.**
 
-### Physiology (111 total) — NOT STARTED (ACTIVE NEXT)
-56/111 currently clinical, several staged with full lab workups (e.g. ABG panels for a COPD physiology question). Also needs the subtopic-naming cleanup noted in Section 7.
+### Physiology (111 total) — ✅ COMPLETE
+Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels reassigned to the official taxonomy). Approach: pre-clinical subject standard applied — trimmed multi-finding/lab-panel staging down to essential mechanism triggers, dropped unused numeric baggage that didn't inform the answer, and fixed two content duplications (ID8 vs ID154 on COPD/hypoxic drive; ID158 vs ID179 on diabetes insipidus).
 
-### Pharmacology (100 total) — NOT STARTED
+| Subtopic | IDs | Status |
+|---|---|---|
+| Cardiovascular | 6, 111–126 | ✅ Rewritten (trimmed unused numeric baggage on IDs 6, 113; reclassified ID118 as factual — pure MAP calculation) |
+| Nervous System | 10, 127–141 | ✅ Rewritten (ID10 reassigned from stray "Neurophysiology" label) |
+| Respiratory | 8, 142–154 | ✅ Rewritten (fixed ID8/ID154 duplication — repointed ID8 to ABG compensation interpretation; trimmed age/gender across subtopic) |
+| Endocrinology | 9, 167–179 | ✅ Rewritten (ID9 reassigned from stray "Endocrine" label; trimmed over-staged symptom lists to essential mechanism triggers on 167,169,171,173,175,177,179) |
+| Renal & Body Fluids | 7, 155–166 | ✅ Rewritten (ID7 reassigned from stray "Renal" label; fixed ID158/ID179 duplication — repointed ID158 to nephrogenic DI; removed a confusing distractor clause on ID160) |
+| GIT | 180–190 | ✅ Reviewed — already conformed to standard, no changes needed |
+| Blood | 191–198 | ✅ Rewritten (trimmed age/gender preambles) |
+| Nerve & Muscle | 199–205 | ✅ Rewritten (trimmed age/gender preambles and minor redundant detail) |
+| Special Senses | 206–211 | ✅ Rewritten (trimmed age/gender preambles) |
+| Reproduction | 212–216 | ✅ Rewritten (trimmed age/gender preambles) |
+
+**Physiology progress: 111/111 rewritten. Subject fully complete.**
+
+### Pharmacology (100 total) — NOT STARTED (ACTIVE NEXT)
 78/100 currently clinical. Pharm vignettes are more defensible than Anatomy/Physiology (drug-effect-in-a-patient framing is native to the subject) but many are still overstaged; needs review and trimming rather than full rewrite.
 
 ### Pathology (100 total) — NOT STARTED
@@ -166,8 +181,8 @@ Rewritten across all 7 subtopics. Approach: pre-clinical subject standard applie
 
 1. ✅ Microbiology rewrite — COMPLETE (100/100)
 2. ✅ Anatomy rewrite — COMPLETE (105/105)
-3. **Physiology rewrite (+ subtopic naming cleanup) — ACTIVE NEXT** (56/111 currently clinical)
-4. Pharmacology review/trim
+3. ✅ Physiology rewrite (+ subtopic naming cleanup) — COMPLETE (111/111)
+4. **Pharmacology review/trim — ACTIVE NEXT** (78/100 currently clinical)
 5. Pathology review/trim
 6. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
 7. **Forensic Medicine** — deferred 8th subject
