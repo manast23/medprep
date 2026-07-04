@@ -95,7 +95,7 @@
     "topic": "Cardiac Output",
     "subtopic": "Cardiovascular",
     "type": "clinical",
-    "question": "A 55-year-old man with heart failure has a cardiac output of 3.2 L/min, HR 80 bpm, and elevated wedge pressure. A drug selectively reduces preload without affecting HR or afterload. What changes would be expected?",
+    "question": "In a patient with heart failure, a drug selectively reduces preload without affecting heart rate or afterload. What is the expected effect on stroke volume?",
     "options": [
       "Increased stroke volume and increased CO",
       "Decreased HR and decreased CO",
@@ -1919,7 +1919,7 @@
     "topic": "Heart Failure",
     "subtopic": "Cardiovascular",
     "type": "clinical",
-    "question": "A 58-year-old man with chronic heart failure has a resting cardiac output of 3.2 L/min and a heart rate of 88 bpm. His calculated stroke volume is approximately 36 mL. Which compensatory mechanism is most directly responsible for maintaining his blood pressure despite this low stroke volume?",
+    "question": "A patient with chronic heart failure has a low stroke volume and low cardiac output. Which compensatory mechanism is most directly responsible for maintaining blood pressure?",
     "options": [
       "Increased parasympathetic tone reducing afterload",
       "Activation of the renin-angiotensin-aldosterone system causing vasoconstriction",
@@ -2003,8 +2003,8 @@
     "subject": "Physiology",
     "topic": "Hypertension",
     "subtopic": "Cardiovascular",
-    "type": "clinical",
-    "question": "A 52-year-old hypertensive woman has a BP of 160/100 mmHg. Her mean arterial pressure (MAP) is approximately:",
+    "type": "factual",
+    "question": "A patient's blood pressure is 160/100 mmHg. What is the approximate mean arterial pressure (MAP)?",
     "options": [
       "110 mmHg",
       "120 mmHg",
