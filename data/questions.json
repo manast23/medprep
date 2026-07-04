@@ -1681,7 +1681,7 @@
     "topic": "Liver Cirrhosis Histology",
     "subtopic": "Histology",
     "type": "clinical",
-    "question": "A 45-year-old man undergoes a liver biopsy. The pathologist describes loss of normal lobular architecture, bridging fibrosis between portal tracts, and regenerative nodules. What is the histological diagnosis?",
+    "question": "A liver biopsy shows loss of normal lobular architecture, bridging fibrosis between portal tracts, and regenerative nodules. What is the histological diagnosis?",
     "options": [
       "Acute hepatitis",
       "Hepatic steatosis",
@@ -1732,7 +1732,7 @@
     "topic": "Paget's Disease Histology",
     "subtopic": "Histology",
     "type": "clinical",
-    "question": "A 60-year-old woman presents with bone pain, increased serum alkaline phosphatase, and a bone biopsy showing increased osteoclast and osteoblast activity with a disorganised mosaic pattern of lamellar and woven bone. What is the diagnosis?",
+    "question": "Bone pain with elevated serum alkaline phosphatase and a biopsy showing increased osteoclast and osteoblast activity with a disorganised mosaic of lamellar and woven bone. What is the diagnosis?",
     "options": [
       "Osteoporosis",
       "Osteomalacia",
@@ -1766,7 +1766,7 @@
     "topic": "Minimal Change Disease",
     "subtopic": "Histology",
     "type": "clinical",
-    "question": "A renal biopsy from a 25-year-old man with nephrotic syndrome shows fusion of podocyte foot processes on electron microscopy, with no immune deposits. Light microscopy is normal. What is the most likely diagnosis?",
+    "question": "A renal biopsy in nephrotic syndrome shows fusion of podocyte foot processes on electron microscopy, with normal light microscopy and no immune deposits. What is the most likely diagnosis?",
     "options": [
       "Membranous nephropathy",
       "IgA nephropathy",
@@ -1800,7 +1800,7 @@
     "topic": "Hodgkin Lymphoma Histology",
     "subtopic": "Histology",
     "type": "clinical",
-    "question": "A lymph node biopsy from a 30-year-old man with painless cervical lymphadenopathy shows effacement of normal architecture by large cells with prominent eosinophilic nucleoli surrounded by a clear halo (lacunar cells), and binucleated giant cells with owl-eye nucleoli. What is the diagnosis?",
+    "question": "A lymph node biopsy from a patient with painless cervical lymphadenopathy shows large cells with eosinophilic nucleoli surrounded by a clear halo (lacunar cells), and binucleated giant cells with owl-eye nucleoli. What is the diagnosis?",
     "options": [
       "Non-Hodgkin lymphoma",
       "Reactive lymphadenitis",
@@ -1834,7 +1834,7 @@
     "topic": "Bronchial Squamous Metaplasia",
     "subtopic": "Histology",
     "type": "clinical",
-    "question": "A bronchial biopsy from a 55-year-old smoker shows replacement of the normal pseudostratified ciliated columnar epithelium with stratified squamous epithelium. What is this change and what does it predispose to?",
+    "question": "A bronchial biopsy from a smoker shows replacement of pseudostratified ciliated columnar epithelium with stratified squamous epithelium. What is this change, and what does it predispose to?",
     "options": [
       "Dysplasia — directly transforms to adenocarcinoma",
       "Squamous metaplasia — predisposes to squamous cell carcinoma",
@@ -1868,7 +1868,7 @@
     "topic": "Prolactinoma Histology",
     "subtopic": "Histology",
     "type": "clinical",
-    "question": "A 35-year-old woman presents with amenorrhoea and galactorrhoea. MRI shows a 12mm sellar mass. Histology of the resected tumour shows sheets of cells with round nuclei and granular cytoplasm on H&E, staining positively for prolactin on immunohistochemistry. What is the diagnosis?",
+    "question": "A patient with amenorrhoea and galactorrhoea has a 12mm sellar mass on MRI. Histology shows sheets of cells with granular cytoplasm staining positive for prolactin. What is the diagnosis?",
     "options": [
       "Craniopharyngioma",
       "Prolactinoma",
