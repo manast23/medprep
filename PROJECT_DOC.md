@@ -105,8 +105,8 @@ General medical knowledge practice app — not tied to any specific exam, countr
 
 | Subject | Count | Status |
 |---|---|---|
-| Anatomy | 105 | ✅ Complete — ⚠️ needs retroactive format rewrite (NEXT UP) |
-| Physiology | 111 | ✅ Complete — ⚠️ needs retroactive format rewrite + subtopic naming cleanup (3 stray subtopic labels: "Renal", "Endocrine", "Neurophysiology" outside the official 10-subtopic taxonomy — need reassignment) |
+| Anatomy | 105 | ✅ Retroactive rewrite COMPLETE (105/105) — see Section 8 |
+| Physiology | 111 | ✅ Complete — ⚠️ needs retroactive format rewrite + subtopic naming cleanup (3 stray subtopic labels: "Renal", "Endocrine", "Neurophysiology" outside the official 10-subtopic taxonomy — need reassignment) (NEXT UP) |
 | Pathology | 100 | ✅ Complete — ⚠️ needs partial rewrite (least affected, ~31 clinical questions to review) |
 | Pharmacology | 100 | ✅ Complete — ⚠️ needs partial rewrite (~78 clinical questions to review) |
 | Microbiology | 100 | ✅ Retroactive rewrite COMPLETE (100/100) — see Section 8 |
@@ -136,10 +136,22 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 
 **Microbiology progress: 100/100 rewritten. Subject fully complete.**
 
-### Anatomy (105 total) — NOT STARTED (ACTIVE NEXT)
-56/105 questions currently clinical, many staged as full trauma/ED cases (e.g. the original #1, a motorcyclist brachial plexus injury case, was literally the old doc's own template example). Needs full audit — expect most "clinical" questions to convert to direct structure-ID/relations questions, keeping only brief one-line correlations where genuinely testing a nerve/vessel injury concept.
+### Anatomy (105 total) — ✅ COMPLETE
+Rewritten across all 7 subtopics. Approach: pre-clinical subject standard applied throughout — trimmed multi-finding/vitals staging down to essential trigger, removed fake "student is asked" framing on pure factual questions (reclassified as `factual` where appropriate), and fixed one content duplication (ID 1 repointed from Erb's palsy, which duplicated ID 17, to Klumpke's palsy).
 
-### Physiology (111 total) — NOT STARTED
+| Subtopic | IDs | Status |
+|---|---|---|
+| Upper Limb | 1–25 | ✅ Rewritten (ID1: trimmed RTA/ED staging, repointed Erb's→Klumpke's palsy to fix duplication with ID17) |
+| Lower Limb | 3, 5, 26–38 | ✅ Rewritten (ID3: removed fake "student is asked" framing, reclassified factual) |
+| Thorax | 4, 39–51 | ✅ Rewritten (trimmed vitals/multi-finding staging on IDs 4, 39, 41, 43, 45, 51) |
+| Abdomen & Pelvis | 52–66 | ✅ Rewritten (trimmed irrelevant vignette staging on IDs 52, 54, 58; reclassified 56, 60 as factual — vignette added nothing to the actual landmark fact tested; trimmed 66) |
+| Head & Neck | 67–81 | ✅ Reviewed — already conformed to standard, no changes needed |
+| Neuroanatomy & Embryology | 82–95 | ✅ Rewritten (ID84: trimmed risk-factor preamble on Wallenberg syndrome question) |
+| Histology | 96–110 | ✅ Rewritten (trimmed unnecessary age/gender preambles on IDs 99, 102, 104, 106, 108, 110) |
+
+**Anatomy progress: 105/105 rewritten. Subject fully complete.**
+
+### Physiology (111 total) — NOT STARTED (ACTIVE NEXT)
 56/111 currently clinical, several staged with full lab workups (e.g. ABG panels for a COPD physiology question). Also needs the subtopic-naming cleanup noted in Section 7.
 
 ### Pharmacology (100 total) — NOT STARTED
@@ -153,8 +165,8 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 ## 9. After the Retroactive Rewrite
 
 1. ✅ Microbiology rewrite — COMPLETE (100/100)
-2. **Anatomy rewrite — ACTIVE NEXT** (56/105 currently clinical, needs full audit)
-3. Physiology rewrite (+ subtopic naming cleanup)
+2. ✅ Anatomy rewrite — COMPLETE (105/105)
+3. **Physiology rewrite (+ subtopic naming cleanup) — ACTIVE NEXT** (56/111 currently clinical)
 4. Pharmacology review/trim
 5. Pathology review/trim
 6. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
