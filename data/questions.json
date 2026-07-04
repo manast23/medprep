@@ -2620,7 +2620,7 @@
     "subject": "Physiology",
     "subtopic": "Renal & Body Fluids",
     "type": "clinical",
-    "question": "A 58-year-old man with chronic heart failure is started on furosemide. His urine output increases significantly. Which transport protein is directly inhibited by furosemide?",
+    "question": "A patient with heart failure started on furosemide has a marked increase in urine output. Which transport protein is directly inhibited by furosemide?",
     "options": [
       "Na+/K+-ATPase in the PCT",
       "Na+/H+ exchanger in the DCT",
@@ -2652,15 +2652,15 @@
     "subject": "Physiology",
     "subtopic": "Renal & Body Fluids",
     "type": "clinical",
-    "question": "A 35-year-old woman presents with polyuria and polydipsia. Her serum sodium is 148 mEq/L. Urine osmolality remains low despite water deprivation but rises after exogenous ADH administration. What is the most likely diagnosis?",
+    "question": "A patient with polyuria and polydipsia has dilute urine that remains dilute despite water deprivation and shows no response to desmopressin. What is the most likely diagnosis?",
     "options": [
       "Primary polydipsia",
       "Nephrogenic diabetes insipidus",
       "Central diabetes insipidus",
       "SIADH"
     ],
-    "correct": 2,
-    "explanation": "The water deprivation test showing persistently dilute urine confirms diabetes insipidus. The response to exogenous ADH (desmopressin) — urine osmolality rises — indicates that the kidneys are capable of responding to ADH, ruling out nephrogenic DI. This pattern is consistent with central (neurogenic) diabetes insipidus, caused by inadequate ADH secretion from the posterior pituitary.",
+    "correct": 1,
+    "explanation": "The water deprivation test shows persistently dilute urine, confirming diabetes insipidus. Because urine osmolality fails to rise even after exogenous desmopressin, the renal collecting ducts are unresponsive to ADH — consistent with nephrogenic diabetes insipidus. Central diabetes insipidus would instead show a rise in urine osmolality after desmopressin, since ADH secretion is deficient but renal responsiveness is intact.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 29, Regulation of Extracellular Fluid Osmolarity and Sodium Concentration"
   },
   {
@@ -2684,7 +2684,7 @@
     "subject": "Physiology",
     "subtopic": "Renal & Body Fluids",
     "type": "clinical",
-    "question": "A 70-year-old man with a history of hypertension is found to have a serum potassium of 2.8 mEq/L and metabolic alkalosis. He is on a medication that blocks the renin-angiotensin system distally. Which drug class most likely caused these findings?",
+    "question": "A hypertensive patient on a diuretic develops a serum potassium of 2.8 mEq/L and metabolic alkalosis. Which drug class most likely caused this?",
     "options": [
       "ACE inhibitors",
       "Thiazide diuretics",
@@ -2716,7 +2716,7 @@
     "subject": "Physiology",
     "subtopic": "Renal & Body Fluids",
     "type": "clinical",
-    "question": "A 45-year-old woman is admitted with confusion. Labs show: serum Na+ 118 mEq/L, urine osmolality 600 mOsm/kg, urine Na+ 55 mEq/L, and she is euvolemic. Which mechanism best explains her hyponatremia?",
+    "question": "A confused patient has serum Na+ 118 mEq/L, urine osmolality 600 mOsm/kg, urine Na+ 55 mEq/L, and is euvolemic. Which mechanism best explains this hyponatraemia?",
     "options": [
       "Excess free water loss",
       "Inappropriate ADH secretion causing water retention",
@@ -2748,7 +2748,7 @@
     "subject": "Physiology",
     "subtopic": "Renal & Body Fluids",
     "type": "clinical",
-    "question": "A 25-year-old man sustains severe burns over 40% of his body surface area. Four hours later, his urine output drops to 15 mL/hour. His urine osmolality is 750 mOsm/kg and urine Na+ is 8 mEq/L. What is the most likely cause of his oliguria?",
+    "question": "A patient with severe burns over 40% of body surface area develops oliguria, with urine osmolality 750 mOsm/kg and urine Na+ 8 mEq/L. What is the most likely cause?",
     "options": [
       "Acute tubular necrosis",
       "Pre-renal azotemia due to hypovolemia",
@@ -2780,7 +2780,7 @@
     "subject": "Physiology",
     "subtopic": "Renal & Body Fluids",
     "type": "clinical",
-    "question": "A 60-year-old man with type 2 diabetes presents with serum creatinine 3.2 mg/dL, urine protein 4+ on dipstick, and bilateral pitting oedema. Renal biopsy would most likely show which pathological finding?",
+    "question": "A patient with type 2 diabetes has a serum creatinine of 3.2 mg/dL, 4+ proteinuria, and bilateral pitting oedema. Which histological finding would renal biopsy most likely show?",
     "options": [
       "Diffuse glomerulosclerosis with Kimmelstiel-Wilson nodules",
       "Linear IgG deposits on glomerular basement membrane",
