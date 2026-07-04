@@ -2796,7 +2796,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 35-year-old woman presents with weight gain, fatigue, cold intolerance, constipation, and dry skin over 6 months. TSH is 18 mIU/L and free T4 is low. Which of the following best explains the elevated TSH?",
+    "question": "A patient has weight gain, fatigue, cold intolerance, and a low free T4 with a TSH of 18 mIU/L. Which mechanism best explains the elevated TSH?",
     "options": [
       "Loss of negative feedback from low thyroid hormones",
       "Increased TRH secretion from the posterior pituitary",
@@ -2830,7 +2830,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 28-year-old man with type 1 diabetes skips his insulin injection and develops nausea, vomiting, abdominal pain, and Kussmaul breathing. Blood glucose is 22 mmol/L and arterial pH is 7.18. What is the primary metabolic derangement driving his respiratory pattern?",
+    "question": "A patient in diabetic ketoacidosis has Kussmaul breathing, a blood glucose of 22 mmol/L, and an arterial pH of 7.18. What is the primary metabolic derangement driving this respiratory pattern?",
     "options": [
       "Hyperglycaemia stimulating the carotid chemoreceptors",
       "Metabolic acidosis stimulating central and peripheral chemoreceptors",
@@ -2864,7 +2864,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 45-year-old woman presents with hypertension, central obesity, purple striae, and proximal muscle weakness. 24-hour urinary free cortisol is markedly elevated and does not suppress with low-dose dexamethasone. Which of the following mechanisms best explains her hypertension?",
+    "question": "A patient with Cushing's syndrome has markedly elevated cortisol that fails to suppress with low-dose dexamethasone. Which mechanism best explains the associated hypertension?",
     "options": [
       "Cortisol directly activating aldosterone receptors in the distal nephron",
       "ACTH-driven aldosterone hypersecretion",
@@ -2898,7 +2898,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 55-year-old man with a known pituitary adenoma presents with headache, bitemporal hemianopia, and acromegalic features (enlarged hands, jaw prognathism, macroglossia). GH levels are elevated and do not suppress with oral glucose. What is the mechanism of his visual field defect?",
+    "question": "A patient with acromegaly from a pituitary adenoma develops bitemporal hemianopia. What is the mechanism of this visual field defect?",
     "options": [
       "GH-induced optic nerve demyelination",
       "Suprasellar extension of the adenoma compressing the optic chiasm",
@@ -2932,7 +2932,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 30-year-old woman in her third trimester is found to have low TSH, elevated free T4, and elevated total T3, but is clinically asymptomatic. The most likely explanation for these findings is:",
+    "question": "A pregnant woman has low TSH with elevated free T4 and total T3 but no symptoms of thyrotoxicosis. What is the most likely explanation?",
     "options": [
       "Gestational hyperthyroidism from hCG cross-reactivity with TSH receptors",
       "Autoimmune Graves' disease triggered by pregnancy",
@@ -2966,7 +2966,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 40-year-old woman presents with episodic headache, palpitations, and diaphoresis. BP during an episode is 210/120 mmHg. 24-hour urine shows elevated catecholamines and metanephrines. The tumour responsible secretes hormones that act on which receptor to increase heart rate?",
+    "question": "A patient with a catecholamine-secreting phaeochromocytoma has episodic hypertension, palpitations, and diaphoresis. Which receptor mediates the increase in heart rate?",
     "options": [
       "α1-adrenergic receptor",
       "α2-adrenergic receptor",
@@ -3000,7 +3000,7 @@
     "subject": "Physiology",
     "subtopic": "Endocrinology",
     "type": "clinical",
-    "question": "A 25-year-old man presents with polydipsia, polyuria (8 L/day), and dilute urine (osmolality 80 mOsm/kg). Plasma osmolality is 298 mOsm/kg. After water deprivation, urine osmolality remains low, but rises to 650 mOsm/kg after intranasal desmopressin (ADH analogue). What is the most likely diagnosis?",
+    "question": "A patient with polydipsia and polyuria (8 L/day) has dilute urine that remains dilute after water deprivation but concentrates markedly after desmopressin. What is the most likely diagnosis?",
     "options": [
       "Primary polydipsia (psychogenic)",
       "Central (neurogenic) diabetes insipidus",
