@@ -3221,7 +3221,7 @@
     "subject": "Physiology",
     "subtopic": "Blood",
     "type": "clinical",
-    "question": "A 25-year-old woman has microcytic hypochromic anaemia, low serum ferritin, and low transferrin saturation. Which step in haemoglobin synthesis is most directly impaired?",
+    "question": "A patient has microcytic hypochromic anaemia, low serum ferritin, and low transferrin saturation. Which step in haemoglobin synthesis is most directly impaired?",
     "options": [
       "Globin chain transcription",
       "Haem synthesis — incorporation of iron into protoporphyrin IX by ferrochelatase",
@@ -3255,7 +3255,7 @@
     "subject": "Physiology",
     "subtopic": "Blood",
     "type": "clinical",
-    "question": "A 10-year-old boy has prolonged bleeding after minor cuts, normal platelet count, prolonged aPTT, and normal PT. His maternal uncle has the same condition. Which protein is most likely deficient?",
+    "question": "A boy has prolonged bleeding after minor cuts, a normal platelet count, prolonged aPTT, and normal PT. His maternal uncle has the same condition. Which protein is most likely deficient?",
     "options": [
       "Von Willebrand factor",
       "Factor VIII",
@@ -3289,7 +3289,7 @@
     "subject": "Physiology",
     "subtopic": "Blood",
     "type": "clinical",
-    "question": "A 30-year-old woman (O Rh-negative) delivers an Rh-positive baby. She was not given anti-D immunoglobulin. In a subsequent Rh-positive pregnancy, her baby develops jaundice, anaemia, and hydrops fetalis. What is the mechanism?",
+    "question": "An Rh-negative woman who was not given anti-D immunoglobulin after an Rh-positive delivery has a subsequent Rh-positive baby with jaundice, anaemia, and hydrops fetalis. What is the mechanism?",
     "options": [
       "ABO incompatibility activating complement on fetal red cells",
       "Maternal IgM anti-D crossing the placenta and haemolysing fetal red cells",
@@ -3323,7 +3323,7 @@
     "subject": "Physiology",
     "subtopic": "Blood",
     "type": "clinical",
-    "question": "A 65-year-old man on warfarin for atrial fibrillation has an INR of 6.5 and presents with haematuria. Warfarin exerts its anticoagulant effect by:",
+    "question": "A patient on warfarin for atrial fibrillation has an INR of 6.5 and presents with haematuria. Warfarin exerts its anticoagulant effect by:",
     "options": [
       "Directly inhibiting thrombin (factor IIa)",
       "Blocking vitamin K epoxide reductase, impairing γ-carboxylation of factors II, VII, IX, X",
@@ -3357,7 +3357,7 @@
     "subject": "Physiology",
     "subtopic": "Nerve & Muscle",
     "type": "clinical",
-    "question": "A 40-year-old woman presents with progressive proximal muscle weakness, ptosis, and diplopia worsening toward the end of the day. Ice-pack test improves ptosis temporarily. Repetitive nerve stimulation shows a decremental response. Which mechanism explains her weakness?",
+    "question": "A patient has progressive proximal muscle weakness, ptosis, and diplopia worsening toward the end of the day, with a decremental response on repetitive nerve stimulation. Which mechanism explains her weakness?",
     "options": [
       "Autoantibodies blocking presynaptic voltage-gated Ca²⁺ channels",
       "Autoantibodies against nicotinic acetylcholine receptors at the neuromuscular junction",
@@ -3391,7 +3391,7 @@
     "subject": "Physiology",
     "subtopic": "Nerve & Muscle",
     "type": "clinical",
-    "question": "A farmer presents 2 hours after accidental exposure to an organophosphate pesticide with miosis, excessive salivation, bronchospasm, bradycardia, and muscle fasciculations. Which mechanism explains the fasciculations?",
+    "question": "A farmer exposed to an organophosphate pesticide develops miosis, excessive salivation, bronchospasm, bradycardia, and muscle fasciculations. Which mechanism explains the fasciculations?",
     "options": [
       "Direct nicotinic receptor agonism by the organophosphate",
       "Accumulation of acetylcholine at nicotinic NMJ receptors due to acetylcholinesterase inhibition",
@@ -3425,7 +3425,7 @@
     "subject": "Physiology",
     "subtopic": "Nerve & Muscle",
     "type": "clinical",
-    "question": "A 55-year-old man develops ascending flaccid paralysis and absent reflexes 2 weeks after a respiratory infection. Nerve conduction studies show reduced motor conduction velocity. Which structure is primarily targeted?",
+    "question": "A patient develops ascending flaccid paralysis and absent reflexes two weeks after a respiratory infection, with reduced motor conduction velocity on nerve conduction studies. Which structure is primarily targeted?",
     "options": [
       "Anterior horn cells of the spinal cord",
       "Peripheral nerve myelin sheaths",
@@ -3476,7 +3476,7 @@
     "subject": "Physiology",
     "subtopic": "Special Senses",
     "type": "clinical",
-    "question": "A 70-year-old man notices difficulty reading and a central scotoma in his right eye. Fundoscopy shows drusen and subretinal neovascularisation at the macula. Which cell type is primarily lost early in this condition?",
+    "question": "A patient has difficulty reading and a central scotoma, with fundoscopy showing drusen and subretinal neovascularisation at the macula. Which cell type is primarily lost early in this condition?",
     "options": [
       "Retinal ganglion cells",
       "Rod photoreceptors in the peripheral retina",
@@ -3510,7 +3510,7 @@
     "subject": "Physiology",
     "subtopic": "Special Senses",
     "type": "clinical",
-    "question": "A 55-year-old man presents with sudden unilateral sensorineural hearing loss, tinnitus, and episodic vertigo lasting hours. Which structure is most likely affected?",
+    "question": "A patient has sudden unilateral sensorineural hearing loss, tinnitus, and episodic vertigo lasting hours. Which structure is most likely affected?",
     "options": [
       "External auditory canal",
       "Ossicular chain in the middle ear",
@@ -3544,7 +3544,7 @@
     "subject": "Physiology",
     "subtopic": "Special Senses",
     "type": "clinical",
-    "question": "A 25-year-old presents after head trauma with loss of smell. CT shows fracture of the cribriform plate. Which structure is damaged to cause anosmia?",
+    "question": "A patient develops loss of smell after head trauma, with CT showing a fracture of the cribriform plate. Which structure is damaged to cause the anosmia?",
     "options": [
       "Olfactory cortex in the temporal lobe",
       "Olfactory nerve filaments (CN I) passing through the cribriform plate",
@@ -3578,7 +3578,7 @@
     "subject": "Physiology",
     "subtopic": "Reproduction",
     "type": "clinical",
-    "question": "A 28-year-old woman has oligomenorrhoea, hirsutism, and acne. LH:FSH ratio is elevated and fasting insulin is high. Which mechanism best explains her anovulation?",
+    "question": "A woman has oligomenorrhoea, hirsutism, and acne, with an elevated LH:FSH ratio and high fasting insulin. Which mechanism best explains her anovulation?",
     "options": [
       "Primary ovarian failure from autoimmune destruction",
       "Excess androgens and insulin disrupting the LH surge and follicular development",
@@ -3612,7 +3612,7 @@
     "subject": "Physiology",
     "subtopic": "Reproduction",
     "type": "clinical",
-    "question": "A 50-year-old woman has hot flushes, night sweats, vaginal dryness, and elevated FSH. Which best explains her FSH elevation?",
+    "question": "A woman has hot flushes, night sweats, vaginal dryness, and elevated FSH. Which best explains her FSH elevation?",
     "options": [
       "Increased GnRH sensitivity of gonadotrophs",
       "Loss of negative feedback from declining ovarian oestradiol and inhibin B",
