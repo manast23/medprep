@@ -105,11 +105,11 @@ General medical knowledge practice app — not tied to any specific exam, countr
 
 | Subject | Count | Status |
 |---|---|---|
-| Anatomy | 105 | ✅ Complete — ⚠️ needs retroactive format rewrite |
+| Anatomy | 105 | ✅ Complete — ⚠️ needs retroactive format rewrite (NEXT UP) |
 | Physiology | 111 | ✅ Complete — ⚠️ needs retroactive format rewrite + subtopic naming cleanup (3 stray subtopic labels: "Renal", "Endocrine", "Neurophysiology" outside the official 10-subtopic taxonomy — need reassignment) |
 | Pathology | 100 | ✅ Complete — ⚠️ needs partial rewrite (least affected, ~31 clinical questions to review) |
 | Pharmacology | 100 | ✅ Complete — ⚠️ needs partial rewrite (~78 clinical questions to review) |
-| Microbiology | 100 | 🔄 Retroactive rewrite IN PROGRESS — see Section 8 |
+| Microbiology | 100 | ✅ Retroactive rewrite COMPLETE (100/100) — see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
@@ -123,7 +123,7 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 
 **Order:** Microbiology → Anatomy → Physiology → Pharmacology → Pathology
 
-### Microbiology (100 total) — IN PROGRESS
+### Microbiology (100 total) — ✅ COMPLETE
 | Subtopic | IDs | Status |
 |---|---|---|
 | General Microbiology & Bacteriology | 417–436 | ✅ Rewritten |
@@ -131,12 +131,12 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 | Gram-negative Bacteria | 452–466 | ✅ Rewritten (fixed #457 — was duplicate of cholera toxin mechanism already tested in #434; replaced with chancroid/H. ducreyi) |
 | Mycobacteria & Atypical Organisms | 467–476 | ✅ Rewritten |
 | Virology | 477–496 | ✅ Rewritten |
-| Mycology & Parasitology | 497–506 | ⏳ Next (10 questions) |
-| Immunology | 507–516 | ⏳ Pending (10 questions) |
+| Mycology & Parasitology | 497–506 | ✅ Rewritten |
+| Immunology | 507–516 | ✅ Rewritten |
 
-**Microbiology progress: 80/100 rewritten.**
+**Microbiology progress: 100/100 rewritten. Subject fully complete.**
 
-### Anatomy (105 total) — NOT STARTED
+### Anatomy (105 total) — NOT STARTED (ACTIVE NEXT)
 56/105 questions currently clinical, many staged as full trauma/ED cases (e.g. the original #1, a motorcyclist brachial plexus injury case, was literally the old doc's own template example). Needs full audit — expect most "clinical" questions to convert to direct structure-ID/relations questions, keeping only brief one-line correlations where genuinely testing a nerve/vessel injury concept.
 
 ### Physiology (111 total) — NOT STARTED
@@ -152,8 +152,8 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 
 ## 9. After the Retroactive Rewrite
 
-1. Finish Microbiology rewrite (Virology, Mycology & Parasitology, Immunology)
-2. Anatomy rewrite
+1. ✅ Microbiology rewrite — COMPLETE (100/100)
+2. **Anatomy rewrite — ACTIVE NEXT** (56/105 currently clinical, needs full audit)
 3. Physiology rewrite (+ subtopic naming cleanup)
 4. Pharmacology review/trim
 5. Pathology review/trim
