@@ -10710,5 +10710,195 @@
     "explanation": "GLUT4 is the primary insulin-dependent glucose transporter in skeletal muscle and adipose tissue, and its translocation to the cell membrane depends on insulin signaling. In absolute insulin deficiency, as seen in type 1 diabetes, GLUT4 translocation is severely impaired, limiting glucose uptake into these tissues. GLUT2 instead mediates glucose transport in the liver, pancreatic beta cells, and kidney in an insulin-independent manner, so it is not the transporter primarily affected.",
     "reference": "Harper's Illustrated Biochemistry, 31st ed. — Chapter 19",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537322/"
+  },
+  {
+    "id": 617,
+    "subject": "Community Medicine",
+    "topic": "Measures of Central Tendency",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "In a right-skewed (positively skewed) distribution, which measure of central tendency has the highest value?",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "Standard deviation",
+      "Range"
+    ],
+    "correct": 2,
+    "explanation": "In a right-skewed distribution, the tail extends toward higher values, pulling the mean toward that tail more than the median or mode. The mode remains at the peak of the distribution, the median lies between the mode and the mean, giving the typical ordering mode < median < mean. This ordering is a classic way to identify skewness in a dataset.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546702/"
+  },
+  {
+    "id": 618,
+    "subject": "Community Medicine",
+    "topic": "Standard Error vs Standard Deviation",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "What does the standard error of the mean (SEM) measure, as distinct from the standard deviation (SD)?",
+    "options": [
+      "The variability of individual observations around the population mean",
+      "The precision of the sample mean as an estimate of the true population mean",
+      "The spread of the entire population",
+      "The proportion of variance explained by a model",
+      "The probability of a Type I error"
+    ],
+    "correct": 1,
+    "explanation": "The SEM quantifies how much a sample mean is expected to vary from the true population mean across repeated samples, and it decreases as sample size increases. The SD, in contrast, measures the spread of individual data points around the mean within the data itself and does not shrink with a larger sample size. Because the SEM reflects the precision of estimation, it is used to construct confidence intervals around a sample mean.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK574574/"
+  },
+  {
+    "id": 619,
+    "subject": "Community Medicine",
+    "topic": "Normal Distribution",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "In a normal (Gaussian) distribution, approximately what percentage of values lie within one standard deviation of the mean?",
+    "options": [
+      "50%",
+      "68%",
+      "95%",
+      "99.7%",
+      "34%"
+    ],
+    "correct": 1,
+    "explanation": "In a normal distribution, approximately 68% of all values fall within one standard deviation (±1 SD) of the mean, per the empirical 68-95-99.7 rule. About 95% of values lie within two SDs, and about 99.7% lie within three SDs of the mean. This rule allows quick estimation of how unusual a given value is relative to the rest of the distribution.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK574574/"
+  },
+  {
+    "id": 620,
+    "subject": "Community Medicine",
+    "topic": "P-values",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "A study reports a p-value of 0.03 when comparing two treatments. What does this value indicate?",
+    "options": [
+      "There is a 3% probability that the null hypothesis is true",
+      "There is a 97% probability that the alternative hypothesis is true",
+      "If the null hypothesis were true, a difference this extreme or more extreme would occur by chance only 3% of the time",
+      "The treatment effect size is 0.03",
+      "The study has a 3% chance of a Type II error"
+    ],
+    "correct": 2,
+    "explanation": "A p-value represents the probability of observing results as extreme as, or more extreme than, those obtained, assuming the null hypothesis is true. A p-value of 0.03 means that if there were truly no difference between treatments, a difference this large would occur by chance only 3% of the time. It does not represent the probability that the null hypothesis itself is true, which is a common misinterpretation of the p-value.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557421/"
+  },
+  {
+    "id": 621,
+    "subject": "Community Medicine",
+    "topic": "Statistical Tests",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "The Chi-square test is most appropriately used to analyze the relationship between which type of variables?",
+    "options": [
+      "Two continuous variables",
+      "Two categorical variables",
+      "One continuous and one categorical variable with paired data",
+      "Time-to-event data",
+      "Ranked ordinal data with a very small sample size"
+    ],
+    "correct": 1,
+    "explanation": "The Chi-square test evaluates whether there is a statistically significant association between two categorical variables by comparing observed frequencies to those expected under independence. It is not appropriate for continuous data, which are better analyzed using t-tests, ANOVA, or correlation depending on the comparison. When expected cell counts are very small, Fisher's exact test is used instead of the Chi-square test.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557882/"
+  },
+  {
+    "id": 622,
+    "subject": "Community Medicine",
+    "topic": "Statistical Errors",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "Rejecting a null hypothesis that is actually true is an example of which type of statistical error?",
+    "options": [
+      "Type I error",
+      "Type II error",
+      "Selection bias",
+      "Confounding",
+      "Recall bias"
+    ],
+    "correct": 0,
+    "explanation": "A Type I error (false positive) occurs when a true null hypothesis is incorrectly rejected, concluding there is an effect or difference when none truly exists. The probability of a Type I error is denoted by alpha, conventionally set at 0.05. A Type II error, by contrast, occurs when a false null hypothesis is incorrectly accepted, failing to detect a true effect.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557421/"
+  },
+  {
+    "id": 623,
+    "subject": "Community Medicine",
+    "topic": "Sampling Methods",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "Which sampling technique gives every individual in the population an equal and independent chance of being selected?",
+    "options": [
+      "Stratified sampling",
+      "Cluster sampling",
+      "Simple random sampling",
+      "Convenience sampling",
+      "Quota sampling"
+    ],
+    "correct": 2,
+    "explanation": "Simple random sampling selects individuals such that every person has an equal and independent probability of being chosen, typically using a random number generator or lottery method. This minimizes selection bias but requires a complete sampling frame (a full list of the population) to be feasible. Stratified and cluster sampling, in contrast, first divide the population into subgroups before sampling occurs.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12897549/"
+  },
+  {
+    "id": 624,
+    "subject": "Community Medicine",
+    "topic": "Sampling Methods",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "Dividing a population into subgroups based on a shared characteristic (e.g. age group) and then randomly sampling from each subgroup is called which sampling method?",
+    "options": [
+      "Cluster sampling",
+      "Systematic sampling",
+      "Stratified sampling",
+      "Convenience sampling",
+      "Snowball sampling"
+    ],
+    "correct": 2,
+    "explanation": "Stratified sampling divides the population into distinct, non-overlapping subgroups (strata) based on a shared characteristic, then draws a random sample from each stratum, ensuring representation of key subgroups. This method increases precision compared to simple random sampling when subgroups differ meaningfully in the outcome being studied. Cluster sampling, in contrast, randomly selects entire pre-existing groups rather than sampling within every subgroup.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12897549/"
+  },
+  {
+    "id": 625,
+    "subject": "Community Medicine",
+    "topic": "Correlation",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "A correlation coefficient (r) of -0.85 between two variables indicates which type of relationship?",
+    "options": [
+      "A weak positive correlation",
+      "No correlation",
+      "A strong negative correlation",
+      "A strong positive correlation",
+      "A perfect negative correlation"
+    ],
+    "correct": 2,
+    "explanation": "A correlation coefficient close to -1 indicates a strong negative (inverse) linear relationship, meaning that as one variable increases, the other tends to decrease substantially. The magnitude of r indicates the strength of the linear association, while the sign indicates its direction. A perfect negative correlation would require r to equal exactly -1.00, not -0.85.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557882/"
+  },
+  {
+    "id": 626,
+    "subject": "Community Medicine",
+    "topic": "Measures of Central Tendency",
+    "subtopic": "Biostatistics",
+    "type": "factual",
+    "question": "Why is the median preferred over the mean as a measure of central tendency in a skewed distribution?",
+    "options": [
+      "The median is easier to calculate",
+      "The median is not markedly affected by extreme outlier values",
+      "The median always equals the mode",
+      "The median requires a larger sample size",
+      "The median accounts for the standard deviation"
+    ],
+    "correct": 1,
+    "explanation": "The median is the middle value of an ordered dataset and is therefore resistant to the influence of extreme outliers or a long tail, unlike the mean, which is calculated from every value and is pulled toward extreme scores. In a skewed distribution, the mean can give a misleading impression of the 'typical' value, while the median better represents central tendency. This makes the median the preferred summary statistic for skewed data such as household income or hospital length of stay.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546702/"
   }
 ]
