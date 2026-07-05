@@ -8555,7 +8555,7 @@
     "id": 497,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A CSF sample shows encapsulated yeast on India ink stain with a positive cryptococcal antigen test. Which virulence factor most contributes to immune evasion?",
     "options": [
       "Melanin production in the cell wall protecting against oxidative killing",
@@ -8573,7 +8573,7 @@
     "id": 498,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A yeast blood culture isolate is germ tube positive after incubation in serum at 37°C. Which organism does this identify?",
     "options": [
       "Cryptococcus neoformans — encapsulated yeast, germ tube negative",
@@ -8591,7 +8591,7 @@
     "id": 499,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Bronchoalveolar lavage in a neutropenic patient shows septate hyphae branching at 45-degree angles, with a CT halo sign. Which organism is this, and what is first-line treatment?",
     "options": [
       "Mucor species — broad aseptate hyphae branching at 90 degrees, treated with amphotericin B",
@@ -8609,7 +8609,7 @@
     "id": 500,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Biopsy of sinonasal tissue in a diabetic patient shows broad, pauci-septate hyphae branching at right angles. Which organism is responsible, and why are diabetics susceptible?",
     "options": [
       "Aspergillus fumigatus — septate hyphae at 45°, affects neutropenic patients",
@@ -8627,7 +8627,7 @@
     "id": 501,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A blood film shows small ring-form trophozoites infecting red cells of all ages, with no RBC enlargement. Which Plasmodium species is this, and why is it most lethal?",
     "options": [
       "Plasmodium vivax — enlarges red cells, Schüffner's dots, relapsing malaria from hypnozoites",
@@ -8645,7 +8645,7 @@
     "id": 502,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Stool microscopy shows pear-shaped flagellated trophozoites and quadrinucleate cysts. By what mechanism does this organism cause malabsorptive diarrhoea?",
     "options": [
       "Invasion of intestinal epithelial cells causing inflammatory colitis",
@@ -8663,7 +8663,7 @@
     "id": 503,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Modified acid-fast stain of stool shows small (4–6 µm) pink oocysts in an immunocompromised patient. Why is this infection difficult to treat in AIDS?",
     "options": [
       "Giardia lamblia — quadrinucleate cysts, treated with metronidazole",
@@ -8681,7 +8681,7 @@
     "id": 504,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Bone marrow biopsy shows amastigotes within macrophages in a patient with fever, hepatosplenomegaly, and pancytopenia. Which organism and vector are responsible?",
     "options": [
       "Trypanosoma brucei — causes sleeping sickness, transmitted by the tsetse fly",
@@ -8699,7 +8699,7 @@
     "id": 505,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A patient has megaoesophagus, megacolon, and right bundle branch block. Which organism caused this, and what is the pathophysiological mechanism?",
     "options": [
       "Leishmania donovani — amastigotes destroying enteric neurons in the myenteric plexus",
@@ -8717,7 +8717,7 @@
     "id": 506,
     "subject": "Microbiology",
     "subtopic": "Mycology & Parasitology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Stool microscopy shows trophozoites containing ingested red blood cells, alongside a large liver abscess. How does this organism cause the abscess?",
     "options": [
       "Giardia lamblia — non-invasive, does not cause liver abscess",
@@ -8735,7 +8735,7 @@
     "id": 507,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "An infant has absent B cells and panhypogammaglobulinaemia with normal T cell counts. Which of the following best explains this presentation?",
     "options": [
       "Defective IL-2 receptor gamma chain causing combined immunodeficiency",
@@ -8753,7 +8753,7 @@
     "id": 508,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A patient develops urticaria, hypotension, and bronchospasm within minutes of IV penicillin. Which immunological mechanism is responsible?",
     "options": [
       "IgG-mediated complement activation against drug-coated red cells",
@@ -8771,7 +8771,7 @@
     "id": 509,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "An HIV patient with a CD4 count of 45 cells/µL develops Pneumocystis jirovecii pneumonia. Which arm of immunity is primarily deficient?",
     "options": [
       "Neutrophil-mediated phagocytosis",
@@ -8807,7 +8807,7 @@
     "id": 511,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A child has recurrent bacterial infections with low IgG and IgA but normal IgM, and normal B and T cell counts. Which diagnosis best fits?",
     "options": [
       "X-linked agammaglobulinaemia",
@@ -8825,7 +8825,7 @@
     "id": 512,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "An SLE patient has markedly reduced C3 and C4 with positive anti-dsDNA antibodies. Which mechanism explains the complement consumption?",
     "options": [
       "Inherited C3 deficiency causing compensatory classical pathway upregulation",
@@ -8843,7 +8843,7 @@
     "id": 513,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A child with recurrent S. aureus and Aspergillus infections has an absent nitroblue tetrazolium (NBT) reduction test. Which is the underlying defect?",
     "options": [
       "Absence of myeloperoxidase in neutrophil granules",
@@ -8879,7 +8879,7 @@
     "id": 515,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "An infant with hypocalcaemic tetany after cardiac surgery has an absent thymic shadow and markedly reduced T cells with normal B cells. Which diagnosis best fits?",
     "options": [
       "X-linked agammaglobulinaemia with incidental hypocalcaemia",
@@ -8897,7 +8897,7 @@
     "id": 516,
     "subject": "Microbiology",
     "subtopic": "Immunology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A kidney transplant biopsy at 2 weeks shows mononuclear infiltration destroying tubular epithelium. Which mechanism primarily drives this rejection?",
     "options": [
       "Preformed recipient IgG antibodies against donor HLA antigens fixing complement",
