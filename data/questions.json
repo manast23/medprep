@@ -4818,8 +4818,8 @@
     "id": 286,
     "subject": "Pathology",
     "subtopic": "Renal Pathology",
-    "type": "clinical",
-    "question": "A 25-year-old man with recurrent macroscopic haematuria after upper respiratory tract infections has mesangial IgA deposits on immunofluorescence. The diagnosis is:",
+    "type": "factual",
+    "question": "Recurrent macroscopic haematuria following upper respiratory tract infections, with mesangial IgA deposits on immunofluorescence, is diagnostic of which condition?",
     "options": [
       "Post-streptococcal GN",
       "IgA nephropathy (Berger disease)",
@@ -4869,8 +4869,8 @@
     "id": 289,
     "subject": "Pathology",
     "subtopic": "Renal Pathology",
-    "type": "clinical",
-    "question": "A 55-year-old man presents with flank pain, haematuria, and a palpable abdominal mass. CT shows a heterogeneous renal mass with areas of necrosis. The most likely diagnosis is:",
+    "type": "factual",
+    "question": "Flank pain, haematuria, and a palpable abdominal mass, with a heterogeneous renal mass showing necrosis on CT, is most consistent with which diagnosis?",
     "options": [
       "Angiomyolipoma",
       "Renal cell carcinoma",
@@ -4920,8 +4920,8 @@
     "id": 292,
     "subject": "Pathology",
     "subtopic": "Renal Pathology",
-    "type": "clinical",
-    "question": "A 70-year-old woman with longstanding hypertension has bilaterally small, granular kidneys on ultrasound. Biopsy shows hyaline arteriolosclerosis and global glomerulosclerosis. The diagnosis is:",
+    "type": "factual",
+    "question": "Bilaterally small, granular kidneys with hyaline arteriolosclerosis and global glomerulosclerosis on biopsy, in the setting of longstanding hypertension, is characteristic of which condition?",
     "options": [
       "Malignant hypertension",
       "Benign nephrosclerosis",
