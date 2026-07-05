@@ -5634,8 +5634,8 @@
     "id": 334,
     "subject": "Pharmacology",
     "subtopic": "Autonomic Pharmacology",
-    "type": "clinical",
-    "question": "A farmer presents with miosis, bradycardia, excessive salivation, bronchospasm, and muscle fasciculations after pesticide exposure. The antidote is:",
+    "type": "factual",
+    "question": "Organophosphate poisoning causes miosis, bradycardia, excessive salivation, bronchospasm, and muscle fasciculations. Which drug is the antidote?",
     "options": [
       "Naloxone and flumazenil",
       "Atropine and pralidoxime",
@@ -5702,8 +5702,8 @@
     "id": 338,
     "subject": "Pharmacology",
     "subtopic": "Autonomic Pharmacology",
-    "type": "clinical",
-    "question": "A patient with phaeochromocytoma is to undergo surgical resection. Which drug must be given FIRST before any beta-blocker?",
+    "type": "factual",
+    "question": "Before surgical resection of a phaeochromocytoma, which drug must be given first, before any beta-blocker?",
     "options": [
       "Labetalol",
       "Phenoxybenzamine",
@@ -5753,8 +5753,8 @@
     "id": 341,
     "subject": "Pharmacology",
     "subtopic": "Autonomic Pharmacology",
-    "type": "clinical",
-    "question": "A 60-year-old man with hypertension is given a non-selective beta-blocker and develops severe bronchospasm. Which condition predisposes him to this adverse effect?",
+    "type": "factual",
+    "question": "Which underlying condition predisposes to severe bronchospasm when a non-selective beta-blocker is given?",
     "options": [
       "Diabetes mellitus",
       "Asthma or COPD",
@@ -5821,8 +5821,8 @@
     "id": 345,
     "subject": "Pharmacology",
     "subtopic": "Autonomic Pharmacology",
-    "type": "clinical",
-    "question": "A patient taking a non-selective beta-blocker is given adrenaline for anaphylaxis. Which paradoxical response may occur?",
+    "type": "factual",
+    "question": "What paradoxical hypertensive response can occur if adrenaline is given for anaphylaxis to someone already on a non-selective beta-blocker?",
     "options": [
       "Excessive bronchodilation",
       "Severe hypertension due to unopposed alpha-1 stimulation",
