@@ -7565,7 +7565,7 @@
     "id": 442,
     "subject": "Microbiology",
     "subtopic": "Gram-positive Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "In staphylococcal toxic shock syndrome, TSST-1 produces fever, diffuse erythroderma, and hypotension through which mechanism?",
     "options": [
       "Direct cytotoxic destruction of vascular endothelium",
@@ -7673,7 +7673,7 @@
     "id": 448,
     "subject": "Microbiology",
     "subtopic": "Gram-positive Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "In a child with a sandpaper-like rash, strawberry tongue, and circumoral pallor following streptococcal pharyngitis, which toxin is responsible for the rash?",
     "options": [
       "TSST-1 acting as a superantigen",
@@ -7709,7 +7709,7 @@
     "id": 450,
     "subject": "Microbiology",
     "subtopic": "Gram-positive Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "In an immunocompromised patient with a cavitating pulmonary nodule, sputum shows Gram-positive, beaded, branching filamentous rods that are weakly acid-fast. Which organism is responsible?",
     "options": [
       "Actinomyces israelii",
