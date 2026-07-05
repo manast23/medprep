@@ -232,7 +232,7 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
-6. **Community Medicine — ACTIVE NEXT** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in). Since Community Medicine sits closer to para-clinical/public-health territory, apply the Section 6 para-clinical standard (`factual` type, direct fact statements) unless a genuine clinical-scenario question is warranted (e.g. outbreak investigation reasoning) — use judgement per question.
+6. **Community Medicine — ACTIVE NEXT** — subject card image ✅ DONE (uploaded to `public/community-medicine.jpg`, card title renders as "Community Medicine (Epidemiology & Biostatistics)" with the parenthetical in a smaller sub-size; reference set to Park's Textbook of Preventive and Social Medicine). Next: write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in). Since Community Medicine sits closer to para-clinical/public-health territory, apply the Section 6 para-clinical standard (`factual` type, direct fact statements) unless a genuine clinical-scenario question is warranted (e.g. outbreak investigation reasoning) — use judgement per question.
 7. **Forensic Medicine** — deferred 8th subject
 
 ---
