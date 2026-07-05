@@ -7853,7 +7853,7 @@
     "id": 458,
     "subject": "Microbiology",
     "subtopic": "Gram-negative Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "Mesenteric adenitis mimicking acute appendicitis (pseudoappendicitis), following exposure to contaminated pork or unpasteurised milk, is classically caused by which organism, notable for its ability to grow at 4°C?",
     "options": [
       "Salmonella enteritidis",
@@ -7871,7 +7871,7 @@
     "id": 459,
     "subject": "Microbiology",
     "subtopic": "Gram-negative Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "A rapidly progressive, necrotising wound infection with haemorrhagic bullae following a saltwater injury is most dangerous in patients with liver disease or iron overload. Which curved, oxidase-positive Gram-negative rod is responsible?",
     "options": [
       "Aeromonas hydrophila",
@@ -7889,7 +7889,7 @@
     "id": 460,
     "subject": "Microbiology",
     "subtopic": "Gram-negative Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "Undulant fever, night sweats, arthralgia, and hepatosplenomegaly following contact with livestock or their birth products suggest brucellosis. Which mechanism allows Brucella species to survive within macrophages?",
     "options": [
       "Inhalation of aerosols preventing phagocyte contact entirely",
@@ -7997,7 +7997,7 @@
     "id": 466,
     "subject": "Microbiology",
     "subtopic": "Gram-negative Bacteria",
-    "type": "clinical",
+    "type": "factual",
     "question": "Psittacosis, an atypical pneumonia with hilar lymphadenopathy acquired from bird exposure, is caused by which obligate intracellular organism with a Gram-negative-like cell wall?",
     "options": [
       "Histoplasma capsulatum",
