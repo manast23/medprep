@@ -58,6 +58,14 @@ const SUBJECTS = [
     description: 'Metabolism, molecular biology, genetics, and clinical correlations — from enzyme kinetics to inborn errors of metabolism.',
     image: '/biochemistry.jpg',
   },
+  {
+    key: 'Community Medicine',
+    title: 'Community Medicine',
+    subtitle: 'Epidemiology & Biostatistics',
+    references: "Park's Textbook of Preventive and Social Medicine",
+    description: 'Disease surveillance, epidemiological study design, biostatistics, and public health principles for population-level medicine.',
+    image: '/community-medicine.jpg',
+  },
 ]
 
 const COMING_SOON = []
@@ -179,7 +187,10 @@ export default function Home() {
                   <span className={styles.questionBadge}>{SUBJECT_COUNTS[subject.key] || 0} Questions</span>
                 </div>
                 <div className={styles.cardContent}>
-                  <h3 className={styles.cardTitle}>{subject.title}</h3>
+                  <h3 className={styles.cardTitle}>
+                    {subject.title}
+                    {subject.subtitle && <span className={styles.cardTitleSub}> ({subject.subtitle})</span>}
+                  </h3>
                   <p className={styles.cardRefs}>{subject.references}</p>
                   <p className={styles.cardDescription}>{subject.description}</p>
                   <button className={styles.exploreBtn} onClick={(e) => { e.stopPropagation(); handleExplore(subject.key) }}>
