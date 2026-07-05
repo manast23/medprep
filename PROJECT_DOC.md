@@ -120,7 +120,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Physiology | 111 | ✅ Retroactive rewrite COMPLETE (111/111) + subtopic naming cleanup done — see Section 8 |
 | Pathology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
-| Microbiology | 100 | ✅ Format rewrite COMPLETE (100/100) under OLD standard — ⚠️ needs a second pass to retire `clinical` type under new para-clinical standard (see Section 6 policy correction) |
+| Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
@@ -134,18 +134,20 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 
 **Order:** Microbiology → Anatomy → Physiology → Pharmacology → Pathology
 
-### Microbiology (100 total) — ✅ COMPLETE under OLD standard; ⚠️ PHASE 2 NEEDED
+### Microbiology (100 total) — ✅ COMPLETE (Phase 1 + Phase 2)
 | Subtopic | IDs | Status |
 |---|---|---|
-| General Microbiology & Bacteriology | 417–436 | ✅ Rewritten (old standard) |
-| Gram-positive Bacteria | 437–451 | ✅ Rewritten (old standard; fixed #444 miscategorization — was testing a viral cause of croup under a bacteria subtopic) |
-| Gram-negative Bacteria | 452–466 | ✅ Rewritten (old standard; fixed #457 — was duplicate of cholera toxin mechanism already tested in #434; replaced with chancroid/H. ducreyi) |
-| Mycobacteria & Atypical Organisms | 467–476 | ✅ Rewritten (old standard) |
-| Virology | 477–496 | ✅ Rewritten (old standard) |
-| Mycology & Parasitology | 497–506 | ✅ Rewritten (old standard) |
-| Immunology | 507–516 | ✅ Rewritten (old standard) |
+| General Microbiology & Bacteriology | 417–436 | ✅ Rewritten (Phase 1, old standard); Phase 2 reclassified 6 already-direct organism-fact questions as `factual` |
+| Gram-positive Bacteria | 437–451 | ✅ Rewritten (Phase 1; fixed #444 miscategorization — was testing a viral cause of croup under a bacteria subtopic); Phase 2 reclassified 3 |
+| Gram-negative Bacteria | 452–466 | ✅ Rewritten (Phase 1; fixed #457 — was duplicate of cholera toxin mechanism already tested in #434; replaced with chancroid/H. ducreyi); Phase 2 reclassified 4 |
+| Mycobacteria & Atypical Organisms | 467–476 | ✅ Rewritten (Phase 1); Phase 2 reclassified 1 |
+| Virology | 477–496 | ✅ Rewritten (Phase 1); Phase 2 reclassified 5 |
+| Mycology & Parasitology | 497–506 | ✅ Rewritten (Phase 1); Phase 2 reclassified all 10 |
+| Immunology | 507–516 | ✅ Rewritten (Phase 1); Phase 2 reclassified 8 |
 
-**Microbiology progress: 100/100 rewritten to the old "brief clinical trigger" standard. NEEDS PHASE 2: retire `clinical` type per the July 2026 para-clinical policy correction (Section 6) — convert remaining patient-framed stems to direct organism-fact statements.**
+**Microbiology progress: 100/100 rewritten, 100/100 `factual`. Phase 2 confirmed the Phase 1 "brief clinical trigger" stems were already impersonal, direct organism-fact statements (lab/microscopy findings or disease-category descriptions, no invented patient with age/timeline) — so Phase 2 was a `type` reclassification pass rather than a rewording pass. Subject fully complete under the new standard.**
+
+**This closes out the full para-clinical policy correction: Pathology, Pharmacology, and Microbiology are all 100% `factual`, zero `clinical`-type questions remain in any para-clinical subject.**
 
 ### Pharmacology (100 total) — ✅ COMPLETE under new para-clinical standard
 All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct drug-fact statement (mechanism, adverse effect, indication, or interaction) with no patient framing — no age, no "presents with," no vitals/labs.
@@ -222,14 +224,16 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 ## 9. After the Retroactive Rewrite
 
-1. ✅ Microbiology rewrite (old standard) — COMPLETE (100/100)
+1. ✅ Microbiology rewrite — COMPLETE (100/100, Phase 1 + Phase 2, all `factual`)
 2. ✅ Anatomy rewrite — COMPLETE (105/105)
 3. ✅ Physiology rewrite (+ subtopic naming cleanup) — COMPLETE (111/111)
 4. ✅ Pharmacology — full rewrite under new para-clinical standard — COMPLETE (100/100 factual)
 5. ✅ Pathology — full rewrite under new para-clinical standard — COMPLETE (100/100 factual)
-6. **Microbiology — Phase 2 pass to retire `clinical` type under new para-clinical standard — ACTIVE NEXT**
-7. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
-8. **Forensic Medicine** — deferred 8th subject
+
+**The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
+
+6. **Community Medicine — ACTIVE NEXT** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in). Since Community Medicine sits closer to para-clinical/public-health territory, apply the Section 6 para-clinical standard (`factual` type, direct fact statements) unless a genuine clinical-scenario question is warranted (e.g. outbreak investigation reasoning) — use judgement per question.
+7. **Forensic Medicine** — deferred 8th subject
 
 ---
 
