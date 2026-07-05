@@ -4427,8 +4427,8 @@
     "id": 263,
     "subject": "Pathology",
     "subtopic": "Respiratory Pathology",
-    "type": "clinical",
-    "question": "A 55-year-old non-smoker with alpha-1 antitrypsin deficiency presents with progressive dyspnoea. Spirometry shows decreased FEV1/FVC. CT shows lower lobe-predominant emphysema. Which mechanism explains the lung destruction?",
+    "type": "factual",
+    "question": "In alpha-1 antitrypsin deficiency, which mechanism explains the resulting panacinar emphysema?",
     "options": [
       "Excess mucus production blocking airways",
       "Unopposed neutrophil elastase degrading alveolar walls",
@@ -4495,8 +4495,8 @@
     "id": 267,
     "subject": "Pathology",
     "subtopic": "Respiratory Pathology",
-    "type": "clinical",
-    "question": "A 60-year-old male smoker presents with haemoptysis, obstructive pneumonia, and a central hilar mass. Biopsy shows keratinisation and intercellular bridges. The diagnosis is:",
+    "type": "factual",
+    "question": "A central hilar lung mass showing keratinisation and intercellular bridges on biopsy is characteristic of which lung cancer subtype?",
     "options": [
       "Adenocarcinoma",
       "Small cell carcinoma",
@@ -4546,8 +4546,8 @@
     "id": 270,
     "subject": "Pathology",
     "subtopic": "Respiratory Pathology",
-    "type": "clinical",
-    "question": "A 45-year-old construction worker develops progressive exertional dyspnoea and a pleural effusion. CT shows pleural thickening and nodularity. Pleural biopsy is positive for calretinin and WT-1. The most likely diagnosis is:",
+    "type": "factual",
+    "question": "A pleural biopsy positive for calretinin and WT-1, with pleural thickening and nodularity, is diagnostic of which condition, and with which occupational exposure is it most associated?",
     "options": [
       "Metastatic adenocarcinoma",
       "Primary lung adenocarcinoma invading pleura",
