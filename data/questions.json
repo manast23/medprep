@@ -5396,8 +5396,8 @@
     "id": 320,
     "subject": "Pharmacology",
     "subtopic": "General Pharmacology",
-    "type": "clinical",
-    "question": "A patient on warfarin is started on rifampicin. Her INR falls significantly. The most likely mechanism is:",
+    "type": "factual",
+    "question": "By which mechanism does rifampicin reduce the anticoagulant effect of warfarin?",
     "options": [
       "Rifampicin displaces warfarin from plasma proteins",
       "Rifampicin induces CYP2C9, increasing warfarin metabolism",
@@ -5481,8 +5481,8 @@
     "id": 325,
     "subject": "Pharmacology",
     "subtopic": "General Pharmacology",
-    "type": "clinical",
-    "question": "A 70-year-old patient with renal failure is prescribed gentamicin. The dose interval should be extended because:",
+    "type": "factual",
+    "question": "Why must the dosing interval of gentamicin be extended in renal failure?",
     "options": [
       "Gentamicin has increased hepatic metabolism in renal failure",
       "Renal clearance of gentamicin is reduced, prolonging its half-life",
@@ -5532,8 +5532,8 @@
     "id": 328,
     "subject": "Pharmacology",
     "subtopic": "General Pharmacology",
-    "type": "clinical",
-    "question": "A 30-year-old woman takes an oral contraceptive pill and is prescribed erythromycin for a chest infection. She is counselled about reduced contraceptive efficacy. Which mechanism is responsible?",
+    "type": "factual",
+    "question": "By which mechanism does erythromycin reduce the efficacy of oral contraceptives?",
     "options": [
       "Erythromycin displaces oestrogen from protein binding sites",
       "Erythromycin inhibits CYP3A4, increasing oestrogen toxicity",
@@ -5583,8 +5583,8 @@
     "id": 331,
     "subject": "Pharmacology",
     "subtopic": "General Pharmacology",
-    "type": "clinical",
-    "question": "A neonate is given chloramphenicol. She develops cardiovascular collapse and grey cyanosis — 'grey baby syndrome'. The mechanism is:",
+    "type": "factual",
+    "question": "What is the mechanism underlying chloramphenicol-induced 'grey baby syndrome' in neonates?",
     "options": [
       "Immature renal excretion of chloramphenicol",
       "Deficient hepatic UDP-glucuronosyltransferase causing toxic drug accumulation",
