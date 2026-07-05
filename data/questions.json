@@ -7205,7 +7205,7 @@
     "id": 422,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
+    "type": "factual",
     "question": "In meningococcemia, which component of Neisseria meningitidis is primarily responsible for triggering septic shock and disseminated intravascular coagulation?",
     "options": [
       "Pili mediating bacterial adhesion to endothelial cells",
@@ -7313,7 +7313,7 @@
     "id": 428,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Before widespread conjugate vaccination, which organism was the most common cause of acute epiglottitis in young children?",
     "options": [
       "Streptococcus pyogenes",
@@ -7331,7 +7331,7 @@
     "id": 429,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Rapid-onset vomiting after eating reheated fried rice is classically caused by which organism and toxin?",
     "options": [
       "Salmonella enteritidis — mucosal invasion causing inflammatory diarrhoea",
@@ -7349,7 +7349,7 @@
     "id": 430,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Tularaemia acquired from handling infected rabbits is caused by an organism that typically fails to grow on standard blood culture media. Which organism is this, and why does it fail to grow?",
     "options": [
       "Brucella melitensis — requires prolonged incubation in enriched broth",
@@ -7439,7 +7439,7 @@
     "id": 435,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A rash beginning at the wrists and ankles and spreading centripetally, following a Dermacentor tick bite, is characteristic of infection with which organism?",
     "options": [
       "Borrelia burgdorferi",
@@ -7457,7 +7457,7 @@
     "id": 436,
     "subject": "Microbiology",
     "subtopic": "General Microbiology & Bacteriology",
-    "type": "clinical",
+    "type": "factual",
     "question": "In patients with sickle cell disease, osteomyelitis is most commonly caused by which organism, in contrast to Staphylococcus aureus in the general population?",
     "options": [
       "Streptococcus pneumoniae",
