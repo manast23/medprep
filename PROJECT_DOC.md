@@ -76,7 +76,7 @@ General medical knowledge practice app — not tied to any specific exam, countr
 
 **Field rules:**
 - `id` — sequential integer, never reused
-- `type` — `factual` or `clinical` (see Section 6 for what these actually mean)
+- `type` — `factual` or `clinical`. **`clinical` is only valid for Anatomy, Physiology, and Biochemistry.** Pathology, Pharmacology, and Microbiology use `factual` exclusively (see Section 6).
 - `correct` — zero-indexed (0=A ... 4=E)
 - `reference` — book + edition + chapter only, no page numbers
 - `reference_url` — StatPearls, NCBI Bookshelf, MSD Manual, or Radiopaedia only. Every URL must be verified live (HTTP fetch or explicit search confirmation) before inclusion — do not guess NBK IDs.
@@ -87,13 +87,24 @@ General medical knowledge practice app — not tied to any specific exam, countr
 
 **This supersedes all prior guidance.** The original question-writing rule ("Always use a clinical scenario, never a bare fact," with a full staged patient case as the template) was wrong and produced ~394 over-staged questions across the bank that read like licensing/board-exam vignettes (USMLE/NRE-style) rather than university subject papers. That rule is retired.
 
-**The actual standard:**
+**The actual standard, by subject group:**
 
-- **Pre-clinical, foundational subjects (Anatomy, Physiology, Biochemistry):** Overwhelmingly direct factual/mechanism/identification questions. A "clinical" question here should be at most a **brief one-line trigger** (e.g. "infant with musty urine odor" for PKU, "wrist drop after humeral fracture" for radial nerve) — never a staged case with age/sex/vitals/labs/multi-step reasoning.
-- **Disease/drug/organism-oriented subjects (Pathology, Pharmacology, Microbiology):** A short disease/drug/organism-based stem is more native to how real papers phrase these questions, but must stay concise — one clinical detail + the question. Not a full staged ED encounter.
+### Pre-clinical, foundational subjects: Anatomy, Physiology, Biochemistry
+Overwhelmingly direct factual/mechanism/identification questions. A "clinical" question here should be at most a **brief one-line trigger** (e.g. "infant with musty urine odor" for PKU, "wrist drop after humeral fracture" for radial nerve) — never a staged case with age/sex/vitals/labs/multi-step reasoning. `type: "clinical"` is retained for these subjects for that narrow use.
+
+### Para-clinical, basic medical science subjects: Pathology, Pharmacology, Microbiology
+**Policy correction (July 2026):** These three subjects are internationally classified as basic/para-clinical medical sciences, taught and examined *before* students begin clinical rotations. Real university papers for these subjects (verified against actual PMDC/NUMS-aligned MBBS pharmacology and pathology MCQ banks) do not stage patient encounters at all — they ask the disease/drug/organism fact directly:
+- "Kernicterus is an adverse effect of which drug class?"
+- "Which organism most commonly causes bacterial pharyngitis (sore throat)?"
+- "Stevens-Johnson syndrome is an associated adverse effect of which drug class?"
+- "Which topoisomerase do fluoroquinolones inhibit in Gram-negative bacteria?"
+
+**`type: "clinical"` is retired entirely for Pathology, Pharmacology, and Microbiology. Every question in these three subjects is `type: "factual"`.** No patient is invoked at all — no age, no sex, no "presents with," no symptom timeline, no vitals, no lab panel dressed up as a case. The disease/drug/organism correlate itself (which is the actual exam-relevant fact — e.g. which organism causes X, which drug causes Y, which drug treats Z) is asked directly as a fact, not narrated through a fictional patient. This is a stricter standard than the original July 2026 correction applied to these subjects (which still allowed a "short clinical stem, one detail") — the further correction is: even that one-detail stem should usually be dropped in favor of a direct fact statement, unless the fact genuinely cannot be phrased without a causal trigger (e.g. an interaction that only manifests in a specific context).
+
+### General rules (all subjects)
 - **No cross-subject dressing.** Don't borrow content from another subject to add clinical flavor (e.g. no CML/Philadelphia chromosome in a Biochemistry question — that's Hematopathology).
-- **No content duplication** — check nearby questions in the same subtopic before finalizing a batch; don't test the identical fact twice under different wrapping (e.g. cholera toxin mechanism should only appear once across Microbiology).
-- Target average stem length: roughly 15–25 words. Anything pushing 30+ words with embedded vitals/labs is a signal it's drifted toward board-exam style.
+- **No content duplication** — check nearby questions in the same subtopic before finalizing a batch; don't test the identical fact twice under different wrapping.
+- Target average stem length: roughly 10–20 words for para-clinical subjects (direct fact statements are naturally short), 15–25 words for pre-clinical subjects with a one-line trigger. Anything pushing 30+ words with embedded vitals/labs is a signal it's drifted toward board-exam style.
 
 **Explanation format (unchanged):** exactly 3 sentences — (1) why the correct answer is right, (2) a reinforcing mechanism/detail, (3) why the main distractor is wrong.
 
@@ -107,9 +118,9 @@ General medical knowledge practice app — not tied to any specific exam, countr
 |---|---|---|
 | Anatomy | 105 | ✅ Retroactive rewrite COMPLETE (105/105) — see Section 8 |
 | Physiology | 111 | ✅ Retroactive rewrite COMPLETE (111/111) + subtopic naming cleanup done — see Section 8 |
-| Pathology | 100 | ✅ Complete — ⚠️ needs partial rewrite (least affected, ~31 clinical questions to review) |
-| Pharmacology | 100 | ✅ Complete — ⚠️ needs partial rewrite (~78 clinical questions to review) (NEXT UP) |
-| Microbiology | 100 | ✅ Retroactive rewrite COMPLETE (100/100) — see Section 8 |
+| Pathology | 100 | ✅ Complete — ⚠️ needs full rewrite under new para-clinical standard (retire `clinical` type entirely — see Section 6) |
+| Pharmacology | 100 | ✅ Complete — ⚠️ needs full rewrite under new para-clinical standard (retire `clinical` type entirely — see Section 6) (NEXT UP) |
+| Microbiology | 100 | ✅ Format rewrite COMPLETE (100/100) under OLD standard — ⚠️ needs a second pass to retire `clinical` type under new para-clinical standard (see Section 6 policy correction) |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
@@ -123,18 +134,24 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 
 **Order:** Microbiology → Anatomy → Physiology → Pharmacology → Pathology
 
-### Microbiology (100 total) — ✅ COMPLETE
+### Microbiology (100 total) — ✅ COMPLETE under OLD standard; ⚠️ PHASE 2 NEEDED
 | Subtopic | IDs | Status |
 |---|---|---|
-| General Microbiology & Bacteriology | 417–436 | ✅ Rewritten |
-| Gram-positive Bacteria | 437–451 | ✅ Rewritten (fixed #444 miscategorization — was testing a viral cause of croup under a bacteria subtopic) |
-| Gram-negative Bacteria | 452–466 | ✅ Rewritten (fixed #457 — was duplicate of cholera toxin mechanism already tested in #434; replaced with chancroid/H. ducreyi) |
-| Mycobacteria & Atypical Organisms | 467–476 | ✅ Rewritten |
-| Virology | 477–496 | ✅ Rewritten |
-| Mycology & Parasitology | 497–506 | ✅ Rewritten |
-| Immunology | 507–516 | ✅ Rewritten |
+| General Microbiology & Bacteriology | 417–436 | ✅ Rewritten (old standard) |
+| Gram-positive Bacteria | 437–451 | ✅ Rewritten (old standard; fixed #444 miscategorization — was testing a viral cause of croup under a bacteria subtopic) |
+| Gram-negative Bacteria | 452–466 | ✅ Rewritten (old standard; fixed #457 — was duplicate of cholera toxin mechanism already tested in #434; replaced with chancroid/H. ducreyi) |
+| Mycobacteria & Atypical Organisms | 467–476 | ✅ Rewritten (old standard) |
+| Virology | 477–496 | ✅ Rewritten (old standard) |
+| Mycology & Parasitology | 497–506 | ✅ Rewritten (old standard) |
+| Immunology | 507–516 | ✅ Rewritten (old standard) |
 
-**Microbiology progress: 100/100 rewritten. Subject fully complete.**
+**Microbiology progress: 100/100 rewritten to the old "brief clinical trigger" standard. NEEDS PHASE 2: retire `clinical` type per the July 2026 para-clinical policy correction (Section 6) — convert remaining patient-framed stems to direct organism-fact statements.**
+
+### Pharmacology (100 total) — NOT STARTED (ACTIVE NEXT)
+100/100 need review under the new para-clinical standard (retire `type: "clinical"` entirely, convert to direct drug-fact statements — no patient framing at all, per Section 6 policy correction).
+
+### Pathology (100 total) — NOT STARTED
+100/100 need review under the new para-clinical standard (retire `type: "clinical"` entirely, convert to direct disease-fact statements — no patient framing at all, per Section 6 policy correction).
 
 ### Anatomy (105 total) — ✅ COMPLETE
 Rewritten across all 7 subtopics. Approach: pre-clinical subject standard applied throughout — trimmed multi-finding/vitals staging down to essential trigger, removed fake "student is asked" framing on pure factual questions (reclassified as `factual` where appropriate), and fixed one content duplication (ID 1 repointed from Erb's palsy, which duplicated ID 17, to Klumpke's palsy).
@@ -169,23 +186,18 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **Physiology progress: 111/111 rewritten. Subject fully complete.**
 
-### Pharmacology (100 total) — NOT STARTED (ACTIVE NEXT)
-78/100 currently clinical. Pharm vignettes are more defensible than Anatomy/Physiology (drug-effect-in-a-patient framing is native to the subject) but many are still overstaged; needs review and trimming rather than full rewrite.
-
-### Pathology (100 total) — NOT STARTED
-31/100 currently clinical — least affected subject, disease-based short stems are appropriate here. Needs lighter review pass to confirm none have drifted into full ED-style staging.
-
 ---
 
 ## 9. After the Retroactive Rewrite
 
-1. ✅ Microbiology rewrite — COMPLETE (100/100)
+1. ✅ Microbiology rewrite (old standard) — COMPLETE (100/100)
 2. ✅ Anatomy rewrite — COMPLETE (105/105)
 3. ✅ Physiology rewrite (+ subtopic naming cleanup) — COMPLETE (111/111)
-4. **Pharmacology review/trim — ACTIVE NEXT** (78/100 currently clinical)
-5. Pathology review/trim
-6. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
-7. **Forensic Medicine** — deferred 8th subject
+4. **Pharmacology — full rewrite under new para-clinical standard — ACTIVE NEXT** (100/100, retire `clinical` type)
+5. Pathology — full rewrite under new para-clinical standard (100/100, retire `clinical` type)
+6. Microbiology — Phase 2 pass to retire `clinical` type under new para-clinical standard
+7. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
+8. **Forensic Medicine** — deferred 8th subject
 
 ---
 
