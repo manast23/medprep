@@ -8213,7 +8213,7 @@
     "id": 478,
     "subject": "Microbiology",
     "subtopic": "Virology",
-    "type": "clinical",
+    "type": "factual",
     "question": "In infectious mononucleosis caused by Epstein-Barr virus, which complication is the reason patients are advised to avoid contact sports for several weeks?",
     "options": [
       "Airway obstruction from massive tonsillar hypertrophy",
@@ -8249,7 +8249,7 @@
     "id": 480,
     "subject": "Microbiology",
     "subtopic": "Virology",
-    "type": "clinical",
+    "type": "factual",
     "question": "A rash appearing as high fever abruptly defervesces in a young child is characteristic of roseola infantum. Which virus causes this?",
     "options": [
       "Measles virus",
@@ -8393,7 +8393,7 @@
     "id": 488,
     "subject": "Microbiology",
     "subtopic": "Virology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Bilateral orchitis following mumps parotitis in a post-pubertal male carries which serious long-term risk?",
     "options": [
       "Encephalitis from direct viral invasion of hypothalamic nuclei",
@@ -8411,7 +8411,7 @@
     "id": 489,
     "subject": "Microbiology",
     "subtopic": "Virology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Maternal varicella occurring within 5 days before to 2 days after delivery carries the highest risk of which severe neonatal complication?",
     "options": [
       "Congenital varicella syndrome with limb hypoplasia and scarring",
@@ -8447,7 +8447,7 @@
     "id": 491,
     "subject": "Microbiology",
     "subtopic": "Virology",
-    "type": "clinical",
+    "type": "factual",
     "question": "Molluscum contagiosum, caused by a poxvirus, becomes disseminated and treatment-resistant in HIV-positive patients once CD4 count falls below approximately which level?",
     "options": [
       "500 cells/µL",
