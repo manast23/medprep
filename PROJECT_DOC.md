@@ -118,7 +118,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 |---|---|---|
 | Anatomy | 105 | ✅ Retroactive rewrite COMPLETE (105/105) — see Section 8 |
 | Physiology | 111 | ✅ Retroactive rewrite COMPLETE (111/111) + subtopic naming cleanup done — see Section 8 |
-| Pathology | 100 | ✅ Complete — ⚠️ needs full rewrite under new para-clinical standard (retire `clinical` type entirely — see Section 6) (NEXT UP) |
+| Pathology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Microbiology | 100 | ✅ Format rewrite COMPLETE (100/100) under OLD standard — ⚠️ needs a second pass to retire `clinical` type under new para-clinical standard (see Section 6 policy correction) |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
@@ -164,8 +164,26 @@ All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question c
 
 **Pharmacology progress: 100/100 rewritten, 100/100 `factual`. Subject fully complete under the new standard.**
 
-### Pathology (100 total) — NOT STARTED (ACTIVE NEXT)
-100/100 need review under the new para-clinical standard (retire `type: "clinical"` entirely, convert to direct disease-fact statements — no patient framing at all, per Section 6 policy correction).
+### Pathology (100 total) — ✅ COMPLETE under new para-clinical standard
+All 10 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct disease-fact statement with no patient framing.
+
+| Subtopic | IDs | Status |
+|---|---|---|
+| General Pathology | 217–236 | ✅ Rewritten (6 patient-framed stems converted) |
+| Cardiovascular Pathology | 237–248 | ✅ Rewritten (5 converted) |
+| Haematopathology | 249–260 | ✅ Rewritten (4 converted) |
+| GIT & Liver Pathology | 271–282 | ✅ Rewritten (4 converted) |
+| Respiratory Pathology | 261–270 | ✅ Rewritten (3 converted) |
+| Renal Pathology | 283–292 | ✅ Rewritten (3 converted) |
+| Female Genital & Breast Pathology | 293–300 | ✅ Rewritten (2 converted) |
+| Endocrine Pathology | 301–308 | ✅ Rewritten (2 converted) |
+| Musculoskeletal & Skin Pathology | 309–313 | ✅ Rewritten (1 converted) |
+| Chemical Pathology | 314–316 | ✅ Rewritten (1 converted) |
+
+**Pathology progress: 100/100 rewritten, 100/100 `factual`. Subject fully complete under the new standard.**
+
+### Microbiology — PHASE 2 (100 total) — NOT STARTED (ACTIVE NEXT)
+Already rewritten once (100/100) under the OLD "brief clinical trigger" standard. Needs a second pass to retire `type: "clinical"` entirely per the July 2026 para-clinical policy correction — convert remaining patient-framed organism stems (e.g. "a patient with X develops Y — which organism?") to direct organism-fact statements (e.g. "Which organism most commonly causes sore throat/pharyngitis?").
 
 ### Anatomy (105 total) — ✅ COMPLETE
 Rewritten across all 7 subtopics. Approach: pre-clinical subject standard applied throughout — trimmed multi-finding/vitals staging down to essential trigger, removed fake "student is asked" framing on pure factual questions (reclassified as `factual` where appropriate), and fixed one content duplication (ID 1 repointed from Erb's palsy, which duplicated ID 17, to Klumpke's palsy).
@@ -208,8 +226,8 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 2. ✅ Anatomy rewrite — COMPLETE (105/105)
 3. ✅ Physiology rewrite (+ subtopic naming cleanup) — COMPLETE (111/111)
 4. ✅ Pharmacology — full rewrite under new para-clinical standard — COMPLETE (100/100 factual)
-5. **Pathology — full rewrite under new para-clinical standard — ACTIVE NEXT** (100/100, retire `clinical` type)
-6. Microbiology — Phase 2 pass to retire `clinical` type under new para-clinical standard
+5. ✅ Pathology — full rewrite under new para-clinical standard — COMPLETE (100/100 factual)
+6. **Microbiology — Phase 2 pass to retire `clinical` type under new para-clinical standard — ACTIVE NEXT**
 7. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
 8. **Forensic Medicine** — deferred 8th subject
 
