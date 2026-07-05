@@ -4597,8 +4597,8 @@
     "id": 273,
     "subject": "Pathology",
     "subtopic": "GIT & Liver Pathology",
-    "type": "clinical",
-    "question": "A 55-year-old man with longstanding H. pylori infection undergoes endoscopy showing a gastric ulcer on the lesser curvature. Biopsy shows intestinal-type adenocarcinoma. The precursor sequence responsible is:",
+    "type": "factual",
+    "question": "Intestinal-type gastric adenocarcinoma arising from chronic H. pylori gastritis follows which precursor sequence?",
     "options": [
       "Normal mucosa to dysplasia to carcinoma",
       "Normal mucosa to hyperplasia to carcinoma",
@@ -4648,8 +4648,8 @@
     "id": 276,
     "subject": "Pathology",
     "subtopic": "GIT & Liver Pathology",
-    "type": "clinical",
-    "question": "A 45-year-old woman presents with right lower quadrant pain, fever, and vomiting. Appendicectomy specimen shows transmural neutrophilic infiltration. The most common initiating event is:",
+    "type": "factual",
+    "question": "What is the most common initiating event in acute appendicitis?",
     "options": [
       "Bacterial invasion of the mucosa",
       "Luminal obstruction by a faecolith",
@@ -4699,8 +4699,8 @@
     "id": 279,
     "subject": "Pathology",
     "subtopic": "GIT & Liver Pathology",
-    "type": "clinical",
-    "question": "A 50-year-old man with chronic HCV cirrhosis has a 3 cm arterially enhancing hepatic nodule with portal phase washout on CT and markedly elevated AFP. The most likely diagnosis is:",
+    "type": "factual",
+    "question": "In a cirrhotic patient, a hepatic nodule showing arterial enhancement with portal-phase washout on CT, along with markedly elevated AFP, is diagnostic of which condition?",
     "options": [
       "Hepatic haemangioma",
       "Focal nodular hyperplasia",
@@ -4750,8 +4750,8 @@
     "id": 282,
     "subject": "Pathology",
     "subtopic": "GIT & Liver Pathology",
-    "type": "clinical",
-    "question": "A 35-year-old man with ulcerative colitis presents with pruritus and jaundice. MRCP shows multifocal strictures and dilatations of intra- and extrahepatic bile ducts. The most likely diagnosis is:",
+    "type": "factual",
+    "question": "Multifocal biliary strictures and dilatations ('beaded' appearance) on MRCP, associated with ulcerative colitis, is characteristic of which condition?",
     "options": [
       "Primary biliary cholangitis",
       "Primary sclerosing cholangitis",
