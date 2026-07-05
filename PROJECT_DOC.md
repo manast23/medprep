@@ -118,8 +118,8 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 |---|---|---|
 | Anatomy | 105 | ✅ Retroactive rewrite COMPLETE (105/105) — see Section 8 |
 | Physiology | 111 | ✅ Retroactive rewrite COMPLETE (111/111) + subtopic naming cleanup done — see Section 8 |
-| Pathology | 100 | ✅ Complete — ⚠️ needs full rewrite under new para-clinical standard (retire `clinical` type entirely — see Section 6) |
-| Pharmacology | 100 | ✅ Complete — ⚠️ needs full rewrite under new para-clinical standard (retire `clinical` type entirely — see Section 6) (NEXT UP) |
+| Pathology | 100 | ✅ Complete — ⚠️ needs full rewrite under new para-clinical standard (retire `clinical` type entirely — see Section 6) (NEXT UP) |
+| Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Microbiology | 100 | ✅ Format rewrite COMPLETE (100/100) under OLD standard — ⚠️ needs a second pass to retire `clinical` type under new para-clinical standard (see Section 6 policy correction) |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 
@@ -147,10 +147,24 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 
 **Microbiology progress: 100/100 rewritten to the old "brief clinical trigger" standard. NEEDS PHASE 2: retire `clinical` type per the July 2026 para-clinical policy correction (Section 6) — convert remaining patient-framed stems to direct organism-fact statements.**
 
-### Pharmacology (100 total) — NOT STARTED (ACTIVE NEXT)
-100/100 need review under the new para-clinical standard (retire `type: "clinical"` entirely, convert to direct drug-fact statements — no patient framing at all, per Section 6 policy correction).
+### Pharmacology (100 total) — ✅ COMPLETE under new para-clinical standard
+All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct drug-fact statement (mechanism, adverse effect, indication, or interaction) with no patient framing — no age, no "presents with," no vitals/labs.
 
-### Pathology (100 total) — NOT STARTED
+| Subtopic | IDs | Status |
+|---|---|---|
+| General Pharmacology | 317–331 | ✅ Rewritten (4 patient-framed stems converted) |
+| Autonomic Pharmacology | 332–346 | ✅ Rewritten (4 patient-framed stems converted) |
+| CNS Pharmacology | 347–361 | ✅ Rewritten (all 15 were heavily staged multi-sentence vignettes — converted to direct drug-fact statements) |
+| Antimicrobials | 382–396 | ✅ Rewritten (all 15 converted) |
+| Cardiovascular Pharmacology | 362–373 | ✅ Rewritten (all 12 converted) |
+| Endocrine Pharmacology | 397–406 | ✅ Rewritten (all 10 converted) |
+| Renal & Diuretics | 374–381 | ✅ Rewritten (all 8 converted) |
+| GIT Pharmacology | 407–411 | ✅ Rewritten (all 5 converted) |
+| Chemotherapy & Immunosuppressants | 412–416 | ✅ Rewritten (all 5 converted) |
+
+**Pharmacology progress: 100/100 rewritten, 100/100 `factual`. Subject fully complete under the new standard.**
+
+### Pathology (100 total) — NOT STARTED (ACTIVE NEXT)
 100/100 need review under the new para-clinical standard (retire `type: "clinical"` entirely, convert to direct disease-fact statements — no patient framing at all, per Section 6 policy correction).
 
 ### Anatomy (105 total) — ✅ COMPLETE
@@ -193,8 +207,8 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 1. ✅ Microbiology rewrite (old standard) — COMPLETE (100/100)
 2. ✅ Anatomy rewrite — COMPLETE (105/105)
 3. ✅ Physiology rewrite (+ subtopic naming cleanup) — COMPLETE (111/111)
-4. **Pharmacology — full rewrite under new para-clinical standard — ACTIVE NEXT** (100/100, retire `clinical` type)
-5. Pathology — full rewrite under new para-clinical standard (100/100, retire `clinical` type)
+4. ✅ Pharmacology — full rewrite under new para-clinical standard — COMPLETE (100/100 factual)
+5. **Pathology — full rewrite under new para-clinical standard — ACTIVE NEXT** (100/100, retire `clinical` type)
 6. Microbiology — Phase 2 pass to retire `clinical` type under new para-clinical standard
 7. **Community Medicine** — new subject, build subject card image first, then write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in)
 8. **Forensic Medicine** — deferred 8th subject
