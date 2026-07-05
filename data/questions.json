@@ -4223,8 +4223,8 @@
     "id": 251,
     "subject": "Pathology",
     "subtopic": "Haematopathology",
-    "type": "clinical",
-    "question": "A 30-year-old woman of Mediterranean origin has chronic haemolytic anaemia, splenomegaly, and target cells on smear. Haemoglobin electrophoresis shows HbA2 >3.5%. The diagnosis is:",
+    "type": "factual",
+    "question": "Chronic haemolytic anaemia with splenomegaly, target cells, and an elevated HbA2 (>3.5%) on haemoglobin electrophoresis is diagnostic of which condition?",
     "options": [
       "Sickle cell disease",
       "Alpha thalassaemia trait",
@@ -4274,8 +4274,8 @@
     "id": 254,
     "subject": "Pathology",
     "subtopic": "Haematopathology",
-    "type": "clinical",
-    "question": "A 35-year-old woman develops thrombocytopaenia, microangiopathic haemolytic anaemia, fever, renal failure, and neurological symptoms. The peripheral smear shows schistocytes. The most likely diagnosis is:",
+    "type": "factual",
+    "question": "Which condition presents with thrombocytopenia, microangiopathic haemolytic anaemia, fever, renal failure, and neurological symptoms, with schistocytes on peripheral smear?",
     "options": [
       "Immune thrombocytopaenic purpura",
       "Thrombotic thrombocytopaenic purpura",
@@ -4342,8 +4342,8 @@
     "id": 258,
     "subject": "Pathology",
     "subtopic": "Haematopathology",
-    "type": "clinical",
-    "question": "A 65-year-old man is found to have lymphocytosis on routine CBC. Flow cytometry shows CD5+, CD19+, CD20 (dim), CD23+ B cells. The most likely diagnosis is:",
+    "type": "factual",
+    "question": "Lymphocytosis with a CD5+, CD19+, CD20(dim), CD23+ B-cell immunophenotype is characteristic of which condition?",
     "options": [
       "Mantle cell lymphoma",
       "Follicular lymphoma",
@@ -4376,8 +4376,8 @@
     "id": 260,
     "subject": "Pathology",
     "subtopic": "Haematopathology",
-    "type": "clinical",
-    "question": "A 70-year-old man presents with back pain, anaemia, hypercalcaemia, and renal failure. Serum protein electrophoresis shows an M-spike. X-ray reveals multiple lytic bone lesions. The mechanism of bone destruction is:",
+    "type": "factual",
+    "question": "In multiple myeloma, lytic bone lesions with hypercalcaemia result from which mechanism of bone destruction?",
     "options": [
       "Direct invasion by plasma cells",
       "RANKL-mediated osteoclast activation",
