@@ -11128,5 +11128,194 @@
     "explanation": "The attack rate is a type of incidence measure used specifically during outbreak investigations, calculated as the number of new cases divided by the population at risk over a short, defined exposure period, such as a single foodborne outbreak. It differs from general incidence measures in that it applies to a specific, often brief, exposure event rather than an ongoing risk period. Attack rates are commonly compared between people who were and were not exposed to a suspected source, such as a particular food item, to help identify the cause of an outbreak.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK7993/"
+  },
+  {
+    "id": 639,
+    "subject": "Community Medicine",
+    "topic": "Demographic Transition",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "Which stage of the demographic transition model is characterized by a rapidly falling death rate while birth rates remain high, producing rapid population growth?",
+    "options": [
+      "Stage 1 (high stationary)",
+      "Stage 2 (early expanding)",
+      "Stage 3 (late expanding)",
+      "Stage 4 (low stationary)",
+      "Stage 5 (declining)"
+    ],
+    "correct": 1,
+    "explanation": "Stage 2 of the demographic transition is marked by a sharp fall in the death rate, largely due to improvements in sanitation, nutrition, and basic healthcare, while the birth rate remains high. Because births greatly outnumber deaths during this stage, the total population grows very rapidly. Many of the least developed countries today are in this stage, whereas industrialised nations passed through it during the 19th and early 20th centuries.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+  },
+  {
+    "id": 640,
+    "subject": "Community Medicine",
+    "topic": "Demographic Transition",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "In Stage 4 of the demographic transition model, both birth rates and death rates are:",
+    "options": [
+      "High",
+      "Low",
+      "Rapidly falling",
+      "Rapidly rising",
+      "One high and one low"
+    ],
+    "correct": 1,
+    "explanation": "In Stage 4, both the birth rate and death rate are low, resulting in a relatively stable total population size. This stage is typically associated with stronger economies, higher levels of education, improved healthcare access, and fertility rates hovering around replacement level. Countries in this stage have completed the major transition from high to low mortality and fertility that characterised earlier stages.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+  },
+  {
+    "id": 641,
+    "subject": "Community Medicine",
+    "topic": "Health Indicators",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "The infant mortality rate (IMR) is defined as which of the following?",
+    "options": [
+      "Number of deaths under 1 year of age per 1,000 live births in a given year",
+      "Number of stillbirths per 1,000 total births",
+      "Number of deaths under 5 years of age per 1,000 live births",
+      "Number of deaths in the first 28 days of life per 1,000 live births",
+      "Number of deaths during pregnancy per 100,000 live births"
+    ],
+    "correct": 0,
+    "explanation": "The infant mortality rate measures the number of deaths of infants under one year of age per 1,000 live births in a given year, and is a key indicator of the overall health and healthcare quality of a population. It is often broken down into neonatal (first 28 days) and postneonatal (28 days to 1 year) components, since the causes of death differ between these periods. IMR is distinct from the under-5 mortality rate, which extends the measurement window to children under five years of age.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography and Health Indicators",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547668/"
+  },
+  {
+    "id": 642,
+    "subject": "Community Medicine",
+    "topic": "Health Indicators",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "The maternal mortality ratio (MMR) is defined as which of the following?",
+    "options": [
+      "Deaths of women during pregnancy or within 42 days of termination of pregnancy from pregnancy-related causes, per 100,000 live births",
+      "Deaths of women of reproductive age from any cause, per 1,000 women",
+      "Deaths during childbirth only, per 1,000 deliveries",
+      "Deaths of infants born to mothers with pregnancy complications",
+      "Number of maternal deaths per 1,000 live births"
+    ],
+    "correct": 0,
+    "explanation": "The maternal mortality ratio measures deaths of women while pregnant or within 42 days of the termination of pregnancy, from any cause related to or aggravated by the pregnancy or its management, expressed per 100,000 live births. It specifically excludes deaths from accidental or incidental causes unrelated to the pregnancy itself. MMR is considered one of the most sensitive indicators of the quality and accessibility of a population's maternal healthcare services.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography and Health Indicators",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK568226/"
+  },
+  {
+    "id": 643,
+    "subject": "Community Medicine",
+    "topic": "Health Indicators",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "Neonatal mortality refers to deaths occurring within which period after birth?",
+    "options": [
+      "First 24 hours of life",
+      "First 7 days of life",
+      "First 28 days of life",
+      "First year of life",
+      "First 6 weeks of life"
+    ],
+    "correct": 2,
+    "explanation": "Neonatal mortality is defined as the death of a live-born infant within the first 28 days of life, and is often further subdivided into early neonatal (first 7 days) and late neonatal (7 to 28 days) periods. This period accounts for a large proportion of overall infant mortality, since risks from prematurity, birth asphyxia, and congenital anomalies are concentrated soon after birth. Postneonatal mortality, by contrast, covers deaths from 28 days up to one year of age.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography and Health Indicators",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547668/"
+  },
+  {
+    "id": 644,
+    "subject": "Community Medicine",
+    "topic": "Fertility Measures",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "The general fertility rate differs from the crude birth rate in that it uses which denominator?",
+    "options": [
+      "Total population",
+      "Women of reproductive age (typically 15-49 years)",
+      "Number of live births",
+      "Number of married women only",
+      "Total number of pregnancies"
+    ],
+    "correct": 1,
+    "explanation": "The crude birth rate is calculated using the total mid-year population as its denominator, which includes men, children, and postmenopausal women who cannot give birth. The general fertility rate refines this by restricting the denominator to women of reproductive age, typically 15 to 49 years, giving a more accurate reflection of fertility within the population actually at risk of childbearing. This makes the general fertility rate a more precise measure for comparing fertility levels across populations with different age and sex structures.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+  },
+  {
+    "id": 645,
+    "subject": "Community Medicine",
+    "topic": "Population Pyramids",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "A population pyramid with a wide base that tapers sharply toward the apex is most characteristic of which type of population?",
+    "options": [
+      "A stationary population with low fertility",
+      "An expanding population with high fertility and birth rates",
+      "A contracting/declining population",
+      "An aging population with low mortality",
+      "A population that has completed the demographic transition"
+    ],
+    "correct": 1,
+    "explanation": "A wide-based, sharply tapering population pyramid reflects a large proportion of children and young people relative to older age groups, which occurs when fertility and birth rates are high. This shape is typical of populations in the early stages of the demographic transition, where death rates have started to fall but birth rates remain high. As fertility declines through later stages of the transition, the base of the pyramid narrows and its overall shape becomes more rectangular.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+  },
+  {
+    "id": 646,
+    "subject": "Community Medicine",
+    "topic": "Population Pyramids",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "A population pyramid with roughly equal-width bars across most age groups (a near-rectangular shape) most closely indicates which of the following?",
+    "options": [
+      "An expanding population",
+      "A stationary population with balanced, low birth and death rates",
+      "A population undergoing rapid growth",
+      "A population with high infant mortality",
+      "A population with a very young age structure"
+    ],
+    "correct": 1,
+    "explanation": "A near-rectangular population pyramid, with similar numbers of people across most age bands, reflects a stationary population in which birth rates and death rates are both low and roughly balanced. This shape is typical of populations that have completed the demographic transition, with low fertility and increased life expectancy. In contrast, a wide-based, rapidly tapering pyramid indicates a young, rapidly growing population with high fertility.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+  },
+  {
+    "id": 647,
+    "subject": "Community Medicine",
+    "topic": "Census",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "A census, as a method of demographic data collection, is best defined as which of the following?",
+    "options": [
+      "A sample survey of a representative subset of the population",
+      "The complete and simultaneous enumeration of every individual in a defined population, typically conducted at regular intervals",
+      "A registration system for recording births and deaths as they occur",
+      "An estimate of population size based on prior growth trends",
+      "A survey limited to households with children"
+    ],
+    "correct": 1,
+    "explanation": "A census is the complete count of every individual within a defined population and territory at a specific point in time, typically repeated at regular intervals (commonly every 10 years in many countries). It differs from a sample survey, which examines only a representative subset of the population and extrapolates findings to the whole. Census data provides the denominator used to calculate most other demographic and epidemiological rates, such as birth rates, death rates, and disease incidence.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography"
+  },
+  {
+    "id": 648,
+    "subject": "Community Medicine",
+    "topic": "Dependency Ratio",
+    "subtopic": "Demography & Population Health",
+    "type": "factual",
+    "question": "The dependency ratio in a population is calculated as which of the following?",
+    "options": [
+      "The ratio of employed to unemployed individuals",
+      "The ratio of the economically dependent population (under 15 and over 64 years) to the economically productive population (15-64 years)",
+      "The ratio of births to deaths in a given year",
+      "The ratio of males to females in a population",
+      "The ratio of urban to rural population"
+    ],
+    "correct": 1,
+    "explanation": "The dependency ratio compares the number of people in the economically dependent age groups — children under 15 and adults over 64 — to the number of people in the working-age group, conventionally defined as 15 to 64 years. A higher dependency ratio indicates a greater economic burden on the working-age population to support dependents. This ratio can be further broken down into a youth dependency ratio and an old-age dependency ratio to identify which dependent group is driving the overall burden.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
+    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9090599/"
   }
 ]
