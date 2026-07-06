@@ -10900,5 +10900,233 @@
     "explanation": "The median is the middle value of an ordered dataset and is therefore resistant to the influence of extreme outliers or a long tail, unlike the mean, which is calculated from every value and is pulled toward extreme scores. In a skewed distribution, the mean can give a misleading impression of the 'typical' value, while the median better represents central tendency. This makes the median the preferred summary statistic for skewed data such as household income or hospital length of stay.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Biostatistics",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546702/"
+  },
+  {
+    "id": 627,
+    "subject": "Community Medicine",
+    "topic": "Study Designs",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "A cohort study design involves which of the following?",
+    "options": [
+      "Comparing diseased and non-diseased individuals retrospectively for prior exposure",
+      "Following exposed and unexposed groups forward in time to determine disease incidence",
+      "Surveying a population once to determine both exposure and disease status simultaneously",
+      "Randomly assigning participants to intervention and control groups",
+      "Aggregating population-level exposure and outcome data"
+    ],
+    "correct": 1,
+    "explanation": "A cohort study follows a group of exposed individuals and a group of unexposed individuals forward in time to compare the incidence of a disease or outcome between the two groups. This design can establish a temporal relationship between exposure and outcome, since exposure is documented before disease develops. Case-control studies, in contrast, start with diseased and non-diseased individuals and look backward for prior exposures.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537270/"
+  },
+  {
+    "id": 628,
+    "subject": "Community Medicine",
+    "topic": "Study Designs",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "Which measure of association is calculated in a case-control study, since disease incidence cannot be directly determined?",
+    "options": [
+      "Relative risk",
+      "Odds ratio",
+      "Attributable risk",
+      "Absolute risk reduction",
+      "Number needed to treat"
+    ],
+    "correct": 1,
+    "explanation": "In a case-control study, participants are selected based on disease status (cases and controls) rather than exposure status, so the true incidence of disease in exposed versus unexposed groups cannot be calculated. Instead, the odds ratio is used, comparing the odds of prior exposure among cases to the odds of exposure among controls. When the disease being studied is rare in the population, the odds ratio closely approximates the relative risk.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448143/"
+  },
+  {
+    "id": 629,
+    "subject": "Community Medicine",
+    "topic": "Measures of Association",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "Relative risk (RR) is the primary measure of association calculated directly in which type of study design?",
+    "options": [
+      "Case-control study",
+      "Cross-sectional study",
+      "Cohort study",
+      "Case series",
+      "Ecological study"
+    ],
+    "correct": 2,
+    "explanation": "Relative risk is the ratio of the probability of an outcome in an exposed group to the probability of the outcome in an unexposed group, and it requires knowing the incidence of disease in both groups. Because a cohort study follows exposed and unexposed individuals forward in time to directly measure disease incidence, relative risk can be calculated directly from its results. In case-control studies, incidence cannot be determined directly, so the odds ratio is used as an approximation instead.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430824/"
+  },
+  {
+    "id": 630,
+    "subject": "Community Medicine",
+    "topic": "Study Designs",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "A cross-sectional study, in which exposure and disease status are assessed simultaneously at a single point in time, is best suited to measure which of the following?",
+    "options": [
+      "Disease incidence",
+      "Relative risk",
+      "Disease prevalence",
+      "Attack rate",
+      "Case fatality rate"
+    ],
+    "correct": 2,
+    "explanation": "A cross-sectional study captures a snapshot of a population at one point in time, recording both exposure and disease status simultaneously, which makes it well-suited to estimating disease prevalence. Because there is no follow-up period, a cross-sectional study cannot determine new cases developing over time, and so cannot measure incidence or establish a temporal, cause-and-effect relationship. This design is often used for public health surveys assessing how common a condition is within a population.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470342/"
+  },
+  {
+    "id": 631,
+    "subject": "Community Medicine",
+    "topic": "Measures of Disease Frequency",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "Incidence is best defined as which of the following?",
+    "options": [
+      "The proportion of a population with a disease at a given point in time",
+      "The number of new cases of a disease occurring in a population at risk over a specified period",
+      "The number of deaths from a disease divided by the number of cases",
+      "The ratio of exposed to unexposed individuals in a study",
+      "The total number of people ever diagnosed with a disease"
+    ],
+    "correct": 1,
+    "explanation": "Incidence measures the rate at which new cases of a disease occur in a population at risk over a defined period of time, reflecting the risk of developing that disease. This differs from prevalence, which measures the total number of existing cases (both new and old) at a given point or period in time, regardless of when they were diagnosed. Incidence is particularly useful for studying disease causation, since it reflects new-onset events.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430746/"
+  },
+  {
+    "id": 632,
+    "subject": "Community Medicine",
+    "topic": "Measures of Disease Frequency",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "In a disease with a stable incidence rate, which factor would most increase the prevalence of that disease in a population?",
+    "options": [
+      "A shorter average duration of illness",
+      "An increase in the case-fatality rate",
+      "A longer average duration of illness (e.g. due to improved treatment prolonging survival)",
+      "A decrease in the population size",
+      "Improved primary prevention reducing new cases"
+    ],
+    "correct": 2,
+    "explanation": "Prevalence is a function of both incidence and the average duration of disease; it increases when cases accumulate faster than they resolve through cure or death. If treatment improves and allows patients to survive longer with the disease without curing it, the average duration of illness lengthens, and prevalence rises even though incidence remains stable. Conversely, a shorter duration of illness or a reduced incidence would lower prevalence.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430867/"
+  },
+  {
+    "id": 633,
+    "subject": "Community Medicine",
+    "topic": "Screening Tests",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "Sensitivity of a screening test is defined as which of the following?",
+    "options": [
+      "The proportion of people without disease who correctly test negative",
+      "The proportion of people with disease who correctly test positive",
+      "The proportion of positive tests that truly have the disease",
+      "The proportion of negative tests that truly do not have the disease",
+      "The overall accuracy of a test across the whole population"
+    ],
+    "correct": 1,
+    "explanation": "Sensitivity is the proportion of individuals who truly have the disease who are correctly identified as positive by the test, reflecting the test's ability to detect true cases. A highly sensitive test produces few false negatives, making it useful for ruling out disease when the result is negative. Specificity, in contrast, measures the proportion of disease-free individuals who are correctly identified as negative.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557491/"
+  },
+  {
+    "id": 634,
+    "subject": "Community Medicine",
+    "topic": "Screening Tests",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "The positive predictive value (PPV) of a screening test is most directly influenced by which of the following, in addition to sensitivity and specificity?",
+    "options": [
+      "The sample size of the study",
+      "The prevalence of the disease in the population being tested",
+      "The cost of the test",
+      "The age of the patients tested",
+      "The specificity of a completely unrelated test"
+    ],
+    "correct": 1,
+    "explanation": "Unlike sensitivity and specificity, which are largely intrinsic properties of a test, the positive predictive value depends heavily on the prevalence of the disease in the population being tested. As disease prevalence decreases, the PPV of a test falls even if its sensitivity and specificity remain unchanged, because a greater proportion of positive results become false positives. This is why screening low-prevalence populations produces more false-positive results relative to true positives.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557491/"
+  },
+  {
+    "id": 635,
+    "subject": "Community Medicine",
+    "topic": "Bias and Confounding",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "Confounding bias occurs when which of the following is true?",
+    "options": [
+      "Study participants are lost to follow-up non-randomly",
+      "A third variable is independently associated with both the exposure and the outcome, distorting the apparent association",
+      "Participants misremember past exposures",
+      "Investigators are aware of participants' treatment allocation",
+      "A test lacks adequate sensitivity"
+    ],
+    "correct": 1,
+    "explanation": "Confounding occurs when a third variable is associated with both the exposure being studied and the outcome, without being an intermediate step in the causal pathway, distorting the true association between exposure and outcome. For example, age can confound the relationship between grey hair and cardiovascular disease, since age independently increases the risk of both. Confounding can be addressed through study design, such as randomization, restriction, or matching, or through statistical adjustment during analysis.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448143/"
+  },
+  {
+    "id": 636,
+    "subject": "Community Medicine",
+    "topic": "Bias and Confounding",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "In a case-control study of a rare cancer, cases are more likely than controls to accurately remember and report a past exposure. This differential accuracy of exposure reporting is an example of which bias?",
+    "options": [
+      "Selection bias",
+      "Recall bias",
+      "Confounding",
+      "Lead-time bias",
+      "Berkson's bias"
+    ],
+    "correct": 1,
+    "explanation": "Recall bias occurs when there is a systematic difference in how accurately or completely participants remember and report past exposures, often because cases search their memory more thoroughly for a possible cause than healthy controls do. This differential recall can create or exaggerate an apparent association between exposure and disease that does not reflect the true relationship. It is a particular concern in case-control and other studies that rely on retrospective, self-reported exposure data.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK574513/"
+  },
+  {
+    "id": 637,
+    "subject": "Community Medicine",
+    "topic": "Screening Bias",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "A screening program appears to improve survival time after cancer diagnosis, but the disease is actually detected earlier without changing the true time of death. This apparent survival benefit is best explained by which phenomenon?",
+    "options": [
+      "Confounding",
+      "Recall bias",
+      "Lead-time bias",
+      "Selection bias",
+      "Publication bias"
+    ],
+    "correct": 2,
+    "explanation": "Lead-time bias occurs when early detection through screening simply increases the interval between diagnosis and death, without actually delaying the time of death itself, creating a false impression of prolonged survival. This is a major challenge in evaluating the true benefit of screening programs, since apparent improvements in survival time may not reflect any real change in disease outcome or mortality. True screening benefit must instead be assessed using disease-specific mortality rates rather than survival time alone.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK574513/"
+  },
+  {
+    "id": 638,
+    "subject": "Community Medicine",
+    "topic": "Outbreak Investigation",
+    "subtopic": "Epidemiology & Research Methods",
+    "type": "factual",
+    "question": "In an outbreak investigation, the attack rate is best described as which of the following?",
+    "options": [
+      "The case-fatality rate among those exposed",
+      "The proportion of an exposed population that develops the disease over a short, defined period",
+      "The prevalence of disease in the general population",
+      "The number of secondary cases generated by a single primary case",
+      "The rate of new cases per 1,000 person-years"
+    ],
+    "correct": 1,
+    "explanation": "The attack rate is a type of incidence measure used specifically during outbreak investigations, calculated as the number of new cases divided by the population at risk over a short, defined exposure period, such as a single foodborne outbreak. It differs from general incidence measures in that it applies to a specific, often brief, exposure event rather than an ongoing risk period. Attack rates are commonly compared between people who were and were not exposed to a suspected source, such as a particular food item, to help identify the cause of an outbreak.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Epidemiology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK7993/"
   }
 ]
