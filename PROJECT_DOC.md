@@ -112,7 +112,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 
 ## 7. Current Question Bank State (verified live, July 2026)
 
-**Total: 616 questions across 6 complete subjects.**
+**Total: 638 questions across 6 complete subjects, plus Community Medicine in progress.**
 
 | Subject | Count | Status |
 |---|---|---|
@@ -122,6 +122,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
+| Community Medicine | 22 / ~80 | 🔄 IN PROGRESS — subject card done, Biostatistics (10) + Epidemiology & Research Methods (12) complete — see Section 8 |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -148,6 +149,24 @@ Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10
 **Microbiology progress: 100/100 rewritten, 100/100 `factual`. Phase 2 confirmed the Phase 1 "brief clinical trigger" stems were already impersonal, direct organism-fact statements (lab/microscopy findings or disease-category descriptions, no invented patient with age/timeline) — so Phase 2 was a `type` reclassification pass rather than a rewording pass. Subject fully complete under the new standard.**
 
 **This closes out the full para-clinical policy correction: Pathology, Pharmacology, and Microbiology are all 100% `factual`, zero `clinical`-type questions remain in any para-clinical subject.**
+
+### Community Medicine (~80 total planned) — 🔄 IN PROGRESS
+New subject. Subject card image complete (see Section 9). Question writing follows the NRE 2023 syllabus (pages 21–23) for topic/subtopic selection, but content is kept universally applicable — Pakistan-specific health-system material (Section 1 of the syllabus: "Health Systems in Pakistan," district health system, national programs) is deliberately excluded from questions, per the product positioning rule (no exam-specific/geography-specific language inside the app). Generalizable epidemiology, biostatistics, demography, and public-health content from the syllabus is used instead. All questions are `factual`, direct fact statements — no invented patient — consistent with the para-clinical standard, since genuine scenario-based reasoning (e.g. outbreak investigation) hasn't been needed so far.
+
+References use Park's Textbook of Preventive and Social Medicine (book) plus verified NCBI Bookshelf/PMC URLs per question (StatPearls articles and NCBI Bookshelf chapters, matching the allowed `reference_url` source list).
+
+| Subtopic | IDs | Status |
+|---|---|---|
+| Biostatistics | 617–626 | ✅ Complete (10) — central tendency, dispersion, hypothesis testing (p-values, Type I/II error), sampling methods, correlation |
+| Epidemiology & Research Methods | 627–638 | ✅ Complete (12) — cohort/case-control/cross-sectional study designs, incidence/prevalence, relative risk/odds ratio, sensitivity/specificity/PPV, confounding/recall/lead-time bias, attack rate |
+| Demography & Population Health | — | ⏳ Next — fertility/mortality measures, population pyramid, demographic transition, health indicators (IMR, MMR, U5MR) |
+| Communicable Disease Epidemiology & Control | — | ⏳ Pending — surveillance, disease transmission dynamics, immunization concepts, endemic diseases (malaria, TB, dengue, typhoid) |
+| Non-Communicable Disease & Public Health | — | ⏳ Pending — NCD epidemiology (HTN, DM, IHD, asthma, anaemia, thalassemia) from a public-health/prevention lens |
+| Health Planning & Primary Health Care | — | ⏳ Pending — generalized PHC principles, levels of prevention, health system organization concepts (Alma Ata declaration etc.) |
+| Nutrition & Reproductive Health | — | ⏳ Pending — nutritional deficiency, growth/nutrition indicators, maternal/reproductive health indicators |
+| Disaster Management & Environmental Health | — | ⏳ Pending — disaster classification/preparedness, environmental and occupational health |
+
+**Community Medicine progress: 22/~80 written.**
 
 ### Pharmacology (100 total) — ✅ COMPLETE under new para-clinical standard
 All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct drug-fact statement (mechanism, adverse effect, indication, or interaction) with no patient framing — no age, no "presents with," no vitals/labs.
@@ -232,7 +251,7 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
-6. **Community Medicine — ACTIVE NEXT** — subject card image ✅ DONE (uploaded to `public/community-medicine.jpg`, card title renders as "Community Medicine (Epidemiology & Biostatistics)" with the parenthetical in a smaller sub-size; reference set to Park's Textbook of Preventive and Social Medicine). Next: write ~80 questions to the corrected standard from day one (Epidemiology, Biostatistics folded in). Since Community Medicine sits closer to para-clinical/public-health territory, apply the Section 6 para-clinical standard (`factual` type, direct fact statements) unless a genuine clinical-scenario question is warranted (e.g. outbreak investigation reasoning) — use judgement per question.
+6. **Community Medicine — ACTIVE, IN PROGRESS** — subject card ✅ done; 22/~80 questions written (Biostatistics + Epidemiology & Research Methods complete). See Section 8 for subtopic-by-subtopic progress and the remaining plan.
 7. **Forensic Medicine** — deferred 8th subject
 
 ---
