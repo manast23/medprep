@@ -122,7 +122,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
-| Community Medicine | 22 / ~80 | 🔄 IN PROGRESS — subject card done, Biostatistics (10) + Epidemiology & Research Methods (12) complete — see Section 8 |
+| Community Medicine | 32 / ~80 | 🔄 IN PROGRESS — subject card done, Biostatistics (10) + Epidemiology & Research Methods (12) + Demography & Population Health (10) complete — see Section 8 |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -159,14 +159,14 @@ References use Park's Textbook of Preventive and Social Medicine (book) plus ver
 |---|---|---|
 | Biostatistics | 617–626 | ✅ Complete (10) — central tendency, dispersion, hypothesis testing (p-values, Type I/II error), sampling methods, correlation |
 | Epidemiology & Research Methods | 627–638 | ✅ Complete (12) — cohort/case-control/cross-sectional study designs, incidence/prevalence, relative risk/odds ratio, sensitivity/specificity/PPV, confounding/recall/lead-time bias, attack rate |
-| Demography & Population Health | — | ⏳ Next — fertility/mortality measures, population pyramid, demographic transition, health indicators (IMR, MMR, U5MR) |
-| Communicable Disease Epidemiology & Control | — | ⏳ Pending — surveillance, disease transmission dynamics, immunization concepts, endemic diseases (malaria, TB, dengue, typhoid) |
+| Demography & Population Health | 639–648 | ✅ Complete (10) — demographic transition stages, health indicators (IMR/MMR/neonatal mortality), fertility measures, population pyramids, dependency ratio |
+| Communicable Disease Epidemiology & Control | — | ⏳ Next — surveillance, disease transmission dynamics, immunization concepts, endemic diseases (malaria, TB, dengue, typhoid) |
 | Non-Communicable Disease & Public Health | — | ⏳ Pending — NCD epidemiology (HTN, DM, IHD, asthma, anaemia, thalassemia) from a public-health/prevention lens |
 | Health Planning & Primary Health Care | — | ⏳ Pending — generalized PHC principles, levels of prevention, health system organization concepts (Alma Ata declaration etc.) |
 | Nutrition & Reproductive Health | — | ⏳ Pending — nutritional deficiency, growth/nutrition indicators, maternal/reproductive health indicators |
 | Disaster Management & Environmental Health | — | ⏳ Pending — disaster classification/preparedness, environmental and occupational health |
 
-**Community Medicine progress: 22/~80 written.**
+**Community Medicine progress: 32/~80 written.**
 
 ### Pharmacology (100 total) — ✅ COMPLETE under new para-clinical standard
 All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct drug-fact statement (mechanism, adverse effect, indication, or interaction) with no patient framing — no age, no "presents with," no vitals/labs.
@@ -251,7 +251,7 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
-6. **Community Medicine — ACTIVE, IN PROGRESS** — subject card ✅ done; 22/~80 questions written (Biostatistics + Epidemiology & Research Methods complete). See Section 8 for subtopic-by-subtopic progress and the remaining plan.
+6. **Community Medicine — ACTIVE, IN PROGRESS** — subject card ✅ done; 32/~80 questions written (Biostatistics, Epidemiology & Research Methods, Demography & Population Health complete). See Section 8 for subtopic-by-subtopic progress and the remaining plan.
 7. **Forensic Medicine** — deferred 8th subject
 
 ---
