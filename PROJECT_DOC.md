@@ -256,6 +256,22 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 ---
 
+## 9a. QA Policy (added July 2026)
+
+**Cadence:** A dedicated QA pass runs every 30–40 newly written questions (roughly once per subject-third), separate from the inline checks Claude does while drafting each batch. This applies to new question writing going forward (Community Medicine onward); it is not being retroactively run over the already-completed Anatomy/Physiology/Pathology/Pharmacology/Microbiology/Biochemistry rewrites unless specifically requested.
+
+**What the QA pass checks:**
+1. **Duplicate content within subtopic/subject** — re-scan all questions in the subject written so far for near-identical facts tested under different wording.
+2. **Reference URL still valid & relevant** — re-verify (via search, not just curl, since NCBI Bookshelf 403s automated fetches) that each `reference_url` resolves and actually supports the question's content.
+3. **Medical accuracy spot-check against source** — for a sample of questions, confirm the stated fact/mechanism against the cited source or general medical knowledge, flagging anything questionable.
+4. **Format compliance** — word count, exactly-3-sentence explanations, no patient framing in para-clinical subjects, correct answer index actually matches the explanation.
+
+**Not currently in scope** (can be added if requested): cross-subject duplicate checking (e.g. confirming a Community Medicine fact doesn't already exist verbatim in Microbiology).
+
+**Process:** Claude runs the QA pass itself (re-reading the relevant slice of `questions.json`, re-searching references, reasoning through accuracy) and reports findings before continuing to new question writing. Any fixes found are pushed as their own commit, separate from new-content commits.
+
+---
+
 ## 10. Workflow
 
 **Session start:** Paste a fresh GitHub PAT (fine-grained, `manast23/medprep`, Contents: Read and write — generate fresh each session, they expire). Claude fetches this `PROJECT_DOC.md` directly from the repo for context — no need to paste a local copy.
