@@ -266,7 +266,15 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **Question review:** For new content, questions are shown in chat for review before pushing when requested. Existing-content rewrites are shown in batches by subtopic, with the diff/rationale explained, before pushing.
 
-**This document:** Updated and pushed to the repo immediately after any of: completing a subtopic/subject batch, a standard/policy correction, a roadmap change. Treat it as living documentation, not a session summary.
+**Quality assurance cadence (added July 2026):** After every 20 newly-written questions (roughly every 2 batches), pause new writing and run a dedicated QA pass before continuing:
+1. **Duplication scan** — re-read each new question's core tested fact against nearby questions in the same subtopic, and spot-check against other subjects covering related content (e.g. Community Medicine vs Microbiology both touching malaria/TB).
+2. **Independent re-derivation** — re-answer each question from scratch without referring to the stored `correct` index, then compare, to catch errors introduced during drafting.
+3. **Reference check** — re-fetch each `reference_url` from the batch to confirm it still resolves and is genuinely on-topic, not just superficially related.
+4. **Format compliance** — word count, `type` field correctness for the subject, exactly 3-sentence explanations, and correct-answer index distribution across the batch (not clustering on one option letter).
+
+Any fixes found are pushed as a normal commit, and the QA pass itself (what was checked, what if anything was fixed) is noted in this document under the relevant subject's progress table.
+
+**This document:** Updated and pushed to the repo immediately after any of: completing a subtopic/subject batch, a standard/policy correction, a roadmap change, or a QA pass. Treat it as living documentation, not a session summary.
 
 ---
 
