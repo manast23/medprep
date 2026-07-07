@@ -112,7 +112,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 
 ## 7. Current Question Bank State (verified live, July 2026)
 
-**Total: 638 questions across 6 complete subjects, plus Community Medicine in progress.**
+**Total: 670 questions across 6 complete subjects, plus Community Medicine in progress.**
 
 | Subject | Count | Status |
 |---|---|---|
@@ -122,7 +122,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
-| Community Medicine | 44 / ~80 | 🔄 IN PROGRESS — subject card done, Biostatistics (10) + Epidemiology & Research Methods (12) + Demography & Population Health (10) + Communicable Disease Epidemiology & Control (12) complete — see Section 8 |
+| Community Medicine | 54 / ~80 | 🔄 IN PROGRESS — subject card done, Biostatistics (10) + Epidemiology & Research Methods (12) + Demography & Population Health (10) + Communicable Disease Epidemiology & Control (12) + Non-Communicable Disease & Public Health (10) complete — see Section 8 |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -161,12 +161,12 @@ References use Park's Textbook of Preventive and Social Medicine (book) plus ver
 | Epidemiology & Research Methods | 627–638 | ✅ Complete (12) — cohort/case-control/cross-sectional study designs, incidence/prevalence, relative risk/odds ratio, sensitivity/specificity/PPV, confounding/recall/lead-time bias, attack rate |
 | Demography & Population Health | 639–648 | ✅ Complete (10) — demographic transition stages, health indicators (IMR/MMR/neonatal mortality), fertility measures, population pyramids, dependency ratio |
 | Communicable Disease Epidemiology & Control | 649–660 | ✅ Complete (12) — chain of infection, R0/herd immunity threshold, quarantine vs isolation, DOTS strategy, disease notification/surveillance, vector control, immunization principles (live vs inactivated, cold chain, active vs passive) |
-| Non-Communicable Disease & Public Health | — | ⏳ Next — NCD epidemiology (HTN, DM, IHD, asthma, anaemia, thalassemia) from a public-health/prevention lens |
-| Health Planning & Primary Health Care | — | ⏳ Pending — generalized PHC principles, levels of prevention, health system organization concepts (Alma Ata declaration etc.) |
+| Non-Communicable Disease & Public Health | 661–670 | ✅ Complete (10) — HTN (public health importance, dietary sodium risk), levels of prevention (primordial/primary/secondary), T2DM global burden, CAD modifiable risk factors + primary/secondary prevention, asthma prevalence trends, iron-deficiency anaemia burden, thalassemia premarital/preconception screening |
+| Health Planning & Primary Health Care | — | ⏳ Next — generalized PHC principles, health system organization concepts (Alma Ata declaration etc.) |
 | Nutrition & Reproductive Health | — | ⏳ Pending — nutritional deficiency, growth/nutrition indicators, maternal/reproductive health indicators |
 | Disaster Management & Environmental Health | — | ⏳ Pending — disaster classification/preparedness, environmental and occupational health |
 
-**Community Medicine progress: 44/~80 written.**
+**Community Medicine progress: 54/~80 written.**
 
 ### Pharmacology (100 total) — ✅ COMPLETE under new para-clinical standard
 All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct drug-fact statement (mechanism, adverse effect, indication, or interaction) with no patient framing — no age, no "presents with," no vitals/labs.
@@ -251,7 +251,7 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
-6. **Community Medicine — ACTIVE, IN PROGRESS** — subject card ✅ done; 44/~80 questions written (Biostatistics, Epidemiology & Research Methods, Demography & Population Health, Communicable Disease Epidemiology & Control complete). See Section 8 for subtopic-by-subtopic progress and the remaining plan.
+6. **Community Medicine — ACTIVE, IN PROGRESS** — subject card ✅ done; 54/~80 questions written (Biostatistics, Epidemiology & Research Methods, Demography & Population Health, Communicable Disease Epidemiology & Control, Non-Communicable Disease & Public Health complete). Next up: Health Planning & Primary Health Care. See Section 8 for subtopic-by-subtopic progress and the remaining plan.
 7. **Forensic Medicine** — deferred 8th subject
 
 ---
