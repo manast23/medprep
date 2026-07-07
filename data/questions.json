@@ -11146,7 +11146,7 @@
     "correct": 1,
     "explanation": "Stage 2 of the demographic transition is marked by a sharp fall in the death rate, largely due to improvements in sanitation, nutrition, and basic healthcare, while the birth rate remains high. Because births greatly outnumber deaths during this stage, the total population grows very rapidly. Many of the least developed countries today are in this stage, whereas industrialised nations passed through it during the 19th and early 20th centuries.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
-    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540845/"
   },
   {
     "id": 640,
@@ -11165,7 +11165,7 @@
     "correct": 1,
     "explanation": "In Stage 4, both the birth rate and death rate are low, resulting in a relatively stable total population size. This stage is typically associated with stronger economies, higher levels of education, improved healthcare access, and fertility rates hovering around replacement level. Countries in this stage have completed the major transition from high to low mortality and fertility that characterised earlier stages.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
-    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540845/"
   },
   {
     "id": 641,
@@ -11241,7 +11241,7 @@
     "correct": 1,
     "explanation": "The crude birth rate is calculated using the total mid-year population as its denominator, which includes men, children, and postmenopausal women who cannot give birth. The general fertility rate refines this by restricting the denominator to women of reproductive age, typically 15 to 49 years, giving a more accurate reflection of fertility within the population actually at risk of childbearing. This makes the general fertility rate a more precise measure for comparing fertility levels across populations with different age and sex structures.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
-    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540845/"
   },
   {
     "id": 645,
@@ -11260,7 +11260,7 @@
     "correct": 1,
     "explanation": "A wide-based, sharply tapering population pyramid reflects a large proportion of children and young people relative to older age groups, which occurs when fertility and birth rates are high. This shape is typical of populations in the early stages of the demographic transition, where death rates have started to fall but birth rates remain high. As fertility declines through later stages of the transition, the base of the pyramid narrows and its overall shape becomes more rectangular.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
-    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540845/"
   },
   {
     "id": 646,
@@ -11279,7 +11279,7 @@
     "correct": 1,
     "explanation": "A near-rectangular population pyramid, with similar numbers of people across most age bands, reflects a stationary population in which birth rates and death rates are both low and roughly balanced. This shape is typical of populations that have completed the demographic transition, with low fertility and increased life expectancy. In contrast, a wide-based, rapidly tapering pyramid indicates a young, rapidly growing population with high fertility.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Demography",
-    "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3345894/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540845/"
   },
   {
     "id": 647,
@@ -11449,7 +11449,7 @@
     "correct": 1,
     "explanation": "Insecticide-treated bed nets and indoor residual spraying reduce malaria transmission by killing or repelling the Anopheles mosquito vector, preventing it from biting humans and continuing the transmission cycle. This differs from antimalarial drugs, which act on the Plasmodium parasite once infection has already occurred. Vector control is a cornerstone of malaria prevention programs, particularly in endemic regions with high transmission intensity.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Prevention and Control of Communicable Diseases",
-    "reference_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK551711/"
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551711/"
   },
   {
     "id": 656,
