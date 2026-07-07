@@ -11545,5 +11545,185 @@
     "explanation": "When a high enough proportion of a population is immune, an infected person is statistically less likely to come into contact with a susceptible individual, which interrupts chains of transmission and indirectly protects those who are not immune. This indirect protection is especially important for individuals who cannot be vaccinated themselves, such as newborns or the severely immunocompromised. The proportion of the population that must be immune to achieve this effect is the herd immunity threshold, which depends on the pathogen's basic reproduction number.",
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Immunization",
     "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7236739/"
+  },
+  {
+    "id": 661,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Which of the following is described as the most important modifiable risk factor for cardiovascular disease at a population level?",
+    "options": [
+      "Hypertension",
+      "Hyperlipidemia",
+      "Diabetes mellitus",
+      "Tobacco use",
+      "Physical inactivity"
+    ],
+    "correct": 0,
+    "explanation": "Hypertension is the most common and one of the most important modifiable risk factors for coronary heart disease, stroke, heart failure, and chronic kidney disease. Its relationship with cardiovascular risk is strong, continuous, and graded, and blood pressure reduction through treatment has been shown to lower disease incidence and mortality. Diabetes and tobacco use are also major risk factors, but hypertension carries the highest population-attributable burden among cardiovascular risk factors.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Epidemiology of Chronic Non-Communicable Diseases",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK220098/"
+  },
+  {
+    "id": 662,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "A public health initiative that promotes low-salt school meals and mandates walkable urban planning before any disease risk factors emerge represents which level of prevention?",
+    "options": [
+      "Primordial prevention",
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Quaternary prevention"
+    ],
+    "correct": 0,
+    "explanation": "Primordial prevention targets the underlying social, economic, and environmental conditions that give rise to risk factors, intervening before those risk factors even develop in a population. This differs from primary prevention, which addresses risk factors that already exist in an individual, such as counseling a sedentary person to exercise. Secondary and tertiary prevention act at later stages, respectively detecting subclinical disease and managing established disease complications.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Concept of Prevention",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537222/"
+  },
+  {
+    "id": 663,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Annual blood pressure measurement and lipid screening in asymptomatic adults to detect hypertension or dyslipidemia before symptoms develop is an example of which level of prevention?",
+    "options": [
+      "Primordial prevention",
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Health promotion"
+    ],
+    "correct": 2,
+    "explanation": "Secondary prevention aims to detect disease at an early, often asymptomatic stage through screening, allowing treatment to begin before complications occur. This contrasts with primary prevention, which seeks to prevent the disease process from starting at all, for example through vaccination or risk-factor modification. Routine screening programs for hypertension and dyslipidemia are classic secondary-prevention strategies in non-communicable disease control.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Concept of Prevention",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537222/"
+  },
+  {
+    "id": 664,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "The global burden of type 2 diabetes mellitus is rising most rapidly due to increasing prevalence of which pair of modifiable factors?",
+    "options": [
+      "Obesity and physical inactivity",
+      "Tobacco use and alcohol consumption",
+      "Air pollution and occupational exposure",
+      "Poor sanitation and overcrowding",
+      "Vitamin D deficiency and low calcium intake"
+    ],
+    "correct": 0,
+    "explanation": "Type 2 diabetes mellitus is a growing global public health burden driven largely by rising rates of obesity and sedentary lifestyles, which promote insulin resistance. As urbanization and dietary transitions continue worldwide, the number of affected adults is projected to keep increasing over coming decades. Tobacco, alcohol, and environmental exposures may contribute to overall chronic disease risk but are not the principal drivers of the diabetes epidemic.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Epidemiology of Diabetes Mellitus",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513253/"
+  },
+  {
+    "id": 665,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Which of the following is classified as a modifiable risk factor for coronary artery disease?",
+    "options": [
+      "Dyslipidemia",
+      "Male sex",
+      "Advancing age",
+      "Family history",
+      "Genetic predisposition"
+    ],
+    "correct": 0,
+    "explanation": "Dyslipidemia, along with hypertension, diabetes, tobacco use, obesity, and physical inactivity, is a modifiable risk factor for coronary artery disease that can be addressed through lifestyle change or medical treatment. Male sex, advancing age, family history, and genetic predisposition are non-modifiable risk factors that cannot be altered by intervention. Screening and treating modifiable risk factors early is central to the prevention of coronary artery disease at a population level.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Epidemiology of Coronary Heart Disease",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554410/"
+  },
+  {
+    "id": 666,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Prescribing statins and lifestyle counseling to a high-risk individual who has never had a myocardial infarction is an example of which type of cardiovascular prevention?",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Primordial prevention",
+      "Passive prevention"
+    ],
+    "correct": 0,
+    "explanation": "Primary prevention in coronary artery disease targets individuals with risk factors who have not yet developed clinical cardiovascular disease, aiming to prevent a first cardiovascular event through lifestyle modification and risk-factor control. Secondary prevention, by contrast, applies to individuals who already have established disease, such as a prior myocardial infarction, to prevent recurrent events. Increased implementation of both primary and secondary prevention strategies has contributed to declining cardiovascular mortality in developed countries.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Prevention of Coronary Heart Disease",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547760/"
+  },
+  {
+    "id": 667,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Global epidemiological data show that asthma prevalence has followed which trend since the early 1990s?",
+    "options": [
+      "Steadily increasing in most countries",
+      "Steadily decreasing worldwide",
+      "Unchanged since the 1990s",
+      "Eliminated in high-income countries",
+      "Limited entirely to children"
+    ],
+    "correct": 0,
+    "explanation": "Asthma has become an increasingly prevalent chronic respiratory disease since the early 1990s, with rising rates observed across many countries, though trends vary by region. It remains a major public health burden due to its high prevalence and the associated healthcare costs of managing exacerbations. In children, asthma is more common in males until around age 20, after which prevalence becomes roughly equal between sexes.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Epidemiology of Chronic Respiratory Disease",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430901/"
+  },
+  {
+    "id": 668,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Iron deficiency is estimated to affect what proportion of the population in developing countries?",
+    "options": [
+      "Approximately 40%",
+      "Approximately 5%",
+      "Approximately 70%",
+      "Approximately 15%",
+      "Approximately 90%"
+    ],
+    "correct": 0,
+    "explanation": "Iron deficiency causes a substantial global burden, affecting over 2 billion people worldwide, with an estimated 40% of the population in developing countries affected compared to about 10% in developed countries. It remains the most common cause of anemia globally and a major public health nutritional deficiency. Populations at particular risk include young children, menstruating women, and pregnant women due to increased iron requirements.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Nutritional Anaemia",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560876/"
+  },
+  {
+    "id": 669,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Which public health strategy is most effective for reducing the birth prevalence of severe thalassemia in high-carrier-frequency populations?",
+    "options": [
+      "Premarital or preconception carrier screening with genetic counseling",
+      "Universal childhood vaccination",
+      "Iodization of salt",
+      "Mass deworming programs",
+      "Fluoridation of water"
+    ],
+    "correct": 0,
+    "explanation": "In populations with a high carrier frequency of thalassemia, premarital or preconception screening combined with genetic counseling allows at-risk couples to be identified and informed of their reproductive risk before conception. Several countries with high carrier rates have implemented national prevention programs combining public awareness, carrier screening, and access to prenatal diagnosis. Vaccination, salt iodization, deworming, and water fluoridation address entirely different disease categories and have no role in thalassemia prevention.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Genetic and Congenital Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545151/"
+  },
+  {
+    "id": 670,
+    "subject": "Community Medicine",
+    "subtopic": "Non-Communicable Disease & Public Health",
+    "type": "factual",
+    "question": "Which dietary factor is most consistently associated with an increased risk of developing hypertension?",
+    "options": [
+      "High dietary sodium intake",
+      "High dietary potassium intake",
+      "High dietary fiber intake",
+      "High dietary calcium intake",
+      "High dietary omega-3 fatty acid intake"
+    ],
+    "correct": 0,
+    "explanation": "High dietary sodium intake is one of the major modifiable risk factors for hypertension, alongside obesity, physical inactivity, and heavy alcohol consumption. In contrast, higher potassium intake has been associated with a protective effect against blood pressure elevation. Reducing dietary sodium is a key primary-prevention strategy recommended in population-level hypertension control programs.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Epidemiology of Hypertension",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK220098/"
   }
 ]
