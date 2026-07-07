@@ -270,6 +270,13 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **Process:** Claude runs the QA pass itself (re-reading the relevant slice of `questions.json`, re-searching references, reasoning through accuracy) and reports findings before continuing to new question writing. Any fixes found are pushed as their own commit, separate from new-content commits.
 
+### QA Pass #1 (Community Medicine, first 44 questions — IDs 617–660)
+- **Duplication:** No true duplicates found. One borderline pair (ID 649 chain-of-infection framework vs ID 659 respiratory portal-of-exit application) judged complementary rather than duplicate — different pedagogical angle on the same underlying concept.
+- **Reference URLs:** 2 issues found and fixed — (1) ID 655 had a malformed URL (`/sites/books/` instead of `/books/`); (2) IDs 639, 640, 644, 645, 646 all cited a real but overly narrow paper ("Population Momentum Across the Demographic Transition," PMC3345894) for basic demographic-transition/population-pyramid definitions it wasn't really about — replaced with a better general-fit NCBI Bookshelf source (NBK540845, "Global Health Transitions and Sustainable Solutions").
+- **Medical accuracy spot-check:** Sampled Type I/II error, herd immunity threshold calculation (R0=4 → 75%), IMR/MMR definitions, live-vaccine contraindication mechanism, DOTS rationale — all confirmed correct.
+- **Format compliance:** Programmatic check (3-sentence explanations, `factual` type only, no patient-framing phrases, reference_url present) — clean except ID 647 (census), which has no `reference_url` by deliberate choice (no suitably specific StatPearls/NCBI/MSD/Radiopaedia source found for this basic definitional fact; noted rather than force-fitting a loose citation).
+- **Fixes pushed** in a dedicated QA commit, separate from content commits.
+
 ---
 
 ## 10. Workflow
