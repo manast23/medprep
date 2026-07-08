@@ -11869,5 +11869,149 @@
     "explanation": "Geographic areas with higher primary care physician-to-population ratios have been found to experience lower total health care costs, reflecting the efficiency gained from effective first-contact and preventive care. International evidence similarly shows that nations placing greater emphasis on primary care tend to have lower all-cause and cause-specific mortality rates, even after adjusting for economic factors such as gross domestic product. Strong primary care systems are therefore associated with both better health outcomes and more efficient use of health care resources.",
     "reference": "Park's Textbook of Preventive and Social Medicine — Health Care Delivery System",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK221227/"
+  },
+  {
+    "id": 679,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "The World Health Organization considers vitamin A deficiency a significant public health problem in a population when the prevalence of Bitot spots among children under 6 years reaches what threshold?",
+    "options": [
+      "0.5% or higher",
+      "5% or higher",
+      "15% or higher",
+      "25% or higher",
+      "50% or higher"
+    ],
+    "correct": 0,
+    "explanation": "The World Health Organization defines vitamin A deficiency as a major public health problem in a community when the prevalence of Bitot spots among children under 6 years of age is 0.5% or higher. Vitamin A deficiency remains a leading cause of preventable childhood blindness worldwide, with the World Health Organization estimating that around 254 million children are affected globally. Xerophthalmia, the constellation of ocular signs associated with the deficiency, also increases childhood morbidity and mortality beyond its effects on vision.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Nutritional Deficiency Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK431094/"
+  },
+  {
+    "id": 680,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "A malnourished child presenting with bilateral pitting edema and preserved subcutaneous fat is most consistent with which form of severe acute malnutrition, as distinguished from marasmus?",
+    "options": [
+      "Simple wasting",
+      "Kwashiorkor",
+      "Stunting only",
+      "Overnutrition",
+      "Vitamin D deficiency rickets"
+    ],
+    "correct": 1,
+    "explanation": "Kwashiorkor is the edematous form of severe acute malnutrition, characterized by bilateral pitting edema with relatively preserved or maintained body fat, in contrast to marasmus, which is a nonedematous wasting syndrome caused by an overall calorie deficiency with severe depletion of both fat and muscle. A mixed form, marasmic-kwashiorkor, combining features of both, may also occur. Distinguishing between these forms is clinically important because it guides the nutritional rehabilitation approach used in management.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Protein-Energy Malnutrition",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559224/"
+  },
+  {
+    "id": 681,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "Which simple anthropometric measurement is used in community-based screening programs to identify severe acute malnutrition in young children?",
+    "options": [
+      "Head circumference",
+      "Waist-to-hip ratio",
+      "Mid-upper arm circumference",
+      "Skinfold thickness at the triceps only",
+      "Chest circumference"
+    ],
+    "correct": 2,
+    "explanation": "Mid-upper arm circumference, along with weight-for-height z-scores and the presence of bilateral pitting edema, is a key anthropometric criterion used to clinically identify severe acute malnutrition in children. It is favored for community-based screening because it requires only a simple, low-cost tape measure and can be performed reliably by community health workers without specialized equipment. A mid-upper arm circumference below a defined cutoff in children aged 6 to 59 months is used internationally to flag severe acute malnutrition requiring urgent nutritional intervention.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Protein-Energy Malnutrition",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559224/"
+  },
+  {
+    "id": 682,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "In a population with severe iodine deficiency, the prevalence of goiter is expected to reach which approximate level, compared to mild deficiency?",
+    "options": [
+      "Less than 1%",
+      "Approximately 2%",
+      "Approximately 5%",
+      "Greater than 30%",
+      "Exactly 10%"
+    ],
+    "correct": 3,
+    "explanation": "Goiter prevalence rises in a dose-dependent manner with the severity of iodine deficiency in a population: mild deficiency is associated with a goiter prevalence of about 5% to 20%, moderate deficiency with 20% to 30%, and severe deficiency with prevalence exceeding 30%. This relationship reflects compensatory thyroid hyperplasia driven by increased thyroid-stimulating hormone secretion in response to inadequate iodine substrate for thyroid hormone synthesis. Iodized salt programs are the primary public health strategy used to reduce population-level goiter prevalence in endemic areas.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Iodine Deficiency Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562161/"
+  },
+  {
+    "id": 683,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "The maternal mortality ratio is defined as the number of maternal deaths during a given period expressed per how many live births during the same period?",
+    "options": [
+      "100,000 live births",
+      "1,000 live births",
+      "10,000 live births",
+      "1,000,000 live births",
+      "500 live births"
+    ],
+    "correct": 0,
+    "explanation": "The maternal mortality ratio is most frequently expressed as the number of maternal deaths occurring in a population during a given year per 100,000 live births in that same period. It represents the risk associated with a single pregnancy and can differ by more than a hundredfold between the highest- and lowest-mortality settings globally. Although often loosely called a rate, it is technically a ratio because its denominator, live births, is not identical to its underlying population at risk, which is all pregnant women.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Maternal Health Indicators",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK222105/"
+  },
+  {
+    "id": 684,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "The World Health Organization recommends that infants be exclusively breastfed, with no other food or fluids introduced, for what minimum duration from birth?",
+    "options": [
+      "1 month",
+      "6 months",
+      "3 months",
+      "12 months",
+      "24 months"
+    ],
+    "correct": 1,
+    "explanation": "Breast milk is recommended as the optimal and exclusive source of nutrition for all infants from birth to at least 6 months of age, with continued breastfeeding alongside complementary foods thereafter up to 2 years of age or beyond. Exclusive breastfeeding provides complete nutritional support along with maternal antibodies that protect against infection during a period of maximal vulnerability. Delaying the introduction of complementary foods until around 6 months allows the infant's gastrointestinal and immune systems to mature further before exposure to other foods.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Infant Feeding Practices",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534767/"
+  },
+  {
+    "id": 685,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "Provitamin A carotenoids, an important dietary source of vitamin A in populations reliant on plant-based diets, are primarily obtained from which type of food?",
+    "options": [
+      "Animal organ meats exclusively",
+      "Refined grains and cereals",
+      "Plant-based foods such as orange and dark leafy vegetables",
+      "Dairy products exclusively",
+      "Processed sugary foods"
+    ],
+    "correct": 2,
+    "explanation": "Vitamin A is obtained from the diet in two forms: preformed vitamin A, found in animal products such as liver and dairy, and provitamin A carotenoids, found in plant-based foods such as orange-colored vegetables and dark leafy greens. Both forms must be converted into active retinal and retinoic acid within the body to exert their biological effects. Populations relying heavily on plant-based diets with limited access to diverse vegetables are at particular risk of vitamin A deficiency if carotenoid intake is insufficient.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Nutritional Deficiency Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482362/"
+  },
+  {
+    "id": 686,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "Ensuring adequate maternal iodine intake during pregnancy is critical because severe maternal iodine deficiency can result in which irreversible condition in the offspring?",
+    "options": [
+      "Neonatal jaundice",
+      "Congenital heart disease",
+      "Cleft lip and palate",
+      "Cretinism with intellectual disability",
+      "Polydactyly"
+    ],
+    "correct": 3,
+    "explanation": "Severe iodine deficiency during pregnancy can result in cretinism, the most extreme manifestation of iodine deficiency disorders, characterized by intellectual disability, abnormal gait, and other neurological or growth impairments in the offspring. Because thyroid hormone is essential for fetal brain development, adequate maternal iodine intake before and during pregnancy is the key preventive measure. Unlike goiter, which can improve with iodine supplementation, the neurological damage of cretinism is largely irreversible once established.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Iodine Deficiency Disorders",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK285556/"
   }
 ]
