@@ -12013,5 +12013,149 @@
     "explanation": "Severe iodine deficiency during pregnancy can result in cretinism, the most extreme manifestation of iodine deficiency disorders, characterized by intellectual disability, abnormal gait, and other neurological or growth impairments in the offspring. Because thyroid hormone is essential for fetal brain development, adequate maternal iodine intake before and during pregnancy is the key preventive measure. Unlike goiter, which can improve with iodine supplementation, the neurological damage of cretinism is largely irreversible once established.",
     "reference": "Park's Textbook of Preventive and Social Medicine — Iodine Deficiency Disorders",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK285556/"
+  },
+  {
+    "id": 687,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "The comprehensive emergency management model used in disaster planning divides the disaster cycle into which four phases?",
+    "options": [
+      "Alert, evacuation, rescue, and cleanup",
+      "Warning, impact, relief, and reconstruction only",
+      "Mitigation, preparedness, response, and recovery",
+      "Assessment, triage, treatment, and discharge",
+      "Prevention, containment, eradication, and surveillance"
+    ],
+    "explanation": "The disaster cycle used in comprehensive emergency management consists of four phases: mitigation, preparedness, response, and recovery. Mitigation involves measures taken to prevent or minimize the effects of future disasters, while preparedness is the phase in which response plans, drills, and resource stockpiles are established. Response covers the immediate actions taken to limit hazards during a disaster, and recovery is the effort to restore a community to its pre-disaster level of functioning.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Disaster Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560710/",
+    "correct": 2
+  },
+  {
+    "id": 688,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Silicosis, asbestosis, and coal worker's lung are all examples of which category of occupational lung disease caused by inhaled mineral dust?",
+    "options": [
+      "Obstructive sleep apnea",
+      "Pneumoconiosis",
+      "Sarcoidosis",
+      "Bronchiolitis obliterans organizing pneumonia",
+      "Eosinophilic pneumonia"
+    ],
+    "explanation": "Pneumoconiosis refers to any lung disease caused by the inhalation of organic or nonorganic airborne dust and fibers, most often encountered in the workplace, making it a classic occupational disease. The most frequently encountered types are asbestosis, silicosis, and coal worker's pneumoconiosis, all of which cause chronic inflammation and progressive, irreversible pulmonary fibrosis. Pneumoconiosis remains among the most common occupational diseases worldwide, particularly in developing countries with less stringent workplace dust control.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Occupational Health",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK555902/",
+    "correct": 1
+  },
+  {
+    "id": 689,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Which method is currently the most widely practiced and cost-effective way of disinfecting large community water supplies?",
+    "options": [
+      "Ultraviolet irradiation",
+      "Reverse osmosis",
+      "Chlorination",
+      "Ozone treatment only",
+      "Prolonged boiling of the entire supply"
+    ],
+    "explanation": "Chlorination is currently the most widely practiced and most cost-effective method of disinfecting large community water supplies, and its use has contributed significantly to public health by reducing the transmission of waterborne disease. Chlorine reacts with naturally occurring organic matter in water to form disinfection by-products, which are a recognized but generally lesser concern compared to the benefits of pathogen control. Community-level chlorination programs remain a cornerstone public health intervention for preventing water-borne infectious disease outbreaks.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Water Pollution Control",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK11769/",
+    "correct": 2
+  },
+  {
+    "id": 690,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Chronic exposure to drinking water containing fluoride at levels greater than 10 milligrams per liter is most associated with which condition?",
+    "options": [
+      "Crippling skeletal fluorosis",
+      "Methemoglobinemia",
+      "Minamata disease",
+      "Itai-itai disease",
+      "Argyria"
+    ],
+    "explanation": "While fluoride at appropriate concentrations helps prevent dental decay, chronic exposure to drinking water with fluoride levels greater than 1.5 milligrams per liter can cause pitting of tooth enamel, and levels above 10 milligrams per liter can cause crippling skeletal fluorosis with deposits in bone. This dose-dependent relationship illustrates why water fluoridation and naturally fluoride-rich groundwater sources require careful monitoring in public health programs. Endemic fluorosis from naturally high-fluoride groundwater remains a recognized problem in parts of India, China, Sri Lanka, and East Africa.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Water Pollution Control",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK11769/",
+    "correct": 0
+  },
+  {
+    "id": 691,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "High nitrate levels in groundwater drinking sources, often resulting from agricultural fertilizer runoff, are most associated with which life-threatening condition in young infants?",
+    "options": [
+      "Acute lead encephalopathy",
+      "Minamata disease",
+      "Cadmium-induced Itai-itai disease",
+      "Methemoglobinemia (\"blue baby syndrome\")",
+      "Skeletal fluorosis"
+    ],
+    "explanation": "The use of nitrogen fertilizers can increase nitrate concentrations in groundwater, and high nitrate levels in drinking water can cause methemoglobinemia, also known as the life-threatening \"blue baby\" syndrome, in very young infants. This condition arises because nitrate is reduced to nitrite in the infant gut, which then oxidizes hemoglobin to methemoglobin, impairing oxygen transport. It has been documented as a significant problem in parts of rural Eastern Europe and other agriculturally intensive regions with unregulated groundwater use.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Water Pollution Control",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK11769/",
+    "correct": 3
+  },
+  {
+    "id": 692,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Which fraction of suspended particulate matter in air pollution is considered the most hazardous because it can penetrate deep into the alveoli?",
+    "options": [
+      "PM2.5",
+      "PM10",
+      "Total suspended particles greater than 50 microns",
+      "Pollen grains",
+      "Coarse sand particles"
+    ],
+    "explanation": "Suspended particulate matter is categorized by size, with PM10 referring to particles with a median aerodynamic diameter of less than 10.0 microns and PM2.5, the finer and most hazardous fraction, referring to particles smaller than 2.5 microns that can reach the alveoli. Long-term studies have documented that increased cardiovascular and respiratory mortality is most strongly associated with PM2.5 exposure specifically. Much of ambient PM2.5 forms secondarily from the condensation of gaseous pollutants such as sulfur dioxide and nitrogen dioxide.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Air Pollution",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK11769/",
+    "correct": 0
+  },
+  {
+    "id": 693,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Disaster planning frameworks emphasize an all-hazards approach because disasters requiring public health and healthcare involvement can arise from which broad categories of causes?",
+    "options": [
+      "Natural causes exclusively",
+      "Human-made causes exclusively",
+      "Only biological terrorism events",
+      "Only industrial chemical accidents",
+      "Both natural and human-made causes"
+    ],
+    "explanation": "Disasters, whether natural or human-made, can occur at any time and have been increasing in both frequency and the number of people affected, which is why disaster planning frameworks emphasize an all-hazards approach. This approach ensures that healthcare leadership and public health professionals prepare response systems flexible enough to address earthquakes, floods, and pandemics as well as terrorist attacks or industrial accidents. Since the 2001 World Trade Center attack in particular, there has been increased recognition of the importance of including public health and healthcare professionals directly in disaster planning.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Disaster Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470570/",
+    "correct": 4
+  },
+  {
+    "id": 694,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "The U.S. National Institute for Occupational Safety and Health recommends an exposure limit for workplace noise of 85 decibels averaged over what duration to reduce the risk of noise-induced hearing loss?",
+    "options": [
+      "A 1-hour period",
+      "An 8-hour workday",
+      "A 24-hour period",
+      "A 4-hour period",
+      "A full work week"
+    ],
+    "explanation": "The National Institute for Occupational Safety and Health recommends an exposure limit of 85 A-weighted decibels averaged over an 8-hour workday to reduce the risk of occupational noise-induced hearing loss. Workers exposed at or above this level over a working lifetime remain at meaningful risk of developing permanent hearing loss, which is why hearing protection and periodic audiometric testing are recommended in high-noise occupational settings. Occupational noise-induced hearing loss classically produces bilateral high-frequency hearing loss, often with a characteristic notch on audiometry.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Occupational Health",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK594247/",
+    "correct": 1
   }
 ]
