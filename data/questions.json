@@ -11725,5 +11725,149 @@
     "explanation": "High dietary sodium intake is one of the major modifiable risk factors for hypertension, alongside obesity, physical inactivity, and heavy alcohol consumption. In contrast, higher potassium intake has been associated with a protective effect against blood pressure elevation. Reducing dietary sodium is a key primary-prevention strategy recommended in population-level hypertension control programs.",
     "reference": "Park's Textbook of Preventive and Social Medicine — Epidemiology of Hypertension",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK220098/"
+  },
+  {
+    "id": 671,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "The Alma-Ata Declaration, which established primary health care as a global strategy and placed health equity on the international political agenda, was adopted at an international conference held in which year?",
+    "options": [
+      "1978",
+      "1948",
+      "1990",
+      "1966",
+      "2000"
+    ],
+    "correct": 0,
+    "explanation": "The Alma-Ata Declaration was adopted at the 1978 International Conference on Primary Health Care in Alma-Ata, Kazakhstan, jointly convened by the World Health Organization and UNICEF. It was the first international declaration to formally establish primary health care as a core global health strategy and to place health equity on the international political agenda. The declaration shaped health policy in the following decades and remains a foundational reference for primary health care systems worldwide.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Primary Health Care",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK316278/"
+  },
+  {
+    "id": 672,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "Which principle of the original WHO primary health care concept calls for services to be shaped around the full involvement of the community being served?",
+    "options": [
+      "Community participation",
+      "Centralized specialist referral",
+      "Vertical single-disease programming",
+      "Fee-for-service financing",
+      "Hospital-based curative care"
+    ],
+    "correct": 0,
+    "explanation": "The 1975 WHO concept paper that shaped the Alma-Ata Declaration stressed shaping primary health care around the life patterns of the population and ensuring their full involvement in planning and delivery. Community participation was intended to make health services more responsive and socially acceptable rather than imposed from outside. This principle distinguished primary health care from earlier top-down, purely biomedical models of health service delivery.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Primary Health Care",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK316278/"
+  },
+  {
+    "id": 673,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "The original WHO primary health care concept specified that services should be delivered, wherever practicable, by which category of health worker?",
+    "options": [
+      "Workers most simply trained for the task, at the most peripheral practicable level",
+      "Only subspecialist consultants, at tertiary referral centers",
+      "Exclusively licensed physicians, at district hospitals",
+      "Only nurses with postgraduate training, at urban health centers",
+      "Only traditional healers, without any formal training"
+    ],
+    "correct": 0,
+    "explanation": "The 1975 WHO concept paper underlying the Alma-Ata Declaration emphasized that interventions should be undertaken at the most peripheral practicable level of the health service, by workers most simply trained for that activity. Other echelons of the health system were designed to support the needs of this peripheral level rather than to dominate it. This approach allowed limited health personnel to reach underserved rural and community populations more effectively.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Primary Health Care",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK316278/"
+  },
+  {
+    "id": 674,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "Integrating primary health care services with sectors such as agriculture, education, and community development reflects which core principle of PHC?",
+    "options": [
+      "Intersectoral collaboration",
+      "Vertical program integration",
+      "Centralized health financing",
+      "Specialist gatekeeping",
+      "Private-sector monopoly"
+    ],
+    "correct": 0,
+    "explanation": "The original primary health care concept called for PHC services to be fully integrated with the services of other sectors involved in community development, recognizing that health outcomes are shaped by factors well beyond clinical care. This intersectoral collaboration principle acknowledges that agriculture, education, water supply, and sanitation directly affect population health. It remains a defining feature distinguishing primary health care from a narrowly medical model of service delivery.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Primary Health Care",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK316278/"
+  },
+  {
+    "id": 675,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "Universal Health Coverage, as defined by the World Health Organization, is best described as which of the following?",
+    "options": [
+      "Equal access for all to good-quality health services without financial hardship",
+      "Free hospital-based care limited to government employees",
+      "Coverage restricted to communicable disease treatment only",
+      "A voluntary private insurance scheme for high-income groups",
+      "Health coverage available only in urban areas"
+    ],
+    "correct": 0,
+    "explanation": "Universal Health Coverage is defined by the World Health Organization as equal access for all people to good-quality health services, without those in need being exposed to financial hardship as a result. It is a modern formulation of the broader goal of ensuring health as a basic right for entire populations rather than select groups. UHC has become a central organizing concept guiding health system reform and international health policy since the early 2000s.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Universal Health Coverage",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK316270/"
+  },
+  {
+    "id": 676,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "Primary health care became the core strategy adopted by the World Health Organization to help achieve which broader global health goal declared at Alma-Ata?",
+    "options": [
+      "Health for All",
+      "Zero Hunger",
+      "Education for All",
+      "Millennium Development Goals",
+      "Sustainable Development Goals"
+    ],
+    "correct": 0,
+    "explanation": "The Alma-Ata Declaration established primary health care as the core strategy for achieving the World Health Organization goal of Health for All, which envisioned an acceptable level of health for every person globally. This goal reframed health as a fundamental right rather than a privilege available only to those who could access specialized medical care. Health for All remained the guiding WHO policy framework for decades and continues to inform current approaches to universal health coverage.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Primary Health Care",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK316278/"
+  },
+  {
+    "id": 677,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "Good primary care is characterized by acting as a regular first point of contact for patients while also ensuring which combination of qualities over time?",
+    "options": [
+      "Continuity, comprehensiveness, and coordination of care",
+      "Exclusive use of high-cost diagnostic technology",
+      "Restriction of services to a single organ system",
+      "Delivery only through emergency departments",
+      "Reliance solely on subspecialist referral for all conditions"
+    ],
+    "correct": 0,
+    "explanation": "The unique characteristic of primary care is that it serves as a regular or usual source of care for patients and their families, providing continuity across levels of care over time. Good primary care also ensures comprehensiveness of services appropriate to the patient's level of health or illness, along with coordination of these services among different providers. These qualities, sometimes summarized as first-contact care with continuity, comprehensiveness, and coordination, are central to how primary care is distinguished from specialist or hospital-based care.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Health Care Delivery System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK221227/"
+  },
+  {
+    "id": 678,
+    "subject": "Community Medicine",
+    "subtopic": "Health Planning & Primary Health Care",
+    "type": "factual",
+    "question": "Areas with a higher ratio of primary care physicians to population have consistently been shown to have which of the following?",
+    "options": [
+      "Lower total health care costs and better population health outcomes",
+      "Higher rates of unnecessary hospitalization",
+      "No measurable effect on health outcomes",
+      "Increased reliance on emergency department care",
+      "Higher overall mortality rates"
+    ],
+    "correct": 0,
+    "explanation": "Geographic areas with higher primary care physician-to-population ratios have been found to experience lower total health care costs, reflecting the efficiency gained from effective first-contact and preventive care. International evidence similarly shows that nations placing greater emphasis on primary care tend to have lower all-cause and cause-specific mortality rates, even after adjusting for economic factors such as gross domestic product. Strong primary care systems are therefore associated with both better health outcomes and more efficient use of health care resources.",
+    "reference": "Park's Textbook of Preventive and Social Medicine — Health Care Delivery System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK221227/"
   }
 ]
