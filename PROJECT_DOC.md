@@ -112,7 +112,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 
 ## 7. Current Question Bank State (verified live, July 2026)
 
-**Total: 686 questions across 6 complete subjects, plus Community Medicine in progress.**
+**Total: 694 questions across 7 complete subjects.**
 
 | Subject | Count | Status |
 |---|---|---|
@@ -122,7 +122,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Pharmacology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — see Section 8 |
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
-| Community Medicine | 70 / ~80 | 🔄 IN PROGRESS — subject card done, Biostatistics (10) + Epidemiology & Research Methods (12) + Demography & Population Health (10) + Communicable Disease Epidemiology & Control (12) + Non-Communicable Disease & Public Health (10) + Health Planning & Primary Health Care (8) + Nutrition & Reproductive Health (8) complete — see Section 8 |
+| Community Medicine | 78 / ~80 | ✅ COMPLETE — subject card done, all 8 subtopics complete: Biostatistics (10), Epidemiology & Research Methods (12), Demography & Population Health (10), Communicable Disease Epidemiology & Control (12), Non-Communicable Disease & Public Health (10), Health Planning & Primary Health Care (8), Nutrition & Reproductive Health (8), Disaster Management & Environmental Health (8) — see Section 8 |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -164,9 +164,18 @@ References use Park's Textbook of Preventive and Social Medicine (book) plus ver
 | Non-Communicable Disease & Public Health | 661–670 | ✅ Complete (10) — HTN (public health importance, dietary sodium risk), levels of prevention (primordial/primary/secondary), T2DM global burden, CAD modifiable risk factors + primary/secondary prevention, asthma prevalence trends, iron-deficiency anaemia burden, thalassemia premarital/preconception screening |
 | Health Planning & Primary Health Care | 671–678 | ✅ Complete (8) — Alma-Ata Declaration (1978), PHC principles (community participation, peripheral-level delivery, intersectoral collaboration), Universal Health Coverage definition, WHO's Health for All goal, primary care's first-contact/continuity/comprehensiveness/coordination qualities, primary care density vs. cost/outcomes evidence |
 | Nutrition & Reproductive Health | 679–686 | ✅ Complete (8) — vitamin A deficiency/xerophthalmia public health threshold, marasmus vs. kwashiorkor, MUAC as a community screening tool, iodine deficiency/goiter dose-response, maternal mortality ratio definition, WHO exclusive breastfeeding recommendation, vitamin A dietary sources, cretinism from maternal iodine deficiency |
-| Disaster Management & Environmental Health | — | ⏳ Next — disaster classification/preparedness, environmental and occupational health |
+| Disaster Management & Environmental Health | 687–694 | ✅ Complete (8) — disaster cycle four phases (mitigation/preparedness/response/recovery), pneumoconiosis (silicosis/asbestosis/coal worker's lung), water chlorination, fluoride/nitrate water contamination health effects, PM2.5 vs. PM10, all-hazards disaster planning, occupational noise exposure limit (85 dBA/8-hr) |
 
-**Community Medicine progress: 70/~80 written.**
+**Community Medicine is now COMPLETE at 78/~80 questions across all 8 subtopics.**
+
+**Community Medicine progress: 78/~80 written — SUBJECT COMPLETE.**
+
+**QA Pass #3 completed (July 2026)** — covered the final 16 questions (IDs 679–694, Nutrition & Reproductive Health + Disaster Management & Environmental Health):
+- **Duplication scan:** No overlapping core facts found within the batch or against any earlier Community Medicine subtopic.
+- **Reference check:** All 12 distinct `reference_url` values (NBK431094, NBK559224, NBK562161, NBK222105, NBK534767, NBK482362, NBK285556, NBK560710, NBK555902, NBK11769, NBK470570, NBK594247) verified live via search/fetch before use.
+- **Format compliance:** Answer-letter distribution was checked and proactively rebalanced before pushing (avoiding the clustering issue from Pass #2).
+- **Content-accuracy catch during drafting:** A shuffle bug briefly mismatched two questions' correct-answer index to the wrong option text (IDs 687, 688); caught and fixed with an assertion check before pushing — nothing incorrect ever reached the live repo.
+- **Independent re-derivation / fact-check:** Spot-checked the fluoride/skeletal fluorosis dose threshold (10 mg/L) against an independent WHO source; confirmed accurate.
 
 **QA Pass #2 completed (July 2026)** — covered the 18 questions written since Pass #1 (IDs 661–678, Non-Communicable Disease & Public Health + Health Planning & Primary Health Care):
 - **Duplication scan:** No overlapping core facts found within the batch or against earlier Community Medicine subtopics.
@@ -258,8 +267,8 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
-6. **Community Medicine — ACTIVE, IN PROGRESS** — subject card ✅ done; 70/~80 questions written (Biostatistics, Epidemiology & Research Methods, Demography & Population Health, Communicable Disease Epidemiology & Control, Non-Communicable Disease & Public Health, Health Planning & Primary Health Care, Nutrition & Reproductive Health complete). QA Pass #2 done (found/fixed an answer-letter-clustering issue). Next up: Disaster Management & Environmental Health — the final subtopic to reach ~80 total. See Section 8 for subtopic-by-subtopic progress and the remaining plan.
-7. **Forensic Medicine** — deferred 8th subject
+6. **Community Medicine — ✅ COMPLETE** — subject card done; 78/~80 questions written across all 8 subtopics (Biostatistics, Epidemiology & Research Methods, Demography & Population Health, Communicable Disease Epidemiology & Control, Non-Communicable Disease & Public Health, Health Planning & Primary Health Care, Nutrition & Reproductive Health, Disaster Management & Environmental Health). QA Passes #1, #2, and #3 all completed. See Section 8 for subtopic-by-subtopic detail.
+7. **Forensic Medicine** — the final (8th) subject, now next up. Build the subject card image first, then begin writing questions following the established workflow and QA cadence (dedicated pass every ~20 new questions).
 
 ---
 
