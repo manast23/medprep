@@ -9,16 +9,56 @@
   display: block;
 }
 
-.comet {
+.deepCoral,
+.warmOrange,
+.coral,
+.softPeach,
+.core {
   fill: none;
-  stroke: #FF7A45;
-  stroke-width: 0.75;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-dasharray: 55 1000;
   stroke-dashoffset: 55;
-  animation: cometSweep 16s linear infinite;
-  filter: brightness(1.6) drop-shadow(0 0 2px #FF7A45);
+  animation-name: cometSweep;
+  animation-duration: 16s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.deepCoral {
+  stroke: #F15E4E;
+  stroke-width: 3;
+  opacity: 0.35;
+  animation-delay: 0.6s;
+}
+
+.warmOrange {
+  stroke: #FF7B5D;
+  stroke-width: 2.2;
+  opacity: 0.5;
+  animation-delay: 0.45s;
+}
+
+.coral {
+  stroke: #FF9C87;
+  stroke-width: 1.6;
+  opacity: 0.65;
+  animation-delay: 0.3s;
+}
+
+.softPeach {
+  stroke: #FFD2C5;
+  stroke-width: 1.1;
+  opacity: 0.85;
+  animation-delay: 0.15s;
+}
+
+.core {
+  stroke: #FFF5F2;
+  stroke-width: 0.75;
+  opacity: 1;
+  animation-delay: 0s;
+  filter: drop-shadow(0 0 1.5px #FF9C87);
 }
 
 @keyframes cometSweep {
@@ -27,5 +67,8 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .comet { animation: none; opacity: 0; }
+  .deepCoral, .warmOrange, .coral, .softPeach, .core {
+    animation: none;
+    opacity: 0;
+  }
 }
