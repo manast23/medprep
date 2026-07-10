@@ -17,8 +17,7 @@
   stroke-linejoin: round;
   stroke-dasharray: 55 1000;
   stroke-dashoffset: 55;
-  animation: cometSweep 9s linear infinite;
-  filter: drop-shadow(0 0 3px var(--primary-dark)) drop-shadow(0 0 6px var(--primary));
+  animation: cometSweep 16s linear infinite;
 }
 
 @keyframes cometSweep {
