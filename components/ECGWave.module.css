@@ -12,7 +12,7 @@
 .comet {
   fill: none;
   stroke: #3FFFE3;
-  stroke-width: 2;
+  stroke-width: 0.75;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-dasharray: 55 1000;
