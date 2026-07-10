@@ -1,0 +1,42 @@
+.wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.trace {
+  width: 300%;
+  height: 100%;
+  display: block;
+  animation: ecgScroll 6s linear infinite;
+}
+
+.line {
+  fill: none;
+  stroke: var(--primary);
+  stroke-width: 2.5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  opacity: 0.18;
+}
+
+.peak {
+  fill: var(--accent);
+  opacity: 0;
+  animation: peakGlow 6s ease-in-out infinite;
+}
+
+@keyframes ecgScroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-33.3333%); }
+}
+
+@keyframes peakGlow {
+  0%, 92%, 100% { opacity: 0; }
+  4% { opacity: 0.55; }
+  8% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .trace { animation: none; }
+  .peak { animation: none; opacity: 0; }
+}
