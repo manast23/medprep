@@ -11,19 +11,19 @@
 
 .comet {
   fill: none;
-  stroke: var(--accent);
-  stroke-width: 4;
+  stroke: var(--primary);
+  stroke-width: 2;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-dasharray: 55 1000;
-  stroke-dashoffset: -55;
+  stroke-dashoffset: 55;
   animation: cometSweep 9s linear infinite;
-  filter: drop-shadow(0 0 4px var(--primary)) drop-shadow(0 0 10px var(--primary));
+  filter: drop-shadow(0 0 3px var(--primary-dark)) drop-shadow(0 0 6px var(--primary));
 }
 
 @keyframes cometSweep {
-  from { stroke-dashoffset: -55; }
-  to   { stroke-dashoffset: 1055; }
+  from { stroke-dashoffset: 55; }
+  to   { stroke-dashoffset: -1055; }
 }
 
 @media (prefers-reduced-motion: reduce) {
