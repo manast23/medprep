@@ -1,10 +1,11 @@
 import styles from './ECGWave.module.css'
 
-// A guide path shaped like an ECG strip (3 heartbeats). The path itself is
-// never drawn — only a short glowing "comet" travels along it left to right,
-// fading in as it enters and fading out as it exits, then looping.
-const UNIT = 'L150,100 L165,100 L175,90 L185,112 L197,45 L212,155 L227,100 L400,100'
-const PATH = `M0,100 ${UNIT} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 400},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 800},`)}`
+// Guide path shaped like a continuous ECG strip — each beat starts right
+// where the last one ends (minimal flat baseline between beats). The path
+// itself is never drawn — only a short glowing comet travels along it left
+// to right, fading in as it enters and fading out as it exits, then looping.
+const UNIT = 'L20,100 L35,100 L45,90 L55,112 L67,45 L82,155 L97,100 L120,100'
+const PATH = `M0,100 ${UNIT} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 120},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 240},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 360},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 480},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 600},`)}`
 
 export default function ECGWave({ style = {} }) {
   return (
@@ -14,7 +15,7 @@ export default function ECGWave({ style = {} }) {
     >
       <svg
         className={styles.trace}
-        viewBox="0 0 1200 200"
+        viewBox="0 0 720 200"
         preserveAspectRatio="none"
         aria-hidden="true"
       >
