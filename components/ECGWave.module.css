@@ -18,6 +18,7 @@
   stroke-dasharray: 55 1000;
   stroke-dashoffset: 55;
   animation: cometSweep 16s linear infinite;
+  filter: brightness(1.6);
 }
 
 @keyframes cometSweep {
