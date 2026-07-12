@@ -66,22 +66,22 @@ const LAYERS = [
   { color: '#8EB9E6', width: 5, opacity: 0.90 },
 ]
 
-// Lightning bolts: each is a fast flash-sweep across the wave, then a long
-// invisible pause before repeating. Different durations/offsets per bolt
-// mean they drift out of sync with each other, so flashes feel occasional
-// and semi-random rather than one predictable repeating scan.
-const BOLTS = [
-  { dur: 8, begin: 0 },
-  { dur: 11, begin: 2.5 },
-  { dur: 14, begin: 5.5 },
+// Lightning strikes: each is a FIXED segment of the wave (no positional
+// animation at all — nothing slides or travels) that flickers in/out of
+// visibility like a real lightning bolt. Different durations/delays per
+// strike mean they fire independently, so it reads as occasional random
+// strikes rather than one repeating scan.
+const STRIKES = [
+  { dashoffset: 0, duration: 9, delay: 0 },
+  { dashoffset: -330, duration: 13, delay: 3 },
+  { dashoffset: -660, duration: 17, delay: 6.5 },
 ]
+const SEGMENT_LENGTH = 220 // out of a normalized pathLength of 1000
 
 export default function ECGWave({ style = {} }) {
   const uid = useId().replace(/:/g, '')
   const waveId = `ecg-wave-${uid}`
   const glowId = `ecg-glow-${uid}`
-  const maskId = `ecg-scan-${uid}`
-  const fadeId = `ecg-fade-${uid}`
   const coreId = `ecg-core-${uid}`
 
   const [reducedMotion, setReducedMotion] = useState(false)
@@ -94,13 +94,28 @@ export default function ECGWave({ style = {} }) {
   }, [])
 
   if (reducedMotion) {
-    return <div className={styles.wrap} style={{ position: 'absolute', inset: 0, ...style }} />
+    return (
+      <div
+        className={styles.wrap}
+        style={{ position: 'absolute', top: '-25%', left: 0, right: 0, height: '150%', ...style }}
+      />
+    )
   }
 
   return (
     <div
       className={styles.wrap}
-      style={{ position: 'absolute', inset: 0, pointerEvents: 'none', zIndex: 0, overflow: 'hidden', ...style }}
+      style={{
+        position: 'absolute',
+        top: '-25%',
+        left: 0,
+        right: 0,
+        height: '150%',
+        pointerEvents: 'none',
+        zIndex: 0,
+        overflow: 'hidden',
+        ...style,
+      }}
     >
       <svg
         className={styles.trace}
@@ -109,7 +124,7 @@ export default function ECGWave({ style = {} }) {
         aria-hidden="true"
       >
         <defs>
-          <path id={waveId} d={PATH} />
+          <path id={waveId} d={PATH} pathLength="1000" />
 
           <linearGradient id={`ecg-bg-${uid}`} x1="0" y1="0" x2="0" y2="1">
             <stop offset="0%" stopColor="#062D23" />
@@ -136,67 +151,54 @@ export default function ECGWave({ style = {} }) {
               <feMergeNode in="SourceGraphic" />
             </feMerge>
           </filter>
-
-          <mask id={maskId}>
-            <linearGradient id={fadeId} x1="0%" y1="0%" x2="100%" y2="0%">
-              <stop offset="0%" stopColor="black" />
-              <stop offset="20%" stopColor="#222" />
-              <stop offset="45%" stopColor="#777" />
-              <stop offset="75%" stopColor="white" />
-              <stop offset="100%" stopColor="white" />
-            </linearGradient>
-            {BOLTS.map((b, i) => (
-              <rect key={i} x="-260" y="0" width="260" height="450" fill={`url(#${fadeId})`}>
-                <animate
-                  attributeName="x"
-                  values="-260;1600;1600"
-                  keyTimes="0;0.12;1"
-                  dur={`${b.dur}s`}
-                  begin={`${b.begin}s`}
-                  repeatCount="indefinite"
-                />
-              </rect>
-            ))}
-          </mask>
         </defs>
 
         <rect width="100%" height="100%" fill={`url(#ecg-bg-${uid})`} />
 
-        {LAYERS.map((l) => (
-          <use
-            key={l.color}
-            href={`#${waveId}`}
-            stroke={l.color}
-            strokeWidth={l.width}
-            opacity={l.opacity}
-            fill="none"
-            filter={`url(#${glowId})`}
-            mask={`url(#${maskId})`}
-          />
+        {STRIKES.map((s, i) => (
+          <g
+            key={i}
+            className={styles.strike}
+            style={{ animationDuration: `${s.duration}s`, animationDelay: `${s.delay}s` }}
+          >
+            {LAYERS.map((l) => (
+              <use
+                key={l.color}
+                href={`#${waveId}`}
+                stroke={l.color}
+                strokeWidth={l.width}
+                opacity={l.opacity}
+                fill="none"
+                filter={`url(#${glowId})`}
+                strokeDasharray={`${SEGMENT_LENGTH} 1000`}
+                strokeDashoffset={s.dashoffset}
+              />
+            ))}
+            {/* Bright edge */}
+            <use
+              href={`#${waveId}`}
+              stroke="#DCEFFF"
+              strokeWidth={3.8}
+              opacity={1}
+              fill="none"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeDasharray={`${SEGMENT_LENGTH} 1000`}
+              strokeDashoffset={s.dashoffset}
+            />
+            {/* Electrical energy core */}
+            <use
+              href={`#${waveId}`}
+              stroke={`url(#${coreId})`}
+              strokeWidth={2}
+              fill="none"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeDasharray={`${SEGMENT_LENGTH} 1000`}
+              strokeDashoffset={s.dashoffset}
+            />
+          </g>
         ))}
-
-        {/* Bright edge */}
-        <use
-          href={`#${waveId}`}
-          stroke="#DCEFFF"
-          strokeWidth={3.8}
-          opacity={1}
-          fill="none"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          mask={`url(#${maskId})`}
-        />
-
-        {/* Electrical energy core */}
-        <use
-          href={`#${waveId}`}
-          stroke={`url(#${coreId})`}
-          strokeWidth={2}
-          fill="none"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          mask={`url(#${maskId})`}
-        />
       </svg>
     </div>
   )
