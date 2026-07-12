@@ -8,25 +8,3 @@
   height: 100%;
   display: block;
 }
-
-.comet {
-  fill: none;
-  stroke-width: 0.75;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-dasharray: 55 1000;
-  stroke-dashoffset: 55;
-  animation: cometSweep 16s linear infinite;
-}
-
-@keyframes cometSweep {
-  from { stroke-dashoffset: 55; }
-  to   { stroke-dashoffset: -1055; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .comet {
-    animation: none;
-    opacity: 0;
-  }
-}
