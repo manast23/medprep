@@ -1,7 +1,7 @@
 # MedPrep — Project Document (Live, Repo-Tracked)
 *This file lives in the repo at `PROJECT_DOC.md` and is the single source of truth for the project. Claude updates it directly after every significant change — new content, format corrections, roadmap shifts. Do not maintain a separate local copy; always pull the current version from the repo at the start of a session.*
 
-*Last updated: July 2026*
+*Last updated: July 2026 (design system corrected to match live dark theme; ECGWave hero component documented)*
 
 ---
 
@@ -36,22 +36,25 @@ General medical knowledge practice app — not tied to any specific exam, countr
 | Database | None yet — JSON file only |
 | Auth | None yet |
 
-**Aesthetic:** Clean, minimal, professional. Light background (`#f5f3ef`), white cards, teal/green accent.
+**Aesthetic (corrected July 2026 — the table below was stale/inaccurate):** Dark, clean, modern. Green-tinted dark background (`#022c22`), radial gradient from `#064e3b` (top) through `#022c22` to near-black `#0b0f10`.
 
 | Token | Value |
 |---|---|
-| Primary green | `#0f6e56` |
-| Green mid | `#1d9e75` |
-| Green light | `#e1f5ee` |
-| Background | `#f5f3ef` |
-| Text | `#1a1a1a` |
-| Text muted | `#6b6b6b` |
-| Border | `#e2ddd8` |
-| Correct | `#1d9e75` on `#e1f5ee` |
-| Incorrect | `#e24b4a` on `#fcebeb` |
+| Background | `#022c22` |
+| Primary green | `#10b981` |
+| Primary dark green | `#065f46` |
+| Accent (soft mint) | `#95d3ba` |
 | Border radius | `12px` |
 
 **Pages:** Home (`/`, subject selection + settings sidebar) → Quiz (`/quiz`, question + options + progress bar + explanation panel) → Results (`/results`, score + topic breakdown).
+
+**Hero/background component — `ECGWave`:** Replaces the old `StarField` dot-grid component (deleted; was used in both the hero and subjects section). Renders an animated ECG waveform:
+- Path: exact reference waveform (P-wave curve → sharp QRS spike → T-wave curve, repeated 4x) on a `viewBox="0 0 1600 450"` canvas.
+- **Layered glow technique:** 7 stacked `<use>` copies of the same path at increasing stroke-width (5→26) and decreasing opacity (0.90→0.08), each through a shared `feGaussianBlur` (`stdDeviation=16`) + `feMerge` filter, topped by a crisp bright-edge layer (`#DCEFFF`, width 3.8) and an "electrical energy core" layer using a 10-stop blue→white→coral→orange gradient (`#DCEFFF` → `#F15E4E`), width 2.
+- **Reveal mechanism:** not a dash-based comet — a soft gradient-fade `<rect>` (black→gray→white across its width) inside an SVG `<mask>`, animated left-to-right via SMIL `<animate>` on its `x` attribute (`-260` → `1600`, `dur=16s`, `repeatCount=indefinite`). Only the portion of the wave currently under the moving band is visible, giving a natural traveling-glow sweep with built-in fade in/out at the edges.
+- **Per-instance unique IDs:** since the component renders twice on the page (hero + subjects section), all SVG ids (`path`, gradients, filter, mask) are suffixed with a React `useId()`-derived value to prevent cross-instance collisions.
+- **Reduced motion:** JS-based `matchMedia('(prefers-reduced-motion: reduce)')` check (not CSS — SMIL `<animate>` can't be paused via CSS `animation-play-state`); renders nothing when the user prefers reduced motion.
+- Files: `components/ECGWave.js`, `components/ECGWave.module.css` (layout only now — all animation/color lives inline in the SVG).
 
 **Subject card images:** `public/[subject].jpg`, 429×240px. Must be built before writing questions for any new subject.
 
