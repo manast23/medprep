@@ -1,22 +1,69 @@
 import { useId, useEffect, useState } from 'react'
 import styles from './ECGWave.module.css'
 
-// Guide path shaped like a continuous ECG strip — each beat starts right
-// where the last one ends (minimal flat baseline between beats).
-const UNIT = 'L20,100 L35,100 L45,90 L55,112 L67,45 L82,155 L97,100 L120,100'
-const PATH = `M0,100 ${UNIT} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 120},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 240},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 360},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 480},`)} ${UNIT.replace(/(\d+),/g, (_, n) => `${Number(n) + 600},`)}`
+const PATH = `
+  M80 225
+  L180 225
 
-// Stacked glow layers: color, stroke width, opacity — scaled down from a
-// 1600-wide reference canvas to our 720-wide viewBox (factor ~0.45), so the
-// same relative "heaviness" of glow is preserved at our smaller scale.
+  Q205 225 220 212
+  Q235 198 250 225
+
+  L300 225
+
+  L320 245
+  L338 90
+  L356 330
+  L378 185
+
+  L420 225
+
+  Q455 225 485 180
+  Q520 160 555 225
+
+  L680 225
+
+  Q705 225 720 212
+  Q735 198 750 225
+
+  L800 225
+
+  L820 245
+  L838 90
+  L856 330
+  L878 185
+
+  L920 225
+
+  Q955 225 985 180
+  Q1020 160 1055 225
+
+  L1180 225
+
+  Q1205 225 1220 212
+  Q1235 198 1250 225
+
+  L1300 225
+
+  L1320 245
+  L1338 90
+  L1356 330
+  L1378 185
+
+  L1420 225
+
+  Q1455 225 1485 180
+  Q1520 160 1560 225
+`
+
+// Stacked glow layers: color, stroke width, opacity.
 const LAYERS = [
-  { color: '#0F1522', width: 11.7, opacity: 0.08 },
-  { color: '#1B2338', width: 9.9, opacity: 0.12 },
-  { color: '#233A63', width: 8.1, opacity: 0.18 },
-  { color: '#355D8C', width: 6.3, opacity: 0.28 },
-  { color: '#4F7FB6', width: 4.5, opacity: 0.45 },
-  { color: '#6B9BD1', width: 3.15, opacity: 0.70 },
-  { color: '#8EB9E6', width: 2.25, opacity: 0.90 },
+  { color: '#0F1522', width: 26, opacity: 0.08 },
+  { color: '#1B2338', width: 22, opacity: 0.12 },
+  { color: '#233A63', width: 18, opacity: 0.18 },
+  { color: '#355D8C', width: 14, opacity: 0.28 },
+  { color: '#4F7FB6', width: 10, opacity: 0.45 },
+  { color: '#6B9BD1', width: 7, opacity: 0.70 },
+  { color: '#8EB9E6', width: 5, opacity: 0.90 },
 ]
 
 export default function ECGWave({ style = {} }) {
@@ -47,7 +94,7 @@ export default function ECGWave({ style = {} }) {
     >
       <svg
         className={styles.trace}
-        viewBox="0 0 720 200"
+        viewBox="0 0 1600 450"
         preserveAspectRatio="xMidYMid slice"
         aria-hidden="true"
       >
@@ -68,7 +115,7 @@ export default function ECGWave({ style = {} }) {
           </linearGradient>
 
           <filter id={glowId} x="-150%" y="-150%" width="400%" height="400%">
-            <feGaussianBlur stdDeviation="7" result="blur" />
+            <feGaussianBlur stdDeviation="16" result="blur" />
             <feMerge>
               <feMergeNode in="blur" />
               <feMergeNode in="SourceGraphic" />
@@ -83,8 +130,8 @@ export default function ECGWave({ style = {} }) {
               <stop offset="75%" stopColor="white" />
               <stop offset="100%" stopColor="white" />
             </linearGradient>
-            <rect x="-120" y="0" width="120" height="200" fill={`url(#${fadeId})`}>
-              <animate attributeName="x" from="-120" to="720" dur="16s" repeatCount="indefinite" />
+            <rect x="-260" y="0" width="260" height="450" fill={`url(#${fadeId})`}>
+              <animate attributeName="x" from="-260" to="1600" dur="16s" repeatCount="indefinite" />
             </rect>
           </mask>
         </defs>
@@ -106,7 +153,7 @@ export default function ECGWave({ style = {} }) {
         <use
           href={`#${waveId}`}
           stroke="#DCEFFF"
-          strokeWidth={1.71}
+          strokeWidth={3.8}
           opacity={1}
           fill="none"
           strokeLinecap="round"
@@ -118,7 +165,7 @@ export default function ECGWave({ style = {} }) {
         <use
           href={`#${waveId}`}
           stroke={`url(#${coreId})`}
-          strokeWidth={0.9}
+          strokeWidth={2}
           fill="none"
           strokeLinecap="round"
           strokeLinejoin="round"
