@@ -101,6 +101,11 @@ export default function ECGWave({ style = {} }) {
         <defs>
           <path id={waveId} d={PATH} />
 
+          <linearGradient id={`ecg-bg-${uid}`} x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stopColor="#062D23" />
+            <stop offset="100%" stopColor="#022C22" />
+          </linearGradient>
+
           <linearGradient id={coreId} x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stopColor="#DCEFFF" />
             <stop offset="15%" stopColor="#B7D8F8" />
@@ -131,10 +136,12 @@ export default function ECGWave({ style = {} }) {
               <stop offset="100%" stopColor="white" />
             </linearGradient>
             <rect x="-260" y="0" width="260" height="450" fill={`url(#${fadeId})`}>
-              <animate attributeName="x" from="-260" to="1600" dur="16s" repeatCount="indefinite" />
+              <animate attributeName="x" from="-260" to="1600" dur="4s" repeatCount="indefinite" />
             </rect>
           </mask>
         </defs>
+
+        <rect width="100%" height="100%" fill={`url(#ecg-bg-${uid})`} />
 
         {LAYERS.map((l) => (
           <use
