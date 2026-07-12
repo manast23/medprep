@@ -66,6 +66,16 @@ const LAYERS = [
   { color: '#8EB9E6', width: 5, opacity: 0.90 },
 ]
 
+// Lightning bolts: each is a fast flash-sweep across the wave, then a long
+// invisible pause before repeating. Different durations/offsets per bolt
+// mean they drift out of sync with each other, so flashes feel occasional
+// and semi-random rather than one predictable repeating scan.
+const BOLTS = [
+  { dur: 8, begin: 0 },
+  { dur: 11, begin: 2.5 },
+  { dur: 14, begin: 5.5 },
+]
+
 export default function ECGWave({ style = {} }) {
   const uid = useId().replace(/:/g, '')
   const waveId = `ecg-wave-${uid}`
@@ -135,9 +145,18 @@ export default function ECGWave({ style = {} }) {
               <stop offset="75%" stopColor="white" />
               <stop offset="100%" stopColor="white" />
             </linearGradient>
-            <rect x="-260" y="0" width="260" height="450" fill={`url(#${fadeId})`}>
-              <animate attributeName="x" from="-260" to="1600" dur="4s" repeatCount="indefinite" />
-            </rect>
+            {BOLTS.map((b, i) => (
+              <rect key={i} x="-260" y="0" width="260" height="450" fill={`url(#${fadeId})`}>
+                <animate
+                  attributeName="x"
+                  values="-260;1600;1600"
+                  keyTimes="0;0.12;1"
+                  dur={`${b.dur}s`}
+                  begin={`${b.begin}s`}
+                  repeatCount="indefinite"
+                />
+              </rect>
+            ))}
           </mask>
         </defs>
 
