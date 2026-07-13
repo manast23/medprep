@@ -116,6 +116,36 @@ export default function Home() {
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
+  // Reveal-on-scroll for subject cards
+  const cardRefs = useRef([])
+  const [visibleCards, setVisibleCards] = useState({})
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const idx = Number(entry.target.dataset.cardIndex)
+            setVisibleCards((prev) => ({ ...prev, [idx]: true }))
+            observer.unobserve(entry.target)
+          }
+        })
+      },
+      { threshold: 0.15, rootMargin: '0px 0px -40px 0px' }
+    )
+    cardRefs.current.forEach((el) => el && observer.observe(el))
+    return () => observer.disconnect()
+  }, [])
+
+  function cardRevealStyle(index) {
+    const visible = !!visibleCards[index]
+    return {
+      opacity: visible ? 1 : 0,
+      transform: visible ? 'translateY(0)' : 'translateY(36px)',
+      transition: 'opacity 0.6s ease, transform 0.6s ease',
+      transitionDelay: visible ? `${(index % 4) * 90}ms` : '0ms',
+    }
+  }
+
   function startQuiz() {
     if (!selectedSubject) return
     const params = new URLSearchParams({ subject: selectedSubject, subtopic, qtype, mode, count })
@@ -198,11 +228,14 @@ export default function Home() {
           </div>
 
           <div className={styles.subjectGrid}>
-            {SUBJECTS.map((subject) => (
+            {SUBJECTS.map((subject, index) => (
               <div
                 key={subject.key}
+                ref={(el) => (cardRefs.current[index] = el)}
+                data-card-index={index}
                 className={`${styles.subjectCard} ${selectedSubject === subject.key ? styles.subjectCardActive : ''}`}
                 onClick={() => handleExplore(subject.key)}
+                style={cardRevealStyle(index)}
               >
                 <div className={styles.cardImageWrapper}>
                   <img src={subject.image} alt={subject.title} className={styles.cardImage} />
@@ -222,7 +255,12 @@ export default function Home() {
               </div>
             ))}
 
-            <div className={styles.comingSoonCard}>
+            <div
+              className={styles.comingSoonCard}
+              ref={(el) => (cardRefs.current[SUBJECTS.length] = el)}
+              data-card-index={SUBJECTS.length}
+              style={cardRevealStyle(SUBJECTS.length)}
+            >
               <div className={styles.comingSoonInner}>
                 <div className={styles.comingSoonIcons}>
                   <span>🧪</span><span>💊</span><span>🔬</span>
