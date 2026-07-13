@@ -12,20 +12,19 @@
 .strike {
   opacity: 0;
   animation-name: lightningFlicker;
-  animation-duration: 10s;
+  animation-duration: 6s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
 
-/* Exactly two flashes near the start of the cycle, then fully dark for the
-   rest — a double lightning strike rather than a smooth pulse or a longer
-   flurry. Opacity only; nothing here moves. */
+/* Two quick flashes, then a smooth multi-second fade down to fully dark,
+   followed by a shorter dark pause before the next episode. */
 @keyframes lightningFlicker {
   0%   { opacity: 0; }
   1%   { opacity: 1; }
   3%   { opacity: 0.1; }
-  5%   { opacity: 0.95; }
-  7%   { opacity: 0; }
+  6%   { opacity: 0.95; }
+  35%  { opacity: 0; }
   100% { opacity: 0; }
 }
 
