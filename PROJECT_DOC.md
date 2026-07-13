@@ -73,7 +73,8 @@ General medical knowledge practice app — not tied to any specific exam, countr
   "correct": 2,
   "explanation": "Sentence 1. Sentence 2. Sentence 3.",
   "reference": "Book title, edition — Chapter",
-  "reference_url": "https://..."
+  "reference_url": "https://...",
+  "cognitive_level": "recall"
 }
 ```
 
@@ -83,6 +84,7 @@ General medical knowledge practice app — not tied to any specific exam, countr
 - `correct` — zero-indexed (0=A ... 4=E)
 - `reference` — book + edition + chapter only, no page numbers
 - `reference_url` — StatPearls, NCBI Bookshelf, MSD Manual, or Radiopaedia only. Every URL must be verified live (HTTP fetch or explicit search confirmation) before inclusion — do not guess NBK IDs.
+- `cognitive_level` — `recall`, `understanding`, or `applying` (see Section 6a). **New field, added July 2026.** Not yet backfilled on the existing 694 questions — see Section 9 roadmap.
 
 ---
 
@@ -110,6 +112,42 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 - Target average stem length: roughly 10–20 words for para-clinical subjects (direct fact statements are naturally short), 15–25 words for pre-clinical subjects with a one-line trigger. Anything pushing 30+ words with embedded vitals/labs is a signal it's drifted toward board-exam style.
 
 **Explanation format (unchanged):** exactly 3 sentences — (1) why the correct answer is right, (2) a reinforcing mechanism/detail, (3) why the main distractor is wrong.
+
+---
+
+## 6a. Cognitive-Level Framework & Item-Writing QA Checklist (Added July 2026)
+
+**Basis:** Cross-referenced against the NBME Item-Writing Guide (6th ed.), the University of Toronto MD Program's "Essentials of Item-Writing" (Remembering/Understanding/Applying model, based on revised Bloom's taxonomy), and a synthesis of 14 international MCQ guidelines (Balaha, 2019, *Education in Medicine Journal*) covering NBME, RCPSC (Canada), Saudi Commission for Health Specialties, University of Dundee (UK), UWSOM, UT Austin, and others. Core item-quality rules are treated as universal (converged across all 14 sources regardless of country); only the target cognitive-level proportions are customized to MedPrep's factual/conceptual, non-licensing positioning.
+
+**The three cognitive levels (apply within every subject, not just clinical ones):**
+- **Recall** — pure fact retrieval, no scenario. E.g. "Which of the following muscles inserts on the coracoid process?"
+- **Understanding** — mechanism/relationship/"why or how," still no patient scenario. E.g. "A lesion of the axillary nerve would most likely impair which of the following movements?"
+- **Applying** — a genuine (brief, per Section 6) clinical trigger requiring the fact be used in context. E.g. "A patient with a winged scapula after axillary lymph node dissection most likely has injury to which nerve?"
+
+**Target proportions per subject group** (deliberately lower on "Applying" than licensing/clinical-judgment exam benchmarks, consistent with MedPrep's factual/conceptual positioning):
+
+| Subject group | Recall | Understanding | Applying |
+|---|---|---|---|
+| Pre-clinical (Anatomy, Physiology, Biochemistry) | 45–55% | 35–45% | 10–15% |
+| Para-clinical (Pathology, Pharmacology, Microbiology) | 30–40% | 40–45% | 20–25% |
+| Community Medicine / Forensic Medicine | 30–35% | 40–45% | 20–25% |
+
+**Quiz-session behavior:** when a user starts a quiz, the session sampler should draw from each subject's tagged `cognitive_level` pools in the above proportions, not pure random draw. This requires (1) every question tagged with `cognitive_level`, and (2) quiz-session-building logic updated accordingly — see Section 9 roadmap; not yet implemented as of this update.
+
+**20-point item-writing QA checklist** (consensus-frequency across 14 international guidelines shown in parentheses; treat ≥70% as hard QA gate, <70% as best-practice):
+
+*Format:* single best answer (71%) · vertical option layout (36%) · sound grammar/spelling (64%) · clear simple vocabulary (64%) · avoid cueing/cross-referencing between items (71%)
+
+*Content:* test important/significant material, not trivia (93%) · one objective per item (71%) · original material, not recycled test-bank (36%) · balance across cognitive levels (50%) · avoid tricky/misleading items (71%)
+
+*Stem:* question or short vignette + lead-in, never a bare completion fragment (86%) · positive phrasing only, no EXCEPT/NOT (86%) · central idea lives in the stem, not the options (86%) · cover-the-options rule — answerable without seeing options (50%) · avoid absolute terms — never/always/usually/often (64%)
+
+*Options:* plausible, homogeneous, parallel length (95%) · logical/alphabetical/numerical order, no overlap (82%) · avoid "all/none of the above" or compound options (81%) · avoid vague terms — frequently/rarely/commonly/may (79%) · avoid test-wise flaws — grammatical cues, word repetition ("clang clues"), convergence (79%)
+
+**Additional flags to check during QA passes:**
+- **"Too long to be wrong"** — don't let the correct option be conspicuously longer/more detailed than distractors.
+- **3-option items are acceptable** — don't force a 4th/5th filler distractor onto a topic that only supports 2–3 plausible wrong answers; forced fillers hurt quality more than fewer options.
+- **Negative-phrased items** (if ever unavoidable) capped at ~10% of any given test.
 
 ---
 
@@ -271,7 +309,9 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
 6. **Community Medicine — ✅ COMPLETE** — subject card done; 78/~80 questions written across all 8 subtopics (Biostatistics, Epidemiology & Research Methods, Demography & Population Health, Communicable Disease Epidemiology & Control, Non-Communicable Disease & Public Health, Health Planning & Primary Health Care, Nutrition & Reproductive Health, Disaster Management & Environmental Health). QA Passes #1, #2, and #3 all completed. See Section 8 for subtopic-by-subtopic detail.
-7. **Forensic Medicine** — the final (8th) subject, now next up. Build the subject card image first, then begin writing questions following the established workflow and QA cadence (dedicated pass every ~20 new questions).
+7. **Forensic Medicine** — the final (8th) subject, now next up. Build the subject card image first, then begin writing questions following the established workflow and QA cadence (dedicated pass every ~20 new questions). **Write with `cognitive_level` tagged from the start**, per Section 6a ratios.
+8. **Retroactively tag all 694 existing questions with `cognitive_level`** (recall/understanding/applying) per Section 6a. Not yet started — larger lift than writing new content, likely tackled after Forensic Medicine.
+9. **Update quiz-session sampling logic** to draw proportionally from each subject's `cognitive_level` pools per the Section 6a ratios, instead of pure random draw. Depends on #8.
 
 ---
 
