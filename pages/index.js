@@ -123,11 +123,8 @@ export default function Home() {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            const idx = Number(entry.target.dataset.cardIndex)
-            setVisibleCards((prev) => ({ ...prev, [idx]: true }))
-            observer.unobserve(entry.target)
-          }
+          const idx = Number(entry.target.dataset.cardIndex)
+          setVisibleCards((prev) => ({ ...prev, [idx]: entry.isIntersecting }))
         })
       },
       { threshold: 0.15, rootMargin: '0px 0px -40px 0px' }
