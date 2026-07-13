@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useRouter } from 'next/router'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
@@ -95,6 +95,27 @@ export default function Home() {
     setQtype('All')
   }, [selectedSubject])
 
+  const brainRef = useRef(null)
+  useEffect(() => {
+    const brain = brainRef.current
+    if (!brain) return
+    let ticking = false
+    function apply() {
+      const rotation = window.scrollY * 0.15
+      brain.style.transform = `translateX(30px) rotate(${rotation}deg)`
+      ticking = false
+    }
+    function onScroll() {
+      if (!ticking) {
+        window.requestAnimationFrame(apply)
+        ticking = true
+      }
+    }
+    apply()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
   function startQuiz() {
     if (!selectedSubject) return
     const params = new URLSearchParams({ subject: selectedSubject, subtopic, qtype, mode, count })
@@ -159,6 +180,7 @@ export default function Home() {
 
             <div className={styles.heroVisual}>
               <img
+                ref={brainRef}
                 src="/brain.png"
                 alt="Brain anatomy visualization"
                 className={styles.brainImage}
