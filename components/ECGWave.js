@@ -1,29 +1,29 @@
 import { useId, useEffect, useState } from 'react'
 import styles from './ECGWave.module.css'
 
-// A single isolated P-QRS-T complex, centered in an 800-wide viewBox (100px
-// of empty baseline padding on each side so the shape reads as one centered
-// emblem rather than a repeating strip).
+// A single isolated P-QRS-T complex, centered in a 1400-wide viewBox with
+// generous straight baseline on both sides (~35% each) so the waveform
+// reads as a compact centered feature framed by long flat lines.
 const PATH = `
-  M100 225
-  L200 225
+  M0 225
+  L500 225
 
-  Q225 225 240 212
-  Q255 198 270 225
+  Q525 225 540 212
+  Q555 198 570 225
 
-  L320 225
+  L620 225
 
-  L340 245
-  L358 90
-  L376 330
-  L398 185
+  L640 245
+  L658 90
+  L676 330
+  L698 185
 
-  L440 225
+  L740 225
 
-  Q475 225 505 180
-  Q540 160 575 225
+  Q775 225 805 180
+  Q840 160 875 225
 
-  L700 225
+  L1400 225
 `
 
 // Stacked glow layers: color, stroke width, opacity — thinner than before.
@@ -73,7 +73,7 @@ export default function ECGWave({ style = {} }) {
     >
       <svg
         className={styles.trace}
-        viewBox="0 0 800 450"
+        viewBox="0 0 1400 450"
         preserveAspectRatio="xMidYMid meet"
         aria-hidden="true"
       >
