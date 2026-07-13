@@ -102,7 +102,7 @@ export default function Home() {
     let ticking = false
     function apply() {
       const rotation = window.scrollY * 0.15
-      brain.style.transform = `translateX(30px) rotate(${rotation}deg)`
+      brain.style.transform = `translateX(30px) perspective(1000px) rotateY(${rotation}deg)`
       ticking = false
     }
     function onScroll() {
