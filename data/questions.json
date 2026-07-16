@@ -12575,5 +12575,119 @@
     "reference": "StatPearls \u2014 Forensic Autopsy",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
     "cognitive_level": "understanding"
+  },
+  {
+    "id": 717,
+    "subject": "Forensic Medicine",
+    "subtopic": "Autopsy & Exhumation",
+    "type": "factual",
+    "question": "Exhumation, the disinterment of a buried body for further medicolegal examination, requires which of the following?",
+    "options": [
+      "Consent from the funeral home that performed the burial",
+      "A minimum burial period of at least one year",
+      "Prior cremation records for comparison",
+      "Authorization from the relevant legal authority overseeing the death investigation",
+      "Approval from the deceased's life insurance provider"
+    ],
+    "correct": 3,
+    "explanation": "Because exhumation disturbs a legally buried body, it can only be carried out under authorization from the legal authority responsible for the death investigation, with the grave and coffin carefully identified to avoid disinterring the wrong remains. No minimum burial period, insurer approval, or funeral home consent is required for a medicolegal exhumation order. This legal safeguard ensures exhumation is used only when genuinely necessary for justice.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 718,
+    "subject": "Forensic Medicine",
+    "subtopic": "Autopsy & Exhumation",
+    "type": "factual",
+    "question": "Which of the following is a recognized indication for ordering exhumation of a previously buried body?",
+    "options": [
+      "The original postmortem examination report is inexplicable or ambiguous",
+      "The family wishes to relocate the burial site",
+      "A routine life-insurance audit is being conducted",
+      "The anniversary of death has occurred",
+      "A new physician wants a second clinical opinion unrelated to the death"
+    ],
+    "correct": 0,
+    "explanation": "Exhumation may be ordered when the original autopsy report is unclear or inadequate to explain the cause of death, or when confirmation of identity is required for civil or criminal proceedings. This reflects exhumation's role as a tool for correcting or completing an unsatisfactory prior investigation, not a routine administrative procedure. Family relocation wishes, insurance audits, and death anniversaries are not medicolegal grounds for exhumation.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 719,
+    "subject": "Forensic Medicine",
+    "subtopic": "Autopsy & Exhumation",
+    "type": "factual",
+    "question": "A postmortem artifact is best defined as which of the following?",
+    "options": [
+      "Any injury present on the body at the time of death",
+      "A finding that definitively establishes the cause of death",
+      "A change or feature introduced into the body after death that can be misinterpreted as a significant antemortem finding",
+      "A laboratory error occurring during toxicological analysis",
+      "A congenital anatomical variant unrelated to death"
+    ],
+    "correct": 2,
+    "explanation": "A postmortem artifact is any change or feature introduced into the body after death, which can confuse interpretation and be mistaken for a genuine antemortem (before-death) finding, such as an injury sustained while alive. Recognizing artifacts is essential because misinterpreting them can lead to incorrect conclusions about cause or manner of death. They are distinct from actual antemortem injuries, laboratory errors, or congenital variants, none of which are introduced by the postmortem process itself.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 720,
+    "subject": "Forensic Medicine",
+    "subtopic": "Autopsy & Exhumation",
+    "type": "factual",
+    "question": "An autopsy in which a thorough postmortem examination fails to identify a definitive cause of death is best described as which of the following?",
+    "options": [
+      "A clinical autopsy",
+      "A partial autopsy",
+      "An exhumation autopsy",
+      "A verbal autopsy",
+      "A negative (unrewarding) autopsy"
+    ],
+    "correct": 4,
+    "explanation": "A negative or unrewarding autopsy occurs when a complete and competent postmortem examination does not reveal an identifiable cause of death, which can result from inadequate history, limited ancillary testing, or a genuinely occult cause. This is distinct from a clinical (hospital) autopsy, which is performed mainly to confirm a known diagnosis rather than investigate an unexplained death. A verbal autopsy refers to reconstructing likely cause of death from interviews when no physical examination is possible at all.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 721,
+    "subject": "Forensic Medicine",
+    "subtopic": "Autopsy & Exhumation",
+    "type": "factual",
+    "question": "Which of the following is one of the earliest and most widely used indicators for estimating the postmortem interval?",
+    "options": [
+      "Skeletal age assessment",
+      "Algor mortis (postmortem body cooling)",
+      "Dental radiography",
+      "DNA degradation profiling",
+      "Bone density scanning"
+    ],
+    "correct": 1,
+    "explanation": "Algor mortis, the progressive cooling of the body toward ambient temperature after death, is one of the three cardinal early postmortem changes, alongside livor mortis and rigor mortis, and is widely used to help estimate time since death. Skeletal age assessment and dental radiography are used for identification and age estimation, not for early postmortem interval calculation. DNA degradation and bone density are not standard early PMI indicators.",
+    "reference": "StatPearls \u2014 Algor Mortis",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534875/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 722,
+    "subject": "Forensic Medicine",
+    "subtopic": "Autopsy & Exhumation",
+    "type": "factual",
+    "question": "A body is found in a room at a known ambient temperature, with no witnesses to the time of death. The forensic pathologist records the body's core temperature to help estimate time since death. Which principle underlies this method?",
+    "options": [
+      "Algor mortis \u2014 postmortem cooling proceeds toward ambient temperature at a roughly predictable rate",
+      "Rigor mortis \u2014 muscle stiffening reflects the sequence of energy depletion",
+      "Livor mortis \u2014 blood settles under gravity into dependent body parts",
+      "Putrefaction \u2014 bacterial decomposition produces gas and discoloration",
+      "Forensic entomology \u2014 insect colonization follows a predictable timeline"
+    ],
+    "correct": 0,
+    "explanation": "Measuring core body temperature to estimate time since death relies on algor mortis, the principle that the body cools from its living temperature toward the surrounding ambient temperature at a rate influenced by known variables. This method is most useful in the early postmortem period before temperature equilibrates fully with the environment. Rigor mortis, livor mortis, putrefaction, and entomological evidence are alternative postmortem interval indicators based on entirely different biological processes.",
+    "reference": "StatPearls \u2014 Methods of Estimation of Time Since Death",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549867/",
+    "cognitive_level": "applying"
   }
 ]
