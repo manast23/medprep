@@ -164,7 +164,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 | Community Medicine | 78 / ~80 | ✅ COMPLETE — subject card done, all 8 subtopics complete: Biostatistics (10), Epidemiology & Research Methods (12), Demography & Population Health (10), Communicable Disease Epidemiology & Control (12), Non-Communicable Disease & Public Health (10), Health Planning & Primary Health Care (8), Nutrition & Reproductive Health (8), Disaster Management & Environmental Health (8) — see Section 8 |
-| Forensic Medicine | 22 / ~106 | 🔄 IN PROGRESS — subject card done. Subtopic plan corrected against the actual NRE 2023 syllabus (pages 24–28, verified July 2026) — 16 subtopics total, matching official topic list exactly. See Section 8 for full plan and progress. |
+| Forensic Medicine | 28 / ~106 | 🔄 IN PROGRESS — subject card done. Subtopic plan corrected against the actual NRE 2023 syllabus (pages 24–28, verified July 2026) — 16 subtopics total, matching official topic list exactly. See Section 8 for full plan and progress. |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -233,8 +233,8 @@ All questions `cognitive_level`-tagged per Section 6a ratios (30–35% recall / 
 |---|---|---|---|---|
 | 1 | Law | 11 | 695–705 | ✅ Complete |
 | 2 | Personal Identification | 11 | 706–716 | ✅ Complete |
-| 3 | Autopsy & Exhumation | 6 | — | 🔄 Next |
-| 4 | Thanatology | 8 | — | Not started |
+| 3 | Autopsy & Exhumation | 6 | 717–722 | ✅ Complete |
+| 4 | Thanatology | 8 | — | 🔄 Next |
 | 5 | Asphyxia | 7 | — | Not started |
 | 6 | Drowning | 5 | — | Not started |
 | 7 | Traumatology (Mechanical & Thermal Injuries) | 10 | — | Not started |
