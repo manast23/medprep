@@ -12366,5 +12366,214 @@
     "reference": "StatPearls \u2014 Patient Confidentiality",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519540/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 706,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Teeth are considered valuable for personal identification in mass-disaster and decomposition cases primarily because of which property?",
+    "options": [
+      "They contain the highest concentration of nuclear DNA in the body",
+      "They are visible without radiographic imaging",
+      "They resist decomposition, burning, and environmental damage better than most soft tissues",
+      "Every individual's tooth count is unique",
+      "They regenerate throughout adult life"
+    ],
+    "correct": 2,
+    "explanation": "Teeth are composed of highly mineralized, resistant tissue that withstands decomposition, fire, and other destructive processes far better than soft tissue, making dental evidence often the only intact identifying feature after mass disasters. This durability is why forensic odontology plays a central identification role when fingerprinting or visual recognition is impossible, such as with charred or skeletonized remains. Nuclear DNA is not uniquely concentrated in teeth, adult tooth count is not individually diagnostic, and teeth do not regenerate.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 707,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Dental age estimation relies primarily on which developmental feature?",
+    "options": [
+      "The color of the enamel surface",
+      "The number of dental restorations present",
+      "The presence of wisdom teeth alone",
+      "The width of the dental arch",
+      "The staged sequence of tooth calcification, eruption, and root/crown formation"
+    ],
+    "correct": 4,
+    "explanation": "Human tooth development follows a predictable staged sequence, from initial calcification through crown formation, eruption, and root completion, allowing chronological age to be estimated from radiographic staging. Because this sequence is highly consistent across individuals, dental age estimation is especially useful in medicolegal cases when documentary evidence of age is unavailable. Enamel color, restorations, and arch width are not standardized developmental markers used for age estimation.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 708,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Skeletal (bone) age assessment from a hand-wrist radiograph in children is most commonly performed using which method?",
+    "options": [
+      "Comparison against a standardized reference atlas such as Greulich-Pyle",
+      "Measurement of total body height alone",
+      "Dental panoramic radiography",
+      "Direct measurement of grip strength",
+      "Assessment of muscle mass on ultrasound"
+    ],
+    "correct": 0,
+    "explanation": "The Greulich-Pyle atlas allows a radiograph of the hand and wrist to be compared against a reference set of images at known ages, based on the appearance of ossification (growth) centers. This method, along with the Tanner-Whitehouse scoring system, remains a standard approach to skeletal age assessment. Height, dental imaging, grip strength, and muscle mass are not standard bone-age assessment tools.",
+    "reference": "Radiopaedia \u2014 Bone age (radiograph)",
+    "reference_url": "https://radiopaedia.org/articles/bone-age-radiograph",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 709,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Beyond routine pediatric growth assessment, skeletal age estimation from hand-wrist radiographs is also applied in which non-clinical context?",
+    "options": [
+      "Determining eligibility for organ transplantation",
+      "Screening for hereditary cancer syndromes",
+      "Confirming blood type prior to transfusion",
+      "Legal age determination, such as in immigration or asylum cases lacking documentation",
+      "Diagnosing acute bone fractures"
+    ],
+    "correct": 3,
+    "explanation": "Skeletal age estimation is used for non-clinical, legal purposes such as determining a person's approximate age in immigration or asylum proceedings and in elite sports eligibility disputes, where reliable birth documentation is lacking. This application is recognized despite the method's known margin of error when used purely for age determination rather than growth monitoring. Bone-age radiographs are not used for transplant eligibility, cancer screening, blood typing, or acute fracture diagnosis.",
+    "reference": "Radiopaedia \u2014 Bone age (radiograph)",
+    "reference_url": "https://radiopaedia.org/articles/bone-age-radiograph",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 710,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Which skeletal structure provides the most reliable estimate of sex in an unidentified adult skeleton?",
+    "options": [
+      "Skull alone",
+      "Pelvis",
+      "Long bones of the lower limb alone",
+      "Vertebral column",
+      "Hand and wrist bones"
+    ],
+    "correct": 1,
+    "explanation": "The pelvis is the most sexually dimorphic region of the human skeleton due to its role in childbirth, and features such as the ilium, acetabulum, and the width of the pelvic inlet and outlet provide reliable sex estimation. The skull and long bones can also aid sex estimation but are generally less accurate than the pelvis when used alone. The vertebral column and hand/wrist bones show comparatively little useful sexual dimorphism.",
+    "reference": "StatPearls \u2014 Anatomy, Abdomen and Pelvis, Pelvic Outlet",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557602/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 711,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "The pelvis is more reliable than the skull for sex estimation primarily because of differences related to which function?",
+    "options": [
+      "Its role in upright bipedal locomotion",
+      "Its involvement in respiratory movement",
+      "Its structural adaptation to accommodate childbirth",
+      "Its contribution to upper limb strength",
+      "Its role in balance and vestibular function"
+    ],
+    "correct": 2,
+    "explanation": "The female pelvis is structurally adapted to accommodate childbirth, producing pronounced, consistent differences in the ilium, acetabulum, and pelvic inlet/outlet width compared to the male pelvis. This reproductive functional demand creates more marked and reliable sexual dimorphism than is found in the skull, which shows more subtle and population-variable differences. Bipedal locomotion, respiration, upper limb strength, and balance are shared functions across the skeleton that do not underlie the pelvis's diagnostic value for sex estimation.",
+    "reference": "StatPearls \u2014 Anatomy, Abdomen and Pelvis, Pelvic Outlet",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557602/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 712,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "DNA profiling for forensic identification primarily compares which type of genetic material between individuals?",
+    "options": [
+      "The entire coding sequence of the genome",
+      "Mitochondrial DNA copy number only",
+      "The Y chromosome in all individuals regardless of sex",
+      "Ribosomal RNA sequences",
+      "Highly variable, non-coding regions of DNA that differ between individuals"
+    ],
+    "correct": 4,
+    "explanation": "Forensic DNA profiling targets highly variable, non-coding regions of the genome, such as short tandem repeats, that differ substantially between unrelated individuals, giving DNA profiling its powerful discriminating ability. Comparing the entire coding genome is unnecessary and impractical for identification purposes. Mitochondrial DNA and Y-chromosome analysis are used only in specific circumstances, such as maternal or paternal lineage tracing, not as the primary general-identification method.",
+    "reference": "NCBI Bookshelf \u2014 The Evaluation of Forensic DNA Evidence",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK232610/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 713,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "DNA databank searching in criminal investigations is most analogous to which other identification technology?",
+    "options": [
+      "Automated Fingerprint Identification Systems (AFIS) comparing unknown prints against a stored database",
+      "Blood pressure monitoring during patient triage",
+      "Radiographic bone age assessment",
+      "Electrocardiographic rhythm analysis",
+      "Standard visual eyewitness identification"
+    ],
+    "correct": 0,
+    "explanation": "Just as AFIS allows an unknown latent fingerprint to be searched against a large database of known prints, DNA databanks allow biological evidence from a crime scene to be searched against stored profiles even when no suspect has yet been identified. Both technologies extend identification from simple suspect confirmation to genuine crime-solving in cases without an initial lead. Blood pressure monitoring, bone age assessment, and ECG rhythm analysis serve entirely different clinical purposes.",
+    "reference": "NCBI Bookshelf \u2014 The Evaluation of Forensic DNA Evidence",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK232610/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 714,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Following a mass-casualty fire, a body is severely charred and fingerprints cannot be obtained. Which method is most likely to allow identification?",
+    "options": [
+      "Comparison of fingerprint ridge patterns",
+      "Visual identification by family members",
+      "Review of blood pressure history",
+      "Comparison of dental records and radiographs",
+      "Height and weight comparison alone"
+    ],
+    "correct": 3,
+    "explanation": "Teeth are highly resistant to heat and decomposition, so dental records and radiographs remain a reliable identification method even when soft tissue, including fingerprints, has been destroyed by fire. This is why forensic odontology is central to mass-disaster identification when conventional visual or fingerprint methods are not possible. Visual identification, blood pressure history, and simple height/weight comparison are unreliable or unavailable in this scenario.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 715,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "Skeletal remains recovered from a shallow grave include an intact pelvis but no skull or long bones. Which determination can most reliably still be made?",
+    "options": [
+      "Exact age at death to within one year",
+      "Biological sex of the individual",
+      "Handedness of the individual",
+      "Blood type from bone marrow alone",
+      "Cause of death"
+    ],
+    "correct": 1,
+    "explanation": "Because the pelvis is the most sexually dimorphic bone in the human skeleton, its recovery alone allows a reliable estimate of biological sex even without the skull or long bones. Precise age at death, handedness, and cause of death typically require additional skeletal, dental, or soft-tissue evidence not available from the pelvis alone. Blood type cannot be reliably determined from dried bone without specialized additional testing beyond gross skeletal examination.",
+    "reference": "StatPearls \u2014 Anatomy, Abdomen and Pelvis, Pelvic Outlet",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557602/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 716,
+    "subject": "Forensic Medicine",
+    "subtopic": "Personal Identification",
+    "type": "factual",
+    "question": "In criminal law, the principle requiring proof that a crime actually occurred before a person can be convicted of committing it is known as which of the following?",
+    "options": [
+      "Habeas corpus",
+      "Res ipsa loquitur",
+      "Corpus delicti",
+      "Chain of custody",
+      "Mens rea"
+    ],
+    "correct": 2,
+    "explanation": "Corpus delicti refers to the legal requirement that the prosecution establish a crime actually occurred, for example proving a death was a homicide, before a conviction can rest on that charge. This is distinct from habeas corpus, a procedural safeguard against unlawful detention, and from mens rea, which concerns the defendant's guilty state of mind rather than proof that an offense occurred at all. Forensic identification and autopsy findings often provide the medical evidence that establishes corpus delicti in cases involving a death.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "understanding"
   }
 ]
