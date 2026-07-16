@@ -12689,5 +12689,157 @@
     "reference": "StatPearls \u2014 Methods of Estimation of Time Since Death",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549867/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 723,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "Rigor mortis (postmortem muscle stiffening) occurs primarily due to which underlying mechanism?",
+    "options": [
+      "Bacterial breakdown of muscle proteins",
+      "Gravitational pooling of blood in dependent tissues",
+      "Depletion of ATP leading to a persistent actin-myosin cross-bridge that cannot release",
+      "Loss of skin elasticity after death",
+      "Enzymatic digestion of collagen fibers"
+    ],
+    "correct": 2,
+    "explanation": "After death, ATP production stops and existing ATP is progressively depleted, which prevents the actin-myosin cross-bridge from releasing, causing the muscles to stiffen. This process affects all muscles uniformly but becomes grossly apparent earliest in smaller muscles, such as those of the jaw and eyelids, due to their faster ATP depletion. Blood pooling (livor mortis), bacterial breakdown, and skin changes are separate postmortem processes unrelated to the mechanism of rigor mortis.",
+    "reference": "StatPearls \u2014 Evaluation of Postmortem Changes",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554464/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 724,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "A cadaveric spasm, in which a hand remains instantly and rigidly clenched around an object at the moment of death, is most useful for providing information about which of the following?",
+    "options": [
+      "The exact postmortem interval in hours",
+      "The blood alcohol concentration at death",
+      "The individual's blood type",
+      "The presence of underlying natural disease",
+      "The manner of death"
+    ],
+    "correct": 4,
+    "explanation": "Unlike ordinary rigor mortis, which develops gradually and provides time-since-death information, cadaveric spasm occurs instantaneously at the moment of death and can show a hand still grasping a weapon, clothing, or debris, offering insight into the circumstances and manner of death, such as suicide, assault, or drowning. It does not itself indicate the precise postmortem interval, blood alcohol level, blood type, or presence of natural disease. Its forensic value lies specifically in reconstructing the terminal event.",
+    "reference": "StatPearls \u2014 Postmortem Changes",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539741/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 725,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "Livor mortis (postmortem lividity) is best described as which of the following?",
+    "options": [
+      "Bruising caused by blunt-force trauma occurring before death",
+      "Reddish-blue discoloration caused by gravitational settling of blood in dependent body regions after circulation stops",
+      "Yellow discoloration of skin due to bilirubin accumulation",
+      "Pale mottling caused by peripheral vasoconstriction",
+      "Skin blistering caused by thermal injury"
+    ],
+    "correct": 1,
+    "explanation": "Once circulation ceases after death, blood settles under gravity into the lowest, dependent parts of the body, producing the characteristic reddish-blue staining known as livor mortis, postmortem lividity, or hypostasis. This must be carefully distinguished from an antemortem bruise, which results from blood vessel rupture and tissue infiltration during life rather than passive postmortem settling. Bilirubin-related jaundice, vasoconstriction pallor, and thermal blistering are unrelated processes.",
+    "reference": "StatPearls \u2014 Postmortem Changes",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539741/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 726,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "Forensic entomology assists in postmortem interval estimation primarily through which two approaches?",
+    "options": [
+      "Insect succession patterns and larval development staging",
+      "Blood alcohol degradation and vitreous potassium levels",
+      "Bone density loss and dental enamel wear",
+      "Skin pigmentation changes and hair growth rate",
+      "Muscle enzyme leakage and core body temperature"
+    ],
+    "correct": 0,
+    "explanation": "Forensic entomology estimates postmortem interval using a succession-based approach, tracking which insect species colonize a body over time, and a development-based approach, staging the growth of larvae present on the remains. This method is especially valuable in the later postmortem period, extending well beyond the roughly 48\u201372 hour window where rigor, livor, and algor mortis remain useful. Blood alcohol degradation, vitreous potassium, bone density, and enzyme leakage are different postmortem interval indicators unrelated to insect activity.",
+    "reference": "StatPearls \u2014 Methods of Estimation of Time Since Death",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549867/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 727,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "In a death investigation, the term describing the specific injury or disease that initiated the fatal sequence of events is known as which of the following?",
+    "options": [
+      "Cause of death",
+      "Mechanism of death",
+      "Manner of death",
+      "Mode of survival",
+      "Autopsy protocol"
+    ],
+    "correct": 0,
+    "explanation": "The cause of death identifies the specific underlying disease or injury, such as a gunshot wound or myocardial infarction, that set the fatal process in motion. This is distinct from the mechanism of death, which describes the immediate physiological derangement, such as arrhythmia or exsanguination, that actually ended life, and from the manner of death, a legal classification of the surrounding circumstances. All three terms answer separate questions that together complete a death investigation.",
+    "reference": "NCBI Bookshelf \u2014 Forensic Pathology and Cause and Manner of Death",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK620159/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 728,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "Unlike cause of death, the manner of death is best characterized as which of the following?",
+    "options": [
+      "A specific physiological process such as cardiac arrhythmia or exsanguination",
+      "A legal classification of the circumstances surrounding death, such as natural, accident, suicide, or homicide",
+      "A purely biochemical laboratory finding from toxicology testing",
+      "A radiological finding on postmortem imaging",
+      "A histological diagnosis made under microscopy"
+    ],
+    "correct": 1,
+    "explanation": "Manner of death is a legal, not purely medical, classification of how a death came about, typically categorized as natural, accident, suicide, homicide, or undetermined, and is determined based on the totality of investigative findings rather than a single physiological process. This differs from mechanism of death, which is the specific physiological derangement, and from cause of death, which is the underlying injury or disease. Manner of death classification is used mainly for legal and statistical purposes and does not by itself determine criminal liability.",
+    "reference": "NCBI Bookshelf \u2014 Forensic Pathology and Cause and Manner of Death",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK620159/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 729,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "Brain death, as a medicolegal determination of death, is established primarily on the basis of which of the following?",
+    "options": [
+      "Absence of a detectable pulse for more than one minute",
+      "A single isolated episode of unresponsiveness",
+      "Presence of a terminal illness diagnosis",
+      "Irreversible cessation of all brain and brainstem function",
+      "Cessation of voluntary limb movement alone"
+    ],
+    "correct": 3,
+    "explanation": "Brain death is legally and medically defined as the irreversible loss of all functions of the brain, including the brainstem, and is distinct from cardiopulmonary (circulatory) death, even though both are accepted legal definitions of death. A brief pulseless episode, a single unresponsive event, a terminal diagnosis, or absence of limb movement alone do not meet the clinical and legal criteria required to declare brain death. This distinction carries significant medicolegal weight, particularly in decisions regarding withdrawal of life support and organ donation.",
+    "reference": "StatPearls \u2014 Brain Death (Nursing)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK568811/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 730,
+    "subject": "Forensic Medicine",
+    "subtopic": "Thanatology",
+    "type": "factual",
+    "question": "A forensic pathologist examines a body found indoors a few hours after death and assesses body temperature, muscle stiffness, and dependent skin discoloration together. Which classical triad of early postmortem changes is being used?",
+    "options": [
+      "Algor mortis, rigor mortis, and livor mortis",
+      "Putrefaction, mummification, and adipocere formation",
+      "Forensic entomology succession and development staging",
+      "Bone density loss and dental wear",
+      "Vitreous humor potassium and blood alcohol degradation"
+    ],
+    "correct": 0,
+    "explanation": "In the early postmortem period, roughly the first 3 to 72 hours, the classical triad used for estimating time since death is algor mortis (body cooling), rigor mortis (muscle stiffening), and livor mortis (dependent discoloration from settled blood). Putrefaction, mummification, and adipocere formation are late postmortem changes relevant to much longer intervals, while entomology and biochemical fluid analysis are alternative methods used especially when this early triad is no longer informative. Assessing temperature, stiffness, and discoloration together reflects the standard early-interval examination approach.",
+    "reference": "StatPearls \u2014 Methods of Estimation of Time Since Death",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549867/",
+    "cognitive_level": "applying"
   }
 ]
