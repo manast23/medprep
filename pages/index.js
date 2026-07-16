@@ -68,7 +68,7 @@ const SUBJECTS = [
   },
 ]
 
-const COMING_SOON = []
+const COMING_SOON = ['Forensic Medicine']
 const QUESTION_TYPES = [
   { key: 'All', label: 'All Types' },
   { key: 'factual', label: 'Factual' },
