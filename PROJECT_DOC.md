@@ -153,7 +153,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 
 ## 7. Current Question Bank State (verified live, July 2026)
 
-**Total: 694 questions across 7 complete subjects.**
+**Total: 716 questions across 7 complete subjects + Forensic Medicine (8th, in progress).**
 
 | Subject | Count | Status |
 |---|---|---|
@@ -164,6 +164,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 | Community Medicine | 78 / ~80 | ✅ COMPLETE — subject card done, all 8 subtopics complete: Biostatistics (10), Epidemiology & Research Methods (12), Demography & Population Health (10), Communicable Disease Epidemiology & Control (12), Non-Communicable Disease & Public Health (10), Health Planning & Primary Health Care (8), Nutrition & Reproductive Health (8), Disaster Management & Environmental Health (8) — see Section 8 |
+| Forensic Medicine | 22 / ~100 | 🔄 IN PROGRESS — subject card done. General Forensic/Jurisprudence (11, IDs 695–705) ✅, Personal Identification (11, IDs 706–716) ✅. 7 subtopics remaining: Thanatology, Asphyxial Deaths, Mechanical & Thermal Injuries, Forensic Sexology, Forensic Pediatrics/Psychiatry, Toxicology-General, Toxicology-Specific. All questions `cognitive_level`-tagged per Section 6a ratios (Community Medicine/Forensic Medicine group: 30–35% recall / 40–45% understanding / 20–25% applying). |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
