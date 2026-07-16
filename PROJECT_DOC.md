@@ -164,7 +164,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 | Community Medicine | 78 / ~80 | ✅ COMPLETE — subject card done, all 8 subtopics complete: Biostatistics (10), Epidemiology & Research Methods (12), Demography & Population Health (10), Communicable Disease Epidemiology & Control (12), Non-Communicable Disease & Public Health (10), Health Planning & Primary Health Care (8), Nutrition & Reproductive Health (8), Disaster Management & Environmental Health (8) — see Section 8 |
-| Forensic Medicine | 22 / ~100 | 🔄 IN PROGRESS — subject card done. General Forensic/Jurisprudence (11, IDs 695–705) ✅, Personal Identification (11, IDs 706–716) ✅. 7 subtopics remaining: Thanatology, Asphyxial Deaths, Mechanical & Thermal Injuries, Forensic Sexology, Forensic Pediatrics/Psychiatry, Toxicology-General, Toxicology-Specific. All questions `cognitive_level`-tagged per Section 6a ratios (Community Medicine/Forensic Medicine group: 30–35% recall / 40–45% understanding / 20–25% applying). |
+| Forensic Medicine | 22 / ~106 | 🔄 IN PROGRESS — subject card done. Subtopic plan corrected against the actual NRE 2023 syllabus (pages 24–28, verified July 2026) — 16 subtopics total, matching official topic list exactly. See Section 8 for full plan and progress. |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -210,8 +210,6 @@ References use Park's Textbook of Preventive and Social Medicine (book) plus ver
 
 **Community Medicine is now COMPLETE at 78/~80 questions across all 8 subtopics.**
 
-**Community Medicine progress: 78/~80 written — SUBJECT COMPLETE.**
-
 **QA Pass #3 completed (July 2026)** — covered the final 16 questions (IDs 679–694, Nutrition & Reproductive Health + Disaster Management & Environmental Health):
 - **Duplication scan:** No overlapping core facts found within the batch or against any earlier Community Medicine subtopic.
 - **Reference check:** All 12 distinct `reference_url` values (NBK431094, NBK559224, NBK562161, NBK222105, NBK534767, NBK482362, NBK285556, NBK560710, NBK555902, NBK11769, NBK470570, NBK594247) verified live via search/fetch before use.
@@ -225,6 +223,36 @@ References use Park's Textbook of Preventive and Social Medicine (book) plus ver
 - **Format compliance — issue found and fixed:** 17 of 18 questions had the correct answer at option A (severe clustering). Fixed by reshuffling option order (correct answers/content unchanged) to an even A:4, B:4, C:4, D:3, E:3 distribution.
 - **Independent re-derivation:** Spot-checked; no errors found in correct-answer indices.
 - **Fix pushed** in a dedicated commit separate from the content commits.
+
+### Forensic Medicine (~106 total planned) — 🔄 IN PROGRESS
+Subject card image complete. **Subtopic plan corrected July 2026** against the actual NRE 2023 syllabus text (pages 24–28, unzipped and read directly — not assumed from memory). The original 9-subtopic plan merged several officially-distinct topics; the corrected plan below matches the syllabus's own topic list exactly (Law → Personal Identification → Autopsy/Exhumation → Thanatology → Asphyxia → Drowning → Traumatology → Sexology → Sexual Offences → Pediatrics → Psychiatry → Serology → Crime Detection → Odontology → Toxicology General → Toxicology Specific).
+
+All questions `cognitive_level`-tagged per Section 6a ratios (30–35% recall / 40–45% understanding / 20–25% applying), all `type: "factual"`, answer letters shuffled for even distribution.
+
+| # | Subtopic | Target Qs | IDs | Status |
+|---|---|---|---|---|
+| 1 | Law | 11 | 695–705 | ✅ Complete |
+| 2 | Personal Identification | 11 | 706–716 | ✅ Complete |
+| 3 | Autopsy & Exhumation | 6 | — | 🔄 Next |
+| 4 | Thanatology | 8 | — | Not started |
+| 5 | Asphyxia | 7 | — | Not started |
+| 6 | Drowning | 5 | — | Not started |
+| 7 | Traumatology (Mechanical & Thermal Injuries) | 10 | — | Not started |
+| 8 | Forensic Sexology | 5 | — | Not started |
+| 9 | Sexual Offences | 5 | — | Not started |
+| 10 | Forensic Pediatrics | 4 | — | Not started |
+| 11 | Forensic Psychiatry | 4 | — | Not started |
+| 12 | Forensic Serology | 4 | — | Not started |
+| 13 | Role of Forensic Science in Crime Detection | 6 | — | Not started |
+| 14 | Forensic Odontology | 5 | — | Not started |
+| 15 | Toxicology — General Principles | 5 | — | Not started |
+| 16 | Toxicology — Specific/Special | 10 | — | Not started |
+
+---
+
+## 9b. Forensic Medicine — Syllabus Source (Added July 2026)
+
+NRE 2023 syllabus PDF, pages 24–28, contains the full official "FORENSIC MEDICINE AND TOXICOLOGY" section (14 forensic topics + toxicology general/specific). Content is kept country/exam-neutral per Section 2 positioning — e.g. "Pakistan's legal system" and PPC/CrPC references from topic 1 (Law) are excluded from actual question content; only the universal medico-legal concepts (consent, confidentiality, negligence, autopsy authority, etc.) are used, consistent with how NRE/First Aid topic selection has been handled for all other subjects.
 
 ### Pharmacology (100 total) — ✅ COMPLETE under new para-clinical standard
 All 9 subtopics rewritten: `type: "clinical"` retired entirely, every question converted to a direct drug-fact statement (mechanism, adverse effect, indication, or interaction) with no patient framing — no age, no "presents with," no vitals/labs.
