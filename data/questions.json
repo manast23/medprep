@@ -13259,5 +13259,100 @@
     "reference": "StatPearls \u2014 Blunt Force Trauma",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470338/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 753,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "Sexual assault is best defined as which of the following?",
+    "options": [
+      "Any physical contact between two adults, regardless of context",
+      "A crime that requires proof of penetration in every case",
+      "Sexual contact between individuals without legal consent, based primarily on age but also including capacity to consent",
+      "A civil matter that cannot involve criminal prosecution",
+      "An act that can only occur between strangers"
+    ],
+    "correct": 2,
+    "explanation": "Sexual assault is defined as sexual contact between individuals without legal consent, with consent capacity determined primarily by age but also encompassing an individual's mental or situational capacity to consent. This broad definition covers acts beyond penetration alone, distinguishing it from rape, which specifically requires proof of vaginal or anal penetration. Sexual assault is a criminal matter, and most cases involve an offender already known to the victim rather than exclusively strangers.",
+    "reference": "StatPearls \u2014 Sexual Assault History and Physical",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448154/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 754,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "How does rape differ from the broader category of sexual assault?",
+    "options": [
+      "Rape can only be committed against a stranger",
+      "Rape does not require any form of physical contact",
+      "Rape is defined identically to sexual assault with no distinguishing feature",
+      "Rape only applies to cases involving weapons",
+      "Rape specifically requires penetration, however minimal, of the vaginal or anal opening"
+    ],
+    "correct": 4,
+    "explanation": "Rape is a specific form of sexual assault that requires penetration, however minimal, of the vaginal or anal opening, whereas the broader category of sexual assault can include non-penetrative sexual contact without consent. This distinction matters medicolegally because it affects both the clinical evaluation performed and the specific legal classification of the offense. Rape does not require the presence of a weapon or a stranger perpetrator, and it is not defined identically to the broader sexual assault category.",
+    "reference": "StatPearls \u2014 Sexual Assault History and Physical",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448154/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 755,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "Impotence, now more commonly termed erectile dysfunction, is best defined as which of the following?",
+    "options": [
+      "Complete absence of viable spermatozoa in the ejaculate",
+      "Inability to conceive after one year of unprotected intercourse",
+      "Failure to achieve or maintain a rigid penile erection suitable for satisfactory sexual intercourse",
+      "Absence of any libido or sexual desire",
+      "Permanent structural absence of the external genitalia"
+    ],
+    "correct": 2,
+    "explanation": "Impotence, now termed erectile dysfunction, is defined as the failure to achieve or maintain a rigid penile erection sufficient for satisfactory sexual intercourse, a condition affecting the mechanical act of intercourse itself. This is medicolegally distinct from infertility or sterility, which concern the inability to conceive despite normal sexual function, and from absence of libido or a structural genital anomaly, which are separate conditions entirely. This distinction has forensic relevance in cases involving disputed paternity or annulment where these terms are sometimes conflated.",
+    "reference": "StatPearls \u2014 Erectile Dysfunction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562253/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 756,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "In forensic and medicolegal practice, how is impotence distinguished from sterility?",
+    "options": [
+      "Impotence refers to inability to perform the sexual act, whereas sterility refers to inability to procreate despite the sexual act being possible",
+      "Impotence and sterility are interchangeable terms describing the same underlying condition",
+      "Impotence is always permanent, while sterility is always temporary",
+      "Impotence applies only to females, while sterility applies only to males",
+      "Impotence refers to a legal status, while sterility refers to a religious classification"
+    ],
+    "correct": 0,
+    "explanation": "Impotence refers to the inability to perform the physical act of sexual intercourse, such as achieving or maintaining an erection, while sterility refers to the inability to procreate or conceive even when intercourse itself is entirely possible, for example due to absent or nonviable sperm production. A man can be sterile yet not impotent, and conversely, distinguishing the two is important in medicolegal contexts such as disputed paternity, marriage annulment, or claims of impotence as grounds for divorce. Neither condition is defined by permanence, legal status, or sex-specific application in this simple binary way, since both terms have historically applied primarily to male sexual and reproductive function in medicolegal literature.",
+    "reference": "StatPearls \u2014 Semen Analysis",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK564369/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 757,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "A sexual assault survivor presents to the emergency department 48 hours after the assault requesting a forensic examination. Which statement about evidence collection at this time point is most accurate?",
+    "options": [
+      "The 48-hour presentation still falls within the optimal window for maximizing DNA evidence recovery",
+      "No forensic evidence can be collected after 24 hours under any circumstances",
+      "A forensic exam can only proceed if the survivor agrees to involve law enforcement immediately",
+      "Evidence collection is only valid if performed within the first hour after the assault",
+      "The survivor must first complete a full course of antibiotic prophylaxis before any exam can begin"
+    ],
+    "correct": 0,
+    "explanation": "The optimal time frame for a forensic evaluation is generally considered to be within 72 hours of the assault in order to collect as much DNA evidence as possible, meaning a presentation at 48 hours still falls within this optimal window, although a kit can remain useful even somewhat beyond this period. Clinicians must obtain the survivor's written and verbal consent for the forensic exam itself, but in many jurisdictions this can occur without the survivor being required to involve law enforcement or discuss the event with police. Antibiotic prophylaxis and evidence collection are separate components of care and do not need to occur in a fixed sequence relative to each other.",
+    "reference": "StatPearls \u2014 Sexual Assault Evidence Collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554497/",
+    "cognitive_level": "applying"
   }
 ]
