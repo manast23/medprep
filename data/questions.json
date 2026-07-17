@@ -13069,5 +13069,195 @@
     "reference": "StatPearls \u2014 Forensic Autopsy",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 743,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "Blunt impact injuries are generally classified into which four categories?",
+    "options": [
+      "Incised wound, stab wound, chop wound, and puncture wound",
+      "First-degree, second-degree, third-degree, and fourth-degree injury",
+      "Contusion, abrasion, laceration, and fracture",
+      "Entry wound, exit wound, graze wound, and contact wound",
+      "Frostbite, chilblain, trench foot, and hypothermia"
+    ],
+    "correct": 2,
+    "explanation": "Blunt force trauma is classified into four categories \u2014 contusion, abrasion, laceration, and fracture \u2014 and these injuries are commonly encountered in forensic autopsy practice, where correct interpretation is essential for accurate medicolegal testimony. This classification is distinct from sharp force injury categories (incised, stab, chop, puncture wounds), burn degree classification, gunshot wound terminology, or cold-injury categories, each of which describes a different injury mechanism. Recognizing which category applies helps establish the type of weapon or force involved.",
+    "reference": "StatPearls \u2014 Blunt Force Trauma",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470338/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 744,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "On postmortem examination, how can an abrasion sustained after death typically be distinguished from one sustained while the person was alive?",
+    "options": [
+      "A postmortem abrasion is always larger in surface area than an antemortem one",
+      "A postmortem abrasion heals with visible scar formation over several weeks",
+      "A postmortem abrasion is always located on the extremities only",
+      "A postmortem abrasion appears tan/yellow with a parchment-paper-like texture, reflecting the absence of blood flow at the time of injury",
+      "A postmortem abrasion causes surrounding tissue bruising identical to a living injury"
+    ],
+    "correct": 3,
+    "explanation": "Because blood flow and the vital inflammatory response stop at death, an abrasion inflicted after death develops a distinctive tan/yellow, dried, parchment-like appearance, in contrast to the red/purple appearance of an abrasion sustained while alive. This distinction is medicolegally important for correctly timing an injury relative to death, rather than relying on size, location, or the presence of true healing, none of which reliably separate the two categories. Genuine bruising and scar formation require an intact living circulation and cannot occur after death.",
+    "reference": "StatPearls \u2014 Abrasion",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554465/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 745,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "Compared to an incised wound, a stab wound is best distinguished by which characteristic?",
+    "options": [
+      "Depth of the wound generally exceeding its length and breadth, produced by a pointed instrument directed into the tissue",
+      "A wound that is always longer than it is deep, produced by a tangentially applied sharp edge",
+      "The complete absence of any surrounding tissue damage",
+      "Occurrence exclusively on bony prominences of the body",
+      "Production only by blunt, rounded objects rather than sharp ones"
+    ],
+    "correct": 0,
+    "explanation": "A stab wound results from a pointed instrument directed into the body along its long axis, producing a wound whose depth typically exceeds its surface length and breadth, unlike an incised wound, which results from a sharp edge drawn tangentially across the skin and is characteristically longer than it is deep. Both are sharp-force injuries, but the difference in the direction and depth of force application allows a forensic pathologist to distinguish which mechanism produced the wound. Neither wound type is defined by an absence of tissue damage or by occurring only over bony prominences, features more characteristic of lacerations from blunt trauma.",
+    "reference": "StatPearls \u2014 Penetrating Abdominal Trauma",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459123/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 746,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "A gunshot entry wound is characteristically surrounded by which finding?",
+    "options": [
+      "An irregular, outwardly beveled margin larger than the entry defect",
+      "A well-healed scar with granulation tissue",
+      "Symmetric bruising confined entirely to the opposite side of the body",
+      "A perfectly circular defect with no surrounding tissue change",
+      "An abrasion collar, a rim of abraded tissue around the wound margin"
+    ],
+    "correct": 4,
+    "explanation": "A gunshot entry wound typically shows a permanent tract surrounded by a perimeter of abraded tissue known as the abrasion collar, along with a grease collar from lubricant carried by the projectile. This differs from an exit wound, which tends to be larger, irregular in shape, and shows outward beveling of the margin rather than an abrasion collar. Recognizing these distinguishing features allows a forensic pathologist to determine the direction of fire.",
+    "reference": "StatPearls \u2014 Gunshot Wounds Forensic Pathology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556119/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 747,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "Which of the following distinguishes a rifled firearm from a smooth-bore (shotgun) firearm in terms of the projectile fired?",
+    "options": [
+      "A rifled firearm can only be fired at close range",
+      "A rifled firearm ejects a single projectile, whereas a smooth-bore firearm releases an entire cartridge containing multiple pellets",
+      "A smooth-bore firearm never produces an abrasion collar",
+      "A rifled firearm produces no exit wound under any circumstance",
+      "A smooth-bore firearm always produces a smaller wound than a rifled firearm"
+    ],
+    "correct": 1,
+    "explanation": "A rifled firearm expels a single projectile from the muzzle, while a smooth-bore (shotgun) firearm releases an entire cartridge containing multiple tightly packed pellets that disperse as they travel toward the target. This distinction affects the wound pattern seen at autopsy, since shotgun injuries often show abrasions and contusions from the pellets, wads, and cartridge components in addition to the pellet wounds themselves. Firing range, presence of an abrasion collar, and presence of an exit wound depend on multiple case-specific factors rather than being fixed by firearm type alone.",
+    "reference": "StatPearls \u2014 Gunshot Wounds Forensic Pathology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556119/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 748,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "Burn severity classification (first, second, and third degree) is primarily based on which parameter?",
+    "options": [
+      "The total body surface area affected, regardless of depth",
+      "The depth of tissue damage caused by the heat source",
+      "The specific type of heat source, such as flame versus scald",
+      "The patient's age at the time of injury",
+      "The time elapsed since the burn occurred"
+    ],
+    "correct": 1,
+    "explanation": "Burn degree classification (first, second, third, and beyond) is based primarily on the depth of tissue damage, ranging from superficial epidermal involvement to full-thickness destruction extending into deeper structures. Total body surface area burned is a separate, independent parameter used alongside depth to determine overall burn severity and management, not a substitute for depth-based degree classification. The heat source type, patient age, and time since injury can influence outcomes and management decisions but do not themselves define the degree classification.",
+    "reference": "StatPearls \u2014 Burn Classification",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539773/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 749,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "In electrical injury, the terms \"entry\" and \"exit\" point are increasingly replaced by which alternative term, and why?",
+    "options": [
+      "\"Ground zero,\" because the injury always originates from a single fixed location",
+      "\"Flash points,\" because electrical burns always ignite surrounding clothing",
+      "\"Contact points,\" because it is often difficult to clinically distinguish which site is the true entry versus exit",
+      "\"Arc marks,\" because injury only occurs through direct arcing without tissue contact",
+      "\"Skip lesions,\" because this describes the total number of injury sites only"
+    ],
+    "correct": 2,
+    "explanation": "Because it is often clinically difficult to reliably distinguish which contact site represents the true entry point and which represents the exit point, the term \"contact points\" is preferred, in a manner analogous to how gunshot wounds are sometimes generally described as penetrating injuries. Electrical current can also produce multiple contact points via skip lesions, but this is a separate phenomenon from the entry/exit terminology question itself. \"Ground zero,\" \"flash points,\" and \"arc marks\" are not standard terms used for this specific distinction.",
+    "reference": "StatPearls \u2014 Electrical Injuries",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448087/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 750,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "A worker contacts a live electrical wire with one hand while the other hand touches a grounded metal surface, so that current passes from hand to hand across the chest. Which complication is of greatest immediate concern?",
+    "options": [
+      "Cardiac arrhythmia, due to current passing directly through the heart",
+      "Isolated skin burns with no risk to internal organs",
+      "Frostbite of the affected hand",
+      "Immediate and complete hearing loss",
+      "Chronic joint degeneration"
+    ],
+    "correct": 0,
+    "explanation": "When electrical current travels from hand to hand, it passes across the chest and through the heart, substantially increasing the risk of potentially fatal cardiac arrhythmias, which is why this current pathway is considered especially dangerous compared to other paths. Skin burns alone would understate the risk, since deeper current-pathway injury to the heart is the more immediately life-threatening concern in this scenario. Frostbite, hearing loss, and joint degeneration are unrelated to acute electrical current pathway risk.",
+    "reference": "StatPearls \u2014 Electrical Injuries",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448087/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 751,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "A homeless individual is found with blackened, hardened, insensate tissue on the toes after prolonged exposure to sub-zero temperatures. Which mechanism best explains the tissue damage observed?",
+    "options": [
+      "Bacterial invasion of the skin following minor abrasion",
+      "An allergic reaction to cold temperature exposure",
+      "Autoimmune destruction of peripheral nerve tissue",
+      "Acute compartment syndrome from external bandaging",
+      "Cold-induced vasoconstriction reducing blood flow, followed by ice crystal formation within the tissue"
+    ],
+    "correct": 4,
+    "explanation": "Frostbite develops when intense cold exposure triggers vasoconstriction, reducing blood flow and heat delivery to the tissue, which eventually allows ice crystals to form within the tissue and cause ischemic damage and necrosis. Homeless individuals and others with prolonged outdoor cold exposure are at particularly high risk, and affected areas such as the toes, fingers, ears, and nose are especially vulnerable due to their peripheral location. Bacterial invasion, allergic reactions, autoimmune processes, and compartment syndrome from bandaging are unrelated to the primary cold-injury mechanism described here.",
+    "reference": "StatPearls \u2014 Frostbite",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536914/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 752,
+    "subject": "Forensic Medicine",
+    "subtopic": "Traumatology (Mechanical & Thermal Injuries)",
+    "type": "factual",
+    "question": "During autopsy, a forensic pathologist finds an abrasion with a red/purple color and a scab beginning to form. Based on this appearance alone, which conclusion is most justified?",
+    "options": [
+      "The injury was most likely sustained while the individual was still alive, given evidence of an active vital reaction",
+      "The injury was definitely sustained more than one year before death",
+      "The injury was definitely inflicted immediately after death",
+      "The injury cannot be dated or interpreted in any way",
+      "The injury must have been self-inflicted"
+    ],
+    "correct": 0,
+    "explanation": "A red/purple abrasion with early scab formation reflects an active vital reaction, meaning blood flow and the healing process were still occurring, which indicates the injury was sustained while the individual was alive rather than after death. A tan/yellow, dried, parchment-like appearance would instead suggest a postmortem origin, since no true healing response is possible after circulation has stopped. This color-and-texture-based reasoning does not, by itself, establish a precise time interval of over a year, definitively date the injury to immediately after death, or determine whether the injury was self-inflicted.",
+    "reference": "StatPearls \u2014 Blunt Force Trauma",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470338/",
+    "cognitive_level": "applying"
   }
 ]
