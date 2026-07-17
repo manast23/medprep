@@ -13449,5 +13449,81 @@
     "reference": "StatPearls \u2014 Child Abuse and Neglect (Nursing)",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK568689/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 763,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Pediatrics",
+    "type": "factual",
+    "question": "Abusive head trauma (formerly termed shaken baby syndrome) is best defined as which of the following?",
+    "options": [
+      "Any accidental fall resulting in a minor scalp laceration",
+      "A congenital brain malformation unrelated to trauma",
+      "A metabolic disorder causing spontaneous intracranial bleeding",
+      "Injury to the skull and intracranial contents of a child younger than 5 years due to violent shaking, abrupt impact, or both",
+      "An infection of the central nervous system acquired during birth"
+    ],
+    "correct": 3,
+    "explanation": "Abusive head trauma is defined as injury to the skull and intracranial contents of a child younger than 5 years, resulting from violent shaking, abrupt impact, or a combination of both, and it remains a leading cause of fatal head injury in children under 2 years worldwide. This distinguishes it from accidental minor trauma, congenital malformations, metabolic bleeding disorders, or congenital infections, all of which have entirely different mechanisms and require different diagnostic evaluation. Recognizing this definition is essential because the diagnosis carries major medicolegal and child-protection implications.",
+    "reference": "StatPearls \u2014 Pediatric Abusive Head Trauma",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499836/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 764,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Pediatrics",
+    "type": "factual",
+    "question": "Which finding is considered pathognomonic and strongly supportive of abusive head trauma (shaken baby syndrome) in an infant with subdural hematoma?",
+    "options": [
+      "Retinal hemorrhage",
+      "A simple linear skull fracture alone",
+      "Mild scalp swelling without other findings",
+      "A single episode of vomiting",
+      "Normal neurological examination"
+    ],
+    "correct": 0,
+    "explanation": "Retinal hemorrhage frequently accompanies the violent acceleration-deceleration forces of shaken baby syndrome and is considered a pathognomonic finding strongly associated with this mechanism, reflecting the fragile bridging veins and vulnerable structures affected by repetitive back-and-forth brain motion within the skull. An isolated linear skull fracture, mild scalp swelling, a single vomiting episode, or a normal neurological exam are each less specific and can occur in many non-abusive contexts as well. The combination of subdural hematoma with retinal hemorrhage substantially raises clinical suspicion for inflicted injury.",
+    "reference": "StatPearls \u2014 Subdural Hematoma",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532970/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 765,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Pediatrics",
+    "type": "factual",
+    "question": "A stillbirth is best defined as which of the following?",
+    "options": [
+      "Death of an infant occurring more than one month after a normal live birth",
+      "Any pregnancy loss occurring in the first trimester",
+      "A birth in which the infant cries but later dies within 24 hours",
+      "Death of a fetus occurring before or during delivery, with no signs of life at the time of birth",
+      "A birth complicated by a low Apgar score but ultimate survival"
+    ],
+    "correct": 3,
+    "explanation": "A stillbirth is defined as the death of a fetus before or during the delivery process, with no signs of life, such as breathing, heartbeat, or movement, present at the time of birth. This is medicolegally distinct from a live birth followed by early neonatal death, which would show clear signs of life at delivery even if the infant later died, a distinction that carries major significance in suspected infanticide investigations. First-trimester loss (miscarriage) and a low Apgar score in a surviving infant are separate categories from stillbirth entirely.",
+    "reference": "StatPearls \u2014 Stillbirth",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557533/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 766,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Pediatrics",
+    "type": "factual",
+    "question": "An infant's body is discovered, and investigators must determine whether the infant was born alive and then died, or was stillborn, in order to establish whether a crime such as infanticide could have occurred. Why is this distinction forensically critical?",
+    "options": [
+      "A charge of infanticide or homicide generally requires proof that the infant was born alive, since a stillborn infant was never a legal person capable of being unlawfully killed after birth",
+      "The distinction has no bearing on any potential criminal charges",
+      "Stillbirth automatically implies a criminal act occurred",
+      "Live birth status is irrelevant once any decomposition has begun",
+      "This determination is used only for insurance purposes, not legal proceedings"
+    ],
+    "correct": 0,
+    "explanation": "Establishing whether an infant was born alive is forensically essential because criminal charges such as infanticide or homicide generally require that the infant had an independent existence after birth, whereas a genuinely stillborn infant died before or during delivery and therefore could not have been unlawfully killed afterward. This is why forensic pediatric examination in suspicious infant deaths focuses heavily on distinguishing true stillbirth from a live birth followed by death. Decomposition can complicate this determination but does not eliminate its legal relevance, and stillbirth itself is not automatically evidence of a crime.",
+    "reference": "StatPearls \u2014 Stillbirth",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557533/",
+    "cognitive_level": "applying"
   }
 ]
