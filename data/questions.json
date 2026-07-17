@@ -13354,5 +13354,100 @@
     "reference": "StatPearls \u2014 Sexual Assault Evidence Collection",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554497/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 758,
+    "subject": "Forensic Medicine",
+    "subtopic": "Sexual Offences",
+    "type": "factual",
+    "question": "In cases of alleged child sexual abuse, what proportion of examinations typically shows abnormal physical (anogenital) findings?",
+    "options": [
+      "Nearly all examinations show clear, diagnostic physical findings",
+      "A minority \u2014 most examinations do not yield abnormal physical findings",
+      "Exactly half of all examinations show abnormal findings",
+      "Physical findings are present in all cases involving penetration",
+      "Abnormal findings are found only in cases reported within 24 hours"
+    ],
+    "correct": 1,
+    "explanation": "The majority of child sexual abuse victims have a normal anogenital examination, and most examinations overall do not yield definitive forensic evidence, which is a critical teaching point since it prevents clinicians from wrongly dismissing a disclosure simply because the physical exam appears normal. This reflects the elastic, healing nature of anogenital tissue and the fact that many forms of abuse do not cause lasting physical injury. A normal exam finding rate this high means physical findings alone cannot be relied upon as the primary basis for confirming or excluding abuse.",
+    "reference": "StatPearls \u2014 Child Abuse and Neglect (Nursing)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK568689/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 759,
+    "subject": "Forensic Medicine",
+    "subtopic": "Sexual Offences",
+    "type": "factual",
+    "question": "Given that most child sexual abuse examinations show normal physical findings, what is generally considered the strongest evidence in these cases?",
+    "options": [
+      "The child's own statement or disclosure",
+      "A single normal genital photograph",
+      "The absence of any behavioral changes",
+      "A parent's assumption based on the child's mood",
+      "A negative sexually transmitted infection screen alone"
+    ],
+    "correct": 0,
+    "explanation": "Because the majority of sexual abuse victims have a normal anogenital examination, the child's own statement is typically considered the strongest evidence that abuse has occurred, making careful, non-leading interview technique essential to the overall investigation. A normal exam photograph or a negative infection screen does not exclude abuse and should not be treated as stronger evidence than a credible disclosure. Absence of behavioral change or a parent's assumption are even less reliable indicators and are not considered primary evidence.",
+    "reference": "StatPearls \u2014 Child Abuse and Neglect (Nursing)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK568689/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 760,
+    "subject": "Forensic Medicine",
+    "subtopic": "Sexual Offences",
+    "type": "factual",
+    "question": "Following alleged recent child sexual abuse, forensic body swabs of vaginal fluid, skin, or fingernail scrapings are most likely to recover DNA evidence when collected within which timeframe?",
+    "options": [
+      "Within 24 hours of the assault",
+      "Within 30 days of the assault",
+      "Only if collected more than one week after the assault",
+      "Only if the child is above 10 years of age",
+      "At any time regardless of interval since the assault"
+    ],
+    "correct": 0,
+    "explanation": "Forensic body swabs, including vaginal fluid, skin, and fingernail scrapings, can recover DNA evidence even in the absence of abnormal physical exam findings, and this recovery is ideally attempted within 24 hours of the alleged assault, since biological evidence degrades and is lost over time. This narrow window is one reason children may present for urgent evaluation within 72 to 96 hours of an alleged incident, even though the highest-yield evidence collection occurs earlier in that period. Age of the child and arbitrary later collection past a week are not the determining factors for DNA recovery likelihood.",
+    "reference": "StatPearls \u2014 Child Sexual Abuse",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470563/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 761,
+    "subject": "Forensic Medicine",
+    "subtopic": "Sexual Offences",
+    "type": "factual",
+    "question": "Suspected sexual assault involving a minor versus an elderly or cognitively impaired adult typically triggers reporting to which respective agencies?",
+    "options": [
+      "Only law enforcement, regardless of the victim's age or capacity",
+      "Only the treating physician's malpractice insurer in both situations",
+      "Only the hospital's billing department in both situations",
+      "Child Protective Services (CPS) for minors, and Adult Protective Services (APS) for elderly or cognitively impaired adults",
+      "No mandatory reporting requirement exists for either population"
+    ],
+    "correct": 3,
+    "explanation": "Sexual assault involving a minor should be reported to Child Protective Services, while sexual assault of an elder or cognitively impaired adult should be reported to Adult Protective Services, reflecting that both populations may be unable to consent to a physical or forensic examination and require similar protective safeguards despite the different agency involved. This distinction ensures the appropriate protective and investigative body is engaged based on the vulnerable population involved, rather than relying solely on law enforcement, billing processes, or malpractice concerns. Both populations are subject to mandatory reporting requirements in these circumstances.",
+    "reference": "StatPearls \u2014 Sexual Assault History and Physical",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448154/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 762,
+    "subject": "Forensic Medicine",
+    "subtopic": "Sexual Offences",
+    "type": "factual",
+    "question": "A 7-year-old child discloses sexual abuse by a family member, but the anogenital examination is entirely normal. How should this normal examination be interpreted?",
+    "options": [
+      "It conclusively proves the child's disclosure is false",
+      "It does not rule out abuse, since most sexual abuse victims have a normal examination",
+      "It means further investigation should be halted immediately",
+      "It confirms the abuse did not involve any physical contact of any kind",
+      "It indicates the child must have fabricated the entire account"
+    ],
+    "correct": 1,
+    "explanation": "A normal anogenital examination does not rule out sexual abuse, since the majority of confirmed victims have normal findings, meaning the child's disclosure should still be taken seriously and investigated through appropriate forensic interview and protective-service channels. Treating a normal exam as proof the disclosure is false would ignore this well-established pattern and could allow ongoing abuse to continue unaddressed. The clinical and forensic response should proceed based on the totality of the disclosure and investigation, not on the exam finding alone.",
+    "reference": "StatPearls \u2014 Child Abuse and Neglect (Nursing)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK568689/",
+    "cognitive_level": "applying"
   }
 ]
