@@ -13525,5 +13525,81 @@
     "reference": "StatPearls \u2014 Stillbirth",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557533/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 767,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Psychiatry",
+    "type": "factual",
+    "question": "Malingering is best defined as which of the following?",
+    "options": [
+      "An unconscious psychological need to assume the sick role",
+      "A formally recognized mental illness listed as a diagnosis in the DSM-5-TR",
+      "A delusional belief that one is physically ill despite normal findings",
+      "A neurological condition causing involuntary symptom exaggeration",
+      "The willful deception or significant overstatement of physical or mental symptoms to obtain external incentives"
+    ],
+    "correct": 4,
+    "explanation": "Malingering is the willful, conscious deception or overstatement of physical or mental symptoms in order to obtain external incentives, such as avoiding legal or occupational responsibilities, acquiring substances, or obtaining financial payment. It is not classified as a mental illness or diagnosis in the DSM-5-TR, but instead is listed as a Z code reflecting its role as an influential factor in health status and healthcare interactions. This distinguishes it from an unconscious drive to assume the sick role, a delusional belief, or an involuntary neurological process, none of which involve conscious external motivation.",
+    "reference": "StatPearls \u2014 Malingering",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507837/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 768,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Psychiatry",
+    "type": "factual",
+    "question": "How is malingering distinguished from factitious disorder?",
+    "options": [
+      "Malingering and factitious disorder describe the identical underlying motivation and are used interchangeably",
+      "Factitious disorder always involves seeking financial compensation, while malingering never does",
+      "Malingering is driven by conscious pursuit of an external incentive, whereas factitious disorder is driven by an unconscious need to assume the sick role without external gain",
+      "Malingering is a formally recognized DSM-5-TR diagnosis, while factitious disorder is not",
+      "Factitious disorder occurs only in children, while malingering occurs only in adults"
+    ],
+    "correct": 2,
+    "explanation": "Malingering involves the conscious fabrication or exaggeration of symptoms specifically to achieve an external secondary gain, such as financial compensation or avoiding legal consequences, whereas factitious disorder imposed on self involves intentional symptom production without any external incentive, driven instead by an unconscious need to occupy the sick role. Distinguishing the two can be clinically difficult since both involve deliberately produced symptoms, but the underlying motivation and presence or absence of external gain is the key differentiator. Neither condition is restricted to a particular age group, and it is factitious disorder, not malingering, that is formally classified as a psychiatric diagnosis.",
+    "reference": "StatPearls \u2014 Factitious Disorder Overview",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK518999/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 769,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Psychiatry",
+    "type": "factual",
+    "question": "Pseudologia fantastica, a pattern of excessive and elaborate lying, presents which particular challenge in forensic psychiatric evaluation?",
+    "options": [
+      "It is formally recognized as a standalone mental illness in the DSM-5",
+      "It has no bearing on legal proceedings of any kind",
+      "It automatically renders a defendant incompetent to stand trial",
+      "It complicates assessments of competency to stand trial and the reliability of a defendant's testimony",
+      "It is only relevant in civil, not criminal, legal contexts"
+    ],
+    "correct": 3,
+    "explanation": "Pseudologia fantastica presents significant challenges in legal proceedings by complicating assessments of a defendant's competency to stand trial and the overall reliability of their testimony, since affected individuals may provide false testimony under oath even without a clear external motive. It is not itself recognized as a mental illness in the DSM-5, and its presence does not automatically make a defendant incompetent; rather, it requires careful, individualized evaluation. This pattern is relevant in both criminal and civil forensic contexts wherever a person's truthful testimony or history matters to the proceedings.",
+    "reference": "StatPearls \u2014 Pseudologia Fantastica",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK606104/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 770,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Psychiatry",
+    "type": "factual",
+    "question": "A defendant facing serious criminal charges reports severe, inconsistent cognitive symptoms during evaluation, but a collateral history reveals the symptoms conveniently worsen only when discussing the charges and improve when unobserved. Which condition should be most strongly suspected?",
+    "options": [
+      "Malingering, given inconsistent symptoms linked to a clear external incentive (avoiding legal consequences)",
+      "Factitious disorder, given an unconscious desire to assume the sick role with no external gain",
+      "A genuine, unrelated neurological illness with no forensic significance",
+      "Pseudologia fantastica occurring in complete isolation from any external motive",
+      "A normal stress response requiring no further forensic evaluation"
+    ],
+    "correct": 0,
+    "explanation": "The pattern described, inconsistent symptoms that worsen specifically when facing legal consequences and improve when unobserved, closely fits malingering, since it points toward conscious symptom exaggeration tied to a clear external incentive of avoiding prosecution. This differs from factitious disorder, where no external gain would be expected, and from a genuine unrelated illness, which would not show this context-dependent, incentive-linked pattern. Careful forensic evaluation combining collateral information and structured assessment is needed to distinguish malingering from genuine impairment before any conclusions about competency are drawn.",
+    "reference": "StatPearls \u2014 Malingering",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507837/",
+    "cognitive_level": "applying"
   }
 ]
