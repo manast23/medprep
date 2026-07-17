@@ -12974,5 +12974,100 @@
     "reference": "StatPearls \u2014 Patient Restraint and Seclusion",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK565873/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 738,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "Drowning is currently defined as which of the following?",
+    "options": [
+      "Any death occurring near or within a body of water regardless of cause",
+      "Cardiac arrest occurring exclusively in swimming pools",
+      "A chronic lung disease caused by repeated water exposure",
+      "The process of developing respiratory impairment from submersion or immersion in a liquid medium",
+      "Death caused specifically by hypothermia during water exposure"
+    ],
+    "correct": 3,
+    "explanation": "Drowning is defined as the process of developing respiratory impairment as a result of submersion or immersion in a liquid, with outcomes then categorized as death, morbidity, or no morbidity. The older terms \"wet drowning,\" \"dry drowning,\" and \"near-drowning\" are now considered obsolete and should not be used, even though they may still appear in older literature. This modern definition centers on the respiratory process itself rather than the location of death, an unrelated chronic disease, or hypothermia specifically.",
+    "reference": "StatPearls \u2014 Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 739,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "The core pathophysiological sequence in drowning proceeds through which pathway?",
+    "options": [
+      "Direct bacterial invasion of the bloodstream through the lungs",
+      "Airway obstruction and aspiration leading to hypoxemia, then cerebral hypoxia and multiorgan dysfunction",
+      "Immediate cardiac arrest without any preceding respiratory compromise",
+      "Progressive joint inflammation from prolonged water immersion",
+      "Gradual renal failure from excessive fluid absorption alone"
+    ],
+    "correct": 1,
+    "explanation": "Drowning pathophysiology centers on airway obstruction and aspiration of liquid, producing hypoxemia that rapidly progresses to cerebral hypoxia and eventual multiorgan dysfunction if the process is not interrupted. This sequence explains why early rescue and ventilation support are the priority in management, since the driving injury is oxygen deprivation rather than infection, joint disease, or isolated renal pathology. Cardiac arrest, when it occurs, is typically a late consequence of this hypoxic cascade rather than the initiating event.",
+    "reference": "StatPearls \u2014 Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 740,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "Current drowning terminology classifies outcomes into which categories?",
+    "options": [
+      "Wet drowning and dry drowning only",
+      "Near-drowning and true drowning only",
+      "Death, morbidity, or no morbidity",
+      "Fresh-water drowning and salt-water drowning only",
+      "Primary drowning and secondary drowning only"
+    ],
+    "correct": 2,
+    "explanation": "Modern drowning classification simplifies outcomes into three categories: death, morbidity, or no morbidity, replacing the older and now-obsolete terminology of \"wet,\" \"dry,\" and \"near\" drowning. This shift reflects a move toward outcome-based classification rather than mechanism-based labels that added little clinical or forensic value. Freshwater/saltwater and primary/secondary distinctions may still appear informally but are not part of the current standard classification.",
+    "reference": "StatPearls \u2014 Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 741,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "In forensic drowning investigations, the detection of diatoms (microscopic aquatic algae) in tissues distant from the lungs, such as bone marrow or kidney, is considered supportive evidence for which of the following?",
+    "options": [
+      "That the individual died of a pre-existing cardiac condition unrelated to submersion",
+      "That the water source was contaminated with industrial pollutants",
+      "That death occurred more than one year before the body was recovered",
+      "That the individual had a known allergy to freshwater organisms",
+      "That the individual was alive and breathing at the time of submersion, rather than placed in water after death"
+    ],
+    "correct": 4,
+    "explanation": "Diatoms are unicellular aquatic organisms present in most natural water bodies; if a person aspirates diatom-containing water while still alive and breathing, these diatoms can cross into the bloodstream and circulate to distant organs such as bone marrow, supporting a diagnosis of true antemortem drowning rather than a body simply being placed in water after death from another cause. This distinction matters forensically because a body dumped in water postmortem would not show this distant-organ diatom pattern from active respiration. The test remains supportive evidence rather than fully definitive, since contamination and methodological limitations are recognized concerns in its interpretation.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 742,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "A body is recovered from a lake. The forensic pathologist must determine whether the person drowned while alive or was placed in the water after already being dead from another cause. Which type of finding would most support true antemortem drowning?",
+    "options": [
+      "Diatoms recovered from organs distant from the lungs, such as bone marrow, consistent with active respiration while submerged",
+      "Presence of lake water on the surface of the clothing only",
+      "A normal chest radiograph with no fluid in the lungs",
+      "Absence of any injuries on the body",
+      "A high blood alcohol concentration alone"
+    ],
+    "correct": 0,
+    "explanation": "Because diatoms can only reach distant organs such as bone marrow through active circulation driven by a still-beating heart during aspiration, their presence there supports that the person was alive and breathing at the point of submersion, rather than having been placed in the water postmortem. Surface wetting of clothing, a clear chest radiograph, absence of injuries, or an elevated blood alcohol level do not by themselves distinguish antemortem drowning from postmortem immersion. This distinction is central to correctly determining manner of death in water-recovery cases.",
+    "reference": "StatPearls \u2014 Forensic Autopsy",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539901/",
+    "cognitive_level": "applying"
   }
 ]
