@@ -13601,5 +13601,81 @@
     "reference": "StatPearls \u2014 Malingering",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507837/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 771,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Serology",
+    "type": "factual",
+    "question": "Beyond transfusion medicine, the ABO blood group system has historically found which additional application relevant to forensic medicine?",
+    "options": [
+      "Direct visualization of fingerprint ridge patterns",
+      "Estimation of the postmortem interval",
+      "Determination of the exact time of death to the minute",
+      "Forensic investigations and paternity determination in legal settings",
+      "Direct dating of skeletal remains to a specific year"
+    ],
+    "correct": 3,
+    "explanation": "Beyond its central role in transfusion safety, the ABO blood group system has been applied in population studies by anthropologists, in forensic investigations by law enforcement, and in paternity cases in legal settings, since ABO type can help include or exclude potential matches between evidence and an individual. This is distinct from fingerprint analysis, postmortem interval estimation, precise time-of-death determination, or skeletal dating, which rely on entirely different forensic techniques. ABO typing alone cannot uniquely identify an individual, since many people share the same blood type.",
+    "reference": "StatPearls \u2014 ABO Blood Group System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK580518/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 772,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Serology",
+    "type": "factual",
+    "question": "In forensic blood grouping, discrepancies between forward and reverse ABO typing results can occur due to which factor?",
+    "options": [
+      "The blood sample being collected using a sterile needle",
+      "The suspect having type O blood exclusively",
+      "Weak antigen or antibody expression, technical error, or the presence of subgroups or abnormal proteins",
+      "The sample being stored at refrigerator temperature",
+      "The presence of a normal hematocrit value"
+    ],
+    "correct": 2,
+    "explanation": "ABO typing discrepancies, where forward grouping (detecting antigens on red cells) and reverse grouping (detecting antibodies in serum) do not align, can arise from technical errors, weak antigen or antibody expression, underlying medical conditions, or the presence of subgroups or abnormal proteins, affecting up to 10% of tested samples. This is an important source of potential error in forensic blood typing that must be recognized and resolved before a result is relied upon. Sterile collection technique, blood type O specifically, appropriate refrigerated storage, and a normal hematocrit are not themselves causes of a forward/reverse typing mismatch.",
+    "reference": "StatPearls \u2014 ABO Typing Discrepancies",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK585061/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 773,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Serology",
+    "type": "factual",
+    "question": "Compared to traditional ABO blood grouping, why has DNA profiling largely become the preferred method for individualizing biological evidence in forensic casework?",
+    "options": [
+      "DNA profiling targets highly variable genetic regions that differ substantially between individuals, offering far greater discriminating power than the limited number of ABO blood types",
+      "ABO blood grouping requires more expensive equipment than DNA profiling",
+      "ABO blood grouping can only be performed on living suspects, never on evidence",
+      "DNA profiling cannot be performed on bloodstains under any circumstance",
+      "ABO blood grouping provides a unique result for every individual tested"
+    ],
+    "correct": 0,
+    "explanation": "DNA profiling targets highly variable regions of the genome that differ substantially between unrelated individuals, providing far greater discriminating power than ABO blood grouping, which sorts people into only a handful of broad categories (A, B, AB, O) shared by large portions of the population. This is why DNA evidence has largely superseded blood grouping as the primary method of individualizing biological evidence at a crime scene, even though ABO typing remains historically important and can still be used as a preliminary or supportive test. ABO grouping can, in fact, be performed on bloodstains and other evidence, not only on living suspects, and it does not provide a unique result per individual.",
+    "reference": "NCBI Bookshelf \u2014 The Evaluation of Forensic DNA Evidence",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK232610/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 774,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Serology",
+    "type": "factual",
+    "question": "A bloodstain recovered from a crime scene is severely degraded due to prolonged environmental exposure, making both DNA profiling and reliable ABO grouping difficult. Which conclusion is most appropriate?",
+    "options": [
+      "Both methods can be affected by sample degradation, and evidentiary value may be limited regardless of which serological or genetic technique is attempted",
+      "DNA profiling is completely unaffected by any degree of sample degradation",
+      "ABO grouping becomes more accurate as a sample degrades further",
+      "Degraded bloodstains automatically indicate the sample is not human in origin",
+      "Sample degradation has no bearing on the strength of forensic conclusions drawn from the evidence"
+    ],
+    "correct": 0,
+    "explanation": "Both DNA profiling and traditional serological methods such as ABO grouping can be compromised by significant environmental degradation of a biological sample, meaning the evidentiary strength of either technique may be limited in a severely degraded case, and forensic conclusions must be appropriately qualified as a result. It would be inaccurate to assume DNA profiling is immune to degradation, that ABO grouping somehow improves with degradation, or that degradation itself indicates a non-human source, none of which reflect how these techniques actually behave under adverse sample conditions. Recognizing these limitations is essential for accurately communicating the strength of forensic serological and genetic findings in court.",
+    "reference": "NCBI Bookshelf \u2014 The Evaluation of Forensic DNA Evidence",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK232610/",
+    "cognitive_level": "applying"
   }
 ]
