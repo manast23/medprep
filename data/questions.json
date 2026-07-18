@@ -13791,5 +13791,100 @@
     "reference": "StatPearls \u2014 Chain of Custody",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 781,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Odontology",
+    "type": "factual",
+    "question": "Bite mark evidence can be useful in identifying which of the following?",
+    "options": [
+      "The exact time of death to the minute",
+      "The blood type of the victim exclusively",
+      "The presence of underlying genetic disease",
+      "The chemical composition of ingested substances",
+      "Cases of child abuse and offenders involved in various forms of violence"
+    ],
+    "correct": 4,
+    "explanation": "Bite marks are useful in identifying abuse in children and in cases involving offenders of various forms of violence, since a bite mark can potentially be compared against a suspect's dentition. This differs from blood typing, time-of-death estimation, genetic disease detection, or toxicological composition analysis, which rely on entirely separate forensic methods. Despite this usefulness, caution is required, and bite mark findings alone are not treated as definitive proof.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 782,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Odontology",
+    "type": "factual",
+    "question": "Why is caution recommended when using bite mark evidence as the sole proof in a forensic case?",
+    "options": [
+      "Bite marks never contain any individualizing features whatsoever",
+      "Bite marks are always identical regardless of which person made them",
+      "Bite mark evidence is legally inadmissible in every jurisdiction",
+      "Bite marks can be distorted by skin elasticity, body position, and applied force, limiting the reliability of relying on this evidence alone",
+      "Bite marks cannot be documented or photographed under any circumstances"
+    ],
+    "correct": 3,
+    "explanation": "Because the skin's elasticity, the position of the body, and the amount of force applied during biting can all distort the resulting mark, bite mark evidence carries inherent limitations, and forensic guidance explicitly cautions against relying on bite mark proof alone. This does not mean bite marks lack any individualizing features, that all bite marks are identical, that the evidence is universally inadmissible, or that documentation and photography are impossible; rather, it means the evidence should be corroborated with other findings when used to draw legal conclusions. This cautious approach reflects an evolving and increasingly scrutinized area of forensic science.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 783,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Odontology",
+    "type": "factual",
+    "question": "Which material is commonly used to record an accurate impression of a bitten surface, capturing details such as cuts and abrasions?",
+    "options": [
+      "Plain gauze soaked in saline",
+      "Ordinary household adhesive tape",
+      "Unset plaster of Paris applied directly without support",
+      "Cotton swabs moistened with water",
+      "Polyether or vinyl polysiloxane impression material"
+    ],
+    "correct": 4,
+    "explanation": "Polyether or vinyl polysiloxane impression material is commonly used to capture an exact impression of a bitten surface, recording fine details such as teething irregularities, cuts, and abrasions, and this impression can be rigidly supported with dental acrylic or plaster to accurately preserve the skin's curvature. Gauze, adhesive tape, unsupported plaster, and moistened cotton swabs are not standard materials for this specific forensic dental impression technique. Proper impression-taking is an important step before comparative bite mark analysis can proceed.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 784,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Odontology",
+    "type": "factual",
+    "question": "Which advanced techniques are used by forensic odontologists to improve the quality of photographic bite mark evidence?",
+    "options": [
+      "Scanning electron microscopy, videotape analysis, and computerized image enhancement",
+      "Standard visible-light photography exclusively, with no further processing",
+      "Manual tracing of the bite mark onto paper without any imaging technology",
+      "Direct staining of the wound with iodine solution only",
+      "Measuring the wound using only a standard ruler with no photography at all"
+    ],
+    "correct": 0,
+    "explanation": "Forensic odontologists use advanced techniques including scanning electron microscopy (SEM), videotape analysis, and computerized image enhancement to improve the quality and interpretability of photographic bite mark evidence. This goes well beyond simple visible-light photography, manual tracing, iodine staining, or basic ruler measurement, all of which provide considerably less detailed and reliable documentation. These enhanced imaging methods support more rigorous comparison between the questioned bite mark and a suspect's dental pattern.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 785,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Odontology",
+    "type": "factual",
+    "question": "A forensic odontologist is asked to testify in a child abuse case where a bite mark is the only piece of evidence available. What is the most appropriate professional stance to take?",
+    "options": [
+      "Present the bite mark findings while explicitly cautioning that this evidence alone is not conclusive proof and should be corroborated with other findings",
+      "Testify that the bite mark alone definitively identifies the perpetrator with complete certainty",
+      "Decline to examine the bite mark evidence at all since it has no forensic value whatsoever",
+      "State that bite mark evidence is scientifically equivalent to a confirmed DNA match",
+      "Refuse to document or photograph the bite mark under any circumstances"
+    ],
+    "correct": 0,
+    "explanation": "Given that forensic guidance explicitly recommends caution when bite mark evidence is used as proof, the appropriate professional stance is to present the findings honestly while noting that this evidence alone is not conclusive and ideally should be supported by other corroborating evidence, such as a suspect's confession, additional physical findings, or other identification methods. Overstating certainty, dismissing the evidence's value entirely, equating it to DNA-level certainty, or refusing to document it would each misrepresent the actual evidentiary strength and limitations of bite mark analysis. This balanced approach protects both the integrity of the investigation and appropriate legal outcomes.",
+    "reference": "StatPearls \u2014 Forensic Odontology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
+    "cognitive_level": "applying"
   }
 ]
