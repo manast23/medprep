@@ -13981,5 +13981,195 @@
     "reference": "StatPearls \u2014 ED50",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538269/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 791,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Carbon monoxide causes tissue hypoxia primarily through which mechanism?",
+    "options": [
+      "Directly destroying red blood cell membranes on contact",
+      "Causing immediate cardiac arrest without any preceding hypoxia",
+      "Blocking oxygen from ever entering the lungs during inhalation",
+      "Producing a severe local allergic reaction in the airway",
+      "Binding hemoglobin with higher affinity than oxygen, forming carboxyhemoglobin and impairing oxygen delivery"
+    ],
+    "correct": 4,
+    "explanation": "Carbon monoxide binds hemoglobin with a much higher affinity than oxygen, forming carboxyhemoglobin, which impairs oxygen offloading to tissues and produces hypoxia, particularly affecting oxygen-hungry organs such as the brain and heart; it also binds mitochondrial cytochrome proteins, further impairing cellular respiration. This differs from direct red cell membrane destruction, immediate cardiac arrest without a hypoxic phase, physical blockage of inhaled air, or an allergic mechanism, none of which reflect how carbon monoxide actually produces toxicity. Understanding this mechanism explains why oxygen therapy, including hyperbaric oxygen in severe cases, is central to treatment.",
+    "reference": "StatPearls \u2014 Carbon Monoxide Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430740/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 792,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Carbon monoxide poisoning is particularly dangerous in part because of which characteristic of the gas itself?",
+    "options": [
+      "It is tasteless, odorless, and colorless, making exposure difficult to detect without specific monitoring",
+      "It has a strong, easily recognizable rotten-egg odor that warns of exposure",
+      "It causes immediate, severe skin irritation upon contact, alerting the person to danger",
+      "It is visible as a thick colored smoke whenever it is present",
+      "It only accumulates outdoors and never indoors"
+    ],
+    "correct": 0,
+    "explanation": "Carbon monoxide is tasteless, odorless, and colorless, which makes it extremely difficult for individuals to detect its presence without a specific carbon monoxide detector, contributing to its danger, especially from fuel-burning appliances used in enclosed or poorly ventilated indoor spaces. This differs from gases with a distinctive smell, such as the rotten-egg odor associated with certain sulfur compounds, and it does not cause an immediately recognizable skin reaction or visible colored smoke. Its risk is highest indoors during colder months, when heating appliance use increases in poorly ventilated environments.",
+    "reference": "StatPearls \u2014 Carbon Monoxide Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430740/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 793,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Lead toxicity is best characterized by which of the following?",
+    "options": [
+      "A toxin that only affects bone tissue with no effect on the nervous system",
+      "A substance that is entirely harmless below a specific threshold blood level",
+      "A potent neurotoxin capable of producing measurable negative effects on cognition even at very low blood concentrations",
+      "A toxin whose effects are limited exclusively to adult occupational exposure",
+      "A substance that produces symptoms only after decades of continuous, high-level exposure"
+    ],
+    "correct": 2,
+    "explanation": "Lead is recognized as a potent neurotoxin with measurable negative effects on cognition detectable even at very low blood lead concentrations, challenging the historical assumption that there is a fully safe threshold level of exposure. This differs from a bone-limited toxin, a substance with a clean safety cutoff, an adult-only occupational hazard, or a toxin requiring decades of exposure before any effect appears, since childhood lead exposure from sources such as lead-based paint is a well-recognized and significant public health concern. This low-threshold neurotoxicity is why lead exposure prevention remains a major focus of pediatric and public health practice.",
+    "reference": "StatPearls \u2014 Lead Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541097/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 794,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "A patient presents after a snakebite with rapidly progressing local swelling, blister (bleb) formation, and systemic symptoms including nausea and muscle cramping. Based on standard envenomation grading, how should antivenom therapy be approached?",
+    "options": [
+      "No treatment is ever required regardless of envenomation severity",
+      "Antivenom is indicated, since this presentation reflects a more severe grade of envenomation requiring active treatment rather than observation alone",
+      "Antivenom should be withheld in all cases until symptoms have fully resolved on their own",
+      "This presentation reflects minimal envenomation, which never requires antivenom or monitoring",
+      "Only surgical amputation of the affected limb is appropriate at this stage"
+    ],
+    "correct": 1,
+    "explanation": "Envenomation severity is graded from 0 to IV, with more severe grades marked by rapidly progressing swelling, bleb formation, and systemic symptoms such as nausea, vomiting, muscle cramping, and convulsions, and progressive swelling or systemic involvement is a recognized indication for antivenom administration. This is distinct from minimal envenomation (grade 0), which involves only fang wounds with limited surrounding erythema and does not require antivenom, though monitoring is still appropriate. Withholding all treatment, waiting for spontaneous resolution, or proceeding directly to amputation would each be inappropriate given the systemic and progressive findings described.",
+    "reference": "StatPearls \u2014 Snake Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557565/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 795,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Methanol toxicity is particularly dangerous because of which characteristic outcome?",
+    "options": [
+      "Immediate, painless death with no preceding symptoms whatsoever",
+      "Toxicity limited entirely to superficial skin irritation",
+      "Complete absence of any metabolic derangement",
+      "Retinal and basal ganglia toxicity that can cause permanent visual impairment and neurologic deficits",
+      "Toxicity that resolves spontaneously without any treatment in all cases"
+    ],
+    "correct": 3,
+    "explanation": "Methanol toxicity can produce retinal and basal ganglia toxicity, resulting in permanent visual impairment, neurologic deficits, or Parkinsonian features, particularly when patients present late or the diagnosis is delayed after toxic metabolites have already formed. This is far from a painless, symptom-free death, a superficial skin-only effect, a condition without metabolic derangement, or one that reliably resolves without treatment, since methanol causes significant metabolic acidosis and requires timely recognition and management. Early presentation and prompt treatment before toxic metabolite formation are associated with a better prognosis.",
+    "reference": "StatPearls \u2014 Methanol Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482121/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 796,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Why must opiate/opioid overdose always be considered in a patient presenting with lethargy of unknown cause?",
+    "options": [
+      "Because opioids never cause any depression of consciousness",
+      "Because opioid toxicity commonly presents with depressed consciousness and can be reversed with naloxone if promptly identified, making early recognition clinically important",
+      "Because opioid overdose is always immediately obvious from a visible injection site",
+      "Because naloxone has no effect on opioid-induced sedation",
+      "Because lethargy is exclusively caused by opioid use and no other condition"
+    ],
+    "correct": 1,
+    "explanation": "Opiate overdose should always be considered in unexplained lethargy because it commonly presents with depressed consciousness, and because this state can potentially be reversed with naloxone if the diagnosis is made and treated promptly, giving early recognition significant clinical value. Opioid overdose is not always obvious from external signs alone, since many individuals who abuse opiates also use other substances such as benzodiazepines or alcohol, complicating the clinical picture and the presentation. Lethargy has many other possible causes as well, which is precisely why maintaining a broad differential while specifically considering opioid toxicity is important.",
+    "reference": "StatPearls \u2014 Opioid Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470415/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 797,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Acetaminophen (paracetamol) overdose is a leading cause of acute liver failure primarily because of which mechanism?",
+    "options": [
+      "Acetaminophen directly and immediately destroys kidney tissue rather than the liver",
+      "Acetaminophen is entirely non-toxic regardless of the dose ingested",
+      "Acetaminophen toxicity always presents with a significant rise in bilirubin as its first clinical sign",
+      "Overdose overwhelms normal metabolic pathways, leading to hepatic necrosis from toxic metabolite accumulation",
+      "Acetaminophen overdose causes toxicity only in patients under 5 years of age"
+    ],
+    "correct": 3,
+    "explanation": "At therapeutic doses, acetaminophen is generally safe, but in overdose, its normal metabolic clearance pathways become overwhelmed, allowing toxic metabolite accumulation that produces hepatic necrosis, making acetaminophen toxicity the most common cause of acute liver failure in the United States and the second most common reason for liver transplantation worldwide. A significant rise in bilirubin is actually rare early in acetaminophen toxicity, distinguishing it somewhat from other causes of liver injury, and the condition is not limited to young children or dose-independent in its effects. This mechanism is why timely antidotal treatment aimed at supporting the affected metabolic pathway is central to management.",
+    "reference": "StatPearls \u2014 Acetaminophen Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441917/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 798,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "Respiratory depression from benzodiazepine ingestion is most likely to occur under which circumstance?",
+    "options": [
+      "Only when the benzodiazepine is taken in isolation with no other substances involved",
+      "Benzodiazepines never cause any degree of respiratory compromise under any circumstance",
+      "Only in patients who have never previously taken any benzodiazepine",
+      "Only when the benzodiazepine is administered by injection rather than orally",
+      "When benzodiazepines are taken together with a coingestant such as ethanol or another sedating substance"
+    ],
+    "correct": 4,
+    "explanation": "Respiratory compromise is uncommon in isolated benzodiazepine ingestions but becomes a significant risk when benzodiazepines are combined with a coingestant such as ethanol or another sedating drug, and most intentional benzodiazepine overdoses do in fact involve such coingestants. This combination effect is why isolated ingestion is generally considered safer than the far more common real-world scenario of polysubstance use. The degree of respiratory compromise also depends on factors such as dose, tolerance, weight, age, and genetics, rather than being determined simply by the route of administration or prior exposure history alone.",
+    "reference": "StatPearls \u2014 Benzodiazepine Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482238/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 799,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "A patient presents to the emergency department with agitation, tachycardia, hypertension, and chest pain after using cocaine. Which first-line treatment approach is most appropriate?",
+    "options": [
+      "A pure beta-blocker administered alone as first-line therapy",
+      "Immediate surgical intervention regardless of symptom severity",
+      "Benzodiazepines to decrease central sympathetic outflow, along with supportive care",
+      "Withholding all treatment until the cocaine has been fully metabolized",
+      "Physical restraints as the primary initial management strategy"
+    ],
+    "correct": 2,
+    "explanation": "Benzodiazepines are considered first-line treatment for cocaine-associated cardiovascular toxicity and agitation, since they reduce central sympathetic outflow, and this approach is supported by systematic review evidence, alongside general supportive care measures such as fever management and ruling out hypoglycemia. Pure beta-blockade is generally avoided due to concerns about unopposed alpha-adrenergic stimulation, and physical restraints should be avoided in favor of pharmacologic management of agitation. Withholding treatment or resorting immediately to surgery would be inappropriate given the acute, medically manageable nature of this presentation.",
+    "reference": "StatPearls \u2014 Cocaine Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430976/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 800,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - Specific/Special",
+    "type": "factual",
+    "question": "A farmworker presents with excessive salivation, tearing, small pupils, muscle tremors, and confusion after exposure to an agricultural chemical. Which underlying mechanism and treatment approach are most appropriate?",
+    "options": [
+      "Organophosphate-induced acetylcholinesterase inhibition producing a cholinergic toxidrome, treated with atropine and pralidoxime",
+      "Cocaine-induced sympathomimetic toxidrome, treated with benzodiazepines alone",
+      "Opioid-induced central nervous system depression, treated with naloxone",
+      "Acetaminophen-induced hepatotoxicity, treated with N-acetylcysteine",
+      "Carbon monoxide poisoning, treated with hyperbaric oxygen alone"
+    ],
+    "correct": 0,
+    "explanation": "This presentation, excessive salivation and tearing, small pupils, muscle tremors, and confusion, reflects the cholinergic toxidrome caused by organophosphate-induced inhibition of acetylcholinesterase, leading to an overabundance of acetylcholine at nicotinic and muscarinic receptors as well as central nervous system effects; this occupational pattern is common among agricultural workers exposed to insecticides. Treatment centers on atropine to counter muscarinic effects and pralidoxime, which has approval as an antidote for both nerve agent and organophosphate pesticide poisoning. The clinical picture described does not fit a sympathomimetic, opioid, acetaminophen, or carbon monoxide toxidrome, each of which has a distinct symptom pattern and treatment approach.",
+    "reference": "StatPearls \u2014 Organophosphate Toxicity",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470430/",
+    "cognitive_level": "applying"
   }
 ]
