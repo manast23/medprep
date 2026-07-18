@@ -66,9 +66,17 @@ const SUBJECTS = [
     description: 'Disease surveillance, epidemiological study design, biostatistics, and public health principles for population-level medicine.',
     image: '/community-medicine.jpg',
   },
+  {
+    key: 'Forensic Medicine',
+    title: 'Forensic Medicine',
+    subtitle: 'Toxicology & Jurisprudence',
+    references: "Standard Forensic Medicine & Toxicology texts",
+    description: 'Medical jurisprudence, thanatology, traumatology, toxicology, and the medicolegal principles connecting medicine to the law.',
+    image: '/forensic-medicine.jpg',
+  },
 ]
 
-const COMING_SOON = ['Forensic Medicine']
+const COMING_SOON = []
 const QUESTION_TYPES = [
   { key: 'All', label: 'All Types' },
   { key: 'factual', label: 'Factual' },
