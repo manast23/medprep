@@ -153,7 +153,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 
 ## 7. Current Question Bank State (verified live, July 2026)
 
-**Total: 716 questions across 7 complete subjects + Forensic Medicine (8th, in progress).**
+**Total: 800 questions across ALL 8 subjects — Forensic Medicine now COMPLETE. QUESTION BANK COMPLETE.**
 
 | Subject | Count | Status |
 |---|---|---|
@@ -164,7 +164,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 | Microbiology | 100 | ✅ Para-clinical rewrite COMPLETE (100/100, all `factual`) — Phase 1 + Phase 2 done, see Section 8 |
 | Biochemistry | 100 | ✅ Complete — fully rewritten to corrected standard (IDs 517–616) |
 | Community Medicine | 78 / ~80 | ✅ COMPLETE — subject card done, all 8 subtopics complete: Biostatistics (10), Epidemiology & Research Methods (12), Demography & Population Health (10), Communicable Disease Epidemiology & Control (12), Non-Communicable Disease & Public Health (10), Health Planning & Primary Health Care (8), Nutrition & Reproductive Health (8), Disaster Management & Environmental Health (8) — see Section 8 |
-| Forensic Medicine | 96 / ~106 | 🔄 IN PROGRESS — subject card done. Subtopic plan corrected against the actual NRE 2023 syllabus (pages 24–28, verified July 2026) — 16 subtopics total, matching official topic list exactly. See Section 8 for full plan and progress. |
+| Forensic Medicine | 106 / 106 | ✅ COMPLETE — subject card done, all 16 subtopics complete matching NRE 2023 syllabus exactly (pages 24–28, verified July 2026). IDs 695–800. See Section 8 for full subtopic breakdown. |
 
 **Subtopic breakdown (Biochemistry, most recently completed, fully corrected):**
 Proteins & Enzymes (14), Lipids & Fatty Acids (11), Porphyrins & Haemoglobin (10), Vitamins/Minerals/Nutrition (12), Carbohydrate Metabolism (14), Lipid Metabolism (10), Protein & Amino Acid Metabolism (12), Biochemical Genetics & Molecular Biology (10), Endocrine & Fluid Biochemistry (7).
@@ -246,7 +246,9 @@ All questions `cognitive_level`-tagged per Section 6a ratios (30–35% recall / 
 | 13 | Role of Forensic Science in Crime Detection | 6 | 775–780 | ✅ Complete |
 | 14 | Forensic Odontology | 5 | 781–785 | ✅ Complete |
 | 15 | Toxicology — General Principles | 5 | 786–790 | ✅ Complete |
-| 16 | Toxicology — Specific/Special | 10 | — | 🔄 Next (final subtopic) |
+| 16 | Toxicology — Specific/Special | 10 | 791–800 | ✅ Complete |
+
+**Forensic Medicine is now COMPLETE at 106/106 questions across all 16 subtopics — this was the 8th and final subject. The MedPrep question bank is now fully built at 800 questions across all 8 subjects.**
 
 ---
 
@@ -338,9 +340,14 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 **The full retroactive rewrite is now DONE across all 6 existing subjects (616/616 questions).**
 
 6. **Community Medicine — ✅ COMPLETE** — subject card done; 78/~80 questions written across all 8 subtopics (Biostatistics, Epidemiology & Research Methods, Demography & Population Health, Communicable Disease Epidemiology & Control, Non-Communicable Disease & Public Health, Health Planning & Primary Health Care, Nutrition & Reproductive Health, Disaster Management & Environmental Health). QA Passes #1, #2, and #3 all completed. See Section 8 for subtopic-by-subtopic detail.
-7. **Forensic Medicine** — the final (8th) subject, now next up. Build the subject card image first, then begin writing questions following the established workflow and QA cadence (dedicated pass every ~20 new questions). **Write with `cognitive_level` tagged from the start**, per Section 6a ratios.
-8. **Retroactively tag all 694 existing questions with `cognitive_level`** (recall/understanding/applying) per Section 6a. Not yet started — larger lift than writing new content, likely tackled after Forensic Medicine.
-9. **Update quiz-session sampling logic** to draw proportionally from each subject's `cognitive_level` pools per the Section 6a ratios, instead of pure random draw. Depends on #8.
+7. **Forensic Medicine — ✅ COMPLETE** — subject card done; 106/106 questions written across all 16 subtopics matching the NRE 2023 syllabus exactly (IDs 695–800). All questions `cognitive_level`-tagged from the start per Section 6a ratios. This was the 8th and final subject — **the MedPrep question bank (800 questions) is now fully built.**
+
+**QUESTION BANK COMPLETE. Remaining tasks:**
+
+8. **Move Forensic Medicine from `COMING_SOON` to the live `SUBJECTS` array** in `pages/index.js`, now that all 106 questions exist. Not yet done as of this update — do this next.
+9. **Retroactively tag all 800 questions with `cognitive_level`** (recall/understanding/applying) per Section 6a. Forensic Medicine's 106 questions are already tagged; the other 694 questions (Anatomy, Physiology, Pathology, Pharmacology, Microbiology, Biochemistry, Community Medicine) still need this field added.
+10. **Update quiz-session sampling logic** to draw proportionally from each subject's `cognitive_level` pools per the Section 6a ratios, instead of pure random draw. Depends on #9.
+11. **Final full-bank QA pass** — with all 8 subjects complete, consider a final duplication/reference/format sweep across the entire 800-question bank.
 
 ---
 
