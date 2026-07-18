@@ -13886,5 +13886,100 @@
     "reference": "StatPearls \u2014 Forensic Odontology",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK540984/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 786,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - General Principles",
+    "type": "factual",
+    "question": "LD50 is best defined as which of the following?",
+    "options": [
+      "The dose of a substance that is lethal to 50% of a population, typically determined in preclinical animal studies",
+      "The dose of a substance required to produce a therapeutic effect in 50% of a population",
+      "The maximum dose a person can safely take without any monitoring",
+      "The average daily dose prescribed for a typical adult patient",
+      "The dose required to produce toxicity in 100% of a test population"
+    ],
+    "correct": 0,
+    "explanation": "LD50 refers to the lethal dose of a substance for 50% of the population being studied, and this measure is typically derived from preclinical, animal-based studies rather than direct human data. This is distinct from ED50, which is the dose producing a specific therapeutic effect in 50% of the population, and from a general prescribed daily dose, which is not defined by any specific population-response percentage. A lower LD50 value indicates a more potent, more dangerous substance, since less of it is required to be lethal.",
+    "reference": "StatPearls \u2014 ED50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538269/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 787,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - General Principles",
+    "type": "factual",
+    "question": "The therapeutic index (TI), calculated as TD50 divided by ED50, has which practical significance for a medication with a narrow therapeutic index?",
+    "options": [
+      "It means the medication is inherently safe and requires no dose monitoring",
+      "It means the medication can never cause any toxic effect regardless of dose",
+      "It has no relevance to how a medication is prescribed or monitored",
+      "It indicates the medication is only used in pediatric populations",
+      "It requires close monitoring, since the effective dose lies close to the toxic dose, leaving little margin of safety"
+    ],
+    "correct": 4,
+    "explanation": "A narrow therapeutic index means the toxic dose (TD50) is close to the effective dose (ED50), leaving only a small margin of safety, which is why medications such as warfarin, lithium, and theophylline require close monitoring to avoid toxicity. In contrast, a medication with a very high therapeutic index, such as penicillin, is generally considered much safer across a wider dosing range. This concept directly informs prescribing practices and monitoring protocols, and it applies across age groups rather than being specific to pediatric patients.",
+    "reference": "StatPearls \u2014 ED50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538269/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 788,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - General Principles",
+    "type": "factual",
+    "question": "In the management of acute oral poisoning, activated charcoal functions primarily through which mechanism?",
+    "options": [
+      "Directly neutralizing the toxin through a chemical acid-base reaction",
+      "Inducing vomiting to expel the ingested substance",
+      "Adsorbing the ingested drug or toxin within the gastrointestinal tract, reducing its systemic absorption",
+      "Rapidly increasing renal excretion of the absorbed toxin",
+      "Binding toxin already present in the bloodstream after absorption"
+    ],
+    "correct": 2,
+    "explanation": "Activated charcoal is a gastrointestinal adsorbent that binds to many drugs and toxins within the gastrointestinal tract itself, reducing their systemic absorption, and it is most effective when given within about one hour of ingestion, since delayed administration allows more of the substance to already be absorbed. It does not work by chemically neutralizing the toxin, by inducing vomiting, or by increasing renal excretion, and it has no effect on toxin that has already entered the bloodstream. This distinction is why timing of administration is such a critical consideration in its use.",
+    "reference": "StatPearls \u2014 Activated Charcoal",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482294/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 789,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - General Principles",
+    "type": "factual",
+    "question": "In toxicology screening, why are rapid immunoassay results typically followed by confirmatory chromatographic or mass spectrometric testing?",
+    "options": [
+      "Chromatographic testing is always faster to perform than immunoassay testing",
+      "Immunoassay results are always 100% accurate and require no further confirmation",
+      "Confirmatory testing is only used for research purposes, never clinically or forensically",
+      "Immunoassays provide rapid preliminary detection but are more prone to cross-reactivity and false results, while chromatographic/mass spectrometric methods provide more definitive confirmation",
+      "Immunoassays can only detect illicit drugs, never therapeutic medications"
+    ],
+    "correct": 3,
+    "explanation": "Immunoassays offer rapid preliminary detection of substances but are more susceptible to cross-reactivity and false-positive or false-negative results, which is why confirmatory chromatographic or mass spectrometric techniques are used to provide a more definitive result. This two-tiered approach is used across emergency care, forensic investigations, occupational monitoring, and public health surveillance, not just research settings. Immunoassays can detect both illicit drugs and therapeutic medications, and confirmatory testing is generally slower, not faster, than the initial rapid immunoassay screen.",
+    "reference": "StatPearls \u2014 Toxicology Screening",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499901/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 790,
+    "subject": "Forensic Medicine",
+    "subtopic": "Toxicology - General Principles",
+    "type": "factual",
+    "question": "Substance X has an LD50 of 5 mg/kg in animal studies, while Substance Y has an LD50 of 500 mg/kg. Based on this information alone, which conclusion is most appropriate?",
+    "options": [
+      "Substance X is considerably more potent and dangerous per unit dose than Substance Y",
+      "Substance Y is more toxic than Substance X because its LD50 number is larger",
+      "Both substances have identical toxicity since LD50 values cannot be directly compared between substances",
+      "Substance X is safer because its LD50 number is smaller",
+      "LD50 values provide no useful information about relative toxicity between substances"
+    ],
+    "correct": 0,
+    "explanation": "Because a lower LD50 value means a smaller dose is required to be lethal to half of the population studied, Substance X, with an LD50 of 5 mg/kg, is considerably more potent and dangerous per unit dose than Substance Y, which requires a much larger dose (500 mg/kg) to produce the same lethal effect. This is a foundational principle in comparing the relative acute toxicity of different substances using a standardized, population-based measure. It would be incorrect to conclude that the substance with the larger LD50 number is more toxic, that the two are equally toxic, or that LD50 values carry no comparative value.",
+    "reference": "StatPearls \u2014 ED50",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538269/",
+    "cognitive_level": "applying"
   }
 ]
