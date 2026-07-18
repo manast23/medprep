@@ -13677,5 +13677,119 @@
     "reference": "NCBI Bookshelf \u2014 The Evaluation of Forensic DNA Evidence",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK232610/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 775,
+    "subject": "Forensic Medicine",
+    "subtopic": "Role of Forensic Science in Crime Detection",
+    "type": "factual",
+    "question": "The chain of custody in forensic evidence handling is best defined as which of the following?",
+    "options": [
+      "The list of suspects considered during a criminal investigation",
+      "The final verdict reached at the conclusion of a criminal trial",
+      "A record of a victim's medical history unrelated to the evidence itself",
+      "The order in which witnesses testify in court",
+      "The continuous, documented record of possession, movement, and location of evidence from collection through court admission"
+    ],
+    "correct": 4,
+    "explanation": "The chain of custody refers to the continuity of possession of evidence, tracking its movement and location from the point of discovery at a crime scene through transport to the laboratory for examination and ultimately its admission in court. This documentation is necessary to assure the court that the evidence presented is authentic and identical to what was originally seized, not a substitute list of suspects, a trial verdict, unrelated medical history, or witness testimony order. Any gap in this documented continuity can undermine the evidence's credibility in legal proceedings.",
+    "reference": "StatPearls \u2014 Chain of Custody",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 776,
+    "subject": "Forensic Medicine",
+    "subtopic": "Role of Forensic Science in Crime Detection",
+    "type": "factual",
+    "question": "If a break or unaccounted gap occurs in the chain of custody of a piece of evidence, what is the most likely consequence?",
+    "options": [
+      "The evidence automatically becomes inadmissible in every jurisdiction without exception",
+      "The gap has no bearing on the evidence's use in legal proceedings",
+      "The authenticity of the evidence may be challenged, potentially undermining its admissibility in court",
+      "The original investigating officer is automatically disqualified from the case",
+      "The evidence is immediately destroyed as a matter of standard procedure"
+    ],
+    "correct": 2,
+    "explanation": "An unaccounted gap in the chain of custody raises legitimate doubt about whether the evidence presented in court is truly the same evidence originally collected at the scene, since the goal of the chain of custody is precisely to rule out tampering or substitution. This does not automatically render evidence inadmissible everywhere, since courts may weigh the significance of the gap, but it substantially weakens the evidence's credibility and can be challenged by opposing counsel. It has no automatic bearing on the investigating officer's status or on whether the evidence itself must be destroyed.",
+    "reference": "StatPearls \u2014 Chain of Custody",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 777,
+    "subject": "Forensic Medicine",
+    "subtopic": "Role of Forensic Science in Crime Detection",
+    "type": "factual",
+    "question": "When forensic evidence such as clothing is collected, which practice is essential before it is released to law enforcement?",
+    "options": [
+      "Immediate cleaning of the item to remove any surface contaminants",
+      "Proper identification, packaging, preservation, and securing of the item with completed chain of custody documentation",
+      "Storing the item at room temperature indefinitely without any documentation",
+      "Allowing any staff member to handle the item without recording their identity",
+      "Discarding items that appear visually unremarkable"
+    ],
+    "correct": 1,
+    "explanation": "Collected evidence, such as clothing, must be correctly identified, packaged, preserved, and secured, with complete chain of custody documentation maintained until it is released to law enforcement for further laboratory analysis. Cleaning the item, storing it without documentation, allowing undocumented handling by any staff member, or discarding visually unremarkable items would each compromise the evidentiary integrity of the sample. This careful handling protocol is essential to preserving both the physical integrity and the legal credibility of the evidence.",
+    "reference": "StatPearls \u2014 Evidence Collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441852/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 778,
+    "subject": "Forensic Medicine",
+    "subtopic": "Role of Forensic Science in Crime Detection",
+    "type": "factual",
+    "question": "Why does a chain of custody form require a signature, date, and time entry every time evidence changes hands?",
+    "options": [
+      "To satisfy an arbitrary paperwork requirement with no bearing on the evidence's legal value",
+      "To determine which laboratory technician receives credit for the analysis",
+      "To calculate the total number of hours spent processing the evidence",
+      "To create a verifiable, sequential record establishing who had possession of the evidence and when, ruling out unaccounted gaps",
+      "To assign financial responsibility for any laboratory equipment used"
+    ],
+    "correct": 3,
+    "explanation": "Requiring a signature, date, and time entry at every transfer creates a verifiable, sequential record of exactly who possessed the evidence and when, which is what allows a court to be assured that no unaccounted gap or tampering opportunity occurred throughout the evidence's handling. This is far from an arbitrary paperwork exercise, since the entire evidentiary value of forensic evidence in court depends on this documented continuity being intact. It is not intended to assign analysis credit, calculate labor hours, or track equipment costs.",
+    "reference": "StatPearls \u2014 Chain of Custody",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 779,
+    "subject": "Forensic Medicine",
+    "subtopic": "Role of Forensic Science in Crime Detection",
+    "type": "factual",
+    "question": "Firearm identification relies on which principle to link a recovered bullet to a specific weapon?",
+    "options": [
+      "Rifling grooves inside the barrel imprint unique microscopic striations onto the projectile as it passes through",
+      "Every firearm of the same make and model produces an identical, indistinguishable bullet mark",
+      "The bullet's chemical composition alone is sufficient to identify the specific weapon used",
+      "Only the caliber of the bullet needs to be measured to identify the exact firearm",
+      "Firearm identification relies entirely on witness testimony rather than physical evidence"
+    ],
+    "correct": 0,
+    "explanation": "As a bullet travels through a rifled barrel, the internal grooves impart microscopic striations onto its surface that are considered distinctive to that individual weapon, allowing a fired bullet recovered from a scene to potentially be matched back to a specific firearm through comparison microscopy. This differs from the false assumption that firearms of the same make and model produce identical marks, since manufacturing and wear-related imperfections create individualizing characteristics over time. Caliber alone, chemical composition alone, or witness testimony alone are insufficient substitutes for this microscopic comparison method.",
+    "reference": "StatPearls \u2014 Gunshot Wounds Forensic Pathology",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556119/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 780,
+    "subject": "Forensic Medicine",
+    "subtopic": "Role of Forensic Science in Crime Detection",
+    "type": "factual",
+    "question": "During a trial, defense counsel discovers a two-day gap in the documented chain of custody for a bloodstained weapon before it reached the crime laboratory. What is the most likely strategic use of this gap by the defense?",
+    "options": [
+      "Arguing that the evidence may have been tampered with or substituted, undermining its reliability as proof against the defendant",
+      "Arguing that the gap proves the defendant's innocence beyond any doubt",
+      "Requesting that the entire trial be immediately dismissed with no further proceedings",
+      "Arguing that the gap is legally irrelevant and cannot be raised in court",
+      "Requesting that the chain of custody form be permanently destroyed"
+    ],
+    "correct": 0,
+    "explanation": "A documented gap in the chain of custody gives the defense a legitimate basis to argue that the evidence's integrity cannot be fully guaranteed, potentially raising doubt about whether it was tampered with, substituted, or otherwise compromised before analysis. This does not by itself prove innocence or automatically dismiss the trial, but it can weaken the prosecution's evidentiary case and is a standard, legally permissible line of challenge. The gap is precisely the kind of issue chain of custody documentation is designed to prevent and is highly relevant to how a court evaluates the evidence's credibility.",
+    "reference": "StatPearls \u2014 Chain of Custody",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
+    "cognitive_level": "applying"
   }
 ]
