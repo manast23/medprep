@@ -359,8 +359,8 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 | Forensic Medicine | (already tagged at write-time, unchanged) |
 
 QA spot-checks across all subjects found the classification generally sound, with a handful of borderline single-level miscalls expected from any heuristic pass at this scale (e.g. some brief-clinical-trigger recall items in Biochemistry could arguably sit at Understanding). This is acceptable for proportional sampling purposes but not hand-verified question-by-question — flag if exact per-question precision matters and a manual review pass can be run.
-10. **Update quiz-session sampling logic** to draw proportionally from each subject's `cognitive_level` pools per the Section 6a ratios, instead of pure random draw. Do this next.
-11. **Final full-bank QA pass** — with all 8 subjects complete and now fully tagged, run a final duplication/reference/format sweep across the entire 800-question bank.
+10. ✅ **Quiz-session sampling logic updated** in `pages/quiz.js` — `buildQuizPool()` replaces the old pure-random `.sort(() => Math.random()-0.5)` draw. It filters by subject/subtopic/qtype as before, then calls `proportionalSample()` which draws from each cognitive_level pool (recall/understanding/applying) according to per-subject target ratios (`SUBJECT_RATIOS` constant, mirroring Section 6a), with a blended `DEFAULT_RATIOS` (40/40/20) fallback for "All subjects" quizzes or any unlisted subject. Gracefully redistributes shortfall when a level is under-represented in a narrow filtered pool (e.g. a single subtopic with few questions) — tested against the live question bank at full-subject scale, small counts, "All subjects" mode, and narrow subtopic pools without errors.
+11. **Final full-bank QA pass** — with all 8 subjects complete and fully tagged, run a final duplication/reference/format sweep across the entire 800-question bank.
 
 ---
 
