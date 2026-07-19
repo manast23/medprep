@@ -4,6 +4,77 @@ import Navbar from '../components/Navbar'
 import allQuestions from '../data/questions.json'
 import styles from '../styles/Quiz.module.css'
 
+// Section 6a cognitive-level target ratios per subject (recall / understanding / applying)
+const SUBJECT_RATIOS = {
+  'Anatomy': { recall: 0.50, understanding: 0.38, applying: 0.12 },
+  'Physiology': { recall: 0.50, understanding: 0.38, applying: 0.12 },
+  'Biochemistry': { recall: 0.50, understanding: 0.38, applying: 0.12 },
+  'Pathology': { recall: 0.35, understanding: 0.42, applying: 0.23 },
+  'Pharmacology': { recall: 0.35, understanding: 0.42, applying: 0.23 },
+  'Microbiology': { recall: 0.35, understanding: 0.42, applying: 0.23 },
+  'Community Medicine': { recall: 0.32, understanding: 0.43, applying: 0.25 },
+  'Forensic Medicine': { recall: 0.32, understanding: 0.43, applying: 0.25 },
+}
+// Blended fallback used for "All subjects" quizzes or any unlisted subject
+const DEFAULT_RATIOS = { recall: 0.40, understanding: 0.40, applying: 0.20 }
+
+function getRatios(subject) {
+  if (subject && subject !== 'All' && SUBJECT_RATIOS[subject]) return SUBJECT_RATIOS[subject]
+  return DEFAULT_RATIOS
+}
+
+function shuffle(arr) {
+  return [...arr].sort(() => Math.random() - 0.5)
+}
+
+// Draws proportionally from each cognitive_level pool instead of pure random sampling.
+// Falls back gracefully (redistributing shortfall) when a level is under-represented
+// in a narrow filtered pool (e.g. a single subtopic).
+function proportionalSample(pool, n, ratios) {
+  const byLevel = { recall: [], understanding: [], applying: [] }
+  pool.forEach(q => {
+    const lvl = byLevel[q.cognitive_level] ? q.cognitive_level : 'recall'
+    byLevel[lvl].push(q)
+  })
+  Object.keys(byLevel).forEach(k => { byLevel[k] = shuffle(byLevel[k]) })
+
+  const target = {
+    recall: Math.round(n * ratios.recall),
+    understanding: Math.round(n * ratios.understanding),
+    applying: Math.round(n * ratios.applying),
+  }
+  const roundingDiff = n - (target.recall + target.understanding + target.applying)
+  target.recall += roundingDiff
+
+  const picked = []
+  const used = { recall: 0, understanding: 0, applying: 0 }
+  let shortfall = 0
+  ;['recall', 'understanding', 'applying'].forEach(lvl => {
+    const take = Math.min(target[lvl], byLevel[lvl].length)
+    picked.push(...byLevel[lvl].slice(0, take))
+    used[lvl] = take
+    shortfall += target[lvl] - take
+  })
+
+  if (shortfall > 0) {
+    const leftovers = []
+    ;['recall', 'understanding', 'applying'].forEach(lvl => {
+      leftovers.push(...byLevel[lvl].slice(used[lvl]))
+    })
+    picked.push(...shuffle(leftovers).slice(0, shortfall))
+  }
+
+  return shuffle(picked).slice(0, n)
+}
+
+function buildQuizPool(subject, subtopic, qtype, count) {
+  let pool = allQuestions
+  if (subject !== 'All') pool = pool.filter(q => q.subject === subject)
+  if (subtopic && subtopic !== 'All') pool = pool.filter(q => q.subtopic === subtopic)
+  if (qtype && qtype !== 'All') pool = pool.filter(q => q.type === qtype)
+  return proportionalSample(pool, parseInt(count) || 10, getRatios(subject))
+}
+
 export default function Quiz() {
   const router = useRouter()
   const { subject, subtopic, qtype, mode, count } = router.query
@@ -19,12 +90,7 @@ export default function Quiz() {
 
   useEffect(() => {
     if (!subject) return
-    let pool = allQuestions
-    if (subject !== 'All') pool = pool.filter(q => q.subject === subject)
-    if (subtopic && subtopic !== 'All') pool = pool.filter(q => q.subtopic === subtopic)
-    if (qtype && qtype !== 'All') pool = pool.filter(q => q.type === qtype)
-    pool = [...pool].sort(() => Math.random() - 0.5).slice(0, parseInt(count) || 10)
-    setQuestions(pool)
+    setQuestions(buildQuizPool(subject, subtopic, qtype, count))
   }, [subject, subtopic, qtype, count])
 
   useEffect(() => {
@@ -78,13 +144,8 @@ export default function Quiz() {
     setTimer(90)
     setAnswers([])
     setShowConfirm(null)
-    // Re-shuffle questions
-    let pool = allQuestions
-    if (subject !== 'All') pool = pool.filter(q => q.subject === subject)
-    if (subtopic && subtopic !== 'All') pool = pool.filter(q => q.subtopic === subtopic)
-    if (qtype && qtype !== 'All') pool = pool.filter(q => q.type === qtype)
-    pool = [...pool].sort(() => Math.random() - 0.5).slice(0, parseInt(count) || 10)
-    setQuestions(pool)
+    // Re-shuffle questions (still drawn proportionally from cognitive_level pools)
+    setQuestions(buildQuizPool(subject, subtopic, qtype, count))
   }
 
   const optionClass = (i) => {
