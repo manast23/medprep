@@ -360,7 +360,23 @@ Rewritten across all 10 subtopics, plus subtopic-naming cleanup (3 stray labels 
 
 QA spot-checks across all subjects found the classification generally sound, with a handful of borderline single-level miscalls expected from any heuristic pass at this scale (e.g. some brief-clinical-trigger recall items in Biochemistry could arguably sit at Understanding). This is acceptable for proportional sampling purposes but not hand-verified question-by-question — flag if exact per-question precision matters and a manual review pass can be run.
 10. ✅ **Quiz-session sampling logic updated** in `pages/quiz.js` — `buildQuizPool()` replaces the old pure-random `.sort(() => Math.random()-0.5)` draw. It filters by subject/subtopic/qtype as before, then calls `proportionalSample()` which draws from each cognitive_level pool (recall/understanding/applying) according to per-subject target ratios (`SUBJECT_RATIOS` constant, mirroring Section 6a), with a blended `DEFAULT_RATIOS` (40/40/20) fallback for "All subjects" quizzes or any unlisted subject. Gracefully redistributes shortfall when a level is under-represented in a narrow filtered pool (e.g. a single subtopic with few questions) — tested against the live question bank at full-subject scale, small counts, "All subjects" mode, and narrow subtopic pools without errors.
-11. **Final full-bank QA pass** — with all 8 subjects complete and fully tagged, run a final duplication/reference/format sweep across the entire 800-question bank.
+11. ✅ **Final full-bank QA pass — COMPLETE.** Findings and fixes:
+
+**Fixed:**
+- **Answer-letter clustering (severe, all subjects)** — before the fix, correct answers were heavily clustered on B/C across nearly every subject (e.g. Physiology was 70/111 on B; Biochemistry had zero D/E). Reshuffled 777 of 800 questions' option order (per-subject, per-option-count round-robin + randomized distractor order, correct-answer text verified unchanged via assertion before finalizing — same safe-shuffle pattern as before). Post-fix distribution is now even across all subjects (each letter within 1 of an even split). 3 questions with genuinely sequential numeric options (e.g. escalating mmHg/mL values) were deliberately left untouched to preserve intended ordering.
+- **2 malformed NCBI URLs** (IDs 600, 613) — `/sites/books/` corrected to canonical `/books/`.
+
+**Verified clean:**
+- No duplicate IDs (1–800, all unique); no exact-duplicate question text; only 3 near-duplicate flags on similarity scan, all confirmed to be distinct content sharing boilerplate phrasing ("X is best defined as...")
+- All reference_urls point only to whitelisted domains (StatPearls/NCBI Bookshelf/MSD Manual/Radiopaedia)
+- All 800 questions have valid `cognitive_level` and `type` values; all required schema fields present
+
+**Flagged, not auto-fixed (content decisions, not mechanical fixes):**
+- **Option count inconsistency**: Anatomy/Physiology/Pathology are mostly 4-option (NBME-style 5-option standard adopted later); Pharmacology is a 30/70 mix; Microbiology/Biochemistry/Community Medicine/Forensic Medicine are consistently 5-option. Reflects the standard evolving over the project's timeline — not itself an error, but worth deciding whether to backfill a 5th distractor into the older 4-option questions for consistency.
+- **Explanation sentence-count**: Community Medicine and Forensic Medicine are 100% exactly 3 sentences (per Section 6a standard); other subjects range 1–9 sentences (mostly 3–4), since the "exactly 3 sentences" rule was formalized after they were written.
+- **Anatomy has zero `reference_url` values** (105/105 missing) — written before the field existed in the schema. Physiology is a 50/61 split. Backfilling would require sourcing and verifying real citations per question — a content task, not something to fabricate.
+
+With all three remaining tasks complete, the question bank (800 questions, 8 subjects) and quiz sampling logic are considered production-ready. Any further work is optional content polish (backfilling Anatomy reference URLs, standardizing option counts, or tightening explanation lengths on the earlier-written subjects).
 
 ---
 
