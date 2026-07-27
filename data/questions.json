@@ -16,7 +16,8 @@
     "correct": 1,
     "explanation": "This is Klumpke's palsy, resulting from injury to the C8 and T1 nerve roots, typically from excessive traction on an abducted arm during a difficult delivery or a fall with the arm outstretched overhead. The intrinsic hand muscles are paralysed, producing a claw hand, while shoulder and elbow movements are preserved because C5–C7 are unaffected. Klumpke's palsy may also present with Horner's syndrome if the T1 sympathetic fibres are involved.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500016/"
   },
   {
     "id": 2,
@@ -35,7 +36,8 @@
     "correct": 2,
     "explanation": "Abductor pollicis brevis (APB) is innervated exclusively by the recurrent branch of the median nerve, which exits the carpal tunnel distally. Weakness here is specific to median nerve compression at the wrist. The first dorsal interosseous is ulnar-innervated. APB testing is the most clinically reliable confirmation of carpal tunnel syndrome.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 50, Wrist and Hand",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448179/"
   },
   {
     "id": 3,
@@ -54,7 +56,8 @@
     "correct": 0,
     "explanation": "The femoral sheath has three compartments: lateral (artery), intermediate (vein), and femoral canal (medial). The femoral nerve lies lateral to the sheath but is NOT enclosed within it. The femoral canal contains lymphatics and is the site of femoral hernias, more common in females due to a wider canal.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482388/"
   },
   {
     "id": 4,
@@ -73,7 +76,8 @@
     "correct": 3,
     "explanation": "Beck's triad (hypotension, raised JVP, muffled heart sounds) with an enlarged cardiac silhouette indicates cardiac tamponade. The pericardium extends anteriorly from the 2nd to 6th costal cartilages, making it directly accessible at this landmark. Blood accumulates in the pericardial sac and compresses the heart.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Mediastinum",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK431090/"
   },
   {
     "id": 5,
@@ -92,7 +96,8 @@
     "correct": 4,
     "explanation": "The femoral nerve (L2-L4) travels through the retroperitoneal space and is vulnerable during this dissection. It innervates the quadriceps (knee extension) and supplies the anterior and medial thigh. The obturator nerve mediates adduction but does not extend the knee — the inability to extend is the key distinguishing feature.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 62, Lumbar Plexus",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556065/"
   },
   {
     "id": 6,
@@ -205,7 +210,8 @@
     "correct": 2,
     "explanation": "The radial nerve winds around the spiral groove of the mid-shaft of the humerus. Fractures here commonly injure the radial nerve, resulting in wrist drop.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534840/"
   },
   {
     "id": 12,
@@ -223,7 +229,8 @@
     "correct": 0,
     "explanation": "The axillary nerve passes through the quadrangular space and lies in close relation to the surgical neck of the humerus. Injury causes paralysis of the deltoid and loss of sensation over the regimental badge area.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493212/"
   },
   {
     "id": 13,
@@ -241,7 +248,8 @@
     "correct": 3,
     "explanation": "Brachioradialis is the most powerful flexor when the forearm is in the mid-prone position. Brachialis is the true workhorse flexor in all positions, but brachioradialis dominates in mid-prone.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526110/"
   },
   {
     "id": 14,
@@ -259,7 +267,8 @@
     "correct": 0,
     "explanation": "Carpal tunnel syndrome compresses the median nerve, causing wasting of the thenar eminence (LOAF muscles — Lumbricals 1&2, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis) and loss of pinch grip.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448179/"
   },
   {
     "id": 15,
@@ -277,7 +286,8 @@
     "correct": 3,
     "explanation": "The ulnar nerve innervates adductor pollicis. Loss of thumb adduction is tested by Froment's sign, where the patient uses flexor pollicis longus (median nerve) to compensate.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499892/"
   },
   {
     "id": 16,
@@ -295,7 +305,8 @@
     "correct": 2,
     "explanation": "The musculocutaneous nerve arises from the lateral cord (C5, C6, C7) of the brachial plexus. It innervates the muscles of the anterior compartment of the arm and continues as the lateral cutaneous nerve of the forearm.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534199/"
   },
   {
     "id": 17,
@@ -313,7 +324,8 @@
     "correct": 3,
     "explanation": "Erb's palsy results from injury to C5 and C6 roots, typically from excessive lateral neck flexion during difficult delivery. The classic waiter's tip posture results from loss of shoulder abduction, lateral rotation, and elbow flexion.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500016/"
   },
   {
     "id": 18,
@@ -331,7 +343,8 @@
     "correct": 2,
     "explanation": "The cephalic vein runs along the lateral aspect of the arm and drains into the axillary vein in the deltopectoral groove. It is commonly used for IV access and venous cutdown.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546676/"
   },
   {
     "id": 19,
@@ -349,7 +362,8 @@
     "correct": 2,
     "explanation": "Injury to the posterior interosseous nerve (deep branch of radial nerve) at the lateral epicondyle spares triceps and brachioradialis but causes finger and wrist extension weakness. Wrist drop is incomplete as radial wrist extensors are spared.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541046/"
   },
   {
     "id": 20,
@@ -367,7 +381,8 @@
     "correct": 1,
     "explanation": "The radial artery crosses the floor of the anatomical snuffbox, passing between the tendons of extensor pollicis longus and extensor pollicis brevis. The scaphoid bone forms the floor and is at risk of avascular necrosis following fracture.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482228/"
   },
   {
     "id": 21,
@@ -385,7 +400,8 @@
     "correct": 3,
     "explanation": "Scaphoid fracture is the most common carpal bone fracture and classically presents with anatomical snuffbox tenderness. It may not be visible on initial X-ray. Risk of avascular necrosis is high due to the retrograde blood supply of the scaphoid.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536907/"
   },
   {
     "id": 22,
@@ -403,7 +419,8 @@
     "correct": 3,
     "explanation": "The flexor retinaculum attaches medially to the pisiform and hook of hamate, and laterally to the scaphoid tubercle and trapezium. It forms the roof of the carpal tunnel.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545198/"
   },
   {
     "id": 23,
@@ -421,7 +438,8 @@
     "correct": 0,
     "explanation": "Ulnar nerve injury at the elbow affects the medial two lumbricals, all interossei, hypothenar muscles, and adductor pollicis. Clawing is more pronounced than wrist injury because flexor digitorum profundus to ring and little fingers is also affected.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499892/"
   },
   {
     "id": 24,
@@ -439,7 +457,8 @@
     "correct": 0,
     "explanation": "The anterior interosseous nerve (branch of median nerve) innervates flexor pollicis longus, flexor digitorum profundus to index and middle fingers, and pronator quadratus. Injury causes inability to flex the distal phalanx of index finger and loss of the OK sign.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK525956/"
   },
   {
     "id": 25,
@@ -457,7 +476,8 @@
     "correct": 3,
     "explanation": "The quadrangular space is bounded superiorly by teres minor, inferiorly by teres major, medially by the long head of triceps, and laterally by the surgical neck of the humerus. The axillary nerve and posterior circumflex humeral artery pass through it.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 9, Upper Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537324/"
   },
   {
     "id": 26,
@@ -475,7 +495,8 @@
     "correct": 1,
     "explanation": "The knee jerk (patellar) reflex is mediated by the femoral nerve at L3 and L4. The reflex arc involves the quadriceps femoris muscle. A diminished or absent knee jerk suggests pathology at L3–L4 root level or femoral nerve.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556065/"
   },
   {
     "id": 27,
@@ -493,7 +514,8 @@
     "correct": 1,
     "explanation": "The common peroneal nerve winds around the neck of the fibula and is vulnerable during hip surgery and lateral leg compression. It innervates all muscles of the anterior and lateral compartments. Foot drop with loss of eversion but intact knee flexion (hamstrings, tibial nerve) localises the injury here.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549859/"
   },
   {
     "id": 28,
@@ -511,7 +533,8 @@
     "correct": 1,
     "explanation": "Gluteus medius is the primary hip abductor, innervated by the superior gluteal nerve (L4, L5, S1). Weakness causes a positive Trendelenburg sign — the pelvis drops to the contralateral side when standing on the affected limb. This is seen in superior gluteal nerve injury and hip pathology.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541094/"
   },
   {
     "id": 29,
@@ -529,7 +552,8 @@
     "correct": 1,
     "explanation": "Anterior hip dislocation occurs when the hip is forced into abduction and external rotation. The femoral head displaces anteriorly and inferiorly toward the obturator foramen. Loss of internal rotation and adduction is characteristic. Posterior dislocation is more common and presents with the limb in flexion, adduction, and internal rotation.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507814/"
   },
   {
     "id": 30,
@@ -547,7 +571,8 @@
     "correct": 0,
     "explanation": "The popliteal fossa is bounded superolaterally by biceps femoris, superomedially by semimembranosus and semitendinosus, and inferiorly by the two heads of gastrocnemius. The common peroneal nerve runs along the medial border of biceps femoris through this space.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532891/"
   },
   {
     "id": 31,
@@ -565,7 +590,8 @@
     "correct": 0,
     "explanation": "The ACL is the most commonly torn knee ligament in sports injuries involving sudden deceleration and rotational forces. The 'pop' and immediate haemarthrosis are classic. Lachman's test — anterior tibial displacement with the knee at 30° flexion — is the most sensitive clinical test for ACL rupture.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499848/"
   },
   {
     "id": 32,
@@ -583,7 +609,8 @@
     "correct": 2,
     "explanation": "The medial circumflex femoral artery, a branch of the profunda femoris, provides the dominant blood supply to the femoral head in adults via the retinacular arteries. Disruption in femoral neck fractures causes avascular necrosis — a major complication, especially in displaced fractures.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546658/"
   },
   {
     "id": 33,
@@ -601,7 +628,8 @@
     "correct": 3,
     "explanation": "The medial plantar nerve (branch of tibial nerve) supplies sensation to the medial three and a half toes and the sole — mirroring the median nerve distribution in the hand. Compression causes tarsal tunnel syndrome. The lateral plantar nerve supplies the lateral one and a half toes.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513273/"
   },
   {
     "id": 34,
@@ -619,7 +647,8 @@
     "correct": 0,
     "explanation": "This is a trick question — popliteus is innervated by the tibial nerve. All muscles of the posterior compartment are tibial nerve innervated. The correct clinical teaching point is that gastrocnemius, soleus, and plantaris all plantarflex via the Achilles tendon, while popliteus unlocks the knee.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526084/"
   },
   {
     "id": 35,
@@ -637,7 +666,8 @@
     "correct": 0,
     "explanation": "Achilles tendinopathy classically presents with pain in the tendon body 2–6 cm proximal to the insertion — the watershed zone of poor blood supply. Morning stiffness and pain with activity are hallmarks. Plantar fasciitis causes inferior heel pain at the calcaneal insertion, not posterosuperior.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538149/"
   },
   {
     "id": 36,
@@ -655,7 +685,8 @@
     "correct": 0,
     "explanation": "The great saphenous vein drains into the femoral vein at the saphenofemoral junction, located 4 cm below and medial to the pubic tubercle. This is a key landmark in varicose vein surgery. The small saphenous vein drains into the popliteal vein behind the knee.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541045/"
   },
   {
     "id": 37,
@@ -673,7 +704,8 @@
     "correct": 2,
     "explanation": "Posterior hip dislocation — the most common type — drives the femoral head posteriorly toward the sciatic nerve, which lies in this region. Sciatic nerve injury occurs in up to 10–20% of cases, most commonly affecting the peroneal division, causing foot drop.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459319/"
   },
   {
     "id": 38,
@@ -691,7 +723,8 @@
     "correct": 1,
     "explanation": "Anterior compartment syndrome compresses the deep peroneal nerve and anterior tibial vessels. Pain on passive toe extension stretches the tibialis anterior and extensor muscles. Sensory loss in the first dorsal web space is the classic dermatomal sign of deep peroneal nerve compression.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK518970/"
   },
   {
     "id": 39,
@@ -709,7 +742,8 @@
     "correct": 2,
     "explanation": "Tension pneumothorax causes progressive air accumulation in the pleural space with no escape route, collapsing the lung and shifting the mediastinum contralaterally. Tracheal deviation away from the affected side, absent breath sounds, and haemodynamic compromise are the triad. It is a clinical diagnosis — do not wait for X-ray before decompression.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559090/"
   },
   {
     "id": 40,
@@ -727,7 +761,8 @@
     "correct": 1,
     "explanation": "The right border of the heart is formed by the superior vena cava (upper part) and right atrium (lower part). The left border is formed by the aortic knuckle, pulmonary trunk, left atrial appendage, and left ventricle. The right ventricle forms the anterior surface, not the right border.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Heart",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470256/"
   },
   {
     "id": 41,
@@ -745,7 +780,8 @@
     "correct": 2,
     "explanation": "A Pancoast tumour arises at the lung apex and can compress the cervical sympathetic chain, causing ipsilateral Horner's syndrome (miosis, ptosis, anhidrosis). Hoarseness suggests concurrent recurrent laryngeal nerve involvement. The right recurrent laryngeal nerve loops around the subclavian artery and is vulnerable to apical right-sided tumours.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556109/"
   },
   {
     "id": 42,
@@ -763,7 +799,8 @@
     "correct": 1,
     "explanation": "The aorta passes through the aortic hiatus at T12, along with the thoracic duct. The oesophagus passes through the oesophageal hiatus at T10, and the inferior vena cava at T8. The mnemonic is 'I 8 (ate) 10 eggs at 12' — IVC at T8, oesophagus at T10, aorta at T12.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 58, Diaphragm",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519558/"
   },
   {
     "id": 43,
@@ -781,7 +818,8 @@
     "correct": 1,
     "explanation": "Achalasia results from failure of the lower oesophageal sphincter to relax due to loss of Auerbach's myenteric plexus neurons. The classic barium swallow shows a 'bird's beak' tapering at the cardia with proximal dilatation. Dysphagia to both solids and liquids from the outset distinguishes it from mechanical obstruction like carcinoma.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 55, Oesophagus",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519515/"
   },
   {
     "id": 44,
@@ -799,7 +837,8 @@
     "correct": 0,
     "explanation": "The phrenic nerve (C3, C4, C5) supplies the pericardium and central diaphragm. Irritation of the pericardium refers pain to the shoulder tip via the C4 dermatome — the same principle applies in diaphragmatic irritation from subphrenic abscess or haemoperitoneum.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Pericardium and Heart",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482452/"
   },
   {
     "id": 45,
@@ -817,7 +856,8 @@
     "correct": 2,
     "explanation": "Approximately 300 ml of pleural fluid is required before blunting of the costophrenic angle becomes visible on an erect PA chest X-ray. Smaller amounts (as little as 50 ml) may be detectable on lateral views or ultrasound. The right costophrenic angle is normally the most acute and is the first to be blunted.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448189/"
   },
   {
     "id": 46,
@@ -835,7 +875,8 @@
     "correct": 1,
     "explanation": "The SA node is supplied by the SA nodal artery, which arises from the right coronary artery in approximately 60% of individuals and from the left circumflex in 40%. RCA occlusion can therefore cause sinus bradycardia or sick sinus syndrome in addition to inferior MI.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Coronary Circulation",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541008/"
   },
   {
     "id": 47,
@@ -853,7 +894,8 @@
     "correct": 0,
     "explanation": "Inferior MI (ST elevation in II, III, aVF) results from right coronary artery occlusion in the majority of cases, as the RCA supplies the inferior wall of the left ventricle via the posterior descending artery. Radiation to the jaw reflects C3–C5 referred pain pathways from the pericardium and myocardium.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 57, Coronary Circulation",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470572/"
   },
   {
     "id": 48,
@@ -871,7 +913,8 @@
     "correct": 1,
     "explanation": "The superior mediastinum is bounded anteriorly by the manubrium, posteriorly by the bodies of T1–T4 vertebrae, superiorly by the thoracic inlet, and inferiorly by the sternal angle (angle of Louis) — the landmark for the 2nd costal cartilage and the carina.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 56, Mediastinum",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539819/"
   },
   {
     "id": 49,
@@ -889,7 +932,8 @@
     "correct": 0,
     "explanation": "The intercostal neurovascular bundle runs in the costal groove along the inferior border of each rib. Instruments should always be passed over the upper border of the lower rib to avoid injuring the nerve, artery, and vein. This rule applies to intercostal blocks, pleural aspiration, and chest drain insertion.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 53, Thoracic Wall",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459199/"
   },
   {
     "id": 50,
@@ -907,7 +951,8 @@
     "correct": 2,
     "explanation": "Approximately 75% of breast lymph drains to the axillary nodes, primarily the anterior (pectoral) group along the lateral thoracic vessel. This is clinically critical in breast cancer staging — sentinel node biopsy targets this group. The remaining 25% drains to internal mammary nodes along the sternum.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 53, Thoracic Wall",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547666/"
   },
   {
     "id": 51,
@@ -925,7 +970,8 @@
     "correct": 1,
     "explanation": "A small primary spontaneous pneumothorax (less than 2 cm rim, no significant dyspnoea, SpO2 >90%) in a haemodynamically stable patient can be managed conservatively with high-flow oxygen to accelerate nitrogen reabsorption and observation. Aspiration or drain is reserved for larger or symptomatic cases. The tall thin male demographic is the classic presentation.",
     "reference": "Gray's Anatomy, 42nd ed. — Chapter 54, Pleura and Lungs",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459302/"
   },
   {
     "id": 52,
@@ -943,7 +989,8 @@
     "correct": 0,
     "explanation": "Direct inguinal hernias protrude through Hesselbach's triangle, medial to the inferior epigastric vessels, through a weakness in the posterior wall of the inguinal canal. Indirect hernias pass through the deep inguinal ring lateral to the inferior epigastric vessels and descend into the scrotum. Direct hernias are more common in older men and rarely descend into the scrotum.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459309/"
   },
   {
     "id": 53,
@@ -961,7 +1008,8 @@
     "correct": 3,
     "explanation": "The broad ligament is a double fold of peritoneum that carries the uterine tubes (mesosalpinx), ovaries (mesovarium), and round ligament of the uterus (mesometrium). The round ligament runs from the uterine horn through the inguinal canal to the labium majus — the female equivalent of the gubernaculum.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Pelvis",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499943/"
   },
   {
     "id": 54,
@@ -979,7 +1027,8 @@
     "correct": 3,
     "explanation": "Femoral hernias pass through the femoral canal, medial to the femoral vein, below and lateral to the pubic tubercle. They are more common in women due to a wider pelvis and femoral canal. Despite being less common than inguinal hernias overall, femoral hernias have a high rate of strangulation and should be repaired promptly.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535449/"
   },
   {
     "id": 55,
@@ -997,7 +1046,8 @@
     "correct": 2,
     "explanation": "The abdominal aorta bifurcates at L4 into the right and left common iliac arteries. This is a key landmark — the bifurcation lies just below and to the left of the umbilicus. The inferior vena cava is formed at L5 by the union of the common iliac veins.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537319/"
   },
   {
     "id": 56,
@@ -1015,7 +1065,8 @@
     "correct": 1,
     "explanation": "The three taenia coli converge at the base of the appendix — the most reliable surgical landmark for identifying it. The appendix position is variable (retrocaecal most common at ~65%), but tracing the taenia coli always leads to its base regardless of position.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459205/"
   },
   {
     "id": 57,
@@ -1033,7 +1084,8 @@
     "correct": 2,
     "explanation": "The floor of the inguinal canal is formed by the inguinal ligament (and lacunar ligament medially). The roof is formed by the arching fibres of internal oblique and transversus abdominis. The anterior wall is the external oblique aponeurosis, and the posterior wall is the transversalis fascia (reinforced medially by the conjoint tendon).",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470204/"
   },
   {
     "id": 58,
@@ -1051,7 +1103,8 @@
     "correct": 1,
     "explanation": "Hepatic cirrhosis causes portal hypertension, leading to a transudate (low protein, SAAG >11 g/L). Shifting dullness and fluid thrill are classic signs of ascites requiring at least 500 ml and 1000 ml respectively to elicit. TB and malignancy produce exudates with protein >25 g/L.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470482/"
   },
   {
     "id": 59,
@@ -1069,7 +1122,8 @@
     "correct": 3,
     "explanation": "The ureter crosses the common iliac artery bifurcation at the pelvic brim, making it vulnerable during pelvic surgery, hysterectomy, and colorectal resections. The mnemonic 'water under the bridge' refers to the ureter passing under the uterine artery in females — another site of surgical risk.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Pelvis",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532980/"
   },
   {
     "id": 60,
@@ -1087,7 +1141,8 @@
     "correct": 3,
     "explanation": "McBurney's point lies one third of the way from the right anterior superior iliac spine to the umbilicus. It marks the base of the appendix on the surface. Maximum tenderness here, combined with Rovsing's sign (palpation of the left iliac fossa causing right iliac fossa pain), is highly suggestive of appendicitis.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493193/"
   },
   {
     "id": 61,
@@ -1105,7 +1160,8 @@
     "correct": 0,
     "explanation": "The gallbladder lies in the fossa between segments IV (quadrate lobe) and V of the liver. Couinaud's classification divides the liver into 8 functionally independent segments based on portal and hepatic venous supply — essential for planning hepatic resections. Segment I is the caudate lobe.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459288/"
   },
   {
     "id": 62,
@@ -1123,7 +1179,8 @@
     "correct": 0,
     "explanation": "The inferior mesenteric artery supplies the descending colon, sigmoid, and upper rectum. During AAA repair it is often ligated, risking left colonic ischaemia if collateral flow via the marginal artery of Drummond is inadequate. The sigmoid colon and splenic flexure (watershed zones) are most vulnerable.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513354/"
   },
   {
     "id": 63,
@@ -1141,7 +1198,8 @@
     "correct": 2,
     "explanation": "The femoral triangle is bounded superiorly by the inguinal ligament, laterally by the medial border of sartorius, and medially by the medial border of adductor longus. The floor is formed by iliopsoas, pectineus, and adductor longus. Adductor longus is innervated by the obturator nerve and is the medial boundary.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Lower Limb",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541140/"
   },
   {
     "id": 64,
@@ -1159,7 +1217,8 @@
     "correct": 0,
     "explanation": "Ureteric transection during hysterectomy causes urinary leakage presenting as watery vaginal discharge (ureterovaginal fistula) with upstream hydronephrosis. The ureter is most vulnerable where it passes under the uterine artery — 'water under the bridge.' Ligation would cause hydronephrosis without leakage.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 5, Pelvis",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507817/"
   },
   {
     "id": 65,
@@ -1177,7 +1236,8 @@
     "correct": 2,
     "explanation": "The midgut extends from the duodenojejunal flexure to the junction of the proximal two thirds and distal one third of the transverse colon. It gives rise to the jejunum, ileum, caecum, appendix, ascending colon, and proximal transverse colon. The midgut is supplied by the superior mesenteric artery.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553156/"
   },
   {
     "id": 66,
@@ -1195,7 +1255,8 @@
     "correct": 3,
     "explanation": "The neck of the pancreas lies directly anterior to the superior mesenteric vessels and the aorta. This relationship is critical in pancreatic surgery — the neck is the usual site of transection in Whipple's procedure. The head lies in the C-loop of the duodenum, and the tail reaches the splenic hilum.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 4, Abdomen",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519560/"
   },
   {
     "id": 67,
@@ -1213,7 +1274,8 @@
     "correct": 0,
     "explanation": "A lower motor neuron facial nerve palsy (Bell's palsy) affects all ipsilateral facial muscles including the forehead, because the upper facial muscles receive bilateral cortical innervation — spared in UMN lesions. Taste and hearing are intact, localising the lesion distal to the chorda tympani and stapedius branch, i.e. at or below the stylomastoid foramen.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482290/"
   },
   {
     "id": 68,
@@ -1231,7 +1293,8 @@
     "correct": 0,
     "explanation": "The lateral pterygoid is the only muscle of mastication that opens (depresses) the jaw, acting by pulling the condyle and articular disc forward. All muscles of mastication are innervated by the mandibular branch (V3) of the trigeminal nerve. Masseter, medial pterygoid, and temporalis all close the jaw.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549799/"
   },
   {
     "id": 69,
@@ -1249,7 +1312,8 @@
     "correct": 1,
     "explanation": "The recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except cricothyroid. Injury causes hoarseness and loss of vocal power. The external branch of the superior laryngeal nerve innervates only cricothyroid (pitch control) — its isolated injury causes loss of high pitch without significant hoarseness. Both nerves are at risk during thyroidectomy.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560832/"
   },
   {
     "id": 70,
@@ -1267,7 +1331,8 @@
     "correct": 3,
     "explanation": "The carotid triangle is bounded by the superior belly of omohyoid, the sternocleidomastoid, and the posterior belly of digastric. It contains the carotid sheath with the common and internal carotid arteries, internal jugular vein, and vagus nerve. Carotid endarterectomy and central line insertion are performed in this region.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554398/"
   },
   {
     "id": 71,
@@ -1285,7 +1350,8 @@
     "correct": 3,
     "explanation": "Cholesteatoma is an abnormal collection of keratinising squamous epithelium in the middle ear, appearing as a pearly white mass. It erodes ossicles and surrounding structures causing conductive hearing loss. Untreated, it can erode the tegmen, facial nerve canal, or semicircular canals. Acoustic neuroma causes sensorineural hearing loss.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448108/"
   },
   {
     "id": 72,
@@ -1303,7 +1369,8 @@
     "correct": 0,
     "explanation": "CN XII exits via the hypoglossal canal in the occipital bone. Injury causes ipsilateral tongue deviation toward the side of the lesion (the weak side) on protrusion, due to unopposed action of the contralateral genioglossus. The jugular foramen transmits CN IX, X, and XI.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532869/"
   },
   {
     "id": 73,
@@ -1321,7 +1388,8 @@
     "correct": 0,
     "explanation": "A normal CT does not exclude subarachnoid haemorrhage — sensitivity drops to around 93% within 24 hours. Lumbar puncture showing xanthochromia (yellow discolouration from haemoglobin breakdown) is diagnostic. The headache of SAH is classically 'thunderclap' — maximal at onset.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441958/"
   },
   {
     "id": 74,
@@ -1339,7 +1407,8 @@
     "correct": 3,
     "explanation": "Taste from the anterior two thirds of the tongue is carried by the chorda tympani (branch of CN VII), which joins the lingual nerve (V3) in the infratemporal fossa. General sensation from the anterior two thirds is carried by the lingual nerve (V3). The posterior third — both taste and general sensation — is supplied by CN IX.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546586/"
   },
   {
     "id": 75,
@@ -1357,7 +1426,8 @@
     "correct": 2,
     "explanation": "Masseter hypertonia from bruxism (teeth grinding) is the most common muscular contributor to TMJ dysfunction. The masseter inserts into the angle and ramus of the mandible and is easily palpated during clenching. Lateral pterygoid dysfunction contributes to clicking by disrupting disc movement, but masseter is the primary culprit in myofascial TMJ pain.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
   },
   {
     "id": 76,
@@ -1375,7 +1445,8 @@
     "correct": 2,
     "explanation": "The lingual nerve passes through the pterygomandibular space, running medial to the mandible and just below the mucosa of the third molar region. It is vulnerable during inferior alveolar nerve blocks and lower wisdom tooth extraction, causing ipsilateral tongue numbness and altered taste.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546652/"
   },
   {
     "id": 77,
@@ -1393,7 +1464,8 @@
     "correct": 2,
     "explanation": "A thyroglossal cyst moves upward both on swallowing and on tongue protrusion — the pathognomonic feature, because the cyst is attached to the hyoid bone via the thyroglossal tract. It arises from a remnant of the thyroglossal duct along the path of thyroid descent from the foramen caecum. Branchial cysts do not move on tongue protrusion.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519057/"
   },
   {
     "id": 78,
@@ -1411,7 +1483,8 @@
     "correct": 1,
     "explanation": "The sternocleidomastoid divides the neck into anterior and posterior triangles. It is innervated by the spinal accessory nerve (CN XI) and C2–C3. Unilateral SCM contraction causes ipsilateral lateral flexion and contralateral rotation of the head — torticollis results from its spasm or fibrosis.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554398/"
   },
   {
     "id": 79,
@@ -1429,7 +1502,8 @@
     "correct": 2,
     "explanation": "Posterior triangle level V nodes drain the oropharynx, hypopharynx, and nasopharynx. Squamous cell carcinoma in this location in a smoker most commonly arises from the oropharynx (tonsil, base of tongue) or hypopharynx. Thyroid malignancy typically spreads to central compartment (level VI) nodes.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://radiopaedia.org/articles/lymph-node-levels-of-the-neck"
   },
   {
     "id": 80,
@@ -1447,7 +1521,8 @@
     "correct": 2,
     "explanation": "The facial nerve exits the stylomastoid foramen and enters the parotid gland, dividing into temporofacial and cervicofacial divisions and then into five terminal branches (temporal, zygomatic, buccal, marginal mandibular, cervical). Parotid tumours, surgery, or penetrating injuries risk facial nerve damage causing ipsilateral facial palsy.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
   },
   {
     "id": 81,
@@ -1465,7 +1540,8 @@
     "correct": 1,
     "explanation": "Submandibular calculus (sialolithiasis) classically causes mealtime pain and swelling because salivary flow is stimulated by eating, obstructing at the stone. The submandibular gland produces thick, mucous-rich saliva with a slow upward flow against gravity — making it the most common site for calculi. The parotid duct runs horizontally and is less affected.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 11, Head and Neck",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549845/"
   },
   {
     "id": 82,
@@ -1483,7 +1559,8 @@
     "correct": 2,
     "explanation": "The internal capsule carries all descending motor fibres in a compact bundle. A small lesion here causes a dense contralateral hemiplegia affecting face, arm, and leg equally — unlike cortical strokes which produce unequal deficits due to the somatotopic spread of the motor homunculus. Lacunar infarcts from small vessel disease are the classic cause.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK563216/"
   },
   {
     "id": 83,
@@ -1501,7 +1578,8 @@
     "correct": 3,
     "explanation": "The spinothalamic tract carries pain and temperature. First-order neurons enter the spinal cord and synapse in the dorsal horn, then second-order fibres decussate via the anterior white commissure within 1–2 segments before ascending. This explains why a central cord lesion (syringomyelia) causes a cape-like bilateral loss of pain and temperature at the level of the lesion.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507824/"
   },
   {
     "id": 84,
@@ -1519,7 +1597,8 @@
     "correct": 0,
     "explanation": "This is the lateral medullary (Wallenberg) syndrome caused by PICA occlusion. The crossed sensory loss (ipsilateral face, contralateral body) is the hallmark — due to the trigeminal nucleus and spinothalamic tract being at the same level but separate. Horner's syndrome results from disruption of the descending sympathetic fibres in the lateral tegmentum.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551670/"
   },
   {
     "id": 85,
@@ -1537,7 +1616,8 @@
     "correct": 2,
     "explanation": "Neural tube closure occurs during week 4. The rostral neuropore closes around day 25 — failure causes anencephaly. The caudal neuropore closes around day 27 — failure causes spina bifida. Folic acid supplementation before conception reduces the risk by approximately 70% by supporting normal neural tube closure.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557414/"
   },
   {
     "id": 86,
@@ -1555,7 +1635,8 @@
     "correct": 0,
     "explanation": "Parkinson's disease results from degeneration of dopaminergic neurons in the substantia nigra pars compacta, depleting dopamine in the striatum. This disrupts the balance between direct (facilitatory) and indirect (inhibitory) basal ganglia pathways, resulting in reduced thalamic activation and the classic triad of tremor, rigidity, and bradykinesia.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536995/"
   },
   {
     "id": 87,
@@ -1573,7 +1654,8 @@
     "correct": 1,
     "explanation": "The oculomotor (CN III) nucleus lies in the midbrain at the level of the superior colliculus, and the trochlear (CN IV) nucleus at the inferior colliculus. CN V, VI, VII, and VIII nuclei are in the pons. CN IX, X, XI, and XII nuclei are in the medulla. CN IV is the only cranial nerve to exit dorsally from the brainstem.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
   },
   {
     "id": 88,
@@ -1591,7 +1673,8 @@
     "correct": 3,
     "explanation": "At the optic chiasm, nasal retinal fibres (which carry temporal visual field information) decussate to the contralateral optic tract. A midline compressive lesion selectively damages these crossing fibres, causing bitemporal hemianopia — loss of the outer (temporal) visual fields bilaterally. Temporal fibres do not cross and are spared.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545213/"
   },
   {
     "id": 89,
@@ -1609,7 +1692,8 @@
     "correct": 2,
     "explanation": "The adrenal medulla is derived from neural crest cells that migrate to the developing adrenal gland and differentiate into chromaffin cells. The adrenal cortex, by contrast, arises from intermediate mesoderm. This dual origin explains why phaeochromocytomas (tumours of chromaffin cells) and neuroblastomas share a neural crest lineage.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482264/"
   },
   {
     "id": 90,
@@ -1627,7 +1711,8 @@
     "correct": 1,
     "explanation": "Acute spinal cord transection causes spinal shock — flaccid paralysis with absent reflexes below the lesion, due to sudden loss of descending facilitatory inputs. After days to weeks, spinal reflex arcs recover in isolation from supraspinal control, producing UMN signs: spastic paralysis, hyperreflexia, and extensor plantar responses.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448163/"
   },
   {
     "id": 91,
@@ -1645,7 +1730,8 @@
     "correct": 2,
     "explanation": "The BBB is formed by tight junctions (zonulae occludentes) between adjacent cerebral capillary endothelial cells, making it virtually impermeable to large molecules and hydrophilic substances. Astrocyte foot processes support and maintain the barrier but do not form it. This distinction is clinically important — BBB disruption is seen in inflammation, tumours, and trauma.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519556/"
   },
   {
     "id": 92,
@@ -1663,7 +1749,8 @@
     "correct": 3,
     "explanation": "The posterior cerebral artery supplies the visual cortex (occipital lobe). Right PCA occlusion causes left homonymous hemianopia. Macular sparing occurs because the macula has dual blood supply from both PCA and MCA branches at the occipital pole. AF is a major risk factor for cardioembolic strokes.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532296/"
   },
   {
     "id": 93,
@@ -1681,7 +1768,8 @@
     "correct": 1,
     "explanation": "The anterior pituitary (adenohypophysis) arises from Rathke's pouch — an upward evagination of oral ectoderm (roof of stomodeum). The posterior pituitary (neurohypophysis) arises from a downward evagination of neuroectoderm from the floor of the diencephalon. Craniopharyngiomas arise from remnants of Rathke's pouch.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519039/"
   },
   {
     "id": 94,
@@ -1699,7 +1787,8 @@
     "correct": 1,
     "explanation": "Central cord syndrome is the most common incomplete spinal cord injury, typically from hyperextension in older patients or hyperflexion in younger ones. The central cord contains the cervical motor fibres — hence arms are weaker than legs (sacral fibres are peripheral). The cape distribution of sensory loss reflects spinothalamic involvement at the cervical level.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441932/"
   },
   {
     "id": 95,
@@ -1717,7 +1806,8 @@
     "correct": 3,
     "explanation": "Spina bifida occulta with tethered cord is a closed neural tube defect where the spinal cord is anchored caudally by a thickened fatty filum terminale, preventing normal ascent. A cutaneous stigmata (hair tuft, dimple, haemangioma) overlying the lumbar spine is the classic clue. Neurological deficits may develop later as the child grows and the cord stretches.",
     "reference": "Snell's Clinical Anatomy by Regions, 10th ed. — Chapter 8, Neuroanatomy",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559265/"
   },
   {
     "id": 96,
@@ -1735,7 +1825,8 @@
     "correct": 0,
     "explanation": "The trachea is lined by pseudostratified ciliated columnar epithelium (respiratory epithelium), which also contains goblet cells secreting mucus. The cilia beat in coordinated waves to propel mucus and trapped particles upward toward the pharynx — the mucociliary escalator. Loss of this function in smokers predisposes to recurrent respiratory infections.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 17, Respiratory System",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541061/"
   },
   {
     "id": 97,
@@ -1753,7 +1844,8 @@
     "correct": 1,
     "explanation": "Barrett's oesophagus is intestinal metaplasia of the oesophageal mucosa, driven by chronic gastro-oesophageal reflux. The normal stratified squamous epithelium is replaced by columnar epithelium with goblet cells (intestinal type). This carries a significantly increased risk of oesophageal adenocarcinoma and requires endoscopic surveillance.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 15, Digestive Tract",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430979/"
   },
   {
     "id": 98,
@@ -1771,7 +1863,8 @@
     "correct": 3,
     "explanation": "Parietal (oxyntic) cells secrete both hydrochloric acid (via H+/K+ ATPase) and intrinsic factor, essential for vitamin B12 absorption. Chief cells secrete pepsinogen. G cells secrete gastrin. Autoimmune destruction of parietal cells causes achlorhydria and pernicious anaemia due to loss of intrinsic factor.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 15, Digestive Tract",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK547758/"
   },
   {
     "id": 99,
@@ -1789,7 +1882,8 @@
     "correct": 1,
     "explanation": "Cirrhosis is defined histologically by diffuse hepatic fibrosis with regenerative nodule formation, disrupting normal lobular architecture. Bridging fibrosis connecting portal tracts and central veins is the hallmark. This pattern is irreversible and results from repeated hepatocyte injury regardless of the aetiology — alcohol, viral hepatitis, or NAFLD.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 16, Liver and Biliary Tract",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482419/"
   },
   {
     "id": 100,
@@ -1807,7 +1901,8 @@
     "correct": 3,
     "explanation": "Oligodendrocytes myelinate axons in the CNS, with a single oligodendrocyte myelinating up to 50 axons simultaneously. Schwann cells myelinate axons in the PNS, with each Schwann cell myelinating only one axon segment. Multiple sclerosis involves autoimmune destruction of oligodendrocytes and CNS myelin.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 9, Nervous Tissue",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441945/"
   },
   {
     "id": 101,
@@ -1825,7 +1920,8 @@
     "correct": 0,
     "explanation": "Collagen is the most abundant protein in the body, comprising about 30% of total protein mass. It provides tensile strength to tendons, ligaments, skin, and bone. Type I collagen is the most common overall. Elastin provides elastic recoil. Reticulin (type III collagen) forms the scaffolding of lymph nodes, spleen, and liver.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 5, Connective Tissue",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK542226/"
   },
   {
     "id": 102,
@@ -1843,7 +1939,8 @@
     "correct": 1,
     "explanation": "Paget's disease is characterised by abnormal bone remodelling — excessive osteoclastic resorption followed by disorganised osteoblastic activity, producing a chaotic mosaic pattern of woven and lamellar bone. Markedly elevated alkaline phosphatase reflects high bone turnover. Osteoporosis shows normal histology with reduced bone mass.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 7, Bone",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430805/"
   },
   {
     "id": 103,
@@ -1861,7 +1958,8 @@
     "correct": 2,
     "explanation": "The renal corpuscle comprises the glomerular capillary tuft and Bowman's capsule. Filtration occurs across the filtration membrane — fenestrated endothelium, glomerular basement membrane, and podocyte foot processes. The juxtaglomerular apparatus regulates filtration rate and blood pressure via renin secretion.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 19, Urinary System",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554544/"
   },
   {
     "id": 104,
@@ -1879,7 +1977,8 @@
     "correct": 2,
     "explanation": "Minimal change disease is the most common cause of nephrotic syndrome in children and young adults. Light microscopy appears normal, but electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes with no immune deposits — distinguishing it from membranous nephropathy and IgA nephropathy. It responds well to steroids.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 19, Urinary System",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560639/"
   },
   {
     "id": 105,
@@ -1897,7 +1996,8 @@
     "correct": 0,
     "explanation": "The zona glomerulosa is the outermost zone, with cells arranged in rounded clusters (glomeruli). It is the sole source of aldosterone, regulated by the renin-angiotensin system and serum potassium. The zona fasciculata produces cortisol and the zona reticularis produces androgens — both regulated by ACTH.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 20, Endocrine Glands",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537260/"
   },
   {
     "id": 106,
@@ -1915,7 +2015,8 @@
     "correct": 3,
     "explanation": "Reed-Sternberg cells — large binucleated cells with prominent owl-eye nucleoli — are the pathognomonic finding in Hodgkin lymphoma. Lacunar cells are a variant seen in nodular sclerosis, the most common subtype. Effacement of nodal architecture distinguishes lymphoma from reactive hyperplasia.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 14, Lymphoid Organs",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK542333/"
   },
   {
     "id": 107,
@@ -1933,7 +2034,8 @@
     "correct": 2,
     "explanation": "Cardiac muscle is striated like skeletal muscle but has centrally placed nuclei, branching fibres, and intercalated discs — specialised junctions containing gap junctions (for electrical coupling) and desmosomes (for mechanical coupling). This allows the heart to function as a functional syncytium. Skeletal muscle has peripheral nuclei and no intercalated discs.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 10, Muscle Tissue",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535355/"
   },
   {
     "id": 108,
@@ -1951,7 +2053,8 @@
     "correct": 1,
     "explanation": "Squamous metaplasia in the bronchial epithelium is a reversible adaptive response to chronic irritation from smoking. The protective pseudostratified epithelium is replaced by hardier stratified squamous epithelium. However, this predisposes to squamous cell carcinoma of the lung if the stimulus (smoking) persists. Cessation of smoking can allow reversal of metaplasia.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 17, Respiratory System",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK564510/"
   },
   {
     "id": 109,
@@ -1969,7 +2072,8 @@
     "correct": 3,
     "explanation": "Hassall's corpuscles are concentric whorls of keratinised epithelial reticular cells found in the thymic medulla. They are a histological hallmark of the thymus and are thought to be involved in regulatory T cell development. Their presence confirms thymic tissue on biopsy — important in distinguishing thymoma from other mediastinal masses.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 14, Lymphoid Organs",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539748/"
   },
   {
     "id": 110,
@@ -1987,7 +2091,8 @@
     "correct": 3,
     "explanation": "Prolactinoma is the most common functioning pituitary adenoma. Histologically, pituitary adenomas show a monotonous sheet-like growth pattern replacing the normal acinar architecture, with granular cytoplasm reflecting hormone storage. Immunohistochemistry for prolactin confirms the diagnosis. Amenorrhoea-galactorrhoea syndrome is the classic clinical presentation.",
     "reference": "Junqueira's Basic Histology, 15th ed. — Chapter 20, Endocrine Glands",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459347/"
   },
   {
     "id": 111,
