@@ -116,7 +116,8 @@
     "correct": 3,
     "explanation": "Preload reduction decreases venous return and end-diastolic volume (EDV). The Frank-Starling mechanism dictates that reduced EDV means shorter initial sarcomere length, producing less contractile force and a lower stroke volume. Nitrates are the classic preload-reducing agents; they reduce congestion symptoms but may worsen low-output states.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, Cardiac Output",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470295/"
   },
   {
     "id": 7,
@@ -135,7 +136,8 @@
     "correct": 4,
     "explanation": "Trimethoprim blocks the organic cation transporter in the proximal tubule, inhibiting tubular secretion of creatinine. This raises serum creatinine without any reduction in GFR — a pseudocreatininaemia. Cystatin C would remain unchanged, confirming preserved glomerular function. This is a well-recognised benign effect not to be confused with nephrotoxicity.",
     "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 38, Renal Function",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513232/"
   },
   {
     "id": 8,
@@ -154,7 +156,8 @@
     "correct": 0,
     "explanation": "The elevated HCO3 (34 mEq/L) shows renal compensation for chronic hypercapnia, but the pH remains below 7.35, so compensation is only partial rather than complete. If compensation were full, the pH would have returned to the normal range despite the persistently high PaCO2. This pattern is typical of a COPD patient with chronic CO2 retention who has decompensated further during an acute exacerbation.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536919/"
   },
   {
     "id": 9,
@@ -173,7 +176,8 @@
     "correct": 1,
     "explanation": "This is Graves' disease, caused by TSH receptor-stimulating antibodies (TRAb) — IgG immunoglobulins that continuously activate thyroid follicular cells. Unlike endogenous TSH, these antibodies are not subject to pituitary feedback, causing unregulated T3/T4 synthesis. The familial pattern reflects polygenic autoimmune inheritance.",
     "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 20, Thyroid Gland",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448195/"
   },
   {
     "id": 10,
@@ -192,7 +196,8 @@
     "correct": 2,
     "explanation": "Levodopa-induced dyskinesias result from pulsatile, non-physiological dopamine receptor stimulation in the striatum, leading to receptor hypersensitivity and maladaptive changes in basal ganglia circuitry. Peak-dose dyskinesias correlate with maximum plasma levodopa levels — explaining the afternoon pattern after a morning dose.",
     "reference": "Ganong's Review of Medical Physiology, 26th ed. — Chapter 14, Basal Ganglia",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554552/"
   },
   {
     "id": 11,
@@ -2110,7 +2115,8 @@
     "correct": 2,
     "explanation": "The Frank-Starling law states that the force of myocardial contraction increases with greater end-diastolic fiber stretch, up to a physiological limit. As venous return increases, EDV rises, sarcomeres are stretched toward optimal overlap, and stroke volume increases. This intrinsic mechanism allows the heart to match output to venous return without needing neural input.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, Cardiac Muscle; The Heart as a Pump",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470295/"
   },
   {
     "id": 112,
@@ -2128,7 +2134,8 @@
     "correct": 0,
     "explanation": "Phase 2 (plateau) is unique to cardiac muscle. After the initial rapid depolarization (Na⁺ influx), L-type (long-lasting) voltage-gated Ca²⁺ channels open. The slow inward Ca²⁺ current balances outward K⁺ currents, sustaining the plateau. This prolonged depolarization triggers Ca²⁺-induced Ca²⁺ release from the SR and is essential for excitation-contraction coupling. The long refractory period this creates prevents tetanus.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 10, Rhythmical Excitation of the Heart",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK572070/"
   },
   {
     "id": 113,
@@ -2146,7 +2153,8 @@
     "correct": 1,
     "explanation": "In low-output states, reduced renal perfusion activates the RAAS. Renin converts angiotensinogen to angiotensin I → ACE converts it to angiotensin II, a potent vasoconstrictor. This raises SVR, maintaining MAP (= CO × SVR) despite reduced CO. Angiotensin II also stimulates aldosterone, promoting Na⁺/water retention to increase preload. In the short term this is compensatory; chronically it worsens cardiac remodeling — the rationale for ACE inhibitors in heart failure.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 22, Cardiac Failure",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430873/"
   },
   {
     "id": 114,
@@ -2164,7 +2172,8 @@
     "correct": 2,
     "explanation": "Poiseuille's law: R = 8ηL / πr⁴. Resistance is inversely proportional to the fourth power of the radius. If r is halved (r → r/2), then r⁴ → r⁴/16, so resistance increases by a factor of 16. This explains why small-vessel disease (e.g., arteriolar constriction, atherosclerosis) has a dramatically disproportionate effect on vascular resistance and blood pressure.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 14, Overview of the Circulation; Biophysics of Pressure, Flow, and Resistance",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554380/"
   },
   {
     "id": 115,
@@ -2182,7 +2191,8 @@
     "correct": 3,
     "explanation": "On standing, venous pooling in the lower limbs reduces venous return and CO, dropping arterial pressure. Carotid sinus and aortic arch baroreceptors detect reduced stretch and decrease afferent firing to the NTS in the medulla. This disinhibits sympathetic outflow and inhibits parasympathetic tone → increased HR (chronotropy), increased contractility (inotropy), and arteriolar/venous vasoconstriction. This orthostatic reflex typically restores BP within seconds. Failure of this reflex = orthostatic hypotension.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 18, Nervous Regulation of the Circulation and Rapid Control of Arterial Pressure",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK448192/"
   },
   {
     "id": 116,
@@ -2200,7 +2210,8 @@
     "correct": 0,
     "explanation": "After mitral valve closure, the ventricle contracts against a closed aortic valve. Volume stays constant while pressure rises rapidly until it exceeds aortic diastolic pressure (~80 mmHg), at which point the aortic valve opens.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 9, The Cardiac Cycle",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459327/"
   },
   {
     "id": 117,
@@ -2218,7 +2229,8 @@
     "correct": 1,
     "explanation": "Systolic myocardial compression nearly obliterates left coronary flow. During diastole, the relaxed myocardium allows perfusion driven by aortic diastolic pressure. The right coronary, less compressed, flows throughout the cycle. This is why tachycardia (shortened diastole) risks subendocardial ischemia.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 21, Coronary Circulation and Ischemic Heart Disease",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482413/"
   },
   {
     "id": 118,
@@ -2236,7 +2248,8 @@
     "correct": 1,
     "explanation": "MAP ≈ DBP + 1/3(PP) = 100 + 1/3(60) = 100 + 20 = 120 mmHg. MAP reflects average perfusion pressure and is a better indicator of organ perfusion than systolic BP alone.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 15, Vascular Distensibility and Functions of the Arterial and Venous Systems",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482189/"
   },
   {
     "id": 119,
@@ -2254,7 +2267,8 @@
     "correct": 2,
     "explanation": "β1 receptors predominate in the SA node. Norepinephrine/epinephrine binding activates adenylyl cyclase → ↑cAMP → ↑If (funny current) and ↑ICa,L, steepening the slope of phase 4 spontaneous depolarization → tachycardia. M2 stimulation does the opposite (↑K⁺ conductance → hyperpolarization → bradycardia).",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 10, Rhythmical Excitation of the Heart",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532904/"
   },
   {
     "id": 120,
@@ -2272,7 +2286,8 @@
     "correct": 0,
     "explanation": "Trauma with the above picture = hemorrhagic (hypovolemic) shock. Blood loss → ↓venous return → ↓preload → ↓CO → compensatory tachycardia and vasoconstriction (cold, clammy skin). Reduced renal perfusion → oliguria. Primary defect is decreased preload, distinguishing it from cardiogenic (pump failure) or distributive (sepsis, vasodilation) shock.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 24, Circulatory Shock and Its Treatment",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
   },
   {
     "id": 121,
@@ -2290,7 +2305,8 @@
     "correct": 3,
     "explanation": "Capillary HP drives fluid out; plasma oncotic pressure draws it in. When HP > oncotic pressure, net filtration into interstitium occurs. At the venous end, oncotic pressure dominates, reabsorbing fluid. Excess is returned via lymphatics. Disruption → edema.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 16, Microcirculation and Lymphatic System",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537065/"
   },
   {
     "id": 122,
@@ -2308,7 +2324,8 @@
     "correct": 0,
     "explanation": "Aortic stenosis creates fixed outflow obstruction → chronic pressure overload → LV wall stress increases → concentric hypertrophy (↑wall thickness, normal cavity size) to normalize wall stress per Laplace's law. Volume overload (e.g., AR, MR) causes eccentric hypertrophy instead.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 22, Cardiac Failure",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557534/"
   },
   {
     "id": 123,
@@ -2326,7 +2343,8 @@
     "correct": 1,
     "explanation": "Venous return = (MSFP − RAP) / venous resistance. MSFP reflects the filling state of the entire systemic circulation and is the primary driving force for venous return. It rises with blood volume expansion and falls with hemorrhage.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 20, Cardiac Output, Venous Return, and Their Regulation",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519493/"
   },
   {
     "id": 124,
@@ -2344,7 +2362,8 @@
     "correct": 3,
     "explanation": "LV failure → ↑LVEDP → ↑pulmonary venous pressure → ↑pulmonary capillary HP. When it exceeds oncotic pressure (~25 mmHg), fluid floods the alveoli. Pink froth = fluid + red cells. Treated with diuretics, vasodilators, and positioning.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Edema",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557611/"
   },
   {
     "id": 125,
@@ -2362,7 +2381,8 @@
     "correct": 2,
     "explanation": "CO = VO₂ / (CaO₂ − CvO₂). Oxygen consumed per minute divided by the amount extracted per liter of blood = liters of blood pumped per minute. Gold standard for CO measurement in cardiac catheterization labs.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 20, Cardiac Output, Venous Return, and Their Regulation",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK606091/"
   },
   {
     "id": 126,
@@ -2380,7 +2400,8 @@
     "correct": 1,
     "explanation": "Cerebral autoregulation maintains CBF between MAP 60–150 mmHg. Above this, autoregulation fails → passive pressure-driven hyperperfusion → disruption of the blood-brain barrier → cerebral edema, papilledema, hypertensive encephalopathy. Requires controlled BP reduction with IV agents.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554499/"
   },
   {
     "id": 127,
@@ -2397,7 +2418,8 @@
     "correct": 2,
     "explanation": "The resting membrane potential (~-70 mV) is maintained primarily by K⁺ leaking out through K⁺ leak channels down its concentration gradient. The Na⁺/K⁺ ATPase maintains the concentration gradients (3 Na⁺ out, 2 K⁺ in). K⁺ equilibrium potential (~-94 mV) is the dominant determinant.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 5, Membrane Potentials and Action Potentials",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538338/"
   },
   {
     "id": 128,
@@ -2414,7 +2436,8 @@
     "correct": 2,
     "explanation": "During the absolute refractory period, voltage-gated Na⁺ channels are inactivated (h-gates closed). No stimulus can reopen them until they recover to the closed-but-activatable state. This prevents backward propagation and limits firing frequency.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 5, Membrane Potentials and Action Potentials",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538143/"
   },
   {
     "id": 129,
@@ -2431,7 +2454,8 @@
     "correct": 3,
     "explanation": "Complete transection destroys all ascending and descending tracts bilaterally — spinothalamic (pain/temperature), dorsal columns (proprioception/vibration), and corticospinal (voluntary motor). All modalities are lost below T10 on both sides. Brown-Séquard (option C) occurs with hemisection, not complete transection.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 48, Sensory Functions of the Spinal Cord",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560721/"
   },
   {
     "id": 130,
@@ -2448,7 +2472,8 @@
     "correct": 0,
     "explanation": "Arrival of action potential at the terminal opens voltage-gated Ca²⁺ channels. Ca²⁺ influx triggers vesicle fusion and exocytosis of neurotransmitter into the synaptic cleft, which binds postsynaptic receptors. Ca²⁺ is the essential trigger.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 46, Organization of the Nervous System",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526047/"
   },
   {
     "id": 131,
@@ -2465,7 +2490,8 @@
     "correct": 2,
     "explanation": "UMN lesions (corticospinal tract) produce spastic weakness, hyperreflexia, and extensor plantar response (Babinski). LMN lesions produce flaccid weakness, hyporeflexia, fasciculations, and atrophy. Babinski is the hallmark of UMN pathology.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 55, Cortical and Brain Stem Control of Motor Function",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537305/"
   },
   {
     "id": 132,
@@ -2482,7 +2508,8 @@
     "correct": 1,
     "explanation": "Acetylcholine is released from motor nerve terminals at the NMJ, binds nicotinic ACh receptors on the motor end plate, causing Na⁺ influx and end plate potential, triggering muscle contraction. ACh is also used at all autonomic ganglia and parasympathetic end organs.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 7, Excitation of Skeletal Muscle",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470413/"
   },
   {
     "id": 133,
@@ -2499,7 +2526,8 @@
     "correct": 1,
     "explanation": "Horner's syndrome (ptosis, miosis, anhidrosis) results from disruption of the sympathetic chain — hypothalamus to ciliospinal center (C8-T2) to superior cervical ganglion to eye and face. Loss of sympathetic tone causes unopposed parasympathetic effects. Common causes include Pancoast tumor, carotid dissection, and brainstem stroke.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Autonomic Regulation",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500000/"
   },
   {
     "id": 134,
@@ -2516,7 +2544,8 @@
     "correct": 2,
     "explanation": "The cerebellum receives efference copies of motor commands and sensory feedback, comparing intended vs actual movement. It sends corrective signals via the thalamus back to the motor cortex. Cerebellar lesions produce ipsilateral ataxia, dysmetria, intention tremor, and dysdiadochokinesia.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 57, The Cerebellum and Basal Ganglia",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK11024/"
   },
   {
     "id": 135,
@@ -2533,7 +2562,8 @@
     "correct": 3,
     "explanation": "Parkinson's disease results from loss of dopaminergic neurons in the substantia nigra pars compacta, reducing dopamine in the striatum, imbalancing direct and indirect pathways, causing excessive thalamic inhibition and reduced cortical activation — bradykinesia, rigidity, resting tremor. Option D describes Huntington's disease.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 57, The Cerebellum and Basal Ganglia",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK536995/"
   },
   {
     "id": 136,
@@ -2550,7 +2580,8 @@
     "correct": 0,
     "explanation": "Delta waves (<4 Hz, high amplitude) characterize Stage N3 (deep NREM sleep). Alpha = relaxed wakefulness with eyes closed. Beta = active thinking/REM sleep. Theta = light sleep/drowsiness. Deep sleep is when growth hormone is secreted and memory consolidation occurs.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 60, Sleep, Brain Waves, Epilepsy, Psychoses",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/"
   },
   {
     "id": 137,
@@ -2567,7 +2598,8 @@
     "correct": 0,
     "explanation": "The BBB is formed by tight junctions (zonula occludens) between adjacent cerebral capillary endothelial cells, preventing paracellular diffusion. Astrocyte end-feet maintain and support the barrier but are not the structural basis. Lipid-soluble substances cross freely; glucose uses GLUT1 transporters.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK519556/"
   },
   {
     "id": 138,
@@ -2584,7 +2616,8 @@
     "correct": 2,
     "explanation": "In bacterial meningitis, bacteria and neutrophils in the CSF consume glucose rapidly, dropping CSF glucose below 45 mg/dL. Neutrophilic pleocytosis + low glucose + high protein = bacterial meningitis until proven otherwise. Viral meningitis typically shows lymphocytic pleocytosis with normal glucose.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470351/"
   },
   {
     "id": 139,
@@ -2601,7 +2634,8 @@
     "correct": 3,
     "explanation": "M2 muscarinic receptors at the SA node mediate vagal bradycardia via increased K⁺ conductance and hyperpolarization. α1 causes vasoconstriction. β2 causes vasodilation and bronchodilation. Nicotinic receptors are at autonomic ganglia and the NMJ, not parasympathetic end organs.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Autonomic Nervous System",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553130/"
   },
   {
     "id": 140,
@@ -2618,7 +2652,8 @@
     "correct": 2,
     "explanation": "Cushing's triad = hypertension + bradycardia + irregular respirations. Rising ICP compresses the brainstem causing reflex hypertension to maintain CPP, baroreceptor-mediated bradycardia, and irregular breathing from direct medullary compression. It is a late, ominous sign of impending herniation.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 61, Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549801/"
   },
   {
     "id": 141,
@@ -2635,7 +2670,8 @@
     "correct": 0,
     "explanation": "L5 dermatome covers the lateral calf, dorsum of foot, and great toe. L4 covers the medial calf and medial foot. S1 covers the posterior calf, lateral foot, and small toe. The distribution described is classic L5 radiculopathy, often from L4/L5 disc herniation.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 48, Somatic Sensations",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560878/"
   },
   {
     "id": 142,
@@ -2652,7 +2688,8 @@
     "correct": 3,
     "explanation": "FRC = ERV + RV. Residual volume cannot be exhaled and therefore cannot be measured by spirometry. FRC requires helium dilution, nitrogen washout, or body plethysmography. All other standard lung volumes and capacities that do not include RV can be measured by spirometry.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 37, Pulmonary Ventilation",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500007/"
   },
   {
     "id": 143,
@@ -2669,7 +2706,8 @@
     "correct": 0,
     "explanation": "Right shift = decreased Hb affinity for O₂ = more O₂ released to tissues (Bohr effect). Caused by increased 2,3-DPG, CO₂, H⁺ (decreased pH), and temperature. Left shift = increased affinity = fetal Hb, hypothermia, decreased CO₂, alkalosis. 2,3-DPG rises in chronic hypoxia and anemia as a compensatory mechanism.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 41, Transport of Oxygen and Carbon Dioxide",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499818/"
   },
   {
     "id": 144,
@@ -2686,7 +2724,8 @@
     "correct": 2,
     "explanation": "FEV1/FVC <0.70 = obstructive pattern. Increased TLC and RV indicate air trapping from loss of elastic recoil (emphysema) and dynamic airway collapse. Chronic productive cough indicates chronic bronchitis. Together = COPD. Restrictive disease shows reduced TLC with normal or increased FEV1/FVC.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Respiratory Insufficiency",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559281/"
   },
   {
     "id": 145,
@@ -2703,7 +2742,8 @@
     "correct": 2,
     "explanation": "Central chemoreceptors in the medulla are exquisitely sensitive to CO₂/H⁺. Rising PaCO₂ causes CO₂ to cross the BBB, forming carbonic acid, decreasing CSF pH and stimulating ventilation. Hypoxia stimulates peripheral chemoreceptors but is a weaker secondary stimulus. In chronic hypercapnia (COPD), hypoxic drive becomes primary.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Regulation of Respiration",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538146/"
   },
   {
     "id": 146,
@@ -2720,7 +2760,8 @@
     "correct": 3,
     "explanation": "PE occludes pulmonary arteries, creating ventilated alveoli with no blood flow, increasing dead space (V/Q approaching infinity). Hypoxemia results from reflex bronchoconstriction, atelectasis, and V/Q mismatch. Low PaCO₂ reflects compensatory hyperventilation. OCPs + young woman = classic PE risk scenario.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539907/"
   },
   {
     "id": 147,
@@ -2737,7 +2778,8 @@
     "correct": 1,
     "explanation": "Surfactant (dipalmitoylphosphatidylcholine, DPPC) is produced by type II pneumocytes. It reduces alveolar surface tension, preventing collapse (atelectasis) especially in small alveoli. Without surfactant (e.g., neonatal respiratory distress syndrome), alveoli collapse on expiration. Surfactant also stabilizes alveoli of different sizes by reducing tension more in smaller alveoli.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 37, Pulmonary Ventilation",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546600/"
   },
   {
     "id": 148,
@@ -2754,7 +2796,8 @@
     "correct": 0,
     "explanation": "pH 7.30 (acidosis) + elevated PaCO₂ 55 mmHg = respiratory acidosis. Normal HCO₃ indicates no metabolic compensation yet, making this acute. In severe asthma, airway obstruction causes CO₂ retention. A rising PaCO₂ in asthma is an ominous sign indicating respiratory muscle fatigue and impending respiratory failure.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 30, Acid-Base Regulation",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK526070/"
   },
   {
     "id": 149,
@@ -2771,7 +2814,8 @@
     "correct": 2,
     "explanation": "In the upright lung, both ventilation and perfusion increase from apex to base, but perfusion increases more steeply. At the apex (Zone 1), perfusion is lowest relative to ventilation, giving the highest V/Q ratio (~3.3). At the base (Zone 3), perfusion exceeds ventilation proportionally, giving the lowest V/Q (~0.6). Overall V/Q ratio is ~0.8.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 39, Pulmonary Circulation",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539907/"
   },
   {
     "id": 150,
@@ -2788,7 +2832,8 @@
     "correct": 2,
     "explanation": "Tension pneumothorax: air enters the pleural space and cannot escape (one-way valve mechanism). Progressive pressure shifts the mediastinum contralaterally, compresses the contralateral lung, and kinks the great veins — reducing venous return and cardiac output. Tracheal deviation away from the lesion is the key clinical sign. Requires immediate needle decompression.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Edema and Respiratory Failure",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559090/"
   },
   {
     "id": 151,
@@ -2805,7 +2850,8 @@
     "correct": 2,
     "explanation": "~70% of CO₂ is transported as HCO₃⁻. CO₂ enters RBCs, combines with H₂O via carbonic anhydrase to form H₂CO₃, which dissociates to H⁺ + HCO₃⁻. HCO₃⁻ is exchanged for Cl⁻ (chloride shift) and enters plasma. ~23% is carried as carbaminohemoglobin, ~7% dissolved. This system also plays a key role in acid-base balance.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 41, Transport of Oxygen and Carbon Dioxide",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532988/"
   },
   {
     "id": 152,
@@ -2822,7 +2868,8 @@
     "correct": 1,
     "explanation": "The immediate response to hypoxia at altitude is stimulation of carotid and aortic body peripheral chemoreceptors → hyperventilation. This raises PaO₂ but causes respiratory alkalosis (low PaCO₂). EPO rise takes days; 2,3-DPG increases over hours to days; cerebral vasodilation (not constriction) occurs. Acute mountain sickness results from rapid ascent without acclimatization.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 43, Aviation, High Altitude, and Space Physiology",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430716/"
   },
   {
     "id": 153,
@@ -2839,7 +2886,8 @@
     "correct": 0,
     "explanation": "HPV is a local reflex unique to the pulmonary circulation — opposite to the systemic response. When alveolar PO₂ falls, local pulmonary arterioles constrict, diverting blood to better-ventilated alveoli to optimize V/Q matching. Globally (e.g., at altitude), HPV causes pulmonary hypertension. It is mediated by inhibition of K⁺ channels in vascular smooth muscle.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 38, Pulmonary Circulation",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499962/"
   },
   {
     "id": 154,
@@ -2856,7 +2904,8 @@
     "correct": 3,
     "explanation": "In chronic hypercapnic COPD, central chemoreceptors become desensitized to high CO₂. Breathing is maintained by hypoxic drive via peripheral chemoreceptors. High-flow O₂ abolishes this drive, causing hypoventilation and worsening hypercapnia. Target SpO₂ in COPD is 88–92% — controlled low-flow O₂ is safer than high-flow.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 42, Regulation of Respiration",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK525962/"
   },
   {
     "id": 155,
@@ -2873,7 +2922,8 @@
     "correct": 0,
     "explanation": "The proximal convoluted tubule (PCT) reabsorbs approximately 65–67% of filtered sodium, water, bicarbonate, glucose, and amino acids. Reabsorption is driven by the Na+/K+-ATPase pump on the basolateral membrane, which maintains a low intracellular sodium concentration, allowing sodium to enter the cell passively from the tubular lumen. Water follows osmotically via aquaporin-1 channels.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 28, Urine Formation by the Kidneys",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538339/"
   },
   {
     "id": 156,
@@ -2890,7 +2940,8 @@
     "correct": 3,
     "explanation": "Furosemide is a loop diuretic that inhibits the Na+/K+/2Cl− (NKCC2) cotransporter in the thick ascending limb of the loop of Henle. This segment is normally impermeable to water, and inhibiting NKCC2 prevents the generation of the hypertonic medullary interstitium, reducing the driving force for water reabsorption in the collecting duct. The result is a large volume of dilute urine.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 31, Diuretics and Kidney Disease",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK546656/"
   },
   {
     "id": 157,
@@ -2907,7 +2958,8 @@
     "correct": 0,
     "explanation": "The normal GFR in a healthy adult is approximately 125 mL/min, which amounts to about 180 L/day of filtrate. Of this, roughly 99% is reabsorbed, resulting in only 1–2 L of urine per day. GFR is determined by the Starling forces across the glomerular capillary and the filtration coefficient (Kf). It is clinically estimated using creatinine clearance.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 26, Glomerular Filtration, Renal Blood Flow",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500032/"
   },
   {
     "id": 158,
@@ -2924,7 +2976,8 @@
     "correct": 1,
     "explanation": "The water deprivation test shows persistently dilute urine, confirming diabetes insipidus. Because urine osmolality fails to rise even after exogenous desmopressin, the renal collecting ducts are unresponsive to ADH — consistent with nephrogenic diabetes insipidus. Central diabetes insipidus would instead show a rise in urine osmolality after desmopressin, since ADH secretion is deficient but renal responsiveness is intact.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 29, Regulation of Extracellular Fluid Osmolarity and Sodium Concentration",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470458/"
   },
   {
     "id": 159,
@@ -2941,7 +2994,8 @@
     "correct": 0,
     "explanation": "Aldosterone acts on principal cells of the late distal convoluted tubule and collecting duct. It binds to cytoplasmic mineralocorticoid receptors, leading to increased transcription of Na+/K+-ATPase and epithelial sodium channels (ENaC). This results in increased sodium reabsorption and potassium secretion. Aldosterone release is primarily stimulated by angiotensin II and hyperkalemia.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 30, Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470339/"
   },
   {
     "id": 160,
@@ -2958,7 +3012,8 @@
     "correct": 3,
     "explanation": "Thiazide diuretics inhibit the Na+/Cl− cotransporter in the distal convoluted tubule, increasing sodium delivery to the collecting duct. This stimulates aldosterone-mediated Na+ reabsorption and K+ secretion, causing hypokalemia. The volume contraction also activates the renin-angiotensin-aldosterone system, and increased H+ secretion leads to metabolic alkalosis. Thiazides are a classic cause of hypokalemic metabolic alkalosis.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 31, Diuretics and Kidney Disease",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532918/"
   },
   {
     "id": 161,
@@ -2975,7 +3030,8 @@
     "correct": 0,
     "explanation": "The loop of Henle functions as a countercurrent multiplier. The descending limb is permeable to water but not solutes, concentrating the tubular fluid as it descends. The thick ascending limb actively transports NaCl out of the tubule (impermeable to water), diluting the fluid and depositing solutes in the medullary interstitium. This builds a progressively hypertonic gradient from cortex to medulla (300–1200 mOsm/kg), enabling concentration of urine in the collecting duct under ADH influence.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 28, Urine Concentration and Dilution",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470386/"
   },
   {
     "id": 162,
@@ -2992,7 +3048,8 @@
     "correct": 1,
     "explanation": "This presentation is classic for Syndrome of Inappropriate ADH secretion (SIADH): euvolemic hyponatremia, concentrated urine (>100 mOsm/kg), elevated urine sodium (>40 mEq/L), and low serum osmolality. Excess ADH causes water retention via upregulation of aquaporin-2 channels in the collecting duct, diluting serum sodium. Causes include CNS disorders, pulmonary disease, and certain medications.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 29, Regulation of Extracellular Fluid Osmolarity and Sodium Concentration",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470386/"
   },
   {
     "id": 163,
@@ -3009,7 +3066,8 @@
     "correct": 2,
     "explanation": "Approximately 65% of filtered water is reabsorbed in the proximal convoluted tubule. This reabsorption is isosmotic — it occurs passively via aquaporin-1 channels as water follows the osmotic gradient created by active sodium reabsorption. The tubular fluid remains isotonic throughout the PCT despite the large volume reabsorbed.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 28, Urine Formation by the Kidneys",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538339/"
   },
   {
     "id": 164,
@@ -3026,7 +3084,8 @@
     "correct": 0,
     "explanation": "The combination of oliguria, highly concentrated urine (high osmolality), and very low urine sodium indicates intact tubular function responding to hypovolemia — consistent with pre-renal azotemia. Severe burns cause massive fluid loss and plasma volume depletion, activating the RAAS and ADH, leading to maximal sodium and water reabsorption. In ATN, tubular damage would result in isosthenuric urine (osmolality ~300 mOsm/kg) and elevated urine sodium (>40 mEq/L).",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 32, Kidney Diseases and Diuretics",
-    "cognitive_level": "applying"
+    "cognitive_level": "applying",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560678/"
   },
   {
     "id": 165,
@@ -3043,7 +3102,8 @@
     "correct": 1,
     "explanation": "Total body water in a 70 kg adult is approximately 42 L (60% of body weight). Of this, two-thirds (~28 L) is intracellular fluid. The ICF is characterised by high concentrations of K+ (main cation), Mg²+, and phosphate/protein (main anions). The extracellular fluid (~14 L) is dominated by Na+ and Cl−. This ionic asymmetry is maintained by the Na+/K+-ATPase pump.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 25, The Body Fluid Compartments",
-    "cognitive_level": "recall"
+    "cognitive_level": "recall",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541059/"
   },
   {
     "id": 166,
@@ -3060,7 +3120,8 @@
     "correct": 2,
     "explanation": "This presentation — longstanding diabetes, heavy proteinuria, oedema, and progressive renal impairment — is consistent with diabetic nephropathy. The pathognomonic histological finding is diffuse glomerulosclerosis with Kimmelstiel-Wilson nodules (nodular glomerulosclerosis): PAS-positive nodular deposits in the mesangium caused by accumulation of extracellular matrix. The mechanism involves hyperfiltration-induced mesangial expansion driven by chronic hyperglycaemia and RAAS activation.",
     "reference": "Guyton and Hall Medical Physiology, 14th ed. — Chapter 32, Kidney Diseases; Ganong's Review of Medical Physiology, 26th ed.",
-    "cognitive_level": "understanding"
+    "cognitive_level": "understanding",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK534200/"
   },
   {
     "id": 167,
