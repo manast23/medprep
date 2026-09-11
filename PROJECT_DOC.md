@@ -428,3 +428,24 @@ Any fixes found are pushed as a normal commit, and the QA pass itself (what was 
 ## 11. Monetization Plan (Future, unchanged)
 
 Phase 1 — Free launch. Phase 2 — Freemium (free tier limited/day, paid tier full bank + timed mode + progress tracking). Phase 3 — Scale (annual plan, subject packs, institutional access).
+
+
+---
+
+**Launch-readiness audit (current focus: shipping ASAP, not further content polish)**
+
+Full site code audit (pages/index.js, quiz.js, results.js, _app.js) done to find real launch blockers vs. nice-to-have content QA. Findings, priority-ordered:
+
+✅ Fixed:
+- **Stale "Coming Soon" homepage card** — was telling every visitor "Pathology, Pharmacology, and Microbiology modules are currently in peer-review" when all three have been live with 100 questions each. Removed the card entirely (all planned subjects are live; `COMING_SOON` array and its unused CSS were cleaned up too).
+- **Copy overclaiming clinical-vignette/boards-exam focus** — meta description, hero subtext, features section, and CTA banner all said things like "clinical vignette focus," "complex multi-step clinical reasoning," and "rigor of boards," directly contradicting the actual product (factual/conceptual recall for university exams, not licensing-style vignettes). Rewrote all of it to match the real positioning, and leaned into Anas's actual differentiator ("Written by a Medical Graduate" feature card) instead of a false clinical-rigor claim.
+- **Missing explicit viewport meta tag** — added to `_app.js` as cheap insurance for the mobile-heavy target audience.
+
+🟠 Flagged, not yet done — worth deciding on before a real marketing push:
+- Dead footer links (`href="#"`) for Privacy Policy, Terms of Service, Contact Support, Institutional Access
+- No Open Graph / Twitter card meta tags — since marketing is social-media-driven, shared links currently preview with no title/image
+- Thin mobile CSS coverage (~3 `@media` queries total across the site) — not verified on an actual device
+
+🟢 Not blockers, flagged for later:
+- No analytics — no visibility into traffic, drop-off, or which subjects/questions get used
+- Minor leftover cruft: `quiz.js` sets `answers[].topic = q.topic`, which is always `undefined` since the schema field is `subtopic` — harmless (results.js already falls back to `subtopic`), but worth cleaning up eventually
