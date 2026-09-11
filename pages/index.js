@@ -76,7 +76,6 @@ const SUBJECTS = [
   },
 ]
 
-const COMING_SOON = []
 const QUESTION_TYPES = [
   { key: 'All', label: 'All Types' },
   { key: 'factual', label: 'Factual' },
@@ -168,7 +167,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>MedPrep | Master Medical Sciences Through Active Recall</title>
-        <meta name="description" content="Professional medical MCQ practice platform with clinical vignette focus." />
+        <meta name="description" content="Professional medical MCQ practice platform for high-yield factual and conceptual recall across all core subjects." />
       </Head>
 
       <Navbar />
@@ -185,7 +184,7 @@ export default function Home() {
                 <span className={styles.heroAccent}> Through Active Recall</span>
               </h1>
               <p className={styles.heroSubtext}>
-                The clinical precision of a medical textbook combined with the efficiency of modern cognitive science. Designed for high-stakes clinical exams.
+                Textbook-referenced questions built for straightforward factual and conceptual recall — the way your actual university exams test you.
               </p>
 
               <div className={styles.statsRow}>
@@ -259,26 +258,6 @@ export default function Home() {
                 </div>
               </div>
             ))}
-
-            <div
-              className={styles.comingSoonCard}
-              ref={(el) => (cardRefs.current[SUBJECTS.length] = el)}
-              data-card-index={SUBJECTS.length}
-              style={cardRevealStyle(SUBJECTS.length)}
-            >
-              <div className={styles.comingSoonInner}>
-                <div className={styles.comingSoonIcons}>
-                  <span>🧪</span><span>💊</span><span>🔬</span>
-                </div>
-                <h3 className={styles.comingSoonTitle}>Expanding Curriculum</h3>
-                <p className={styles.comingSoonText}>
-                  Pathology, Pharmacology, and Microbiology modules are currently in peer-review.
-                </p>
-                <div className={styles.comingSoonTags}>
-                  {COMING_SOON.map(s => <span key={s} className={styles.comingSoonTag}>{s}</span>)}
-                </div>
-              </div>
-            </div>
           </div>
         </section>
 
@@ -361,8 +340,8 @@ export default function Home() {
                     <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
                   </svg>
                 </div>
-                <h4>Clinical + Factual Mix</h4>
-                <p>Balanced content including high-yield facts and complex multi-step clinical reasoning vignettes.</p>
+                <h4>Built for How You're Actually Tested</h4>
+                <p>Straightforward factual and conceptual questions modeled on real university exams — not licensing-style clinical vignettes.</p>
               </div>
               <div className={styles.featureItem}>
                 <div className={styles.featureIcon}>
@@ -370,8 +349,8 @@ export default function Home() {
                     <circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>
                   </svg>
                 </div>
-                <h4>Clinical Excellence</h4>
-                <p>Designed by medical professionals to simulate the rigor of boards and real-world clinical practice.</p>
+                <h4>Written by a Medical Graduate</h4>
+                <p>Every question written and reviewed against your actual course syllabus — not generic question-bank filler.</p>
               </div>
             </div>
           </div>
@@ -381,7 +360,7 @@ export default function Home() {
         <section className={styles.ctaBanner}>
           <div className={styles.ctaContent}>
             <h3>Ready to elevate your study efficiency?</h3>
-            <p>Master the clinical sciences with evidence-based questions and detailed textbook explanations.</p>
+            <p>Master the medical sciences with evidence-based questions and detailed textbook explanations.</p>
             <div className={styles.bannerCtas}>
               <button className={styles.btnPrimaryWhite} onClick={() => document.getElementById('subjects')?.scrollIntoView({ behavior: 'smooth' })}>
                 Start Practicing
@@ -399,7 +378,7 @@ export default function Home() {
         <div className={styles.footerContent}>
           <div className={styles.footerBrand}>
             <div className={styles.footerLogo}>MedPrep</div>
-            <p>Evidence-based clinical scenarios cited from Gray's Anatomy, Guyton & Hall Medical Physiology, and Snell's Clinical Anatomy.</p>
+            <p>Evidence-based questions cited from Gray's Anatomy, Guyton & Hall Medical Physiology, and Snell's Clinical Anatomy.</p>
           </div>
           <div className={styles.footerLinks}>
             <div className={styles.linkCol}>
