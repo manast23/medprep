@@ -255,7 +255,7 @@
   background: rgba(16,20,21,0.9);
   backdrop-filter: blur(20px);
   border: 1px solid rgba(255,255,255,0.1);
-  border-radius: 16px; padding: 28px; width: 360px;
+  border-radius: 16px; padding: 28px; width: 360px; max-width: calc(100vw - 48px);
   box-shadow: 0 20px 60px rgba(0,0,0,0.5);
 }
 .confirmTitle { font-size: 17px; font-weight: 700; color: white; margin-bottom: 8px; }
@@ -276,4 +276,7 @@
   .main { grid-template-columns: 1fr; }
   .pills { display: none; }
   .qText { font-size: 16px; }
+  .quizNav { padding: 0 14px; }
+  .progressBar { width: 100px; }
+  .confirmBox { padding: 22px; }
 }
