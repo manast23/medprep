@@ -345,6 +345,8 @@
 @media (max-width: 768px) {
   .heroTitle { font-size: 34px; }
   .hero { padding: 56px 0; }
+  .settingsSection { padding: 0 16px; }
+  .settingsPanel { padding: 20px; }
   .settingsGrid { grid-template-columns: 1fr; }
   .countWrap { grid-template-columns: repeat(3,1fr); }
   .bannerCtas { flex-direction: column; align-items: center; }
