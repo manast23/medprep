@@ -441,11 +441,11 @@ Full site code audit (pages/index.js, quiz.js, results.js, _app.js) done to find
 - **Copy overclaiming clinical-vignette/boards-exam focus** — meta description, hero subtext, features section, and CTA banner all said things like "clinical vignette focus," "complex multi-step clinical reasoning," and "rigor of boards," directly contradicting the actual product (factual/conceptual recall for university exams, not licensing-style vignettes). Rewrote all of it to match the real positioning, and leaned into Anas's actual differentiator ("Written by a Medical Graduate" feature card) instead of a false clinical-rigor claim.
 - **Missing explicit viewport meta tag** — added to `_app.js` as cheap insurance for the mobile-heavy target audience.
 
-🟠 Flagged, not yet done — worth deciding on before a real marketing push:
-- Dead footer links (`href="#"`) for Privacy Policy, Terms of Service, Contact Support, Institutional Access
-- No Open Graph / Twitter card meta tags — since marketing is social-media-driven, shared links currently preview with no title/image
-- Thin mobile CSS coverage (~3 `@media` queries total across the site) — not verified on an actual device
+✅ All four flagged items now done:
+- **Open Graph / Twitter card tags** — branded 1200×630 share image generated to match the site's dark emerald theme, uploaded to `/public/og-image.png`, full OG + Twitter meta added to `pages/index.js`.
+- **Analytics** — `@vercel/analytics` added as a dependency and wired into `pages/_app.js`. **Manual step still needed on Anas's end**: enable Web Analytics in the Vercel dashboard (Project → Analytics tab) — this can't be done via the GitHub API.
+- **Mobile CSS bugs fixed**: the exit-confirmation modal (`.confirmBox`) was a fixed 360px width with no scaling — would clip/overflow on ~375px-and-narrower phones (iPhone SE, budget Android). Added `max-width: calc(100vw - 48px)`. Also shrank the quiz nav's fixed 200px progress bar to 100px on mobile, tightened nav padding, and reduced settings-panel padding on narrow screens (was 48px each side, unreduced at any breakpoint).
+- **Footer links**: removed the dead `Institutional Access` and `Contact Support` links (not real features/contact channels right now — Anas's call). Added real, honest `/privacy` and `/terms` pages reflecting what the app actually does (no accounts, no server-side quiz-data storage, cookie-free Vercel Analytics only, no ads/data sale) and wired the footer's Privacy Policy / Terms of Service links to them.
 
-🟢 Not blockers, flagged for later:
-- No analytics — no visibility into traffic, drop-off, or which subjects/questions get used
+🟢 Not blockers, still open:
 - Minor leftover cruft: `quiz.js` sets `answers[].topic = q.topic`, which is always `undefined` since the schema field is `subtopic` — harmless (results.js already falls back to `subtopic`), but worth cleaning up eventually
