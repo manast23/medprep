@@ -400,14 +400,9 @@ export default function Home() {
               <a href="#features">Features</a>
             </div>
             <div className={styles.linkCol}>
-              <h5>Support</h5>
-              <a href="#">Institutional Access</a>
-              <a href="#">Contact Support</a>
-            </div>
-            <div className={styles.linkCol}>
               <h5>Legal</h5>
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms of Service</a>
+              <a href="/privacy">Privacy Policy</a>
+              <a href="/terms">Terms of Service</a>
             </div>
           </div>
         </div>
