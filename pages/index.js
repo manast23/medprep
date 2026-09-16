@@ -168,6 +168,19 @@ export default function Home() {
       <Head>
         <title>MedPrep | Master Medical Sciences Through Active Recall</title>
         <meta name="description" content="Professional medical MCQ practice platform for high-yield factual and conceptual recall across all core subjects." />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://medprep-three.vercel.app" />
+        <meta property="og:title" content="MedPrep | Master Medical Sciences Through Active Recall" />
+        <meta property="og:description" content="800+ questions across 8 core subjects, written by a medical graduate. Practice built for how you're actually tested." />
+        <meta property="og:image" content="https://medprep-three.vercel.app/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="MedPrep | Master Medical Sciences Through Active Recall" />
+        <meta name="twitter:description" content="800+ questions across 8 core subjects, written by a medical graduate. Practice built for how you're actually tested." />
+        <meta name="twitter:image" content="https://medprep-three.vercel.app/og-image.png" />
       </Head>
 
       <Navbar />
