@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /quiz
+Disallow: /results
+
+Sitemap: https://medprep-three.vercel.app/sitemap.xml
