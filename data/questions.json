@@ -15031,5 +15031,195 @@
     "reference": "StatPearls — Organophosphate Toxicity",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470430/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 801,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which layer of the epidermis contains the mitotically active stem cells responsible for continuous keratinocyte renewal?",
+    "options": [
+      "Stratum basale",
+      "Stratum spinosum",
+      "Stratum granulosum",
+      "Stratum lucidum",
+      "Stratum corneum"
+    ],
+    "correct": 0,
+    "explanation": "The stratum basale is the deepest epidermal layer and contains the proliferative stem cells that continuously divide to replace keratinocytes lost from the surface. As daughter cells are pushed upward, they differentiate through the spinosum, granulosum, and (in thick skin) lucidum layers before becoming the anucleate, keratin-filled cells of the stratum corneum. The stratum corneum itself is post-mitotic and purely a protective, shedding layer, not a site of renewal.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Integumentary System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470464/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 802,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Which pancreatic islet cell type is most numerous and secretes insulin?",
+    "options": [
+      "Delta cells",
+      "Beta cells",
+      "Alpha cells",
+      "PP (pancreatic polypeptide) cells",
+      "Epsilon cells"
+    ],
+    "correct": 1,
+    "explanation": "Beta cells make up roughly 70% of islet cell mass and are concentrated centrally within the islet, secreting insulin in response to rising blood glucose. Alpha cells, positioned more peripherally, secrete glucagon and are the second most abundant type. Delta cells secrete somatostatin and PP cells secrete pancreatic polypeptide, but both are far less numerous than beta cells.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Digestive Glands",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459261/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 803,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Elastic cartilage, found in the epiglottis and pinna of the ear, is distinguished histologically from hyaline cartilage mainly by which feature?",
+    "options": [
+      "A well-developed perichondrium",
+      "Isogenous groups of chondrocytes",
+      "Elastic fibers dispersed through the matrix",
+      "Type II collagen in the matrix",
+      "Chondrocytes arranged in lacunae"
+    ],
+    "correct": 2,
+    "explanation": "Elastic cartilage shares a perichondrium, lacunae-housed chondrocytes, type II collagen, and isogenous chondrocyte groups with hyaline cartilage, but it uniquely contains a dense network of elastic fibers running through its matrix. These fibers give elastic cartilage the flexibility and recoil needed for structures like the epiglottis and external ear that must bend and spring back. Hyaline cartilage lacks this elastic fiber network, which is why it is stiffer and more prone to fracture under repeated bending.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Cartilage and Bone",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532964/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 804,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "The central (Haversian) canal of an osteon primarily contains which structures?",
+    "options": [
+      "Canaliculi connecting adjacent osteocytes",
+      "Volkmann's canals",
+      "Red bone marrow",
+      "Blood vessels and nerves",
+      "Osteoblasts lining the canal wall only"
+    ],
+    "correct": 3,
+    "explanation": "Each osteon is a cylindrical unit of concentric bone lamellae surrounding a central Haversian canal that carries the blood vessels and nerve fibers supplying that unit of compact bone. Canaliculi are the fine channels radiating from the central canal that connect osteocytes to each other and to the vascular supply, not the canal's contents themselves. Volkmann's canals are the transverse channels that connect adjacent Haversian canals to each other, distinct from the central canal in each individual osteon.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Bone",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541132/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 805,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Within a lymph node, active B-cell proliferation and antibody affinity maturation occur primarily in which structure?",
+    "options": [
+      "Subcapsular sinus",
+      "Medullary sinuses",
+      "Paracortex",
+      "Medullary cords",
+      "Germinal centers of the cortex"
+    ],
+    "correct": 4,
+    "explanation": "Germinal centers form within the lymph node cortex as B cells encounter antigen and undergo rapid proliferation, somatic hypermutation, and affinity maturation with the help of follicular dendritic cells and T helper cells. The paracortex, by contrast, is the T-cell-dominant zone lying deep to the cortex. Medullary cords and sinuses are downstream structures where plasma cells accumulate and lymph drains, not the primary site of B-cell proliferation itself.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Lymphatic System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557717/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 806,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "The characteristic cross-striations of skeletal muscle fibers arise from the regular repeating arrangement of which structure?",
+    "options": [
+      "Sarcomere",
+      "Myofibril bundle as a whole",
+      "T-tubule",
+      "Sarcoplasmic reticulum",
+      "Sarcolemma"
+    ],
+    "correct": 0,
+    "explanation": "The sarcomere is the basic repeating contractile unit of a myofibril, defined by the regular overlap of thick myosin and thin actin filaments between successive Z-discs. This regular, in-register arrangement of light (I-band) and dark (A-band) zones across adjacent myofibrils is what produces the visible cross-striations under light microscopy. The sarcolemma, T-tubules, and sarcoplasmic reticulum are all involved in excitation-contraction coupling but are not themselves the source of the striated banding pattern.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Muscle Tissue",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537195/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 807,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "The colloid filling thyroid follicles is primarily a storage form of which substance?",
+    "options": [
+      "Parathyroid hormone",
+      "Thyroglobulin",
+      "Calcitonin",
+      "Free triiodothyronine (T3)",
+      "Thyroxine-binding globulin"
+    ],
+    "correct": 1,
+    "explanation": "Thyroid follicular colloid is composed mainly of iodinated thyroglobulin, the large glycoprotein synthesized by follicular epithelial cells and stored extracellularly until thyroid hormone is needed. On stimulation, colloid is endocytosed back into the follicular cells, where thyroglobulin is proteolyzed to release T3 and T4 into the bloodstream. Calcitonin is produced by parafollicular (C) cells rather than stored in colloid, and thyroxine-binding globulin is a plasma transport protein made by the liver, not a thyroid follicle product.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Endocrine Glands",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551659/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 808,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "Sertoli cells within the seminiferous tubules support spermatogenesis primarily by forming which structure?",
+    "options": [
+      "The tunica albuginea",
+      "The rete testis",
+      "The blood-testis barrier via tight junctions",
+      "Relaxin for pubic symphysis remodeling",
+      "Testosterone through LH-driven steroidogenesis"
+    ],
+    "correct": 2,
+    "explanation": "Sertoli cells form tight junctions with each other near the base of the seminiferous tubule, creating the blood-testis barrier that isolates developing germ cells from the systemic immune system and maintains a specialized luminal environment. Testosterone production is instead the role of Leydig cells in the interstitium, which respond to LH stimulation, not a Sertoli cell function. The tunica albuginea and rete testis are separate testicular structures unrelated to the Sertoli cell's barrier-forming role.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Male Reproductive System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560631/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 809,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "factual",
+    "question": "The intervertebral disc's annulus fibrosus is composed of which type of cartilage-associated connective tissue?",
+    "options": [
+      "Elastic cartilage",
+      "Dense regular connective tissue only",
+      "Reticular connective tissue",
+      "Fibrocartilage",
+      "Hyaline cartilage"
+    ],
+    "correct": 3,
+    "explanation": "Fibrocartilage combines dense bundles of type I collagen with cartilage matrix and chondrocytes arranged in rows, giving it the tensile strength and compressibility needed in the annulus fibrosus, pubic symphysis, and menisci. Unlike hyaline or elastic cartilage, fibrocartilage lacks a perichondrium and blends directly into adjacent dense connective tissue. Dense regular connective tissue, as in tendons, lacks the chondrocyte-containing matrix that defines fibrocartilage as a true cartilage variant.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Cartilage and Bone",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK532964/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 810,
+    "subject": "Anatomy",
+    "subtopic": "Histology",
+    "type": "clinical",
+    "question": "A patient with Cushing syndrome due to a cortisol-secreting adrenal adenoma most likely has a tumor arising from which adrenal cortical zone?",
+    "options": [
+      "Adrenal capsule",
+      "Zona glomerulosa",
+      "Zona reticularis",
+      "Adrenal medulla",
+      "Zona fasciculata"
+    ],
+    "correct": 4,
+    "explanation": "The zona fasciculata is the thick middle layer of the adrenal cortex responsible for glucocorticoid (cortisol) synthesis under ACTH stimulation, making it the typical origin of cortisol-secreting adenomas in Cushing syndrome. The zona glomerulosa, by contrast, produces aldosterone and is the site of origin for Conn syndrome, not Cushing syndrome. The zona reticularis mainly produces adrenal androgens, and the adrenal medulla is a separate, neural-crest-derived tissue that secretes catecholamines rather than steroids.",
+    "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Endocrine Glands",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470218/",
+    "cognitive_level": "applying"
   }
 ]
