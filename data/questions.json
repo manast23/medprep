@@ -15411,5 +15411,195 @@
     "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — The Eye: I. Optics of Vision",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430857/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 821,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "Which serum tumour marker is most characteristically elevated in hepatocellular carcinoma?",
+    "options": [
+      "CA-125",
+      "Carcinoembryonic antigen (CEA)",
+      "Alpha-fetoprotein",
+      "CA 19-9",
+      "Prostate-specific antigen (PSA)"
+    ],
+    "correct": 2,
+    "explanation": "Alpha-fetoprotein (AFP), an oncofetal glycoprotein normally produced by the fetal liver and yolk sac, is the standard serum tumour marker used for hepatocellular carcinoma. Raised levels support the diagnosis and are used to monitor for recurrence after treatment, although AFP is not elevated in every case. CA-125 is mainly associated with ovarian epithelial tumours, PSA with prostate cancer, and CA 19-9 with pancreaticobiliary malignancy, so none of these is the characteristic marker for this tumour.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430750/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 822,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "Which enzyme is characteristically raised out of proportion to the transaminases in obstructive (cholestatic) jaundice?",
+    "options": [
+      "Alkaline phosphatase",
+      "Lactate dehydrogenase",
+      "Amylase",
+      "Alanine aminotransferase",
+      "Aspartate aminotransferase"
+    ],
+    "correct": 0,
+    "explanation": "Alkaline phosphatase is newly synthesised in response to biliary obstruction, so its serum level rises markedly in cholestatic jaundice. The transaminases AST and ALT, by contrast, mainly reflect hepatocellular injury and rise more prominently in hepatitis than in obstruction. Because alkaline phosphatase is also produced by bone, a raised level is interpreted alongside a marker such as GGT to confirm a hepatobiliary source.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Liver and Biliary Tract",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459201/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 823,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "Why does HbA1c reflect average glycaemic control over the preceding two to three months?",
+    "options": [
+      "HbA1c is synthesised only during periods of insulin deficiency",
+      "HbA1c reflects renal glucose excretion rather than blood glucose",
+      "Haemoglobin is glycated only during fasting periods",
+      "HbA1c measures the plasma glucose concentration at the moment of sampling",
+      "Glucose binds to haemoglobin in proportion to blood glucose, and red cells circulate for about three months"
+    ],
+    "correct": 4,
+    "explanation": "As blood glucose rises, more glucose attaches to the haemoglobin in red cells, giving a higher HbA1c value. Because red blood cells have an average lifespan of about three months, the HbA1c percentage reflects average glucose exposure over roughly that period rather than a single moment. This is why HbA1c does not require fasting and does not capture sudden, short-lived glucose fluctuations the way a point glucose measurement does.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Endocrine System (Diabetes Mellitus)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK549816/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 824,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "Why does chronic kidney disease cause hypocalcaemia?",
+    "options": [
+      "Hepatic 25-hydroxylation of vitamin D is impaired",
+      "Reduced renal synthesis of calcitriol lowers intestinal calcium absorption",
+      "Excess calcitonin is released by the parathyroid glands",
+      "Distal tubular calcium reabsorption is markedly increased",
+      "Primary PTH hypersecretion drives calcium into bone"
+    ],
+    "correct": 1,
+    "explanation": "Reduced kidney function impairs phosphate excretion and decreases synthesis of active vitamin D (calcitriol) by renal 1-alpha-hydroxylase. Without adequate calcitriol, intestinal calcium absorption falls, and together with phosphate retention this produces hypocalcaemia. The resulting low calcium and raised phosphate stimulate PTH secretion, so the high PTH seen in chronic kidney disease is a secondary response rather than the cause of the low calcium.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Kidney",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560742/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 825,
+    "subject": "Pathology",
+    "subtopic": "Chemical Pathology",
+    "type": "factual",
+    "question": "Serum lipase above three times the upper limit of normal in a patient with epigastric pain most strongly supports which diagnosis?",
+    "options": [
+      "Perforated duodenal ulcer",
+      "Acute cholecystitis",
+      "Acute viral hepatitis",
+      "Acute pancreatitis",
+      "Small bowel obstruction"
+    ],
+    "correct": 3,
+    "explanation": "Acute pancreatitis is diagnosed when two of three criteria are met: characteristic epigastric pain, serum lipase (or amylase) above three times the upper limit of normal, and typical imaging findings. Lipase is released when pancreatic injury and autodigestion damage acinar cells and surrounding fat, so a marked rise points to pancreatic disease. The other conditions can cause abdominal pain, but they do not typically raise lipase to this degree.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Pancreas",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537346/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 826,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Which tumour is the most common skin cancer?",
+    "options": [
+      "Dermatofibrosarcoma protuberans",
+      "Basal cell carcinoma",
+      "Merkel cell carcinoma",
+      "Squamous cell carcinoma",
+      "Malignant melanoma"
+    ],
+    "correct": 1,
+    "explanation": "Basal cell carcinoma is the most common skin cancer, arising on sun-exposed skin from the basal layer of the epidermis and driven largely by mutations in the hedgehog signalling pathway such as PTCH1. It grows slowly and rarely metastasises, but it can cause significant local tissue destruction if untreated. Squamous cell carcinoma is the second most common non-melanoma skin cancer, while melanoma is far less common but accounts for most skin cancer deaths.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Skin",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482439/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 827,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Which histological measurement is the principal determinant of T category and prognosis in primary cutaneous melanoma?",
+    "options": [
+      "Density of the lymphocytic infiltrate",
+      "Clark level of invasion",
+      "Surface area of the lesion",
+      "Amount of melanin pigment",
+      "Breslow thickness"
+    ],
+    "correct": 4,
+    "explanation": "Breslow thickness, measured from the top of the granular layer (or the base of an ulcer) to the deepest melanoma cell, determines the T category in melanoma staging together with ulceration. Greater thickness is associated with worse prognosis and with the need to consider sentinel lymph node biopsy. Clark level, which describes the anatomical layer reached by the tumour, has been largely superseded in staging and is relevant mainly for very thin lesions.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Skin",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470409/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 828,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "Why does prolonged vitamin D deficiency cause osteomalacia in adults?",
+    "options": [
+      "Osteoblasts cannot synthesise type I collagen",
+      "Marrow spaces are replaced by fibrous tissue",
+      "Newly formed osteoid fails to mineralise adequately",
+      "Osteoclasts resorb bone faster than osteoblasts can form it",
+      "Excess mineral is deposited in growth plate cartilage"
+    ],
+    "correct": 2,
+    "explanation": "Vitamin D deficiency reduces intestinal calcium and phosphate absorption, so the osteoid matrix laid down by osteoblasts cannot be adequately mineralised with hydroxyapatite. The result is accumulation of soft, unmineralised osteoid, producing bone softening with bone pain and fracture risk in adults. In children the same defect at the growth plates produces rickets, whereas osteoporosis differs in that mineralisation is normal but total bone mass is reduced.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Bone, Joints, and Soft Tissue Tumors (Metabolic Bone Disease)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551616/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 829,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "In giant cell tumour of bone, which cell population is the true neoplastic component?",
+    "options": [
+      "Mononuclear stromal cells",
+      "Multinucleated osteoclast-like giant cells",
+      "Plasma cells",
+      "Osteocytes",
+      "Chondroblasts"
+    ],
+    "correct": 0,
+    "explanation": "Giant cell tumour of bone contains multinucleated osteoclast-like giant cells within a background of mononuclear stromal cells, and the stromal cells are the neoplastic element. The stromal cells promote formation of the giant cells, which carry out the bone resorption that produces the lytic lesion. This is why denosumab, which targets the giant cells without affecting the neoplastic stromal cells, can still be followed by local recurrence.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Bone, Joints, and Soft Tissue Tumors",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK559229/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 830,
+    "subject": "Pathology",
+    "subtopic": "Musculoskeletal & Skin Pathology",
+    "type": "factual",
+    "question": "In a postmenopausal woman with a vertebral compression fracture after minor trauma, bone histology most likely shows:",
+    "options": [
+      "Dense sclerotic bone with obliterated marrow spaces",
+      "Sheets of plasma cells replacing the marrow",
+      "Wide unmineralised osteoid seams",
+      "Thinned trabeculae with enlarged marrow spaces and normal mineralisation",
+      "A mosaic pattern of cement lines with disorganised lamellae"
+    ],
+    "correct": 3,
+    "explanation": "Osteoporosis arises from an imbalance in which bone resorption exceeds bone formation, and histology shows markedly thinned trabeculae, decreased osteon size, and enlarged Haversian canals and marrow spaces. Because the remaining bone is mineralised normally, osteoporosis is a quantitative rather than qualitative defect, which distinguishes it from osteomalacia with its excess unmineralised osteoid. Vertebral compression fractures after minimal trauma are a classic presentation in postmenopausal women.",
+    "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Bone, Joints, and Soft Tissue Tumors (Metabolic Bone Disease)",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441901/",
+    "cognitive_level": "applying"
   }
 ]
