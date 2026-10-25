@@ -15221,5 +15221,195 @@
     "reference": "Ross & Pawlina, Histology: A Text and Atlas, 8th ed. — Endocrine Glands",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470218/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 811,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "After leaving the seminiferous tubules, spermatozoa mature and are prepared for ejaculation in which structure?",
+    "options": [
+      "Prostate gland",
+      "Rete testis",
+      "Seminal vesicle",
+      "Epididymis",
+      "Vas deferens"
+    ],
+    "correct": 3,
+    "explanation": "After formation in the seminiferous tubules, spermatozoa pass through the rete testis into the epididymis, where they mature and are prepared for ejaculation. The epididymis is therefore the site of final sperm maturation, whereas the seminiferous tubules are only where the cells are first produced. The vas deferens, by contrast, mainly transports mature sperm toward the ejaculatory duct, and the seminal vesicle and prostate contribute seminal fluid rather than maturing sperm.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — Reproductive and Hormonal Functions of the Male",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553142/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 812,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "Why does continuous, non-pulsatile administration of a GnRH agonist ultimately suppress rather than stimulate gonadotropin secretion?",
+    "options": [
+      "It downregulates and desensitizes pituitary GnRH receptors",
+      "It converts GnRH into an inactive metabolite",
+      "It directly inhibits the anterior pituitary gonadotroph cells",
+      "It increases hepatic clearance of LH and FSH",
+      "It stimulates inhibin release from the hypothalamus"
+    ],
+    "correct": 0,
+    "explanation": "Normal gonadotropin secretion depends on pulsatile GnRH release, which allows pituitary GnRH receptors to recover sensitivity between pulses. Continuous, non-pulsatile GnRH agonist exposure instead causes sustained receptor occupancy, leading to receptor downregulation and desensitization of the gonadotroph cells. This paradoxical suppression, following an initial transient stimulation, is the pharmacological basis for using GnRH agonists to treat prostate cancer and endometriosis.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — Reproductive and Hormonal Functions of the Male",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551662/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 813,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "The functional changes that spermatozoa must undergo within the female reproductive tract before they are able to fertilize an oocyte are collectively termed:",
+    "options": [
+      "Acrosome reaction",
+      "Spermiogenesis",
+      "Zona reaction",
+      "Meiotic maturation",
+      "Capacitation"
+    ],
+    "correct": 4,
+    "explanation": "Capacitation is the process by which ejaculated sperm undergo biochemical and physiological changes within the female genital tract that are required before they can fertilize an oocyte. It is a prerequisite step that facilitates the acrosome reaction, which is a later, distinct event in which the sperm releases enzymes to penetrate the oocyte's outer layers. Spermiogenesis, by contrast, is the earlier testicular process in which round spermatids are transformed into spermatozoa.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — Reproductive and Hormonal Functions of the Male",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554562/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 814,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "Urine pregnancy tests detect hCG by targeting its beta subunit rather than its alpha subunit mainly because the alpha subunit:",
+    "options": [
+      "Is not produced until after implantation",
+      "Is structurally identical to that of LH, FSH, and TSH",
+      "Is present at far lower concentration than the beta subunit",
+      "Is degraded before hCG reaches the urine",
+      "Cannot cross the glomerular filtration barrier"
+    ],
+    "correct": 1,
+    "explanation": "Human chorionic gonadotropin (hCG) shares its alpha subunit with LH, FSH, and TSH, so an antibody targeting the alpha subunit alone could cross-react with any of these hormones and give a false-positive result. The beta subunit, in contrast, differs between these hormones and gives hCG its structural distinction from LH, which is why pregnancy tests are designed to detect beta-hCG specifically. This specificity allows the test to distinguish pregnancy-associated hCG from baseline circulating LH or FSH.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — Pregnancy and Lactation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK556118/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 815,
+    "subject": "Physiology",
+    "subtopic": "Reproduction",
+    "type": "factual",
+    "question": "Inhibin B, which provides negative feedback selectively on pituitary FSH secretion, is secreted by which testicular cell type?",
+    "options": [
+      "Leydig cells",
+      "Peritubular myoid cells",
+      "Sertoli cells",
+      "Spermatogonia",
+      "Primary spermatocytes"
+    ],
+    "correct": 2,
+    "explanation": "Sertoli cells secrete inhibin B in response to FSH stimulation, and the inhibin B in turn suppresses further FSH release from the anterior pituitary through negative feedback. This creates a feedback loop tied to Sertoli cell activity, since FSH receptors in the male are located on Sertoli cells. Leydig cells, by contrast, produce testosterone, which provides the separate negative-feedback signal that regulates LH.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — Reproductive and Hormonal Functions of the Male",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK535442/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 816,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "Aqueous humor, which maintains intraocular pressure, is produced by which structure?",
+    "options": [
+      "Ciliary body",
+      "Retinal pigment epithelium",
+      "Lens epithelium",
+      "Choroid",
+      "Trabecular meshwork"
+    ],
+    "correct": 0,
+    "explanation": "The epithelium of the ciliary body secretes aqueous humor into the posterior chamber, from where it flows through the pupil into the anterior chamber. It then drains through the trabecular meshwork into Schlemm's canal, collector channels, and the episcleral venous system. This continuous production-and-drainage cycle maintains a stable intraocular pressure, and the trabecular meshwork is a drainage structure rather than a site of production.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — The Eye: I. Optics of Vision",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK553209/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 817,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "According to the place theory of hearing, why does the base of the cochlear basilar membrane preferentially respond to high-frequency sounds?",
+    "options": [
+      "The base receives direct innervation from the vestibular nerve",
+      "The base contains a higher density of outer hair cells",
+      "The base is closer to the round window and vibrates first",
+      "The base has a thicker tectorial membrane",
+      "The base is narrower and stiffer than the apex"
+    ],
+    "correct": 4,
+    "explanation": "The basilar membrane is narrower and stiffer at the base of the cochlea and wider and more flexible at the apex. This non-uniformity creates a tonotopic map in which the highest frequencies are registered at the base and the lowest frequencies at the apex. The base vibrating first because of its proximity to the oval and round windows does not explain frequency selectivity, since it is the graded mechanical properties of the membrane that determine where each frequency peaks.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — The Sense of Hearing",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK531483/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 818,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "Taste sensation from the posterior one-third of the tongue is carried centrally by which cranial nerve?",
+    "options": [
+      "Vagus nerve (CN X)",
+      "Trigeminal nerve (CN V)",
+      "Hypoglossal nerve (CN XII)",
+      "Glossopharyngeal nerve (CN IX)",
+      "Facial nerve (CN VII)"
+    ],
+    "correct": 3,
+    "explanation": "The glossopharyngeal nerve (CN IX) carries taste sensation from the posterior one-third of the tongue. The anterior two-thirds of the tongue, by contrast, sends taste information via the chorda tympani branch of the facial nerve (CN VII). The vagus nerve contributes only a smaller territory, supplying taste buds in the region of the epiglottis.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — The Chemical Senses: Taste and Smell",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557768/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 819,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "factual",
+    "question": "The gradual improvement in visual sensitivity after entering a dark room, known as dark adaptation, is primarily explained by which mechanism?",
+    "options": [
+      "Increased firing rate of retinal ganglion cells",
+      "Reduced blood flow to the choroid",
+      "Progressive regeneration of rhodopsin in rod photoreceptors",
+      "Pupillary constriction increasing light capture",
+      "Migration of photoreceptors toward the fovea"
+    ],
+    "correct": 2,
+    "explanation": "In bright light, rhodopsin is largely broken down, which reduces rod sensitivity. Once in darkness, trans-retinal is converted back to 11-cis-retinal and recombines with opsin to progressively resynthesize rhodopsin, and as its concentration rises, rod threshold falls and sensitivity to dim light increases. Pupillary constriction is a fast reflex response to light exposure itself and does not explain the slow, minutes-long timescale characteristic of dark adaptation.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — The Eye: II. Receptor and Neural Function of the Retina",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538493/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 820,
+    "subject": "Physiology",
+    "subtopic": "Special Senses",
+    "type": "clinical",
+    "question": "A patient with acute angle-closure glaucoma has a sudden painful red eye and rock-hard globe due to obstructed aqueous outflow at which structure?",
+    "options": [
+      "Vitreous base",
+      "Trabecular meshwork at the iridocorneal angle",
+      "Canal of Schlemm epithelium",
+      "Ciliary body",
+      "Central retinal vein"
+    ],
+    "correct": 1,
+    "explanation": "In acute angle-closure glaucoma, the iris bulges forward and contacts the trabecular meshwork, closing the angle and obstructing aqueous humor outflow. This sudden outflow obstruction causes an abrupt rise in intraocular pressure, producing the classic painful red eye and hard globe. Because the ciliary body continues producing aqueous humor, pressure climbs quickly once its main exit route is blocked.",
+    "reference": "Guyton and Hall, Textbook of Medical Physiology, 14th ed. — The Eye: I. Optics of Vision",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430857/",
+    "cognitive_level": "applying"
   }
 ]
