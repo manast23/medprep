@@ -15601,5 +15601,195 @@
     "reference": "Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Bone, Joints, and Soft Tissue Tumors (Metabolic Bone Disease)",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK441901/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 831,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "factual",
+    "question": "Which H2-receptor antagonist is associated with gynaecomastia and inhibition of cytochrome P450 enzymes?",
+    "options": [
+      "Famotidine",
+      "Nizatidine",
+      "Omeprazole",
+      "Cimetidine",
+      "Sucralfate"
+    ],
+    "correct": 3,
+    "explanation": "Cimetidine inhibits several cytochrome P450 isoforms, including CYP1A2, CYP2C9, CYP2D6, and CYP3A4, so it can raise the levels of co-administered drugs such as theophylline and warfarin. At high doses it also has antiandrogenic activity, which can cause gynaecomastia and impotence in men. Gynaecomastia has not been reported as a significant adverse effect with other H2 blockers such as famotidine and nizatidine, and omeprazole and sucralfate belong to different drug classes altogether.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK544255/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 832,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "factual",
+    "question": "Why does sucralfate depend on gastric acid for its mucosal protective action?",
+    "options": [
+      "Acid makes it disintegrate and coat the ulcer base",
+      "It needs hepatic activation after systemic absorption",
+      "It neutralises acid directly, so acid is its substrate",
+      "Acid converts it into an active H2-receptor antagonist",
+      "Acid is needed to carry it into the parietal cells"
+    ],
+    "correct": 0,
+    "explanation": "Sucralfate is a basic aluminium salt of sucrose octasulfate that disintegrates in the stomach in the presence of acid and binds to damaged mucosa, forming a protective layer over the ulcer. This layer acts as a physical barrier between luminal contents and the mucosa, shielding the ulcer from acid and pepsin. Its action is therefore local and barrier-based rather than receptor blockade, systemic absorption, or acid neutralisation.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551527/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 833,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "factual",
+    "question": "Which drug used to prevent NSAID-induced gastric ulcers is contraindicated in pregnancy because it stimulates uterine contractions?",
+    "options": [
+      "Bismuth subsalicylate",
+      "Omeprazole",
+      "Famotidine",
+      "Sucralfate",
+      "Misoprostol"
+    ],
+    "correct": 4,
+    "explanation": "Misoprostol is a synthetic prostaglandin E1 analogue that reduces the risk of NSAID-induced gastric ulcers by inhibiting gastric acid secretion and increasing mucus and bicarbonate secretion. Because it also induces cervical ripening and uterine contractions, it is teratogenic and is contraindicated for ulcer prevention in pregnancy, where it can cause abortion. Sucralfate, famotidine, and omeprazole act through different mechanisms and do not share this prostaglandin-mediated uterine effect.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK539873/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 834,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "factual",
+    "question": "Why does loperamide cause little central opioid effect at therapeutic doses despite being a mu-opioid receptor agonist?",
+    "options": [
+      "It binds only to opioid receptors that are absent from the CNS",
+      "P-glycoprotein efflux limits its entry into the brain",
+      "It is excluded from the brain because it is highly hydrophilic",
+      "It is metabolised to an inactive form by brain esterases",
+      "It is a partial agonist with no activity at central receptors"
+    ],
+    "correct": 1,
+    "explanation": "Loperamide is a lipophilic mu-opioid agonist that acts on opioid receptors in the intestinal muscle to slow transit and reduce stool frequency. It is a substrate of the efflux transporter P-glycoprotein, which limits its penetration across the blood-brain barrier, so central opioid effects are minimal at therapeutic doses. At very high doses or with P-glycoprotein inhibitors this protection is overcome, and loperamide can cause central opioid toxicity such as respiratory depression and dangerous cardiac conduction abnormalities.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557885/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 835,
+    "subject": "Pharmacology",
+    "subtopic": "GIT Pharmacology",
+    "type": "factual",
+    "question": "Which antiemetic class is added to a 5-HT3 antagonist and dexamethasone to prevent vomiting after highly emetogenic chemotherapy?",
+    "options": [
+      "H1 antihistamines",
+      "Antimuscarinic agents",
+      "NK1 receptor antagonists",
+      "Dopamine D2 antagonists",
+      "5-HT4 receptor agonists"
+    ],
+    "correct": 2,
+    "explanation": "For highly emetogenic chemotherapy, an NK1 receptor antagonist such as aprepitant is recommended in combination with a 5-HT3 receptor antagonist such as ondansetron and a glucocorticoid such as dexamethasone. NK1 antagonists block substance P at central NK1 receptors in the vomiting pathway, so they add protection beyond that provided by the other two agents. D2 antagonists, antimuscarinics, H1 antihistamines, and 5-HT4 agonists are not part of this standard three-drug combination.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 62",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551588/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 836,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "factual",
+    "question": "Which anticancer drug causes cumulative, dose-dependent cardiotoxicity?",
+    "options": [
+      "Bleomycin",
+      "Methotrexate",
+      "Vincristine",
+      "Cisplatin",
+      "Doxorubicin"
+    ],
+    "correct": 4,
+    "explanation": "Doxorubicin, an anthracycline, causes dose-dependent cardiotoxicity that is linked to free radical generation, and the risk rises with higher cumulative doses, which is why a maximum cumulative dose of 550 mg/m2 is recommended. Other risk factors include prior mediastinal radiation, hypertension, and pre-existing left ventricular dysfunction. Vincristine, bleomycin, methotrexate, and cisplatin are instead characterised by neuropathy, pulmonary fibrosis, myelosuppression with mucositis, and nephrotoxicity with ototoxicity respectively.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459232/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 837,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "factual",
+    "question": "Which organ is the characteristic site of dose-limiting toxicity for bleomycin?",
+    "options": [
+      "Lungs",
+      "Urinary bladder",
+      "Peripheral nerves",
+      "Heart",
+      "Kidneys"
+    ],
+    "correct": 0,
+    "explanation": "Pulmonary toxicity, which can progress to pulmonary fibrosis, is the dose-limiting toxicity of bleomycin, and risk increases with cumulative dose, age, thoracic radiation, and high-concentration oxygen. Normal tissues are protected by the enzyme bleomycin hydrolase, but its concentration is low in lung and skin, which explains the unusual sensitivity of these sites. The heart, kidneys, peripheral nerves, and bladder are characteristic targets of other cytotoxics such as doxorubicin, cisplatin, vincristine, and cyclophosphamide rather than of bleomycin.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK555895/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 838,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "factual",
+    "question": "Why is leucovorin (folinic acid) effective as rescue after high-dose methotrexate?",
+    "options": [
+      "It blocks proximal tubular reabsorption of filtered methotrexate",
+      "It binds methotrexate in plasma and prevents it distributing",
+      "It is already a reduced folate and bypasses the blocked DHFR step",
+      "It displaces methotrexate from DHFR through irreversible binding",
+      "It induces hepatic enzymes that rapidly metabolise methotrexate"
+    ],
+    "correct": 2,
+    "explanation": "Methotrexate inhibits dihydrofolate reductase (DHFR), depleting the reduced folates needed for purine and thymidylate synthesis. Folinic acid does not require DHFR to be converted into its active derivatives, so it can restore reduced folate pools in normal cells and limit toxicities such as myelosuppression, mucositis, and nephrotoxicity. Ordinary folic acid cannot substitute because it needs DHFR for activation, which is exactly the step that methotrexate blocks.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545232/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 839,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "factual",
+    "question": "Why does vincristine cause peripheral neuropathy?",
+    "options": [
+      "It cross-links neuronal DNA, causing apoptosis of Schwann cells",
+      "It inhibits topoisomerase II in sensory neurons, causing axonal DNA breaks",
+      "It inhibits dihydrofolate reductase, depleting folate in peripheral nerves",
+      "It binds tubulin and disrupts microtubules needed for axonal function",
+      "It stabilises microtubules, causing accumulation of tubulin in axons"
+    ],
+    "correct": 3,
+    "explanation": "Vincristine binds tubulin and prevents its polymerisation into microtubules, which disrupts the mitotic spindle and underlies its anticancer activity. Microtubules also form the tracks for axonal transport in neurons, so the same action in peripheral nerves impairs axonal function and causes a dose-limiting sensorimotor neuropathy. Taxanes also cause neuropathy but do so by stabilising microtubules, whereas vincristine acts by preventing their assembly.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 54",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537122/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 840,
+    "subject": "Pharmacology",
+    "subtopic": "Chemotherapy & Immunosuppressants",
+    "type": "factual",
+    "question": "When allopurinol is co-prescribed with azathioprine, what adjustment is needed to avoid severe myelosuppression?",
+    "options": [
+      "Make no adjustment, as the two drugs are cleared by entirely different pathways",
+      "Reduce the azathioprine dose, as allopurinol raises active metabolite levels",
+      "Add folinic acid routinely to prevent the pharmacokinetic interaction",
+      "Increase the azathioprine dose, as allopurinol induces its metabolism and lowers its levels",
+      "Give azathioprine on alternate days to avoid competition for renal excretion"
+    ],
+    "correct": 1,
+    "explanation": "Azathioprine is converted to 6-mercaptopurine, which is partly inactivated by xanthine oxidase. Allopurinol inhibits xanthine oxidase, so active thiopurine metabolites accumulate and the risk of life-threatening myelosuppression rises markedly. If the combination is unavoidable, the azathioprine dose is reduced to about 25% to 33% of the standard dose with close haematological monitoring.",
+    "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 55",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK542190/",
+    "cognitive_level": "applying"
   }
 ]
