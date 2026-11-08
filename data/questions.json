@@ -15791,5 +15791,195 @@
     "reference": "Katzung's Basic & Clinical Pharmacology, 15th ed. — Chapter 55",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK542190/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 841,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Which immunoglobulin class is produced first during a primary immune response?",
+    "options": [
+      "IgM",
+      "IgD",
+      "IgG",
+      "IgA",
+      "IgE"
+    ],
+    "correct": 0,
+    "explanation": "IgM is the first antibody secreted by B cells in response to a new antigen, and it appears before class switching to other isotypes occurs. It is secreted as a pentamer, which makes it an efficient early defender within the bloodstream. IgG, IgA, and IgE appear later after class switching, and IgD functions mainly as a B-cell surface receptor rather than as a secreted first-line antibody.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK555995/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 842,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Which immunoglobulin is the dominant antibody of mucosal immunity in the gut and respiratory tract?",
+    "options": [
+      "IgD",
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgM"
+    ],
+    "correct": 1,
+    "explanation": "IgA is the dominant antibody of mucosal immunity in the gastrointestinal, respiratory, and genitourinary tracts. Plasma cells in the mucosal subepithelium secrete monomeric IgA that is joined by a J chain into dimers, which are then transported across the epithelium to form secretory IgA. IgM can also be transported onto mucosal surfaces, but to a lesser extent than IgA, and IgG, IgE, and IgD are not the main mucosal secretory antibodies.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551516/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 843,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Which cytokine is the principal T-cell growth factor that drives T-cell proliferation after activation?",
+    "options": [
+      "Interleukin-10 (IL-10)",
+      "Interleukin-1 (IL-1)",
+      "Interleukin-2 (IL-2)",
+      "Interleukin-6 (IL-6)",
+      "Interleukin-4 (IL-4)"
+    ],
+    "correct": 2,
+    "explanation": "IL-2, produced mainly by activated T cells, was originally identified as the T-cell growth factor and promotes T-cell proliferation and the survival of regulatory T cells. It also activates natural killer cells, and recombinant IL-2 (aldesleukin) is used to treat metastatic renal cell carcinoma and melanoma. IL-1 and IL-6 are mainly pro-inflammatory mediators, IL-4 supports allergic immunity, and IL-10 is an anti-inflammatory cytokine rather than a T-cell growth factor.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499840/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 844,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Which interaction provides the co-stimulatory signal needed, together with TCR-MHC binding, to activate a naive T cell?",
+    "options": [
+      "CTLA-4 on the T cell binding B7 on the antigen-presenting cell",
+      "CD8 on the T cell binding MHC class II on the antigen-presenting cell",
+      "CD40 on the T cell binding CD40 ligand on the antigen-presenting cell",
+      "B7 (CD80/CD86) on the antigen-presenting cell binding T-cell CD28",
+      "Fas ligand on the antigen-presenting cell binding Fas on the T cell"
+    ],
+    "correct": 3,
+    "explanation": "Naive T-cell activation requires two signals: recognition of peptide-MHC by the T-cell receptor, and a co-stimulatory signal delivered when B7 molecules (CD80/CD86) on the antigen-presenting cell bind CD28 on the T cell. Without co-stimulation, T-cell receptor engagement alone does not produce full activation. CTLA-4 also binds B7 but delivers an inhibitory signal, and Fas-Fas ligand interaction mediates apoptosis rather than activation.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK12892/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 845,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Why does a second exposure to an antigen produce a faster and stronger antibody response than the first?",
+    "options": [
+      "Residual IgM from the first exposure neutralises the antigen immediately",
+      "Complement proteins become antigen-specific after the first exposure",
+      "Naive B cells acquire much faster receptor signalling after first exposure",
+      "Macrophages develop antigen-specific receptors after the first exposure",
+      "Antigen-specific memory lymphocytes already exist and respond rapidly"
+    ],
+    "correct": 4,
+    "explanation": "On first exposure, antigen-specific B and T cells are activated, and some differentiate into long-lived memory cells. On re-exposure, the secondary response is mediated by these memory lymphocytes rather than naive cells, which allows early and vigorous generation of plasma cells and rapid production of IgG. The antibody is also of higher affinity because memory B cells have undergone isotype switching and somatic hypermutation, whereas the primary response is dominated by lower-affinity IgM.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK27158/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 846,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Why can NK cells kill virus-infected cells that have downregulated MHC class I?",
+    "options": [
+      "Loss of MHC class I removes the inhibition that normally restrains NK cells",
+      "NK cell killing depends on prior antibody production against the virus",
+      "NK cells recognise viral peptides on MHC class I through their T-cell receptors",
+      "NK cells require MHC class II expression on the target cell to become activated",
+      "Loss of MHC class I triggers direct complement-mediated lysis of the infected cell"
+    ],
+    "correct": 0,
+    "explanation": "Almost every healthy nucleated cell expresses MHC class I, which engages inhibitory receptors on NK cells and keeps them from attacking normal cells. Viral infection and tumour transformation often downregulate MHC class I, so the inhibitory signal is lost and the balance shifts toward NK cell activation, a concept called missing self. This complements cytotoxic T cells, which depend on MHC class I to recognise infected cells, so cells that evade T cells by hiding MHC class I become more vulnerable to NK cells.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK565844/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 847,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Why can the alternative complement pathway be activated without prior antibody?",
+    "options": [
+      "It is activated only when mannose-binding lectin binds to sugars on microbial surfaces",
+      "Low-level spontaneous C3 activation deposits C3b on unregulated microbial surfaces",
+      "It requires C1s to cleave C4 and C2 and form a convertase on the microbial surface",
+      "It is triggered by antigen-antibody complexes binding C1q and activating C1r and C1s",
+      "It depends on IgM pentamers bringing C3 convertase components together on the cell"
+    ],
+    "correct": 1,
+    "explanation": "The alternative pathway is initiated by a low level of spontaneous C3 activation, so C3b can bind to nearby surfaces without any antibody or lectin being involved. On host cells, regulatory proteins such as decay-accelerating factor (DAF, CD55) and membrane cofactor protein (CD46) limit this activation, whereas microbial surfaces lack them, so the cascade is amplified there. The classical pathway, in contrast, is initiated by antigen-antibody complexes, and the lectin pathway by pattern-recognition molecules such as mannose-binding lectin.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551511/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 848,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Why are deficiencies of terminal complement components (C5 to C9) associated with recurrent Neisseria infections?",
+    "options": [
+      "Opsonisation by C3b is lost, so phagocytes cannot engulf any bacteria",
+      "Early classical pathway activation fails to start any complement cascade",
+      "The membrane attack complex needed to lyse Neisseria cannot be formed",
+      "Complement-driven neutrophil chemotaxis is completely absent",
+      "Immune complexes cannot be cleared, leading to uncontrolled bacterial growth"
+    ],
+    "correct": 2,
+    "explanation": "Components C5b through C9 assemble into the membrane attack complex, which forms pores in target cells, and deposition of C5b on a target initiates this lysis. Neisseria are Gram-negative diplococci that depend heavily on this lytic mechanism for killing, so patients lacking terminal components suffer recurrent, often severe, neisserial infections. Opsonisation by C3b is preserved in these patients, which is why they are not generally prone to infection by all other bacteria.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK551511/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 849,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "A patient has recurrent non-pitting facial swelling without urticaria and a low C4 level. Which protein is most likely deficient?",
+    "options": [
+      "C3",
+      "Decay-accelerating factor (CD55)",
+      "C5",
+      "C1 esterase inhibitor",
+      "Factor H"
+    ],
+    "correct": 3,
+    "explanation": "Recurrent non-pitting swelling without urticaria and a low C4 level is the typical picture of hereditary angioedema, which is caused by deficiency or dysfunction of C1 inhibitor. Without C1 inhibitor, uncontrolled complement activation consumes C4 and bradykinin production rises, so the swelling is bradykinin-mediated rather than histamine-mediated, and antihistamines are ineffective. C3 is usually normal because the defect lies in the early classical pathway, whereas deficiencies of C3, factor H, DAF, or C5 produce different clinical syndromes.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482266/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 850,
+    "subject": "Microbiology",
+    "subtopic": "Immunology",
+    "type": "factual",
+    "question": "Fever, rash, and joint pain appear about 10 days after equine antitoxin administration. Which hypersensitivity mechanism is responsible?",
+    "options": [
+      "Type I (IgE-mediated)",
+      "Type IV (delayed T-cell-mediated)",
+      "Non-immunological pseudoallergic reaction",
+      "Type II (antibody against cell-surface antigens)",
+      "Type III (immune complex-mediated)"
+    ],
+    "correct": 4,
+    "explanation": "Serum sickness is a type III hypersensitivity reaction in which antibodies form against foreign serum proteins, and the resulting antigen-antibody complexes deposit in tissues and activate complement. It typically begins one to two weeks after first exposure, matching the roughly 6 to 10 days needed for antibodies to develop, and presents with fever, rash, and polyarthralgia. Type I reactions occur within minutes, type II involves antibodies against cell or tissue antigens, and type IV is delayed T-cell-mediated inflammation rather than a circulating immune complex disease.",
+    "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538312/",
+    "cognitive_level": "applying"
   }
 ]
