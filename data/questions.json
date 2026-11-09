@@ -15981,5 +15981,195 @@
     "reference": "Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed. — Chapter 8",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK538312/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 851,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Which second messenger mediates the glycogenolytic action of glucagon in the liver?",
+    "options": [
+      "cGMP",
+      "cAMP",
+      "Diacylglycerol",
+      "Inositol trisphosphate (IP3)",
+      "Calcium ions"
+    ],
+    "correct": 1,
+    "explanation": "Glucagon binds a G protein-coupled receptor on hepatocytes that is coupled to the stimulatory G protein, which activates adenylyl cyclase and raises intracellular cAMP. The rise in cAMP promotes glycogenolysis and inhibits glycogen synthesis in the liver. IP3, diacylglycerol, and calcium are second messengers of the phospholipase C pathway, and cGMP acts mainly through nitric oxide and natriuretic peptide signalling rather than through the glucagon receptor.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — Hormone Action and Signal Transduction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK537082/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 852,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Which hormone binds an intracellular receptor and acts mainly by altering gene transcription?",
+    "options": [
+      "Growth hormone",
+      "Glucagon",
+      "Insulin",
+      "Cortisol",
+      "ACTH"
+    ],
+    "correct": 3,
+    "explanation": "Cortisol is a lipophilic steroid hormone that enters target cells and binds the cytoplasmic glucocorticoid receptor, and the hormone-receptor complex then moves to the nucleus to bind glucocorticoid response elements on DNA and regulate transcription. Insulin, glucagon, ACTH, and growth hormone are peptide or protein hormones that cannot cross the plasma membrane and act through cell-surface receptors. Thyroid hormones and sex steroids share cortisol's intracellular receptor mechanism, but they are not among the options listed.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — Hormone Action and Signal Transduction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK560897/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 853,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Which enzyme catalyses the rate-limiting step of catecholamine synthesis?",
+    "options": [
+      "Tyrosine hydroxylase",
+      "Dopamine beta-hydroxylase",
+      "Phenylethanolamine N-methyltransferase",
+      "Monoamine oxidase",
+      "DOPA decarboxylase"
+    ],
+    "correct": 0,
+    "explanation": "Tyrosine hydroxylase converts tyrosine to L-DOPA, the initial and rate-limiting step in the synthesis of dopamine, norepinephrine, and epinephrine. DOPA decarboxylase then forms dopamine, dopamine beta-hydroxylase forms norepinephrine, and phenylethanolamine N-methyltransferase converts norepinephrine to epinephrine in the adrenal medulla. Monoamine oxidase is involved in the degradation of catecholamines rather than in their synthesis.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK507716/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 854,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Deficiency of which enzyme is the most common cause of congenital adrenal hyperplasia?",
+    "options": [
+      "11-beta-Hydroxylase",
+      "17-alpha-Hydroxylase",
+      "3-beta-Hydroxysteroid dehydrogenase",
+      "Aldosterone synthase",
+      "21-Hydroxylase"
+    ],
+    "correct": 4,
+    "explanation": "21-Hydroxylase deficiency accounts for the great majority of cases of congenital adrenal hyperplasia, with estimates of over 90%. The block impairs cortisol synthesis, which removes negative feedback on ACTH and causes adrenal hyperplasia, while precursors are diverted toward androgen production, producing virilisation in affected females. Deficiencies of 11-beta-hydroxylase, 17-alpha-hydroxylase, and 3-beta-hydroxysteroid dehydrogenase are much rarer and have different hormonal patterns.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK493164/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 855,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Which amino acid is the precursor of serotonin and, through it, of melatonin?",
+    "options": [
+      "Tyrosine",
+      "Histidine",
+      "Tryptophan",
+      "Arginine",
+      "Glutamate"
+    ],
+    "correct": 2,
+    "explanation": "Serotonin synthesis begins with the essential amino acid tryptophan, which is hydroxylated by tryptophan hydroxylase to 5-hydroxytryptophan and then decarboxylated to serotonin. Serotonin is in turn the precursor of melatonin, the pineal hormone that regulates the sleep-wake cycle. Tyrosine is the precursor of catecholamines and thyroid hormones, histidine of histamine, and glutamate of GABA, so none of these gives rise to serotonin.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545168/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 856,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Why does insulin lower serum potassium?",
+    "options": [
+      "It stimulates Na+/K+-ATPase, moving potassium into cells",
+      "It binds potassium to plasma proteins, removing it from the free pool",
+      "It stimulates gastrointestinal secretion of potassium into the gut lumen",
+      "It increases renal potassium excretion by blocking aldosterone release",
+      "It converts potassium into an osmotically inactive intracellular salt"
+    ],
+    "correct": 0,
+    "explanation": "Insulin increases the activity of the Na+/K+-ATPase in cells such as skeletal muscle, which pumps potassium into cells in exchange for sodium and shifts potassium from the extracellular to the intracellular compartment. This is why insulin given with glucose is used to treat hyperkalaemia, and why insulin deficiency, as in diabetic ketoacidosis, can raise serum potassium despite depletion of total body potassium. The effect is a redistribution between compartments rather than a loss of potassium from the body.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470284/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 857,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Why can an inorganic (mineral) metabolic acidosis raise serum potassium?",
+    "options": [
+      "Acidosis increases gastrointestinal absorption of dietary potassium",
+      "Acidosis directly haemolyses red cells and releases their potassium",
+      "Protons enter cells and potassium exits to maintain electroneutrality",
+      "Acidosis stimulates aldosterone, which makes the kidney retain potassium",
+      "Acidosis activates the Na+/K+-ATPase, which pumps potassium out of cells"
+    ],
+    "correct": 2,
+    "explanation": "In an inorganic metabolic acidosis, excess extracellular hydrogen ions move into cells to be buffered, and potassium moves out of the cells in exchange to maintain electroneutrality, which raises serum potassium. Organic acidoses such as lactic acidosis or ketoacidosis produce less of this shift, so potassium may be normal or even low in those cases despite the acidosis. Acidosis therefore raises serum potassium through redistribution rather than increased intake, and correcting the acidosis allows potassium to move back into cells.",
+    "reference": "Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 2",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK470284/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 858,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Why does parathyroid hormone raise serum calcium while lowering serum phosphate?",
+    "options": [
+      "It increases renal tubular reabsorption of both calcium and phosphate ions",
+      "It directly increases intestinal absorption of both calcium and phosphate ions",
+      "It inhibits renal calcium reabsorption while increasing phosphate reabsorption",
+      "It stimulates osteoblasts to deposit calcium phosphate salts into new bone",
+      "It raises renal calcium reabsorption and blocks proximal phosphate reabsorption"
+    ],
+    "correct": 4,
+    "explanation": "PTH increases calcium reabsorption in the distal convoluted tubule and collecting duct while decreasing phosphate reabsorption in the proximal tubule, so urinary phosphate excretion rises. Because phosphate forms insoluble salts with calcium, a lower serum phosphate leaves more ionised calcium in the blood. PTH has no direct intestinal action; its effect on gut absorption is indirect, through stimulation of 1-alpha-hydroxylase and calcitriol production.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK499940/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 859,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "factual",
+    "question": "Why does thyroid hormone increase basal metabolic rate and heat production?",
+    "options": [
+      "It acts only on brown fat, which generates all of the body's heat",
+      "It upregulates Na+/K+-ATPase and mitochondrial oxygen consumption",
+      "It raises cortisol secretion, which increases metabolic rate in all tissues",
+      "It reduces ion pump activity so that more ATP is released as heat",
+      "It inhibits oxidative phosphorylation, forcing a shift to anaerobic glycolysis"
+    ],
+    "correct": 1,
+    "explanation": "Thyroid hormone binds an intranuclear receptor and increases expression of genes involved in metabolism, including the Na+/K+-ATPase. Greater pump activity and oxidative metabolism consume more ATP and oxygen, so oxygen consumption, basal metabolic rate, and heat production rise. In hyperthyroidism this generalised hypermetabolism produces heat intolerance and weight loss, whereas hypothyroidism has the opposite effect.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK500006/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 860,
+    "subject": "Biochemistry",
+    "subtopic": "Endocrine & Fluid Biochemistry",
+    "type": "clinical",
+    "question": "A patient with a pheochromocytoma excretes excess vanillylmandelic acid. Which enzymes convert catecholamines to this metabolite?",
+    "options": [
+      "Tryptophan hydroxylase and serotonin N-acetyltransferase",
+      "Dopamine beta-hydroxylase and phenylethanolamine N-methyltransferase",
+      "Tyrosine aminotransferase and homogentisate oxidase",
+      "Monoamine oxidase and catechol-O-methyltransferase",
+      "Tyrosine hydroxylase and DOPA decarboxylase"
+    ],
+    "correct": 3,
+    "explanation": "Catecholamines are inactivated mainly by monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT), and vanillylmandelic acid (VMA) is the end product of epinephrine and norepinephrine degradation. Pheochromocytomas produce large amounts of catecholamines, so detecting VMA (and HVA) in plasma or urine supports the diagnosis. The other enzyme pairs are involved in catecholamine synthesis or in unrelated pathways such as tyrosine catabolism and serotonin or melatonin synthesis, rather than in forming VMA.",
+    "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545235/",
+    "cognitive_level": "applying"
   }
 ]
