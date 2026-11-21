@@ -16171,5 +16171,195 @@
     "reference": "Harper's Illustrated Biochemistry, 31st ed. — The Diversity of the Endocrine System",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK545235/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 861,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "Which daily supplement is recommended for women planning pregnancy to reduce the risk of neural tube defects?",
+    "options": [
+      "Vitamin A (retinol)",
+      "Calcium",
+      "Folic acid",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "correct": 2,
+    "explanation": "Folic acid supplementation before and during early pregnancy reduces the risk of neural tube defects such as spina bifida in the developing fetus, so women planning pregnancy are advised to take it. The World Health Organization recommends a daily dose of 400 to 800 micrograms for this purpose. Vitamin A, vitamin D, calcium, and vitamin K do not have this neural-tube-protective role, and excess preformed vitamin A in early pregnancy is itself teratogenic.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Nutrition and Health",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554487/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 862,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "According to WHO recommendations, breastfeeding should be initiated within what time after birth?",
+    "options": [
+      "Within the first hour",
+      "After the first 48 hours",
+      "Within the first 6 hours",
+      "Within the first 12 hours",
+      "Within the first 24 hours"
+    ],
+    "correct": 0,
+    "explanation": "Early initiation of breastfeeding within the first hour after birth is recommended, together with exclusive breastfeeding for the first 6 months of life. Breastfeeding also reduces the newborn's risk of gastrointestinal tract infections, pediatric cancers, and atopic eczema. Delaying the first feed beyond the first hour, as in the longer time windows listed, is not the recommended practice.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK565875/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 863,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "Why should folic acid supplementation begin before conception rather than after pregnancy is confirmed?",
+    "options": [
+      "Folic acid acts only on the oocyte before fertilisation and has no effect on the embryo",
+      "Folic acid is no longer absorbed once the placenta has formed in early pregnancy",
+      "Fetal folate stores cannot be built up in the embryo once implantation has occurred",
+      "Folic acid becomes teratogenic if it is first started only after conception occurs",
+      "The neural tube closes in the first month, often before pregnancy is recognised"
+    ],
+    "correct": 4,
+    "explanation": "Neural tube closure occurs by the fourth week of gestation, and failure of the neuropore to close produces neural tube defects such as spina bifida. Because this happens so early, often before a woman knows she is pregnant, folic acid levels need to be adequate at conception, which is why supplementation is advised for women planning pregnancy. Starting only after pregnancy is confirmed may therefore miss the critical period for neural tube closure.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Nutrition and Health",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557414/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 864,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "Why must a woman be exclusively breastfeeding for the lactational amenorrhea method to be effective?",
+    "options": [
+      "Formula feeding raises prolactin levels, which then triggers ovulation in the mother",
+      "Frequent on-demand suckling suppresses ovulation and maintains amenorrhoea",
+      "Exclusive breastfeeding physically blocks sperm passage through the cervix and uterus",
+      "Breast milk contains progestins that act directly as a contraceptive in the mother",
+      "Supplementary feeds cause the uterus to shed its lining every month after delivery"
+    ],
+    "correct": 1,
+    "explanation": "Lactational amenorrhea depends on frequent, on-demand suckling, which suppresses ovulation and keeps the mother amenorrhoeic. When feeds are supplemented or become less frequent, as when the infant starts solid foods, suckling falls and ovulation can resume, so the method becomes less reliable. With the criteria met, namely an infant younger than 6 months and no vaginal bleeding after 8 weeks postpartum, the method has a failure rate of about 2%.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK565875/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 865,
+    "subject": "Community Medicine",
+    "subtopic": "Nutrition & Reproductive Health",
+    "type": "factual",
+    "question": "A woman 8 months postpartum, still breastfeeding and amenorrhoeic, relies on lactation for contraception. What is the most appropriate advice?",
+    "options": [
+      "Continue LAM, since amenorrhoea alone is enough to guarantee contraceptive protection",
+      "Continue LAM, but only if she also takes a daily folic acid supplement",
+      "Continue LAM until the infant has stopped all night-time breastfeeds",
+      "LAM is no longer reliable now, so she should start another method",
+      "Stop breastfeeding immediately so that contraception becomes reliable again"
+    ],
+    "correct": 3,
+    "explanation": "The lactational amenorrhea method is effective only when three conditions are met: the infant is younger than 6 months, the mother is exclusively breastfeeding, and menstrual bleeding has not returned. At 8 months the infant-age criterion is no longer met, and the method also becomes less reliable once the infant is eating solid foods, so she should start another method. Amenorrhoea alone is not a guarantee of protection once the other criteria are lost, and she does not need to stop breastfeeding in order to begin an alternative.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK565875/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 866,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "In START triage, which tag colour is given to patients with severe injuries but a high chance of survival with immediate treatment?",
+    "options": [
+      "Green",
+      "Red",
+      "Black",
+      "Grey",
+      "Yellow"
+    ],
+    "correct": 1,
+    "explanation": "In START triage, red is the immediate category for patients with severe injuries who have a high potential for survival if treated, and they are taken to the collection point first. Yellow is the delayed category for serious injuries that are not immediately life-threatening, and green is for the walking wounded with minor injuries. Black is for patients with injuries incompatible with life or without spontaneous respiration, who are not moved forward to the collection point.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Disaster Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459369/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 867,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Why are patients with injuries incompatible with life tagged black rather than treated first during a mass-casualty incident?",
+    "options": [
+      "They are moved first to the collection point to clear the disaster scene",
+      "Their injuries are judged too minor to require any treatment at the scene",
+      "Black-tagged patients are managed by police rather than by medical teams",
+      "Scarce resources go first to patients likely to survive with treatment",
+      "Treating them first would delay transport of the walking wounded to hospital"
+    ],
+    "correct": 3,
+    "explanation": "In mass casualty triage, resources are limited, so treatment and transport are directed first to patients with severe injuries who have a high potential for survival, the red category. Patients with injuries incompatible with life, or without spontaneous respiration, are tagged black and are not moved forward to the collection point. This reflects the low likelihood that care would save them rather than the injuries being minor, and triage is repeated because patients' clinical conditions can change.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Disaster Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459369/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 868,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "Why is chronic arsenic contamination of groundwater a long-term public health concern?",
+    "options": [
+      "Chronic low-level ingestion is linked to cancers and cardiovascular disease",
+      "Boiling and chlorination reliably remove it, so exposure is short-lived",
+      "It produces only a brief gastrointestinal illness without lasting effects",
+      "It gives water a strong taste, so people stop drinking it before harm occurs",
+      "It affects only workers handling arsenic in industry, not communities"
+    ],
+    "correct": 0,
+    "explanation": "Chronic exposure to arsenic through contaminated groundwater is a global public health problem, with more than 100 million people in at least 70 countries exposed to levels above safety standards. Chronic low-level exposure is consistently linked with cardiovascular disease, metabolic syndrome, chronic kidney disease, neurocognitive dysfunction, and cancers of the skin, lungs, bladder, and liver. Inorganic arsenic is relatively tasteless, so people may drink contaminated water without noticing, which is why testing and alternative safe sources are important.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Environment and Health",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK541125/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 869,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "At a mass-casualty scene, a trapped adult has a serious fracture with stable vital signs expected to hold for hours. Which category applies?",
+    "options": [
+      "Expectant (black)",
+      "Minor (green)",
+      "Immediate (red)",
+      "Not triaged until all green patients have been transported",
+      "Delayed (yellow)"
+    ],
+    "correct": 4,
+    "explanation": "Patients in the delayed (yellow) category have potentially serious and life-threatening injuries, but their status is not expected to deteriorate significantly over several hours, so transport can be delayed accordingly. Red patients, by contrast, need immediate transport and medical attention within minutes because of compromised airway, breathing, or circulation. Green patients are the walking wounded with minor injuries, and black patients are dead or inevitably dying.",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Disaster Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK482373/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 870,
+    "subject": "Community Medicine",
+    "subtopic": "Disaster Management & Environmental Health",
+    "type": "factual",
+    "question": "An adult at a mass-casualty scene remains without spontaneous respiration after the airway is opened. Which START tag applies?",
+    "options": [
+      "Yellow (delayed treatment)",
+      "Red (immediate priority)",
+      "Black (deceased/expectant)",
+      "Green (minor injuries)",
+      "Grey (minimal priority)"
+    ],
+    "correct": 2,
+    "explanation": "Under START triage, a victim with no spontaneous respiration even after the airway is opened is tagged black, which denotes injuries incompatible with life. These patients are not moved forward to the collection point, so that limited resources can be used for salvageable patients. If breathing resumed after the airway was repositioned, the patient would instead be treated as immediate (red).",
+    "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Disaster Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459369/",
+    "cognitive_level": "applying"
   }
 ]
