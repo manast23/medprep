@@ -153,7 +153,7 @@ Overwhelmingly direct factual/mechanism/identification questions. A "clinical" q
 
 ## 7. Current Question Bank State (verified live, July 2026)
 
-**Total: 800 questions across ALL 8 subjects — Forensic Medicine now COMPLETE. QUESTION BANK COMPLETE.**
+**Total: 880 questions across ALL 8 subjects (800 original + 80 added in the expansion batch, IDs 801–880 — see "Question bank expansion" at the end of this document). QUESTION BANK COMPLETE.**
 
 | Subject | Count | Status |
 |---|---|---|
@@ -449,3 +449,34 @@ Full site code audit (pages/index.js, quiz.js, results.js, _app.js) done to find
 
 🟢 Not blockers, still open:
 - Minor leftover cruft: `quiz.js` sets `answers[].topic = q.topic`, which is always `undefined` since the schema field is `subtopic` — harmless (results.js already falls back to `subtopic`), but worth cleaning up eventually
+
+---
+
+**Question bank expansion — IDs 801–880 (80 new questions, 10 per subject) — ✅ COMPLETE**
+
+Requested after launch prep: a medium batch (~50–100) spread across all 8 subjects. Each subject got 10 new questions, aimed at its thinnest subtopics so coverage deepens where it was lightest. All 80 are pushed to `data/questions.json`; the bank is now **880 questions** (Anatomy 115, Physiology 121, Pathology 110, Pharmacology 110, Microbiology 110, Biochemistry 110, Community Medicine 88, Forensic Medicine 116).
+
+| IDs | Subject | Subtopic(s) added | Cognitive split (R/U/A) |
+|---|---|---|---|
+| 801–810 | Anatomy | Histology (10) | 5 / 4 / 1 |
+| 811–820 | Physiology | Reproduction (5), Special Senses (5) | 5 / 4 / 1 |
+| 821–830 | Pathology | Chemical Pathology (5), Musculoskeletal & Skin Pathology (5) | 4 / 4 / 2 |
+| 831–840 | Pharmacology | GIT Pharmacology (5), Chemotherapy & Immunosuppressants (5) | 4 / 4 / 2 |
+| 841–850 | Microbiology | Immunology (10) | 4 / 4 / 2 |
+| 851–860 | Biochemistry | Endocrine & Fluid Biochemistry (10) | 5 / 4 / 1 |
+| 861–870 | Community Medicine | Nutrition & Reproductive Health (5), Disaster Management & Environmental Health (5) | 3 / 4 / 3 |
+| 871–880 | Forensic Medicine | Drowning (5), Forensic Sexology (5) | 3 / 4 / 3 |
+
+**Standards applied to every new question:** 5 options; exactly 3-sentence explanation; `cognitive_level` assigned at write time per the Section 6a target ratios (small-n rounding means Community Medicine/Forensic land at 30/40/30 because no integer split of 10 satisfies all three ranges); correct answers spread evenly A–E within each batch (16 each across the 80); a check that the correct option is not systematically the longest (options were length-balanced where it was); duplicate scan against the whole bank (no real duplicates — the few flags were shared question phrasing); and a `reference_url` pointing to an NCBI Bookshelf page (StatPearls, or Bookshelf textbooks such as Janeway's Immunobiology and Holland-Frei) that was found via live search and matched to the fact tested. The legacy `topic` field was not added — it exists only on ~170 of the original 800 and is optional.
+
+**QA pass on the new batch:** IDs contiguous 1–880 and unique; all required fields present; 5 distinct options each; `correct` in range; every explanation 3 sentences; every URL in canonical `https://www.ncbi.nlm.nih.gov/books/NBK…/` form; per-subject letter distributions remain even. The site reads question counts dynamically (`SUBJECT_COUNTS`), so subject cards update automatically; the share-card text "800+ questions" is still accurate.
+
+**Judgement calls made while writing (worth knowing):**
+- A sperm-production-time question was dropped because sources conflict (StatPearls says 30–40 days; standard physiology texts say 64–74 days). It was replaced with an uncontested question (epididymis as the site of sperm maturation) rather than teach a contested number.
+- Where no whitelisted source supported a planned fact (live-vaccine contraindication in immunocompromised patients, LAM mechanism specifics, flood-relief priorities, stunting indicators), the question was swapped for a nearby topic that a StatPearls/Bookshelf page does support.
+- A numeric-option question (time to irreversible brain injury) keeps its options in ascending order rather than being shuffled.
+
+**Operational lessons (add to the GitHub workflow notes):**
+- `data/questions.json` is now over 1 MB, so the GitHub Contents API returns an empty `content` field. Fetch it with the header `Accept: application/vnd.github.raw+json` (get the `sha` from a normal metadata request) — decoding `data['content']` as base64 will fail.
+- Scratch files in the sandbox can disappear between turns; keep batch-builder scripts in a single call, or re-create them, and push each subject batch immediately after QA rather than holding several in the sandbox.
+- Fine-grained PATs expire; a 401 mid-session means ask for a fresh token (the finished batch stays in the sandbox until the next reset).
