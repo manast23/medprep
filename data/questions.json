@@ -16361,5 +16361,195 @@
     "reference": "Park's Textbook of Preventive and Social Medicine, latest ed. — Disaster Management",
     "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK459369/",
     "cognitive_level": "applying"
+  },
+  {
+    "id": 871,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "What is the primary mechanism of death in drowning?",
+    "options": [
+      "Hypoxemia from impaired alveolar gas exchange after water aspiration",
+      "Hemorrhagic shock from barotrauma to the pulmonary vessels",
+      "Cervical spinal cord injury sustained on entering the water",
+      "Fatal ventricular fibrillation from large shifts in serum electrolytes",
+      "Hypovolemia from rapid fluid loss through the skin"
+    ],
+    "correct": 0,
+    "explanation": "Death from drowning results primarily from hypoxemia caused by water aspiration, which disrupts alveolar gas exchange, destroys surfactant, and produces noncardiogenic pulmonary edema. The greatest morbidity and mortality arise from tissue hypoxia, particularly cerebral hypoxia, which is why rapid correction of hypoxia is the highest priority in resuscitation. Electrolyte shifts, spinal injury, and hemorrhage may occasionally contribute, but they are not the primary mechanism.",
+    "reference": "StatPearls — Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 872,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "Approximately how soon does irreversible brain injury typically occur after submersion-related hypoxia?",
+    "options": [
+      "Within 30 seconds",
+      "Within 1 to 2 minutes",
+      "Within 4 to 6 minutes",
+      "Within 15 to 20 minutes",
+      "Within 30 to 60 minutes"
+    ],
+    "correct": 2,
+    "explanation": "Most drowning victims lose consciousness within about 2 minutes of submersion, and irreversible brain injury typically occurs within 4 to 6 minutes of continued hypoxia. This narrow window is why immediate rescue breathing and rapid correction of hypoxia are the priorities in resuscitation. Loss of consciousness therefore occurs well before irreversible injury, and survival after much longer submersion is the exception, reported mainly in cold-water cases.",
+    "reference": "StatPearls — Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 873,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "Why does aspiration of either fresh water or salt water lead to pulmonary edema in drowning?",
+    "options": [
+      "Both cause heart failure by rapidly raising serum potassium after absorption",
+      "Both directly infect the lung and produce a rapid fulminant bacterial pneumonia",
+      "Salt water spares surfactant and acts only by drawing fluid into the alveoli",
+      "Fresh water is absorbed and overloads the left ventricle in every case of drowning",
+      "Both destroy surfactant and disrupt the alveolar-capillary membrane in the lung"
+    ],
+    "correct": 4,
+    "explanation": "Aspiration of either fresh water or salt water causes hypoxemia and surfactant destruction, which predisposes to noncardiogenic pulmonary edema and acute respiratory distress syndrome. Both types of water also disrupt the alveolar-capillary membrane and increase its permeability, so the lung injury is largely independent of the water's tonicity. The pulmonary edema is therefore noncardiogenic and does not result from left ventricular overload or primary heart failure.",
+    "reference": "StatPearls — Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 874,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "Why may prolonged resuscitation be worthwhile after cold-water submersion, especially in children?",
+    "options": [
+      "Cold water prevents any water from entering the lungs during submersion",
+      "Cold water can confer neuroprotection by lowering cerebral oxygen need",
+      "Cold water raises blood oxygen content by dissolving much more oxygen",
+      "Cold water removes the need for rewarming during resuscitation efforts",
+      "Cold water makes cardiac arrest rhythms always shockable on arrival"
+    ],
+    "correct": 1,
+    "explanation": "Cold water can confer neuroprotection, especially in children, because hypothermia lowers cerebral oxygen demand and can delay hypoxic brain injury. This is why victims of prolonged cold-water submersion may survive and are resuscitated vigorously. Hypothermia is not purely beneficial, however, because it also increases the risk of cardiac dysrhythmias.",
+    "reference": "StatPearls — Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 875,
+    "subject": "Forensic Medicine",
+    "subtopic": "Drowning",
+    "type": "factual",
+    "question": "A drowning victim looks well after rescue and has a normal initial chest radiograph. Why should hospital observation still continue for several hours?",
+    "options": [
+      "Cervical spine injury invariably becomes symptomatic only after 12 hours",
+      "Salt water drowning causes delayed hemolysis in all rescued patients",
+      "Chest radiographs must legally be repeated every hour after a rescue",
+      "Delayed fulminant pulmonary edema can develop within about 12 hours",
+      "Swallowed water is absorbed slowly and causes late severe hypernatremia"
+    ],
+    "correct": 3,
+    "explanation": "Rarely, drowning victims with a normal initial chest radiograph develop fulminant pulmonary edema within 12 hours, potentially reflecting delayed ARDS, neurogenic edema, or airway hyperreactivity. Aspiration destroys surfactant and injures the alveolar-capillary membrane, so lung injury can evolve after an apparently good recovery. Observation is therefore advised even when the patient appears well, since secondary complications such as infection or delayed pulmonary edema can contribute to mortality.",
+    "reference": "StatPearls — Drowning: Clinical Management",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK430833/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 876,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "Which drug class is usually first-line oral therapy for erectile dysfunction?",
+    "options": [
+      "Alpha-1 adrenergic blockers",
+      "Phosphodiesterase-5 inhibitors",
+      "Selective serotonin reuptake inhibitors",
+      "Nitrate vasodilators",
+      "Beta-adrenergic blockers"
+    ],
+    "correct": 1,
+    "explanation": "Oral phosphodiesterase-5 (PDE-5) inhibitors such as sildenafil and tadalafil are usually the first-line treatment for erectile dysfunction. They enhance the erectile response to sexual stimulation but do not initiate an erection by themselves. Alpha-1 blockers, beta blockers, nitrates, and SSRIs are not first-line treatments for erectile dysfunction, and some of these classes can worsen sexual function or interact dangerously with PDE-5 inhibitors.",
+    "reference": "StatPearls — Erectile Dysfunction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562253/",
+    "cognitive_level": "recall"
+  },
+  {
+    "id": 877,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "In a man with erectile failure, why do preserved nocturnal erections suggest a psychogenic rather than an organic cause?",
+    "options": [
+      "Nocturnal erections occur only when testosterone is high, which excludes vascular disease",
+      "Nocturnal erections show that penile blood flow depends only on the psychological state",
+      "Nocturnal erections result from PDE-5 activity in sleep, proving a normal drug response",
+      "They need an intact neurovascular axis, so they stay normal in psychogenic cases",
+      "Nocturnal erections are under voluntary control, so they exclude any physical cause"
+    ],
+    "correct": 3,
+    "explanation": "Nocturnal erections, which typically occur during REM sleep, require complete functioning of the neurovascular axis. Men with purely psychogenic erectile dysfunction therefore typically show normal nocturnal tumescence, whereas men with organic problems show abnormal nocturnal erectile activity. Nocturnal penile tumescence monitoring is now rarely considered necessary, but the principle explains why preserved morning and nocturnal erections point toward a psychogenic cause.",
+    "reference": "StatPearls — Erectile Dysfunction",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK562253/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 878,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "A man repeatedly and secretly watches unsuspecting people undressing, and this is his main source of sexual arousal. Which paraphilia is this?",
+    "options": [
+      "Voyeurism",
+      "Frotteurism",
+      "Exhibitionism",
+      "Fetishism",
+      "Sadism"
+    ],
+    "correct": 0,
+    "explanation": "Voyeurism is the viewing of an unsuspecting person engaged in disrobing or sexual activity, and when it is a recurrent source of intense sexual arousal it is classified as voyeuristic disorder. Exhibitionism involves arousal from exposing one's genitals to an unsuspecting person, and frotteurism involves arousal from touching or rubbing against a nonconsenting person. Fetishism centers on arousal from inanimate objects or specific non-genital body parts, and sadism on arousal from inflicting suffering or humiliation on others.",
+    "reference": "StatPearls — Paraphilia",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK554425/",
+    "cognitive_level": "applying"
+  },
+  {
+    "id": 879,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "Why must a strict chain of custody be maintained for evidence collected after a sexual assault?",
+    "options": [
+      "It replaces the need to document injuries in the medical record",
+      "It guarantees that a DNA profile will be obtained from every sample",
+      "It documents continuous possession so the evidence is admissible in court",
+      "It allows evidence to be kept by the examiner instead of by law enforcement",
+      "It prevents the survivor from withdrawing consent to the examination"
+    ],
+    "correct": 2,
+    "explanation": "Sexual assault nurse examiners work closely with law enforcement and follow a chain of custody to ensure that the evidence they collect is admissible in court. The chain of custody records each person who has possession of the evidence from collection onward, so that its integrity can be demonstrated. It does not guarantee that useful DNA will be recovered, and it supplements rather than replaces thorough documentation of injuries in the medical record.",
+    "reference": "StatPearls — Sexual Assault Evidence Collection and Documentation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557397/",
+    "cognitive_level": "understanding"
+  },
+  {
+    "id": 880,
+    "subject": "Forensic Medicine",
+    "subtopic": "Forensic Sexology",
+    "type": "factual",
+    "question": "After a sexual assault, the survivor's clothing is damp. How should it be handled before being packaged as evidence?",
+    "options": [
+      "Machine-dry it at low heat to prevent mold",
+      "Seal it immediately in a plastic bag to prevent leakage",
+      "Rinse it in clean water to remove contaminants",
+      "Discard it, as damp clothing cannot be used as evidence",
+      "Air-dry it, then place it in a paper bag"
+    ],
+    "correct": 4,
+    "explanation": "Wet or damp clothing must be air-dried before it is placed in a paper bag, because plastic bags and moist conditions can contribute to bacterial and fungal growth that degrades evidence. Clothing is valuable evidence, since nearly two-thirds of forensic evidence can be found on clothing or linens, so it should not be rinsed, machine-dried, or discarded. Disposable gloves should also be changed after collecting each article of clothing to limit cross-contamination.",
+    "reference": "StatPearls — Sexual Assault Evidence Collection and Documentation",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/NBK557397/",
+    "cognitive_level": "applying"
   }
 ]
